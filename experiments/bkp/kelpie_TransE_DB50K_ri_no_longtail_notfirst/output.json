@@ -1,0 +1,2102 @@
+[
+    {
+        "triple": [
+            "Trinity_Christian_School_(Sharpsburg,_Georgia)",
+            "language",
+            "English_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Trinity_Christian_School_(Sharpsburg,_Georgia)",
+                        "state",
+                        "Georgia_(U.S._state)"
+                    ]
+                ],
+                0.8621782064437866
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 3.025733709335327
+    },
+    {
+        "triple": [
+            "Emin_Quliyev",
+            "birthPlace",
+            "Azerbaijan_Soviet_Socialist_Republic"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Emin_Quliyev",
+                        "birthPlace",
+                        "Soviet_Union"
+                    ]
+                ],
+                -1.3907420294625419
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9796206951141357
+    },
+    {
+        "triple": [
+            "Bert_Badger",
+            "team",
+            "Nottingham_Forest_F.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bert_Badger",
+                        "birthPlace",
+                        "London"
+                    ]
+                ],
+                0.13304274280865988
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 1.1025707721710205
+    },
+    {
+        "triple": [
+            "Ludvika",
+            "isPartOf",
+            "Dalarna"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fredrik_S\u00f6derstr\u00f6m",
+                        "birthPlace",
+                        "Ludvika"
+                    ]
+                ],
+                -0.14903002723758202
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.861473798751831
+    },
+    {
+        "triple": [
+            "David_Moore_(footballer,_born_1985)",
+            "team",
+            "Hyde_United_F.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "David_Moore_(footballer,_born_1985)",
+                        "birthPlace",
+                        "City_of_Salford"
+                    ]
+                ],
+                0.09530336756101797
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 1.0065865516662598
+    },
+    {
+        "triple": [
+            "Bernhard_Erasmus_von_Deroy",
+            "birthPlace",
+            "Germany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bernhard_Erasmus_von_Deroy",
+                        "deathPlace",
+                        "Belarus"
+                    ]
+                ],
+                0.9824488713191106
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8098359107971191
+    },
+    {
+        "triple": [
+            "Just_Cause_(TV_series)",
+            "network",
+            "W_Network"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Just_Cause_(TV_series)",
+                        "format",
+                        "480i"
+                    ]
+                ],
+                -1.6781818866729736
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9041800498962402
+    },
+    {
+        "triple": [
+            "Oscar_Ahumada",
+            "team",
+            "VfL_Wolfsburg"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Oscar_Ahumada",
+                        "team",
+                        "FC_Rostov"
+                    ]
+                ],
+                0.11123979091644287
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 1.0004913806915283
+    },
+    {
+        "triple": [
+            "Leeds_Ladies_F.C.",
+            "ground",
+            "Leeds"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rachel_Stowell",
+                        "team",
+                        "Leeds_Ladies_F.C."
+                    ]
+                ],
+                0.4706408935831391
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8573272228240967
+    },
+    {
+        "triple": [
+            "Gopal_Prasad",
+            "almaMater",
+            "Indian_Institute_of_Technology_Kanpur"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gopal_Prasad",
+                        "birthPlace",
+                        "Presidencies_and_provinces_of_British_India"
+                    ]
+                ],
+                -0.027343790531158447
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8712589740753174
+    },
+    {
+        "triple": [
+            "Kaiaphas",
+            "recordLabel",
+            "Sleaszy_Rider_Records"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kaiaphas",
+                        "associatedBand",
+                        "Kaiaphas"
+                    ]
+                ],
+                -0.555577224705539
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9200198650360107
+    },
+    {
+        "triple": [
+            "Gary_Kelly_(footballer,_born_1966)",
+            "team",
+            "Leigh_Genesis_F.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gary_Kelly_(footballer,_born_1966)",
+                        "team",
+                        "Republic_of_Ireland_national_under-21_football_team"
+                    ]
+                ],
+                -0.46805685537832753
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.72269606590271
+    },
+    {
+        "triple": [
+            "Stilifer",
+            "family",
+            "Eulimoidea"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Stilifer",
+                        "class",
+                        "Gastropoda"
+                    ]
+                ],
+                -1.9830738067626954
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8934910297393799
+    },
+    {
+        "triple": [
+            "Martin_\u0160koula",
+            "formerTeam",
+            "HC_Lev_Praha"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Martin_\u0160koula",
+                        "position",
+                        "Defenceman"
+                    ]
+                ],
+                0.5531160354614257
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8947086334228516
+    },
+    {
+        "triple": [
+            "Bajrakitiyabha",
+            "profession",
+            "Diplomat"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bajrakitiyabha",
+                        "almaMater",
+                        "Bachelor_of_Laws"
+                    ]
+                ],
+                0.949275016784668
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7299096584320068
+    },
+    {
+        "triple": [
+            "Adriaan_Cornelis_Zaanen",
+            "award",
+            "Order_of_the_Netherlands_Lion"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Adriaan_Cornelis_Zaanen",
+                        "field",
+                        "Functional_analysis"
+                    ]
+                ],
+                -1.7034279617284787
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8955166339874268
+    },
+    {
+        "triple": [
+            "Princess_Suwarin",
+            "writer",
+            "Thea_von_Harbou"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Princess_Suwarin",
+                        "cinematography",
+                        "G\u00fcnther_Krampf"
+                    ]
+                ],
+                -0.3693627114238044
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7287871837615967
+    },
+    {
+        "triple": [
+            "Dragon_Booster",
+            "company",
+            "Alliance_Atlantis"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dragon_Booster",
+                        "genre",
+                        "Science_fantasy"
+                    ]
+                ],
+                0.9112906121492501
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8843646049499512
+    },
+    {
+        "triple": [
+            "Scorn_(band)",
+            "recordLabel",
+            "Resist_Records"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Scorn_(band)",
+                        "recordLabel",
+                        "Earache_Records"
+                    ]
+                ],
+                0.22534861845128676
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8635973930358887
+    },
+    {
+        "triple": [
+            "Thieves_Like_Us_(song)",
+            "writer",
+            "Arthur_Baker_(musician)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Thieves_Like_Us_(song)",
+                        "genre",
+                        "Synthpop"
+                    ]
+                ],
+                0.9097166061401367
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8767895698547363
+    },
+    {
+        "triple": [
+            "Beach_Party",
+            "musicComposer",
+            "Les_Baxter"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Beach_Party",
+                        "producer",
+                        "Samuel_Z._Arkoff"
+                    ]
+                ],
+                -0.18621883789698282
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9957196712493896
+    },
+    {
+        "triple": [
+            "Samuel_Edward_Konkin_III",
+            "mainInterest",
+            "Economics"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Samuel_Edward_Konkin_III",
+                        "influencedBy",
+                        "Lysander_Spooner"
+                    ]
+                ],
+                -0.22613185785236706
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7330431938171387
+    },
+    {
+        "triple": [
+            "Ionel_P\u00e2rvu",
+            "team",
+            "SV_Sandhausen"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ionel_P\u00e2rvu",
+                        "team",
+                        "SC_Tavriya_Simferopol"
+                    ]
+                ],
+                0.130660982131958
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9545314311981201
+    },
+    {
+        "triple": [
+            "Julian_Gaskell",
+            "genre",
+            "Folk_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Julian_Gaskell",
+                        "genre",
+                        "Jazz"
+                    ]
+                ],
+                -0.8772425651550293
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8991093635559082
+    },
+    {
+        "triple": [
+            "Du_Wei_(footballer)",
+            "team",
+            "Shanghai_Greenland_Shenhua_F.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Du_Wei_(footballer)",
+                        "team",
+                        "Celtic_F.C."
+                    ]
+                ],
+                0.18106382401263127
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7351090908050537
+    },
+    {
+        "triple": [
+            "Michel_Langevin",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Michel_Langevin",
+                        "genre",
+                        "Progressive_metal"
+                    ]
+                ],
+                -0.8756973147392273
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9021286964416504
+    },
+    {
+        "triple": [
+            "Young_Harris_College",
+            "state",
+            "Georgia_(U.S._state)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Young_Harris_College",
+                        "affiliation",
+                        "United_Methodist_Church"
+                    ]
+                ],
+                0.4093848890294143
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7449872493743896
+    },
+    {
+        "triple": [
+            "Casas_Bahia",
+            "foundedBy",
+            "Samuel_Klein_(businessman)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Samuel_Klein_(businessman)",
+                        "knownFor",
+                        "Casas_Bahia"
+                    ]
+                ],
+                -5522.299479166667
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8905267715454102
+    },
+    {
+        "triple": [
+            "Ben_Nighthorse_Campbell",
+            "almaMater",
+            "San_Jose_State_University"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ken_Salazar",
+                        "predecessor",
+                        "Ben_Nighthorse_Campbell"
+                    ]
+                ],
+                0.1698174700640992
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8937437534332275
+    },
+    {
+        "triple": [
+            "Gordon_Brown_(footballer,_born_1933)",
+            "team",
+            "Scunthorpe_United_F.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gordon_Brown_(footballer,_born_1933)",
+                        "team",
+                        "Barrow_A.F.C."
+                    ]
+                ],
+                -4.947644233703613
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7386209964752197
+    },
+    {
+        "triple": [
+            "Obvious_(Westlife_song)",
+            "recordedIn",
+            "London"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Obvious_(Westlife_song)",
+                        "recordLabel",
+                        "RCA_Records"
+                    ]
+                ],
+                0.7792831829616002
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8883512020111084
+    },
+    {
+        "triple": [
+            "Twins_Affair",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Twins_Affair",
+                        "instrument",
+                        "Drum_kit"
+                    ]
+                ],
+                0.7904568513234457
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.725435733795166
+    },
+    {
+        "triple": [
+            "Stevensville,_Ontario",
+            "isPartOf",
+            "Regional_Municipality_of_Niagara"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Michael_Fonfara",
+                        "birthPlace",
+                        "Stevensville,_Ontario"
+                    ]
+                ],
+                0.7393182160160742
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8778789043426514
+    },
+    {
+        "triple": [
+            "Next_Entertainment_World",
+            "regionServed",
+            "South_Korea"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Next_Entertainment_World",
+                        "locationCountry",
+                        "South_Korea"
+                    ]
+                ],
+                -1998.9916015625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8871200084686279
+    },
+    {
+        "triple": [
+            "Ilid\u017ea",
+            "leaderName",
+            "Party_of_Democratic_Action"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bosna_(river)",
+                        "sourceMountain",
+                        "Ilid\u017ea"
+                    ]
+                ],
+                0.125169600534974
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7321209907531738
+    },
+    {
+        "triple": [
+            "Thendral_Sudum",
+            "starring",
+            "Manorama_(Tamil_actress)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Thendral_Sudum",
+                        "starring",
+                        "Raadhika_Sarathkumar"
+                    ]
+                ],
+                0.3311170716216599
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8869023323059082
+    },
+    {
+        "triple": [
+            "Sajjad_Zaheer",
+            "birthPlace",
+            "Lucknow"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sajjad_Zaheer",
+                        "deathPlace",
+                        "Soviet_Union"
+                    ]
+                ],
+                0.12837013445402445
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 1.0033316612243652
+    },
+    {
+        "triple": [
+            "Ralf_Metzenmacher",
+            "nationality",
+            "Germany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ralf_Metzenmacher",
+                        "birthPlace",
+                        "Germany"
+                    ]
+                ],
+                -14.232627868652344
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.831122875213623
+    },
+    {
+        "triple": [
+            "Roy_Orbison_Sings",
+            "producer",
+            "Don_Gant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Roy_Orbison_Sings",
+                        "artist",
+                        "Roy_Orbison"
+                    ]
+                ],
+                0.36487074713597994
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9737989902496338
+    },
+    {
+        "triple": [
+            "Fernsp\u00e4hlehrkompanie_200",
+            "garrison",
+            "Pfullendorf"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fernsp\u00e4hlehrkompanie_200",
+                        "country",
+                        "Germany"
+                    ]
+                ],
+                -0.4477042388252013
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7262568473815918
+    },
+    {
+        "triple": [
+            "Lucas_Baldin",
+            "team",
+            "IMG_Academy_Bradenton"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lucas_Baldin",
+                        "team",
+                        "Deportivo_Lara"
+                    ]
+                ],
+                -0.12317719179041245
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8946959972381592
+    },
+    {
+        "triple": [
+            "Super_20",
+            "recordLabel",
+            "Ariola_Records"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Super_20",
+                        "producer",
+                        "Anthony_Monn"
+                    ]
+                ],
+                -2.1558773040771486
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9124774932861328
+    },
+    {
+        "triple": [
+            "Matija_\u0160pi\u010di\u0107",
+            "team",
+            "NK_Osijek"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Matija_\u0160pi\u010di\u0107",
+                        "team",
+                        "SC_Tavriya_Simferopol"
+                    ]
+                ],
+                0.09887187073870403
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7313704490661621
+    },
+    {
+        "triple": [
+            "Mauregard_(mini_series)",
+            "author",
+            "Claude_de_Givray"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mauregard_(mini_series)",
+                        "director",
+                        "Claude_de_Givray"
+                    ]
+                ],
+                -6917.969401041667
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9056134223937988
+    },
+    {
+        "triple": [
+            "Bridget_Jones:_The_Edge_of_Reason_(film)",
+            "producer",
+            "Eric_Fellner"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bridget_Jones:_The_Edge_of_Reason_(film)",
+                        "distributor",
+                        "Universal_Studios"
+                    ]
+                ],
+                -26.3533447265625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7333676815032959
+    },
+    {
+        "triple": [
+            "Matt_Pagnutti",
+            "birthPlace",
+            "Greater_Sudbury"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Matt_Pagnutti",
+                        "position",
+                        "Defenceman"
+                    ]
+                ],
+                -0.0298679582143234
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8951797485351562
+    },
+    {
+        "triple": [
+            "The_Legend_of_Zelda:_Majora's_Mask",
+            "director",
+            "Yoshiaki_Koizumi"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Legend_of_Zelda:_Majora's_Mask",
+                        "producer",
+                        "Shigeru_Miyamoto"
+                    ]
+                ],
+                0.17762684511042967
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9325611591339111
+    },
+    {
+        "triple": [
+            "Palouse,_Washington",
+            "isPartOf",
+            "Whitman_County,_Washington"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Palouse,_Washington",
+                        "isPartOf",
+                        "Washington_(state)"
+                    ]
+                ],
+                0.95190765202394
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7656052112579346
+    },
+    {
+        "triple": [
+            "Why_(Andy_Gibb_song)",
+            "producer",
+            "Gibb-Galuten-Richardson"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Why_(Andy_Gibb_song)",
+                        "recordLabel",
+                        "RSO_Records"
+                    ]
+                ],
+                0.14113123482520426
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 1.0735931396484375
+    },
+    {
+        "triple": [
+            "Earl_Palmer",
+            "instrument",
+            "Drum_kit"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Earl_Palmer",
+                        "genre",
+                        "Jazz"
+                    ]
+                ],
+                0.8214269280433655
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8565924167633057
+    },
+    {
+        "triple": [
+            "Robert_Malm",
+            "team",
+            "Stade_Brestois_29"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Robert_Malm",
+                        "team",
+                        "Grenoble_Foot_38"
+                    ]
+                ],
+                -0.05842526435852051
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9498693943023682
+    },
+    {
+        "triple": [
+            "Edward_B._Cassatt",
+            "education",
+            "Haverford_College"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Edward_B._Cassatt",
+                        "education",
+                        "United_States_Military_Academy"
+                    ]
+                ],
+                -0.8571365674336752
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.92431640625
+    },
+    {
+        "triple": [
+            "Ram\u00f3n_Rodrigo_de_Freitas",
+            "team",
+            "Associa\u00e7\u00e3o_Portuguesa_de_Desportos"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ram\u00f3n_Rodrigo_de_Freitas",
+                        "team",
+                        "Gr\u00eamio_Foot-Ball_Porto_Alegrense"
+                    ]
+                ],
+                -7.486405372619629
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7441391944885254
+    },
+    {
+        "triple": [
+            "Glam_(album)",
+            "recordLabel",
+            "Mouse_on_Mars"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Glam_(album)",
+                        "producer",
+                        "Mouse_on_Mars"
+                    ]
+                ],
+                -0.10435689329235527
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8941531181335449
+    },
+    {
+        "triple": [
+            "Do\u00f1a_Juana_(film)",
+            "musicComposer",
+            "Giuseppe_Becce"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Do\u00f1a_Juana_(film)",
+                        "writer",
+                        "B\u00e9la_Bal\u00e1zs"
+                    ]
+                ],
+                0.9917670716630652
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8847990036010742
+    },
+    {
+        "triple": [
+            "William_Agnew_(footballer)",
+            "team",
+            "Sunderland_A.F.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "William_Agnew_(footballer)",
+                        "team",
+                        "Falkirk_F.C."
+                    ]
+                ],
+                -0.48403863112131756
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8888564109802246
+    },
+    {
+        "triple": [
+            "Satyasheel_Deshpande",
+            "birthPlace",
+            "Mumbai"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Satyasheel_Deshpande",
+                        "genre",
+                        "Hindustani_classical_music"
+                    ]
+                ],
+                -1.4088857968648274
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.919921875
+    },
+    {
+        "triple": [
+            "V\u00e9rtigo_(Fey_album)",
+            "language",
+            "English_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "V\u00e9rtigo_(Fey_album)",
+                        "recordedIn",
+                        "London"
+                    ]
+                ],
+                0.7843266129493713
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9552042484283447
+    },
+    {
+        "triple": [
+            "The_Royal_Scoundrel",
+            "director",
+            "Jonathan_Chik"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Royal_Scoundrel",
+                        "distributor",
+                        "Golden_Princess_Film_Production"
+                    ]
+                ],
+                -0.19345080067996312
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9008200168609619
+    },
+    {
+        "triple": [
+            "Newswipe_with_Charlie_Brooker",
+            "related",
+            "Charlie_Brooker's_Weekly_Wipe"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Charlie_Brooker's_Weekly_Wipe",
+                        "related",
+                        "Newswipe_with_Charlie_Brooker"
+                    ]
+                ],
+                -2825.6292317708335
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7304487228393555
+    },
+    {
+        "triple": [
+            "Fulanito",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fulanito",
+                        "genre",
+                        "Merengue_music"
+                    ]
+                ],
+                0.9954806596804888
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8939168453216553
+    },
+    {
+        "triple": [
+            "Walking_in_the_Light",
+            "producer",
+            "Alan_Tarney"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Walking_in_the_Light",
+                        "recordLabel",
+                        "Word_Records"
+                    ]
+                ],
+                -0.7228688493964557
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7967896461486816
+    },
+    {
+        "triple": [
+            "Maharashtra_Industrial_Development_Corporation",
+            "location",
+            "Mumbai"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Maharashtra_Industrial_Development_Corporation",
+                        "headquarter",
+                        "Mumbai"
+                    ]
+                ],
+                0.2486577183008194
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9016139507293701
+    },
+    {
+        "triple": [
+            "Ronald_Storrs",
+            "deathPlace",
+            "London"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ronald_Storrs",
+                        "successor",
+                        "Reginald_Edward_Stubbs"
+                    ]
+                ],
+                0.894013524055481
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9011061191558838
+    },
+    {
+        "triple": [
+            "John_Impey",
+            "team",
+            "Seattle_Sounders_(1974\u201383)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "1973\u201374_Cardiff_City_F.C._season",
+                        "currentMember",
+                        "John_Impey"
+                    ]
+                ],
+                -0.06560991870032416
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.740006685256958
+    },
+    {
+        "triple": [
+            "Scum_of_the_Earth_(song)",
+            "previousWork",
+            "Superbeast"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Scum_of_the_Earth_(song)",
+                        "genre",
+                        "Heavy_metal_music"
+                    ]
+                ],
+                -502.26429966517856
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8956267833709717
+    },
+    {
+        "triple": [
+            "Dear_You",
+            "genre",
+            "Grunge"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dear_You",
+                        "producer",
+                        "Rob_Cavallo"
+                    ]
+                ],
+                0.061659717559814455
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9011316299438477
+    },
+    {
+        "triple": [
+            "Ibrahima_Diallo",
+            "birthPlace",
+            "Conakry"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ibrahima_Diallo",
+                        "team",
+                        "FC_Rouen"
+                    ]
+                ],
+                -0.7267461045880184
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.742830753326416
+    },
+    {
+        "triple": [
+            "Geoff_Hurst",
+            "team",
+            "Seattle_Sounders_(1974\u201383)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Geoff_Hurst",
+                        "team",
+                        "England_national_football_team"
+                    ]
+                ],
+                -0.0636927377286755
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9053647518157959
+    },
+    {
+        "triple": [
+            "Yann_Benoist",
+            "genre",
+            "Folk_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yann_Benoist",
+                        "genre",
+                        "Jazz"
+                    ]
+                ],
+                -1.3427391052246094
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 1.0074331760406494
+    },
+    {
+        "triple": [
+            "Lammas",
+            "country",
+            "Catholicism"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lammas",
+                        "country",
+                        "Anglicanism"
+                    ]
+                ],
+                -1.881235196831101
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8292038440704346
+    },
+    {
+        "triple": [
+            "Erica_Packer",
+            "hometown",
+            "Gunnedah"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Erica_Packer",
+                        "occupation",
+                        "Model_(people)"
+                    ]
+                ],
+                0.022650517075020124
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8924129009246826
+    },
+    {
+        "triple": [
+            "David_Livermore",
+            "team",
+            "Histon_F.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "David_Livermore",
+                        "managerClub",
+                        "Histon_F.C."
+                    ]
+                ],
+                -0.54760277989399
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7301938533782959
+    },
+    {
+        "triple": [
+            "Heinrich_Schroeteler",
+            "deathPlace",
+            "Bochum"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Heinrich_Schroeteler",
+                        "battle",
+                        "Battle_of_the_Atlantic"
+                    ]
+                ],
+                -0.08597763050830523
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8912889957427979
+    },
+    {
+        "triple": [
+            "Lu\u00eds_Andrade",
+            "team",
+            "AEP_Paphos_F.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lu\u00eds_Andrade",
+                        "team",
+                        "Portugal_national_under-18_football_team"
+                    ]
+                ],
+                0.017842644453048707
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9064116477966309
+    },
+    {
+        "triple": [
+            "Luis_\u00c1ngel_Land\u00edn",
+            "team",
+            "Mexico_national_football_team"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "2010\u201311_Atlante_F.C._season",
+                        "currentMember",
+                        "Luis_\u00c1ngel_Land\u00edn"
+                    ]
+                ],
+                -0.21278247126826533
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7341282367706299
+    },
+    {
+        "triple": [
+            "Blood_Promise_(novel)",
+            "publisher",
+            "Penguin_Group"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Blood_Promise_(novel)",
+                        "language",
+                        "English_language"
+                    ]
+                ],
+                -0.4185101091861725
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8970780372619629
+    },
+    {
+        "triple": [
+            "Malaysia_Federal_Route_67",
+            "routeJunction",
+            "Malaysia_Federal_Route_76"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Malaysia_Federal_Route_76",
+                        "routeJunction",
+                        "Malaysia_Federal_Route_67"
+                    ]
+                ],
+                -5414.309244791667
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.734503984451294
+    },
+    {
+        "triple": [
+            "John_Tate",
+            "award",
+            "Wolf_Prize_in_Mathematics"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "John_Tate",
+                        "award",
+                        "Cole_Prize"
+                    ]
+                ],
+                0.8359263869951357
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8884682655334473
+    },
+    {
+        "triple": [
+            "The_Vagabond_Lover",
+            "musicComposer",
+            "Harry_M._Woods"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Vagabond_Lover",
+                        "director",
+                        "Marshall_Neilan"
+                    ]
+                ],
+                0.23086308031362476
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9118764400482178
+    },
+    {
+        "triple": [
+            "Yle",
+            "country",
+            "Finland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yle",
+                        "locationCountry",
+                        "Finland"
+                    ]
+                ],
+                0.7630293369293213
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7343556880950928
+    },
+    {
+        "triple": [
+            "Missing_(1918_film)",
+            "starring",
+            "Thomas_Meighan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Missing_(1918_film)",
+                        "starring",
+                        "Winter_Hall"
+                    ]
+                ],
+                0.5251367549032284
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9027388095855713
+    },
+    {
+        "triple": [
+            "Sid_Cann",
+            "managerClub",
+            "Wycombe_Wanderers_F.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sid_Cann",
+                        "birthPlace",
+                        "Torquay"
+                    ]
+                ],
+                -2.2210926055908202
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7374651432037354
+    },
+    {
+        "triple": [
+            "Blu_Mar_Ten",
+            "hometown",
+            "London"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Blu_Mar_Ten",
+                        "genre",
+                        "Drum_and_bass"
+                    ]
+                ],
+                0.8551358381907145
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8969590663909912
+    },
+    {
+        "triple": [
+            "KYCS",
+            "sisterStation",
+            "KFRZ"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "KFRZ",
+                        "sisterStation",
+                        "KYCS"
+                    ]
+                ],
+                -4510.951171875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7422661781311035
+    },
+    {
+        "triple": [
+            "Living_Books_series",
+            "parentCompany",
+            "Random_House"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Living_Books_series",
+                        "location",
+                        "Phoenix,_Arizona"
+                    ]
+                ],
+                0.28218960322221087
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8853888511657715
+    },
+    {
+        "triple": [
+            "Terry_Carkner",
+            "formerTeam",
+            "Quebec_Nordiques"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Terry_Carkner",
+                        "position",
+                        "Defenceman"
+                    ]
+                ],
+                -1.3662341117858887
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9906463623046875
+    },
+    {
+        "triple": [
+            "Otto_Schury",
+            "battle",
+            "Battle_of_the_Dukla_Pass"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Otto_Schury",
+                        "deathPlace",
+                        "Germany"
+                    ]
+                ],
+                -0.15732386112213134
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8307125568389893
+    },
+    {
+        "triple": [
+            "Joazhi\u00f1o_Arroe",
+            "birthPlace",
+            "Peru"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Joazhi\u00f1o_Arroe",
+                        "team",
+                        "Peru_national_under-17_football_team"
+                    ]
+                ],
+                -0.35568848110380624
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8867192268371582
+    },
+    {
+        "triple": [
+            "Words_Untold_&_Dreams_Unlived",
+            "artist",
+            "Serenity_(band)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Words_Untold_&_Dreams_Unlived",
+                        "genre",
+                        "Progressive_metal"
+                    ]
+                ],
+                -9.262624633664627
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8979756832122803
+    },
+    {
+        "triple": [
+            "The_Duke_of_Mount_Deer_(1984_TV_series)",
+            "starring",
+            "Teresa_Mo"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Duke_of_Mount_Deer_(1984_TV_series)",
+                        "starring",
+                        "Andy_Lau"
+                    ]
+                ],
+                0.96437357284665
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7347800731658936
+    },
+    {
+        "triple": [
+            "The_Cabinet_of_Caligari",
+            "language",
+            "English_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Cabinet_of_Caligari",
+                        "starring",
+                        "Estelle_Winwood"
+                    ]
+                ],
+                0.7978525161743164
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8886623382568359
+    },
+    {
+        "triple": [
+            "Ilagan_River",
+            "region",
+            "Cagayan_Valley"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ilagan_River",
+                        "sourceRegion",
+                        "Central_Luzon"
+                    ]
+                ],
+                0.37264079243744014
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9164645671844482
+    },
+    {
+        "triple": [
+            "\u00c1lvaro_Silva_(footballer)",
+            "team",
+            "Qadsia_SC"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "\u00c1lvaro_Silva_(footballer)",
+                        "team",
+                        "Atl\u00e9tico_Malague\u00f1o"
+                    ]
+                ],
+                -0.022583261642165963
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7513833045959473
+    },
+    {
+        "triple": [
+            "South_Park_Township,_Allegheny_County,_Pennsylvania",
+            "isPartOf",
+            "Allegheny_County,_Pennsylvania"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "South_Park_Township,_Allegheny_County,_Pennsylvania",
+                        "type",
+                        "Township_(Pennsylvania)"
+                    ]
+                ],
+                0.9310597968595755
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9106202125549316
+    },
+    {
+        "triple": [
+            "Salvador_Laurel",
+            "almaMater",
+            "University_of_the_Philippines_College_of_Law"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Salvador_Laurel",
+                        "successor",
+                        "Joseph_Estrada"
+                    ]
+                ],
+                -0.03688158082567956
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7447092533111572
+    },
+    {
+        "triple": [
+            "Farshad_Ahmadzadeh",
+            "birthPlace",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Farshad_Ahmadzadeh",
+                        "birthPlace",
+                        "Urmia"
+                    ]
+                ],
+                0.9889820906815516
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.915123701095581
+    },
+    {
+        "triple": [
+            "George_Prodgers",
+            "formerTeam",
+            "Montreal_Canadiens"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "George_Prodgers",
+                        "formerTeam",
+                        "Toronto_St._Patricks"
+                    ]
+                ],
+                0.6776249225323017
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7444629669189453
+    },
+    {
+        "triple": [
+            "Harinder_Singh_Khalsa",
+            "birthPlace",
+            "Punjab_Province_(British_India)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Harinder_Singh_Khalsa",
+                        "otherParty",
+                        "Shiromani_Akali_Dal"
+                    ]
+                ],
+                -0.2485312885708279
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9031960964202881
+    },
+    {
+        "triple": [
+            "Frauenfeld",
+            "neighboringMunicipality",
+            "Aadorf"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Aadorf",
+                        "neighboringMunicipality",
+                        "Frauenfeld"
+                    ]
+                ],
+                -3891.455078125
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9101011753082275
+    }
+]

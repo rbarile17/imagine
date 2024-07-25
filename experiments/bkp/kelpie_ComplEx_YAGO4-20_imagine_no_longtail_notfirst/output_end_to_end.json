@@ -1,0 +1,1852 @@
+[
+    {
+        "triple_to_explain": [
+            "Bernard_Edwards",
+            "familyName",
+            "Edwards_(surname)"
+        ],
+        "rule": [
+            [
+                "Bernard_Edwards",
+                "children",
+                "J._Gordon_Edwards"
+            ]
+        ],
+        "score": "19.65978",
+        "rank": "64",
+        "new_score": "19.374943",
+        "new_rank": "281"
+    },
+    {
+        "triple_to_explain": [
+            "Armenian_State_Pedagogical_University",
+            "location",
+            "Yerevan"
+        ],
+        "rule": [
+            [
+                "Alexander_Arutiunian",
+                "alumniOf",
+                "Armenian_State_Pedagogical_University"
+            ]
+        ],
+        "score": "15.155917",
+        "rank": "63",
+        "new_score": "21.074522",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mort_Glickman",
+            "deathPlace",
+            "Sherman_Oaks,_Los_Angeles"
+        ],
+        "rule": [
+            [
+                "Mort_Glickman",
+                "homeLocation",
+                "Sherman_Oaks,_Los_Angeles"
+            ]
+        ],
+        "score": "13.473692",
+        "rank": "15",
+        "new_score": "23.59999",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Candlemass_(band)",
+            "genre",
+            "Doom_metal"
+        ],
+        "rule": [
+            [
+                "Candlemass_(band)",
+                "genre",
+                "Death-doom"
+            ]
+        ],
+        "score": "8.041447",
+        "rank": "94",
+        "new_score": "18.135578",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Barbezieux-Saint-Hilaire",
+            "containedInPlace",
+            "Charente"
+        ],
+        "rule": [
+            [
+                "Barbezieux-Saint-Hilaire",
+                "location",
+                "Charente"
+            ]
+        ],
+        "score": "19.568249",
+        "rank": "524",
+        "new_score": "29.105139",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Chablais_Alps",
+            "containedInPlace",
+            "Canton_of_Valais"
+        ],
+        "rule": [
+            [
+                "Chablais_Alps",
+                "containedInPlace",
+                "Switzerland"
+            ],
+            [
+                "Chablais_Alps",
+                "containedInPlace",
+                "Visp_District"
+            ]
+        ],
+        "score": "15.5877285",
+        "rank": "25",
+        "new_score": "24.793047",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "English_College,_Douai",
+            "parentOrganization",
+            "University_of_Douai"
+        ],
+        "rule": [
+            [
+                "Abel_Buades",
+                "alumniOf",
+                "English_College,_Douai"
+            ]
+        ],
+        "score": "13.086409",
+        "rank": "179",
+        "new_score": "9.758785",
+        "new_rank": "574"
+    },
+    {
+        "triple_to_explain": [
+            "Emon_Saha",
+            "nationality",
+            "Bangladesh"
+        ],
+        "rule": [
+            [
+                "Emon_Saha",
+                "homeLocation",
+                "Bangladesh"
+            ]
+        ],
+        "score": "13.60753",
+        "rank": "5",
+        "new_score": "17.23303",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Walter_R._Booth",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Serge_Gainsbourg",
+                "spouse",
+                "Walter_R._Booth"
+            ]
+        ],
+        "score": "12.770473",
+        "rank": "8",
+        "new_score": "13.291149",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Casimir_I_of_Kuyavia",
+            "hasOccupation",
+            "Aristocracy_(class)"
+        ],
+        "rule": [
+            [
+                "Casimir_I_of_Kuyavia",
+                "award",
+                "Aristocracy_(class)"
+            ]
+        ],
+        "score": "13.188226",
+        "rank": "4",
+        "new_score": "16.5747",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Beavis_and_Butt-Head",
+            "musicBy",
+            "Mike_Judge"
+        ],
+        "rule": [
+            [
+                "Beavis_and_Butt-Head",
+                "producer",
+                "Mike_Judge"
+            ]
+        ],
+        "score": "10.053591",
+        "rank": "8",
+        "new_score": "10.549875",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Hudson_Soft",
+            "parentOrganization",
+            "Konami"
+        ],
+        "rule": [
+            [
+                "Hudson_Soft",
+                "foundingLocation",
+                "Osaka"
+            ],
+            [
+                "Hudson_Soft",
+                "foundingLocation",
+                "Patras"
+            ]
+        ],
+        "score": "12.64374",
+        "rank": "166",
+        "new_score": "15.330448",
+        "new_rank": "111"
+    },
+    {
+        "triple_to_explain": [
+            "Gomphocerinae",
+            "taxonRank",
+            "Subfamily"
+        ],
+        "rule": [
+            [
+                "Gomphocerinae",
+                "parentTaxon",
+                "Anatinae"
+            ],
+            [
+                "Gomphocerinae",
+                "parentTaxon",
+                "Caesalpinioideae"
+            ]
+        ],
+        "score": "9.489311",
+        "rank": "7",
+        "new_score": "13.695124",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Canton_of_Bellegarde-sur-Valserine",
+            "containedInPlace",
+            "Arrondissement_of_Gex"
+        ],
+        "rule": [
+            [
+                "Arrondissement_of_Gex",
+                "containsPlace",
+                "Canton_of_Bellegarde-sur-Valserine"
+            ]
+        ],
+        "score": "21.176743",
+        "rank": "26",
+        "new_score": "26.808762",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ried_im_Innkreis",
+            "memberOf",
+            "Climate_Alliance"
+        ],
+        "rule": [
+            [
+                "Adolf_Butenandt",
+                "birthPlace",
+                "Ried_im_Innkreis"
+            ]
+        ],
+        "score": "10.817739",
+        "rank": "18",
+        "new_score": "16.695753",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Girvan",
+            "containedInPlace",
+            "South_Ayrshire"
+        ],
+        "rule": [
+            [
+                "John_Brown_(footballer,_born_1915)",
+                "deathPlace",
+                "Girvan"
+            ]
+        ],
+        "score": "26.458057",
+        "rank": "2",
+        "new_score": "26.054949",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "The_Flaming_Lips",
+            "genre",
+            "Space_rock"
+        ],
+        "rule": [
+            [
+                "A_Momentary_Lapse_of_Reason",
+                "byArtist",
+                "The_Flaming_Lips"
+            ]
+        ],
+        "score": "14.206053",
+        "rank": "41",
+        "new_score": "17.815098",
+        "new_rank": "15"
+    },
+    {
+        "triple_to_explain": [
+            "Maria_de_la_Cerda_y_de_Lara",
+            "givenName",
+            "Maria_(given_name)"
+        ],
+        "rule": [
+            [
+                "Maria_de_la_Cerda_y_de_Lara",
+                "award",
+                "Corazon_Aquino"
+            ]
+        ],
+        "score": "11.825523",
+        "rank": "65",
+        "new_score": "6.483245",
+        "new_rank": "597"
+    },
+    {
+        "triple_to_explain": [
+            "Tintoretto",
+            "nationality",
+            "Republic_of_Venice"
+        ],
+        "rule": [
+            [
+                "Tintoretto",
+                "children",
+                "El_Greco"
+            ]
+        ],
+        "score": "13.35001",
+        "rank": "7",
+        "new_score": "15.910563",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "4_(Beyonc\u00e9_album)",
+            "producer",
+            "Babyface_(musician)"
+        ],
+        "rule": [
+            [
+                "4_(Beyonc\u00e9_album)",
+                "producer",
+                "50_Cent"
+            ]
+        ],
+        "score": "-2.1199074",
+        "rank": "2715",
+        "new_score": "5.812289",
+        "new_rank": "598"
+    },
+    {
+        "triple_to_explain": [
+            "Zangezursky_Uyezd",
+            "containedInPlace",
+            "Elisabethpol_Governorate"
+        ],
+        "rule": [
+            [
+                "Agdam",
+                "containedInPlace",
+                "Zangezursky_Uyezd"
+            ]
+        ],
+        "score": "21.554775",
+        "rank": "21",
+        "new_score": "22.704178",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "University_of_Central_Lancashire",
+            "memberOf",
+            "Jisc"
+        ],
+        "rule": [
+            [
+                "Andy_De_Emmony",
+                "alumniOf",
+                "University_of_Central_Lancashire"
+            ]
+        ],
+        "score": "9.015606",
+        "rank": "23",
+        "new_score": "10.607259",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "You_Are_the_Best!",
+            "genre",
+            "Romantic_comedy"
+        ],
+        "rule": [
+            [
+                "A_Guy_Thing",
+                "isPartOf",
+                "You_Are_the_Best!"
+            ]
+        ],
+        "score": "10.149796",
+        "rank": "5",
+        "new_score": "13.187588",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Mangifera_indica",
+            "taxonRank",
+            "Species"
+        ],
+        "rule": [
+            [
+                "Mangifera_indica",
+                "parentTaxon",
+                "Elm"
+            ]
+        ],
+        "score": "9.386919",
+        "rank": "2",
+        "new_score": "13.988769",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Canton_of_Bricquebec",
+            "containedInPlace",
+            "Manche"
+        ],
+        "rule": [
+            [
+                "Canton_of_Bricquebec",
+                "containsPlace",
+                "Cherbourg-Octeville"
+            ]
+        ],
+        "score": "20.498842",
+        "rank": "7",
+        "new_score": "25.668865",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Robert_J._Walsh",
+            "deathPlace",
+            "New_York_City"
+        ],
+        "rule": [
+            [
+                "Robert_J._Walsh",
+                "homeLocation",
+                "New_York_City"
+            ]
+        ],
+        "score": "13.327016",
+        "rank": "4",
+        "new_score": "21.128872",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Natalia_Verbeke",
+            "hasOccupation",
+            "Stage_actor"
+        ],
+        "rule": [
+            [
+                "Dany_Carrel",
+                "spouse",
+                "Natalia_Verbeke"
+            ]
+        ],
+        "score": "7.855198",
+        "rank": "15",
+        "new_score": "17.304699",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Alberto_Fern\u00e1ndez_de_Rosa",
+            "nationality",
+            "Argentina"
+        ],
+        "rule": [
+            [
+                "Alberto_Fern\u00e1ndez_de_Rosa",
+                "deathPlace",
+                "Argentina"
+            ]
+        ],
+        "score": "15.467864",
+        "rank": "3",
+        "new_score": "16.34277",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "UFO_(band)",
+            "genre",
+            "Space_rock"
+        ],
+        "rule": [
+            [
+                "The_Wall",
+                "byArtist",
+                "UFO_(band)"
+            ]
+        ],
+        "score": "8.041948",
+        "rank": "102",
+        "new_score": "15.689634",
+        "new_rank": "18"
+    },
+    {
+        "triple_to_explain": [
+            "Wasps_RFC",
+            "sport",
+            "Rugby_union"
+        ],
+        "rule": [
+            [
+                "UBC_Thunderbirds",
+                "subOrganization",
+                "Wasps_RFC"
+            ]
+        ],
+        "score": "15.127001",
+        "rank": "2",
+        "new_score": "17.65179",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Canton_of_Carpentras-Nord",
+            "containsPlace",
+            "Carpentras"
+        ],
+        "rule": [
+            [
+                "Carpentras",
+                "containedInPlace",
+                "Canton_of_Carpentras-Nord"
+            ]
+        ],
+        "score": "4.9715304",
+        "rank": "25800",
+        "new_score": "23.738811",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Richard_Brome",
+            "hasOccupation",
+            "Playwright"
+        ],
+        "rule": [
+            [
+                "Richard_Brome",
+                "award",
+                "Playwright"
+            ]
+        ],
+        "score": "7.9406285",
+        "rank": "86",
+        "new_score": "13.445995",
+        "new_rank": "26"
+    },
+    {
+        "triple_to_explain": [
+            "Forbes,_New_South_Wales",
+            "containedInPlace",
+            "Division_of_Riverina"
+        ],
+        "rule": [
+            [
+                "Forbes,_New_South_Wales",
+                "containedInPlace",
+                "Electoral_district_of_Cootamundra"
+            ]
+        ],
+        "score": "25.785719",
+        "rank": "18",
+        "new_score": "28.943617",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Surrey_Hills,_Victoria",
+            "containedInPlace",
+            "Division_of_Chisholm"
+        ],
+        "rule": [
+            [
+                "Surrey_Hills,_Victoria",
+                "containedInPlace",
+                "City_of_Whitehorse"
+            ]
+        ],
+        "score": "17.722347",
+        "rank": "184",
+        "new_score": "24.869743",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "The_Marshall_Mathers_LP_2",
+            "producer",
+            "Eminem"
+        ],
+        "rule": [
+            [
+                "8_Mile_(film)",
+                "isBasedOn",
+                "The_Marshall_Mathers_LP_2"
+            ],
+            [
+                "The_Interview",
+                "isBasedOn",
+                "The_Marshall_Mathers_LP_2"
+            ],
+            [
+                "Bird_on_a_Wire_(film)",
+                "isBasedOn",
+                "The_Marshall_Mathers_LP_2"
+            ],
+            [
+                "Out_of_Sight",
+                "isBasedOn",
+                "The_Marshall_Mathers_LP_2"
+            ]
+        ],
+        "score": "4.123814",
+        "rank": "141",
+        "new_score": "5.739142",
+        "new_rank": "102"
+    },
+    {
+        "triple_to_explain": [
+            "Airdrie,_North_Lanarkshire",
+            "containedInPlace",
+            "North_Lanarkshire"
+        ],
+        "rule": [
+            [
+                "Andrew_Barrowman",
+                "birthPlace",
+                "Airdrie,_North_Lanarkshire"
+            ]
+        ],
+        "score": "17.681002",
+        "rank": "695",
+        "new_score": "23.194077",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "King_Saud_University",
+            "founder",
+            "Saud_of_Saudi_Arabia"
+        ],
+        "rule": [
+            [
+                "King_Saud_University",
+                "containedInPlace",
+                "Beijing"
+            ]
+        ],
+        "score": "2.0184283",
+        "rank": "4411",
+        "new_score": "3.8021517",
+        "new_rank": "609"
+    },
+    {
+        "triple_to_explain": [
+            "University_of_Northern_Iowa",
+            "memberOf",
+            "Coalition_for_Networked_Information"
+        ],
+        "rule": [
+            [
+                "%22Weird_Al%22_Yankovic",
+                "alumniOf",
+                "University_of_Northern_Iowa"
+            ]
+        ],
+        "score": "2.490103",
+        "rank": "357",
+        "new_score": "8.474844",
+        "new_rank": "66"
+    },
+    {
+        "triple_to_explain": [
+            "Fraserburgh",
+            "containedInPlace",
+            "Aberdeenshire_(historic)"
+        ],
+        "rule": [
+            [
+                "Fraserburgh",
+                "containedInPlace",
+                "Highland_(council_area)"
+            ]
+        ],
+        "score": "23.443266",
+        "rank": "5",
+        "new_score": "21.881031",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Pearl_White",
+            "hasOccupation",
+            "Stage_actor"
+        ],
+        "rule": [
+            [
+                "Pearl_White",
+                "award",
+                "Stage_actor"
+            ]
+        ],
+        "score": "18.346004",
+        "rank": "2",
+        "new_score": "19.174248",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Slayer",
+            "genre",
+            "Hardcore_punk"
+        ],
+        "rule": [
+            [
+                "Brett_Gurewitz",
+                "memberOf",
+                "Slayer"
+            ]
+        ],
+        "score": "10.7222395",
+        "rank": "52",
+        "new_score": "16.217793",
+        "new_rank": "19"
+    },
+    {
+        "triple_to_explain": [
+            "Children_of_Bodom",
+            "genre",
+            "Black_metal"
+        ],
+        "rule": [
+            [
+                "Children_of_Bodom",
+                "genre",
+                "Folk_metal"
+            ]
+        ],
+        "score": "14.683104",
+        "rank": "33",
+        "new_score": "19.168772",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sarreguemines",
+            "containedInPlace",
+            "Moselle_(department)"
+        ],
+        "rule": [
+            [
+                "Sarreguemines",
+                "location",
+                "Arrondissement_of_Forbach"
+            ]
+        ],
+        "score": "15.443716",
+        "rank": "2501",
+        "new_score": "19.439596",
+        "new_rank": "17"
+    },
+    {
+        "triple_to_explain": [
+            "St_Olave's_Grammar_School",
+            "containedInPlace",
+            "Orpington"
+        ],
+        "rule": [
+            [
+                "Kevin_Bishop",
+                "alumniOf",
+                "St_Olave's_Grammar_School"
+            ]
+        ],
+        "score": "5.0967317",
+        "rank": "27394",
+        "new_score": "12.327651",
+        "new_rank": "5718"
+    },
+    {
+        "triple_to_explain": [
+            "Creed_Taylor",
+            "familyName",
+            "Taylor_(surname)"
+        ],
+        "rule": [
+            [
+                "Creed_Taylor",
+                "givenName",
+                "Taylor_(surname)"
+            ]
+        ],
+        "score": "21.967474",
+        "rank": "107",
+        "new_score": "18.358915",
+        "new_rank": "488"
+    },
+    {
+        "triple_to_explain": [
+            "Warsaw_Shore",
+            "inLanguage",
+            "Polish_language"
+        ],
+        "rule": [
+            [
+                "Warsaw_Shore",
+                "about",
+                "Dora_Gabe"
+            ]
+        ],
+        "score": "11.660372",
+        "rank": "9",
+        "new_score": "8.967377",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Bromsgrove_School",
+            "containedInPlace",
+            "Worcestershire"
+        ],
+        "rule": [
+            [
+                "Bromsgrove_School",
+                "containedInPlace",
+                "Warwickshire"
+            ]
+        ],
+        "score": "12.918634",
+        "rank": "3727",
+        "new_score": "18.429861",
+        "new_rank": "271"
+    },
+    {
+        "triple_to_explain": [
+            "Ruch_Radzionk\u00f3w",
+            "sport",
+            "Badminton"
+        ],
+        "rule": [
+            [
+                "Ruch_Radzionk\u00f3w",
+                "parentOrganization",
+                "Badminton_World_Federation"
+            ]
+        ],
+        "score": "10.842657",
+        "rank": "3",
+        "new_score": "13.156562",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Harald_Bluetooth",
+            "nationality",
+            "Denmark"
+        ],
+        "rule": [
+            [
+                "1864_(TV_series)",
+                "actor",
+                "Harald_Bluetooth"
+            ]
+        ],
+        "score": "15.594887",
+        "rank": "4",
+        "new_score": "20.251009",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Zubayr_ibn_al-Awam",
+            "deathPlace",
+            "Basra"
+        ],
+        "rule": [
+            [
+                "Zubayr_ibn_al-Awam",
+                "birthPlace",
+                "Basra"
+            ]
+        ],
+        "score": "-1.8360157",
+        "rank": "37571",
+        "new_score": "12.989661",
+        "new_rank": "13"
+    },
+    {
+        "triple_to_explain": [
+            "Quebec_Nordiques",
+            "sport",
+            "Ice_hockey"
+        ],
+        "rule": [
+            [
+                "Alexander_Ovechkin",
+                "memberOf",
+                "Quebec_Nordiques"
+            ]
+        ],
+        "score": "12.633731",
+        "rank": "2",
+        "new_score": "12.174435",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Alfred_Rolfe_(director)",
+            "givenName",
+            "Alfred_(name)"
+        ],
+        "rule": [
+            [
+                "Alfred_Rolfe_(director)",
+                "award",
+                "Alfred_(name)"
+            ]
+        ],
+        "score": "14.323251",
+        "rank": "118",
+        "new_score": "17.248945",
+        "new_rank": "65"
+    },
+    {
+        "triple_to_explain": [
+            "Wertheim_am_Main",
+            "memberOf",
+            "Climate_Alliance"
+        ],
+        "rule": [
+            [
+                "Aachen_(district)",
+                "containsPlace",
+                "Wertheim_am_Main"
+            ]
+        ],
+        "score": "8.719669",
+        "rank": "27",
+        "new_score": "19.860577",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sigur_R\u00f3s",
+            "genre",
+            "Post-metal"
+        ],
+        "rule": [
+            [
+                "Sigur_R\u00f3s",
+                "foundingLocation",
+                "Boston"
+            ]
+        ],
+        "score": "7.286681",
+        "rank": "87",
+        "new_score": "11.158667",
+        "new_rank": "52"
+    },
+    {
+        "triple_to_explain": [
+            "Nyctimene_(genus)",
+            "parentTaxon",
+            "Pteropodinae"
+        ],
+        "rule": [
+            [
+                "Nyctimene_(genus)",
+                "parentTaxon",
+                "Apioideae"
+            ]
+        ],
+        "score": "26.679575",
+        "rank": "506",
+        "new_score": "28.05072",
+        "new_rank": "241"
+    },
+    {
+        "triple_to_explain": [
+            "Seine",
+            "containedInPlace",
+            "Seine-et-Marne"
+        ],
+        "rule": [
+            [
+                "Seine",
+                "containedInPlace",
+                "Bavaria"
+            ]
+        ],
+        "score": "18.800972",
+        "rank": "215",
+        "new_score": "15.543291",
+        "new_rank": "735"
+    },
+    {
+        "triple_to_explain": [
+            "Steve_Lillywhite",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "'Allo_'Allo!",
+                "creator",
+                "Steve_Lillywhite"
+            ]
+        ],
+        "score": "14.519043",
+        "rank": "2",
+        "new_score": "15.158931",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Canton_of_Darney",
+            "containedInPlace",
+            "Arrondissement_of_\u00c9pinal"
+        ],
+        "rule": [
+            [
+                "Arrondissement_of_\u00c9pinal",
+                "containsPlace",
+                "Canton_of_Darney"
+            ]
+        ],
+        "score": "22.941263",
+        "rank": "2",
+        "new_score": "27.427979",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Badminton_at_the_2008_Summer_Olympics_\u2013_Men's_doubles",
+            "competitor",
+            "Lee_Yong-dae"
+        ],
+        "rule": [
+            [
+                "Badminton_at_the_2008_Summer_Olympics_\u2013_Men's_doubles",
+                "subEvent",
+                "Badminton_at_the_2012_Summer_Olympics_\u2013_Mixed_doubles"
+            ]
+        ],
+        "score": "18.528255",
+        "rank": "6",
+        "new_score": "18.318933",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Scooter_(band)",
+            "genre",
+            "Techno"
+        ],
+        "rule": [
+            [
+                "Scooter_(band)",
+                "foundingLocation",
+                "Sevenoaks"
+            ]
+        ],
+        "score": "17.851156",
+        "rank": "7",
+        "new_score": "22.04801",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gong_(band)",
+            "genre",
+            "Progressive_rock"
+        ],
+        "rule": [
+            [
+                "David_Paich",
+                "memberOf",
+                "Gong_(band)"
+            ]
+        ],
+        "score": "11.799149",
+        "rank": "10",
+        "new_score": "15.168161",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Alikovsky_District",
+            "containedInPlace",
+            "Chuvashia"
+        ],
+        "rule": [
+            [
+                "Alikovsky_District",
+                "containedInPlace",
+                "Udmurtia"
+            ]
+        ],
+        "score": "24.54362",
+        "rank": "4",
+        "new_score": "25.622395",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Alberto_Barcel",
+            "knowsLanguage",
+            "Spanish_language"
+        ],
+        "rule": [
+            [
+                "7_vidas",
+                "musicBy",
+                "Alberto_Barcel"
+            ]
+        ],
+        "score": "20.217684",
+        "rank": "2",
+        "new_score": "20.342943",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Alabama_(band)",
+            "genre",
+            "Country_music"
+        ],
+        "rule": [
+            [
+                "Alabama_(band)",
+                "genre",
+                "Alternative_country"
+            ]
+        ],
+        "score": "9.063839",
+        "rank": "19",
+        "new_score": "18.23505",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "1989_IBF_World_Championships_\u2013_Women's_Doubles",
+            "sport",
+            "Badminton"
+        ],
+        "rule": [
+            [
+                "1989_IBF_World_Championships_\u2013_Women's_Doubles",
+                "subEvent",
+                "1977_IBF_World_Championships_\u2013_Women's_Singles"
+            ]
+        ],
+        "score": "11.823259",
+        "rank": "6",
+        "new_score": "18.705889",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Bad_T\u00f6lz",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule": [
+            [
+                "1._FC_Pforzheim",
+                "location",
+                "Bad_T\u00f6lz"
+            ]
+        ],
+        "score": "8.215877",
+        "rank": "40",
+        "new_score": "15.728907",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Mercyful_Fate",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule": [
+            [
+                "David_Draiman",
+                "memberOf",
+                "Mercyful_Fate"
+            ]
+        ],
+        "score": "16.224407",
+        "rank": "18",
+        "new_score": "17.522083",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Yverdon-les-Bains",
+            "location",
+            "Vaud"
+        ],
+        "rule": [
+            [
+                "Yverdon-les-Bains",
+                "containedInPlace",
+                "Vaud"
+            ]
+        ],
+        "score": "20.20278",
+        "rank": "6",
+        "new_score": "28.787792",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dharamshala",
+            "containedInPlace",
+            "Kangra_district"
+        ],
+        "rule": [
+            [
+                "Kangra_district",
+                "containsPlace",
+                "Dharamshala"
+            ]
+        ],
+        "score": "-0.37855238",
+        "rank": "63507",
+        "new_score": "29.792784",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rodolfo_Sciammarella",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Alexandra_Paul",
+                "spouse",
+                "Rodolfo_Sciammarella"
+            ],
+            [
+                "Rodolfo_Sciammarella",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "Rodolfo_Sciammarella",
+                "award",
+                "A._J._Cronin"
+            ]
+        ],
+        "score": "11.641821",
+        "rank": "9",
+        "new_score": "2.9612691",
+        "new_rank": "148"
+    },
+    {
+        "triple_to_explain": [
+            "Ramapo_College",
+            "memberOf",
+            "Council_of_Public_Liberal_Arts_Colleges"
+        ],
+        "rule": [
+            [
+                "Ramapo_College",
+                "containedInPlace",
+                "Johnson,_Vermont"
+            ]
+        ],
+        "score": "9.581463",
+        "rank": "5",
+        "new_score": "13.245471",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "KC_and_the_Sunshine_Band",
+            "genre",
+            "Funk"
+        ],
+        "rule": [
+            [
+                "Jermaine_Jackson",
+                "memberOf",
+                "KC_and_the_Sunshine_Band"
+            ],
+            [
+                "KC_and_the_Sunshine_Band",
+                "foundingLocation",
+                "Burlington,_Ontario"
+            ]
+        ],
+        "score": "18.121578",
+        "rank": "7",
+        "new_score": "19.11811",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Bijay_Mohanty",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Alexandra_Paul",
+                "spouse",
+                "Bijay_Mohanty"
+            ]
+        ],
+        "score": "3.3187475",
+        "rank": "49",
+        "new_score": "14.72535",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Martin_Birch",
+            "hasOccupation",
+            "Audio_engineer"
+        ],
+        "rule": [
+            [
+                "Martin_Birch",
+                "award",
+                "Audio_engineer"
+            ]
+        ],
+        "score": "11.971288",
+        "rank": "5",
+        "new_score": "16.259575",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Camel_(band)",
+            "genre",
+            "Space_rock"
+        ],
+        "rule": [
+            [
+                "A_Momentary_Lapse_of_Reason",
+                "byArtist",
+                "Camel_(band)"
+            ]
+        ],
+        "score": "9.239509",
+        "rank": "58",
+        "new_score": "17.757591",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Saran_(director)",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Saran_(director)",
+                "award",
+                "50_Cent"
+            ]
+        ],
+        "score": "15.334748",
+        "rank": "3",
+        "new_score": "7.5870304",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Alberto_Fern\u00e1ndez_de_Rosa",
+            "spouse",
+            "Cristina_Banegas"
+        ],
+        "rule": [
+            [
+                "Alberto_Fern\u00e1ndez_de_Rosa",
+                "children",
+                "Cristina_Banegas"
+            ]
+        ],
+        "score": "6.4923935",
+        "rank": "13778",
+        "new_score": "17.979998",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Raymond_Menmuir",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "'Allo_'Allo!",
+                "author",
+                "Raymond_Menmuir"
+            ]
+        ],
+        "score": "14.285611",
+        "rank": "3",
+        "new_score": "13.780439",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Steve_Levine",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "'Allo_'Allo!",
+                "creator",
+                "Steve_Levine"
+            ]
+        ],
+        "score": "16.72577",
+        "rank": "2",
+        "new_score": "17.15087",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "The_Monkees",
+            "genre",
+            "Pop_rock"
+        ],
+        "rule": [
+            [
+                "Bj\u00f6rn_Ulvaeus",
+                "memberOf",
+                "The_Monkees"
+            ]
+        ],
+        "score": "18.781424",
+        "rank": "2",
+        "new_score": "19.18146",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Vittsj\u00f6_GIK",
+            "sport",
+            "Sport_of_athletics"
+        ],
+        "rule": [
+            [
+                "Luciano_de_Souza",
+                "memberOf",
+                "Vittsj\u00f6_GIK"
+            ]
+        ],
+        "score": "8.576269",
+        "rank": "17",
+        "new_score": "11.272519",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Minnesota_Golden_Gophers_football",
+            "sport",
+            "American_football"
+        ],
+        "rule": [
+            [
+                "Clemson_Tigers",
+                "subOrganization",
+                "Minnesota_Golden_Gophers_football"
+            ]
+        ],
+        "score": "12.79586",
+        "rank": "2",
+        "new_score": "16.075632",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Fort_Hays_State_University",
+            "memberOf",
+            "Scholarly_Publishing_and_Academic_Resources_Coalition"
+        ],
+        "rule": [
+            [
+                "Fort_Hays_State_University",
+                "parentOrganization",
+                "Harvard_University"
+            ]
+        ],
+        "score": "5.022274",
+        "rank": "169",
+        "new_score": "8.492358",
+        "new_rank": "70"
+    },
+    {
+        "triple_to_explain": [
+            "Bougainville_Island",
+            "containedInPlace",
+            "Solomon_Islands"
+        ],
+        "rule": [
+            [
+                "Henry_Fa'arodo",
+                "birthPlace",
+                "Bougainville_Island"
+            ],
+            [
+                "Honiara",
+                "containedInPlace",
+                "Bougainville_Island"
+            ]
+        ],
+        "score": "12.319317",
+        "rank": "10655",
+        "new_score": "14.14206",
+        "new_rank": "4157"
+    },
+    {
+        "triple_to_explain": [
+            "Canton_of_Illiers-Combray",
+            "containedInPlace",
+            "Arrondissement_of_Ch\u00e2teaudun"
+        ],
+        "rule": [
+            [
+                "Arrondissement_of_Ch\u00e2teaudun",
+                "containsPlace",
+                "Canton_of_Illiers-Combray"
+            ]
+        ],
+        "score": "20.016975",
+        "rank": "31",
+        "new_score": "27.859114",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Motala",
+            "containedInPlace",
+            "\u00d6sterg\u00f6tland"
+        ],
+        "rule": [
+            [
+                "Adolf_Erik_Nordenski\u00f6ld",
+                "birthPlace",
+                "Motala"
+            ]
+        ],
+        "score": "16.173157",
+        "rank": "3538",
+        "new_score": "18.3519",
+        "new_rank": "1592"
+    },
+    {
+        "triple_to_explain": [
+            "Living_Colour",
+            "genre",
+            "Alternative_metal"
+        ],
+        "rule": [
+            [
+                "David_Draiman",
+                "memberOf",
+                "Living_Colour"
+            ]
+        ],
+        "score": "18.045183",
+        "rank": "4",
+        "new_score": "19.444996",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Moers",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule": [
+            [
+                "Moers",
+                "containedInPlace",
+                "Friedrichroda"
+            ]
+        ],
+        "score": "14.020289",
+        "rank": "2",
+        "new_score": "17.830093",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Rugby_Europe",
+            "sport",
+            "Rugby_union"
+        ],
+        "rule": [
+            [
+                "Australia_women's_national_rugby_union_team",
+                "parentOrganization",
+                "Rugby_Europe"
+            ]
+        ],
+        "score": "5.773531",
+        "rank": "15",
+        "new_score": "9.808335",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Al_Cliver",
+            "givenName",
+            "Al_(given_name)"
+        ],
+        "rule": [
+            [
+                "Al_Cliver",
+                "children",
+                "Al_Di_Meola"
+            ]
+        ],
+        "score": "10.210206",
+        "rank": "659",
+        "new_score": "15.006056",
+        "new_rank": "94"
+    },
+    {
+        "triple_to_explain": [
+            "Belize_national_football_team",
+            "sport",
+            "Association_football"
+        ],
+        "rule": [
+            [
+                "Belize_national_football_team",
+                "memberOf",
+                "FIFA"
+            ]
+        ],
+        "score": "8.655987",
+        "rank": "5",
+        "new_score": "11.574333",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Amiiformes",
+            "taxonRank",
+            "Order_(biology)"
+        ],
+        "rule": [
+            [
+                "Agnostida",
+                "parentTaxon",
+                "Amiiformes"
+            ]
+        ],
+        "score": "15.910089",
+        "rank": "2",
+        "new_score": "18.436255",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Garin_Nugroho",
+            "nationality",
+            "Indonesia"
+        ],
+        "rule": [
+            [
+                "Garin_Nugroho",
+                "deathPlace",
+                "Indonesia"
+            ]
+        ],
+        "score": "11.15511",
+        "rank": "8",
+        "new_score": "13.731854",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Inter_Milan_Women",
+            "sponsor",
+            "Konami"
+        ],
+        "rule": [
+            [
+                "Antonio_Cassano",
+                "memberOf",
+                "Inter_Milan_Women"
+            ]
+        ],
+        "score": "12.57939",
+        "rank": "15",
+        "new_score": "14.757173",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Guillermo_Rivas_(actor)",
+            "nationality",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "'Til_There_Was_You",
+                "creator",
+                "Guillermo_Rivas_(actor)"
+            ]
+        ],
+        "score": "16.49262",
+        "rank": "3",
+        "new_score": "22.747616",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Inter_Milan_Women",
+            "sponsor",
+            "Sky_Limited"
+        ],
+        "rule": [
+            [
+                "Emiliano_Viviano",
+                "memberOf",
+                "Inter_Milan_Women"
+            ]
+        ],
+        "score": "13.624788",
+        "rank": "11",
+        "new_score": "16.329119",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "John_Llewellyn_Moxey",
+            "nationality",
+            "Argentina"
+        ],
+        "rule": [
+            [
+                "Buenas_noches,_Buenos_Aires",
+                "actor",
+                "John_Llewellyn_Moxey"
+            ]
+        ],
+        "score": "14.121093",
+        "rank": "5",
+        "new_score": "17.926476",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Coast_Mountains",
+            "containedInPlace",
+            "Pacific_Coast_Ranges"
+        ],
+        "rule": [
+            [
+                "Coast_Mountains",
+                "containedInPlace",
+                "Alaska_Range"
+            ]
+        ],
+        "score": "15.702736",
+        "rank": "227",
+        "new_score": "25.702646",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Acad\u00e9mie_de_Marseille",
+            "founder",
+            "Louis_XV_of_France"
+        ],
+        "rule": [
+            [
+                "Acad\u00e9mie_de_Marseille",
+                "founder",
+                "Marie_Leszczy\u0144ska"
+            ]
+        ],
+        "score": "0.47753218",
+        "rank": "8262",
+        "new_score": "12.197871",
+        "new_rank": "34"
+    },
+    {
+        "triple_to_explain": [
+            "Ayr",
+            "containedInPlace",
+            "South_Ayrshire"
+        ],
+        "rule": [
+            [
+                "Ayr",
+                "containedInPlace",
+                "Argyll"
+            ]
+        ],
+        "score": "25.785439",
+        "rank": "2",
+        "new_score": "23.785168",
+        "new_rank": "3"
+    }
+]

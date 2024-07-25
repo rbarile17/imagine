@@ -1,0 +1,2252 @@
+[
+    {
+        "triple_to_explain": [
+            "Mithun_Chakraborty",
+            "award",
+            "National_Film_Award_for_Best_Actor"
+        ],
+        "rule": [
+            [
+                "Mithun_Chakraborty",
+                "knowsLanguage",
+                "Bengali_language"
+            ]
+        ],
+        "score": "18.468142",
+        "rank": "1",
+        "new_score": "21.81881",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Robert_Towne",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Robert_Towne",
+                "award",
+                "Edgar_Award"
+            ],
+            [
+                "Robert_Towne",
+                "hasOccupation",
+                "Film_producer"
+            ],
+            [
+                "Robert_Towne",
+                "nationality",
+                "United_States"
+            ]
+        ],
+        "score": "27.33037",
+        "rank": "1",
+        "new_score": "27.966187",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Arthur_Hiller",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Arthur_Hiller",
+                "hasOccupation",
+                "Actor"
+            ],
+            [
+                "Love_Story_(1970_film)",
+                "director",
+                "Arthur_Hiller"
+            ],
+            [
+                "Pitch_(film)",
+                "actor",
+                "Arthur_Hiller"
+            ]
+        ],
+        "score": "25.742321",
+        "rank": "1",
+        "new_score": "28.40842",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Yuri_Andropov",
+            "hasOccupation",
+            "Diplomat"
+        ],
+        "rule": [
+            [
+                "Yuri_Andropov",
+                "award",
+                "Jubilee_Medal_%2260_Years_of_the_Armed_Forces_of_the_USSR%22"
+            ],
+            [
+                "Yuri_Andropov",
+                "award",
+                "Jubilee_Medal_%22In_Commemoration_of_the_100th_Anniversary_of_the_Birth_of_Vladimir_Ilyich_Lenin%22"
+            ],
+            [
+                "Yuri_Andropov",
+                "hasOccupation",
+                "Politician"
+            ],
+            [
+                "Yuri_Andropov",
+                "knowsLanguage",
+                "Russian_language"
+            ]
+        ],
+        "score": "24.888",
+        "rank": "1",
+        "new_score": "31.626776",
+        "new_rank": "18"
+    },
+    {
+        "triple_to_explain": [
+            "Paul_Wegener",
+            "knowsLanguage",
+            "German_language"
+        ],
+        "rule": [
+            [
+                "Paul_Wegener",
+                "givenName",
+                "Paul_(given_name)"
+            ]
+        ],
+        "score": "22.903875",
+        "rank": "1",
+        "new_score": "26.483051",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jagiellonian_University",
+            "memberOf",
+            "Coimbra_Group"
+        ],
+        "rule": [
+            [
+                "Juli_Zeh",
+                "alumniOf",
+                "Jagiellonian_University"
+            ]
+        ],
+        "score": "20.629429",
+        "rank": "1",
+        "new_score": "23.73581",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Andr\u00e9_Simonyi",
+            "hasOccupation",
+            "Football_player"
+        ],
+        "rule": [
+            [
+                "Andr\u00e9_Simonyi",
+                "memberOf",
+                "CO_Roubaix-Tourcoing"
+            ]
+        ],
+        "score": "27.539461",
+        "rank": "1",
+        "new_score": "26.705631",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Terry_Kiser",
+            "nationality",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Lois_&_Clark:_The_New_Adventures_of_Superman",
+                "actor",
+                "Terry_Kiser"
+            ]
+        ],
+        "score": "20.397274",
+        "rank": "1",
+        "new_score": "22.323353",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Fritz_Wepper",
+            "nationality",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Die_Br\u00fccke_(film)",
+                "actor",
+                "Fritz_Wepper"
+            ]
+        ],
+        "score": "21.763468",
+        "rank": "1",
+        "new_score": "17.98154",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Colin_Hanks",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Colin_Hanks",
+                "hasOccupation",
+                "Film_producer"
+            ]
+        ],
+        "score": "27.577784",
+        "rank": "1",
+        "new_score": "31.928385",
+        "new_rank": "25"
+    },
+    {
+        "triple_to_explain": [
+            "M\u00fchlacker",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule": [
+            [
+                "M\u00fchlacker",
+                "memberOf",
+                "Climate_Alliance"
+            ]
+        ],
+        "score": "18.993885",
+        "rank": "1",
+        "new_score": "27.979328",
+        "new_rank": "2061"
+    },
+    {
+        "triple_to_explain": [
+            "Takashi_Yamazaki",
+            "knowsLanguage",
+            "Japanese_language"
+        ],
+        "rule": [
+            [
+                "Takashi_Yamazaki",
+                "givenName",
+                "Takashi"
+            ],
+            [
+                "Takashi_Yamazaki",
+                "hasOccupation",
+                "Television_director"
+            ],
+            [
+                "Takashi_Yamazaki",
+                "homeLocation",
+                "Nagano_Prefecture"
+            ]
+        ],
+        "score": "25.693752",
+        "rank": "1",
+        "new_score": "27.266191",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Roberto_Marinho",
+            "deathPlace",
+            "Rio_de_Janeiro"
+        ],
+        "rule": [
+            [
+                "Roberto_Marinho",
+                "birthPlace",
+                "Rio_de_Janeiro"
+            ]
+        ],
+        "score": "19.13896",
+        "rank": "1",
+        "new_score": "24.70699",
+        "new_rank": "37"
+    },
+    {
+        "triple_to_explain": [
+            "Aliens_(film)",
+            "award",
+            "Hugo_Award_for_Best_Dramatic_Presentation"
+        ],
+        "rule": [
+            [
+                "Aliens_(film)",
+                "award",
+                "Saturn_Award_for_Best_Director"
+            ]
+        ],
+        "score": "20.28688",
+        "rank": "1",
+        "new_score": "21.303164",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)",
+            "musicBy",
+            "William_Axt"
+        ],
+        "rule": [
+            [
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)",
+                "director",
+                "Fred_Niblo"
+            ]
+        ],
+        "score": "18.216114",
+        "rank": "1",
+        "new_score": "21.152784",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Graham_Lewis_(footballer)",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "Graham_Lewis_(footballer)",
+                "memberOf",
+                "Frickley_Athletic_F.C."
+            ],
+            [
+                "Graham_Lewis_(footballer)",
+                "memberOf",
+                "Ilkeston_Town_F.C._(1945)"
+            ]
+        ],
+        "score": "20.412266",
+        "rank": "1",
+        "new_score": "24.232012",
+        "new_rank": "20"
+    },
+    {
+        "triple_to_explain": [
+            "Pietro_De_Vico",
+            "nationality",
+            "Kingdom_of_Italy"
+        ],
+        "rule": [
+            [
+                "Ferdinando_I,_re_di_Napoli",
+                "actor",
+                "Pietro_De_Vico"
+            ]
+        ],
+        "score": "19.88925",
+        "rank": "1",
+        "new_score": "20.049116",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Alexei_Ivanovich_Abrikosov",
+            "award",
+            "Order_of_the_Red_Banner_of_Labour"
+        ],
+        "rule": [
+            [
+                "Alexei_Ivanovich_Abrikosov",
+                "memberOf",
+                "Academy_of_Sciences_of_the_Soviet_Union"
+            ]
+        ],
+        "score": "14.82778",
+        "rank": "1",
+        "new_score": "20.24222",
+        "new_rank": "88"
+    },
+    {
+        "triple_to_explain": [
+            "Cristian_Mungiu",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Cristian_Mungiu",
+                "award",
+                "Cannes_Film_Festival_Award_for_Best_Director"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "Palme_d'Or"
+            ],
+            [
+                "Cristian_Mungiu",
+                "hasOccupation",
+                "Screenwriter"
+            ],
+            [
+                "Cristian_Mungiu",
+                "alumniOf",
+                "Caragiale_Academy_of_Theatrical_Arts_and_Cinematography"
+            ]
+        ],
+        "score": "28.473806",
+        "rank": "1",
+        "new_score": "34.35109",
+        "new_rank": "139"
+    },
+    {
+        "triple_to_explain": [
+            "The_Gangster_(1947_film)",
+            "genre",
+            "Film_noir"
+        ],
+        "rule": [
+            [
+                "The_Gangster_(1947_film)",
+                "actor",
+                "Franklyn_Farnum"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "actor",
+                "Peter_Whitney"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "contentLocation",
+                "New_York_City"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "countryOfOrigin",
+                "United_States"
+            ]
+        ],
+        "score": "26.599705",
+        "rank": "1",
+        "new_score": "25.5568",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Au_grand_balcon",
+            "countryOfOrigin",
+            "France"
+        ],
+        "rule": [
+            [
+                "Au_grand_balcon",
+                "actor",
+                "Abel_Jacquin"
+            ],
+            [
+                "Au_grand_balcon",
+                "actor",
+                "Jean_Gaven"
+            ],
+            [
+                "Au_grand_balcon",
+                "musicBy",
+                "Joseph_Kosma"
+            ]
+        ],
+        "score": "27.165857",
+        "rank": "1",
+        "new_score": "26.98414",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Robert_Crippen",
+            "hasOccupation",
+            "Officer_(armed_forces)"
+        ],
+        "rule": [
+            [
+                "Robert_Crippen",
+                "hasOccupation",
+                "Astronaut"
+            ],
+            [
+                "Robert_Crippen",
+                "hasOccupation",
+                "Businessperson"
+            ],
+            [
+                "Robert_Crippen",
+                "birthPlace",
+                "Beaumont,_Texas"
+            ]
+        ],
+        "score": "24.14671",
+        "rank": "1",
+        "new_score": "29.80627",
+        "new_rank": "19"
+    },
+    {
+        "triple_to_explain": [
+            "Kellan_Lutz",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Generation_Kill_(miniseries)",
+                "actor",
+                "Kellan_Lutz"
+            ]
+        ],
+        "score": "30.846853",
+        "rank": "1",
+        "new_score": "29.011414",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "James_Whale",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "James_Whale",
+                "hasOccupation",
+                "Theatre_director"
+            ],
+            [
+                "Green_Hell_(film)",
+                "director",
+                "James_Whale"
+            ],
+            [
+                "Hell's_Angels_(film)",
+                "director",
+                "James_Whale"
+            ],
+            [
+                "The_Man_in_the_Iron_Mask_(1939_film)",
+                "director",
+                "James_Whale"
+            ]
+        ],
+        "score": "27.619165",
+        "rank": "1",
+        "new_score": "30.498331",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Rebel_in_the_Rye",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Rebel_in_the_Rye",
+                "actor",
+                "Bernard_White_(actor)"
+            ],
+            [
+                "Rebel_in_the_Rye",
+                "actor",
+                "Kevin_Spacey"
+            ],
+            [
+                "Rebel_in_the_Rye",
+                "actor",
+                "Will_Rogers"
+            ],
+            [
+                "Rebel_in_the_Rye",
+                "director",
+                "Danny_Strong"
+            ]
+        ],
+        "score": "26.203285",
+        "rank": "1",
+        "new_score": "24.144087",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Michael_Redgrave",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "Oh!_What_a_Lovely_War",
+                "actor",
+                "Michael_Redgrave"
+            ]
+        ],
+        "score": "18.912664",
+        "rank": "1",
+        "new_score": "22.79225",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jenny_McCarthy",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Diamonds_(1999_film)",
+                "actor",
+                "Jenny_McCarthy"
+            ],
+            [
+                "Scream_3",
+                "actor",
+                "Jenny_McCarthy"
+            ],
+            [
+                "Jenny_McCarthy",
+                "award",
+                "Playboy_Playmate"
+            ]
+        ],
+        "score": "27.657362",
+        "rank": "1",
+        "new_score": "32.699673",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Marcel_Dassault",
+            "knowsLanguage",
+            "French_language"
+        ],
+        "rule": [
+            [
+                "Marcel_Dassault",
+                "memberOf",
+                "Union_for_the_New_Republic"
+            ],
+            [
+                "Marcel_Dassault",
+                "nationality",
+                "France"
+            ]
+        ],
+        "score": "24.08999",
+        "rank": "1",
+        "new_score": "24.964098",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Maldives",
+            "memberOf",
+            "International_Bank_for_Reconstruction_and_Development"
+        ],
+        "rule": [
+            [
+                "Maldives",
+                "memberOf",
+                "UNESCO"
+            ]
+        ],
+        "score": "19.107046",
+        "rank": "1",
+        "new_score": "23.063871",
+        "new_rank": "25"
+    },
+    {
+        "triple_to_explain": [
+            "Alf_Kjellin",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Alf_Kjellin",
+                "deathPlace",
+                "Los_Angeles"
+            ],
+            [
+                "My_Six_Convicts",
+                "actor",
+                "Alf_Kjellin"
+            ],
+            [
+                "Alf_Kjellin",
+                "birthPlace",
+                "Lund"
+            ]
+        ],
+        "score": "26.963375",
+        "rank": "1",
+        "new_score": "33.509533",
+        "new_rank": "24"
+    },
+    {
+        "triple_to_explain": [
+            "Giacomo_Gentilomo",
+            "nationality",
+            "Kingdom_of_Italy"
+        ],
+        "rule": [
+            [
+                "Giacomo_Gentilomo",
+                "deathPlace",
+                "Rome"
+            ]
+        ],
+        "score": "20.613306",
+        "rank": "1",
+        "new_score": "23.06456",
+        "new_rank": "23"
+    },
+    {
+        "triple_to_explain": [
+            "Carl_Wieman",
+            "memberOf",
+            "American_Academy_of_Arts_and_Sciences"
+        ],
+        "rule": [
+            [
+                "Carl_Wieman",
+                "award",
+                "Richtmyer_Memorial_Award"
+            ]
+        ],
+        "score": "17.23114",
+        "rank": "1",
+        "new_score": "20.004858",
+        "new_rank": "13"
+    },
+    {
+        "triple_to_explain": [
+            "Art_Smith_(actor)",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Arch_of_Triumph_(1948_film)",
+                "actor",
+                "Art_Smith_(actor)"
+            ],
+            [
+                "Art_Smith_(actor)",
+                "deathPlace",
+                "Long_Island"
+            ],
+            [
+                "South_of_St._Louis",
+                "actor",
+                "Art_Smith_(actor)"
+            ]
+        ],
+        "score": "31.434551",
+        "rank": "1",
+        "new_score": "32.293846",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "From_Dusk_till_Dawn:_The_Series",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "From_Dusk_till_Dawn:_The_Series",
+                "actor",
+                "Demi_Lovato"
+            ],
+            [
+                "From_Dusk_till_Dawn:_The_Series",
+                "actor",
+                "Joanna_Going"
+            ],
+            [
+                "From_Dusk_till_Dawn:_The_Series",
+                "isBasedOn",
+                "From_Dusk_till_Dawn"
+            ]
+        ],
+        "score": "23.719633",
+        "rank": "1",
+        "new_score": "25.645824",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Compton_Bennett",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule": [
+            [
+                "Compton_Bennett",
+                "hasOccupation",
+                "Screenwriter"
+            ],
+            [
+                "Compton_Bennett",
+                "nationality",
+                "United_Kingdom"
+            ],
+            [
+                "That_Forsyte_Woman",
+                "director",
+                "Compton_Bennett"
+            ]
+        ],
+        "score": "27.862518",
+        "rank": "1",
+        "new_score": "32.51435",
+        "new_rank": "229"
+    },
+    {
+        "triple_to_explain": [
+            "The_Man_with_the_Golden_Gun_(film)",
+            "genre",
+            "Spy_film"
+        ],
+        "rule": [
+            [
+                "The_Man_with_the_Golden_Gun_(film)",
+                "genre",
+                "Action_film"
+            ]
+        ],
+        "score": "24.504833",
+        "rank": "1",
+        "new_score": "21.456667",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Suzan-Lori_Parks",
+            "hasOccupation",
+            "Playwright"
+        ],
+        "rule": [
+            [
+                "Suzan-Lori_Parks",
+                "award",
+                "Windham\u2013Campbell_Literature_Prizes"
+            ]
+        ],
+        "score": "29.02807",
+        "rank": "1",
+        "new_score": "27.688381",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Nikolai_Bulganin",
+            "knowsLanguage",
+            "Russian_language"
+        ],
+        "rule": [
+            [
+                "Nikolai_Bulganin",
+                "award",
+                "Jubilee_Medal_%2230_Years_of_the_Soviet_Army_and_Navy%22"
+            ],
+            [
+                "Nikolai_Bulganin",
+                "award",
+                "Medal_%22For_the_Defence_of_Moscow%22"
+            ],
+            [
+                "Nikolai_Bulganin",
+                "nationality",
+                "Soviet_Union"
+            ]
+        ],
+        "score": "23.980738",
+        "rank": "1",
+        "new_score": "19.856115",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Renato_Scarpa",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "The_Talented_Mr._Ripley_(film)",
+                "actor",
+                "Renato_Scarpa"
+            ]
+        ],
+        "score": "29.076307",
+        "rank": "1",
+        "new_score": "33.682327",
+        "new_rank": "83"
+    },
+    {
+        "triple_to_explain": [
+            "Paul_and_Pauline",
+            "countryOfOrigin",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Paul_and_Pauline",
+                "actor",
+                "Kurt_Vespermann"
+            ]
+        ],
+        "score": "28.308533",
+        "rank": "1",
+        "new_score": "27.357431",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Altered_States",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Altered_States",
+                "musicBy",
+                "John_Corigliano"
+            ],
+            [
+                "Altered_States",
+                "contentLocation",
+                "Boston"
+            ],
+            [
+                "Altered_States",
+                "genre",
+                "Thriller_film"
+            ]
+        ],
+        "score": "26.015938",
+        "rank": "1",
+        "new_score": "27.313154",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Isaac_Cuenca",
+            "hasOccupation",
+            "Football_player"
+        ],
+        "rule": [
+            [
+                "Isaac_Cuenca",
+                "memberOf",
+                "AFC_Ajax"
+            ]
+        ],
+        "score": "25.076174",
+        "rank": "1",
+        "new_score": "26.70472",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mintimer_Shaimiev",
+            "nationality",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "Mintimer_Shaimiev",
+                "knowsLanguage",
+                "Russian_language"
+            ]
+        ],
+        "score": "19.265194",
+        "rank": "1",
+        "new_score": "19.24926",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rudolf_Forster",
+            "knowsLanguage",
+            "German_language"
+        ],
+        "rule": [
+            [
+                "The_Rest_Is_Silence_(1959_film)",
+                "actor",
+                "Rudolf_Forster"
+            ]
+        ],
+        "score": "26.865484",
+        "rank": "1",
+        "new_score": "27.1891",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Malibu's_Most_Wanted",
+            "contentLocation",
+            "Los_Angeles"
+        ],
+        "rule": [
+            [
+                "Malibu's_Most_Wanted",
+                "actor",
+                "Nick_Swardson"
+            ],
+            [
+                "Malibu's_Most_Wanted",
+                "genre",
+                "Teen_film"
+            ]
+        ],
+        "score": "19.834959",
+        "rank": "1",
+        "new_score": "23.559183",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Don_Coscarelli",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Don_Coscarelli",
+                "hasOccupation",
+                "Cinematographer"
+            ],
+            [
+                "Don_Coscarelli",
+                "hasOccupation",
+                "Regisseur"
+            ],
+            [
+                "Don_Coscarelli",
+                "hasOccupation",
+                "Screenwriter"
+            ],
+            [
+                "Don_Coscarelli",
+                "alumniOf",
+                "Woodrow_Wilson_Classical_High_School"
+            ]
+        ],
+        "score": "27.165548",
+        "rank": "1",
+        "new_score": "29.214596",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "The_Big_Store",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "The_Big_Store",
+                "actor",
+                "Harpo_Marx"
+            ],
+            [
+                "The_Big_Store",
+                "actor",
+                "Russell_Hicks"
+            ],
+            [
+                "The_Big_Store",
+                "actor",
+                "William_Tannen"
+            ]
+        ],
+        "score": "29.038729",
+        "rank": "1",
+        "new_score": "27.128891",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "The_Astronaut_Farmer",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "The_Astronaut_Farmer",
+                "actor",
+                "Bruce_Willis"
+            ],
+            [
+                "The_Astronaut_Farmer",
+                "actor",
+                "Tim_Blake_Nelson"
+            ],
+            [
+                "The_Astronaut_Farmer",
+                "genre",
+                "Science_fiction_film"
+            ]
+        ],
+        "score": "22.487478",
+        "rank": "1",
+        "new_score": "26.449242",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Corinnidae",
+            "taxonRank",
+            "Family_(biology)"
+        ],
+        "rule": [
+            [
+                "Corinnidae",
+                "parentTaxon",
+                "Araneomorphae"
+            ]
+        ],
+        "score": "31.580065",
+        "rank": "1",
+        "new_score": "42.88047",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "John_Downer",
+            "honorificPrefix",
+            "Sir"
+        ],
+        "rule": [
+            [
+                "John_Downer",
+                "honorificPrefix",
+                "The_Honourable"
+            ]
+        ],
+        "score": "16.935791",
+        "rank": "1",
+        "new_score": "18.899305",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Divine_Comedy",
+            "character",
+            "Dante_Alighieri"
+        ],
+        "rule": [
+            [
+                "Divine_Comedy",
+                "author",
+                "Dante_Alighieri"
+            ]
+        ],
+        "score": "19.575594",
+        "rank": "1",
+        "new_score": "19.345068",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Robert_Menasse",
+            "nationality",
+            "Austria"
+        ],
+        "rule": [
+            [
+                "Robert_Menasse",
+                "knowsLanguage",
+                "German_language"
+            ]
+        ],
+        "score": "18.755762",
+        "rank": "1",
+        "new_score": "21.68183",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Tom_Schilling",
+            "birthPlace",
+            "Berlin"
+        ],
+        "rule": [
+            [
+                "Tom_Schilling",
+                "nationality",
+                "East_Germany"
+            ]
+        ],
+        "score": "20.195509",
+        "rank": "1",
+        "new_score": "21.270607",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Rudolf_Leuckart",
+            "memberOf",
+            "Bavarian_Academy_of_Sciences_and_Humanities"
+        ],
+        "rule": [
+            [
+                "Rudolf_Leuckart",
+                "memberOf",
+                "Academy_of_Sciences_Leopoldina"
+            ]
+        ],
+        "score": "13.870501",
+        "rank": "1",
+        "new_score": "20.8211",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Taxi_(2004_film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "John_Krasinski"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "contentLocation",
+                "New_York_City"
+            ]
+        ],
+        "score": "24.126835",
+        "rank": "1",
+        "new_score": "25.318548",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Austria",
+            "memberOf",
+            "African_Development_Bank"
+        ],
+        "rule": [
+            [
+                "Austria",
+                "memberOf",
+                "Interpol"
+            ]
+        ],
+        "score": "24.047205",
+        "rank": "1",
+        "new_score": "24.221838",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Mesophleps",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Mesophleps",
+                "parentTaxon",
+                "Gelechiidae"
+            ]
+        ],
+        "score": "33.569553",
+        "rank": "1",
+        "new_score": "36.742577",
+        "new_rank": "17"
+    },
+    {
+        "triple_to_explain": [
+            "Olzhas_Suleimenov",
+            "nationality",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "Olzhas_Suleimenov",
+                "birthPlace",
+                "Almaty"
+            ]
+        ],
+        "score": "20.291592",
+        "rank": "1",
+        "new_score": "21.78745",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "I_Spy_(film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "I_Spy_(film)",
+                "actor",
+                "Eddie_Murphy"
+            ],
+            [
+                "I_Spy_(film)",
+                "director",
+                "Betty_Thomas"
+            ],
+            [
+                "I_Spy_(film)",
+                "musicBy",
+                "Richard_Gibbs"
+            ]
+        ],
+        "score": "23.40148",
+        "rank": "1",
+        "new_score": "28.87579",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Teja_(director)",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Teja_(director)",
+                "hasOccupation",
+                "Film_director"
+            ]
+        ],
+        "score": "27.57857",
+        "rank": "1",
+        "new_score": "30.18162",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Dragan_Mi\u0107anovi\u0107",
+            "nationality",
+            "Serbia"
+        ],
+        "rule": [
+            [
+                "Barking_at_the_Stars",
+                "actor",
+                "Dragan_Mi\u0107anovi\u0107"
+            ],
+            [
+                "Dragan_Mi\u0107anovi\u0107",
+                "hasOccupation",
+                "Actor"
+            ],
+            [
+                "Dragan_Mi\u0107anovi\u0107",
+                "knowsLanguage",
+                "Serbian_language"
+            ]
+        ],
+        "score": "21.457508",
+        "rank": "1",
+        "new_score": "29.05951",
+        "new_rank": "282"
+    },
+    {
+        "triple_to_explain": [
+            "Rohit_Roy",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Rohit_Roy",
+                "knowsLanguage",
+                "Hindi"
+            ],
+            [
+                "Rohit_Roy",
+                "nationality",
+                "India"
+            ]
+        ],
+        "score": "32.848595",
+        "rank": "1",
+        "new_score": "38.82126",
+        "new_rank": "3675"
+    },
+    {
+        "triple_to_explain": [
+            "Houston_Cougars",
+            "sport",
+            "Basketball"
+        ],
+        "rule": [
+            [
+                "Houston_Cougars",
+                "sport",
+                "American_football"
+            ],
+            [
+                "Houston_Cougars",
+                "sport",
+                "Softball"
+            ]
+        ],
+        "score": "28.645658",
+        "rank": "1",
+        "new_score": "39.924873",
+        "new_rank": "23"
+    },
+    {
+        "triple_to_explain": [
+            "Six_Meetings_Before_Lunch",
+            "actor",
+            "Bradley_Whitford"
+        ],
+        "rule": [
+            [
+                "Six_Meetings_Before_Lunch",
+                "actor",
+                "Martin_Sheen"
+            ]
+        ],
+        "score": "13.387953",
+        "rank": "1",
+        "new_score": "15.330483",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "'Til_We_Meet_Again",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "George_Reeves"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "musicBy",
+                "Heinz_Roemheld"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Paul_Panzer"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "director",
+                "William_Keighley"
+            ]
+        ],
+        "score": "26.224768",
+        "rank": "1",
+        "new_score": "28.921318",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Beatriz,_Duchess_of_Viseu",
+            "nationality",
+            "Portugal"
+        ],
+        "rule": [
+            [
+                "Beatriz,_Duchess_of_Viseu",
+                "birthPlace",
+                "Portugal"
+            ],
+            [
+                "Beatriz,_Duchess_of_Viseu",
+                "deathPlace",
+                "Kingdom_of_Portugal"
+            ]
+        ],
+        "score": "18.020948",
+        "rank": "1",
+        "new_score": "27.739624",
+        "new_rank": "561"
+    },
+    {
+        "triple_to_explain": [
+            "Rocky_Carroll",
+            "award",
+            "Theatre_World_Award"
+        ],
+        "rule": [
+            [
+                "Crimson_Tide_(film)",
+                "actor",
+                "Rocky_Carroll"
+            ]
+        ],
+        "score": "23.307682",
+        "rank": "1",
+        "new_score": "22.250391",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Indian_Statistical_Institute",
+            "containedInPlace",
+            "North_24_Parganas_district"
+        ],
+        "rule": [
+            [
+                "Indian_Statistical_Institute",
+                "containedInPlace",
+                "Baranagar"
+            ]
+        ],
+        "score": "10.061606",
+        "rank": "1",
+        "new_score": "16.216553",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Odette_Joyeux",
+            "knowsLanguage",
+            "French_language"
+        ],
+        "rule": [
+            [
+                "Odette_Joyeux",
+                "spouse",
+                "Pierre_Brasseur"
+            ]
+        ],
+        "score": "23.547064",
+        "rank": "1",
+        "new_score": "18.159086",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Carlo_Romano",
+            "knowsLanguage",
+            "Italian_language"
+        ],
+        "rule": [
+            [
+                "Dina_Romano",
+                "children",
+                "Carlo_Romano"
+            ],
+            [
+                "Beauties_on_Bicycles",
+                "actor",
+                "Carlo_Romano"
+            ],
+            [
+                "Carlo_Romano",
+                "deathPlace",
+                "Rome"
+            ]
+        ],
+        "score": "24.10902",
+        "rank": "1",
+        "new_score": "22.116726",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "John_Paul_Jones_(film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "John_Paul_Jones_(film)",
+                "actor",
+                "Charles_Coburn"
+            ],
+            [
+                "John_Paul_Jones_(film)",
+                "musicBy",
+                "Max_Steiner"
+            ]
+        ],
+        "score": "28.397448",
+        "rank": "1",
+        "new_score": "26.442036",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bernard_Borderie",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Ang\u00e9lique,_Marquise_des_Anges",
+                "director",
+                "Bernard_Borderie"
+            ],
+            [
+                "Bernard_Borderie",
+                "deathPlace",
+                "Paris"
+            ],
+            [
+                "Brigade_antigangs",
+                "director",
+                "Bernard_Borderie"
+            ],
+            [
+                "Ces_dames_pr\u00e9f\u00e8rent_le_mambo",
+                "director",
+                "Bernard_Borderie"
+            ]
+        ],
+        "score": "28.400278",
+        "rank": "1",
+        "new_score": "32.518967",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Lucky_Lady",
+            "actor",
+            "Gene_Hackman"
+        ],
+        "rule": [
+            [
+                "Lucky_Lady",
+                "actor",
+                "Emilio_Fern\u00e1ndez"
+            ]
+        ],
+        "score": "15.537919",
+        "rank": "1",
+        "new_score": "18.52384",
+        "new_rank": "252"
+    },
+    {
+        "triple_to_explain": [
+            "2016_Volta_a_Catalunya",
+            "competitor",
+            "2016_Lampre\u2013Merida_season"
+        ],
+        "rule": [
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2016_IAM_Cycling_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2016_Lotto\u2013Soudal_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2016_Team_Giant\u2013Alpecin_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2016_Team_LottoNL\u2013Jumbo_season"
+            ]
+        ],
+        "score": "16.463829",
+        "rank": "1",
+        "new_score": "21.736053",
+        "new_rank": "449"
+    },
+    {
+        "triple_to_explain": [
+            "Flavio_Lazzari",
+            "nationality",
+            "Italy"
+        ],
+        "rule": [
+            [
+                "Flavio_Lazzari",
+                "birthPlace",
+                "Rome"
+            ]
+        ],
+        "score": "23.238977",
+        "rank": "1",
+        "new_score": "24.658579",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Arjun_Rampal",
+            "knowsLanguage",
+            "Hindi"
+        ],
+        "rule": [
+            [
+                "Arjun_Rampal",
+                "hasOccupation",
+                "Film_producer"
+            ]
+        ],
+        "score": "24.168467",
+        "rank": "1",
+        "new_score": "21.330484",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Isaac_Bashevis_Singer",
+            "knowsLanguage",
+            "Polish_language"
+        ],
+        "rule": [
+            [
+                "Isaac_Bashevis_Singer",
+                "hasOccupation",
+                "Translator"
+            ],
+            [
+                "Isaac_Bashevis_Singer",
+                "memberOf",
+                "American_Academy_of_Arts_and_Letters"
+            ],
+            [
+                "Isaac_Bashevis_Singer",
+                "nationality",
+                "Poland"
+            ]
+        ],
+        "score": "23.280481",
+        "rank": "1",
+        "new_score": "26.919653",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Jumper_(2008_film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Jumper_(2008_film)",
+                "actor",
+                "Hayden_Christensen"
+            ],
+            [
+                "Jumper_(2008_film)",
+                "contentLocation",
+                "Hong_Kong"
+            ],
+            [
+                "Jumper_(2008_film)",
+                "productionCompany",
+                "20th_Century_Studios"
+            ],
+            [
+                "Jumper_(2008_film)",
+                "productionCompany",
+                "Regency_Enterprises"
+            ]
+        ],
+        "score": "26.15023",
+        "rank": "1",
+        "new_score": "24.278893",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Marc_Levin",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Marc_Levin",
+                "alumniOf",
+                "Wesleyan_University"
+            ],
+            [
+                "Marc_Levin",
+                "familyName",
+                "Levin_(surname)"
+            ],
+            [
+                "Marc_Levin",
+                "givenName",
+                "Marc_(given_name)"
+            ],
+            [
+                "Marc_Levin",
+                "hasOccupation",
+                "Film_producer"
+            ]
+        ],
+        "score": "27.70442",
+        "rank": "1",
+        "new_score": "35.200073",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "In_Harm's_Way",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "In_Harm's_Way",
+                "actor",
+                "George_Kennedy"
+            ],
+            [
+                "In_Harm's_Way",
+                "actor",
+                "Patricia_Neal"
+            ],
+            [
+                "In_Harm's_Way",
+                "actor",
+                "Paula_Prentiss"
+            ],
+            [
+                "In_Harm's_Way",
+                "genre",
+                "War_film"
+            ]
+        ],
+        "score": "27.646214",
+        "rank": "1",
+        "new_score": "25.34844",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "All_the_President's_Men_(film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "All_the_President's_Men_(film)",
+                "actor",
+                "Hal_Holbrook"
+            ],
+            [
+                "All_the_President's_Men_(film)",
+                "actor",
+                "John_McMartin"
+            ],
+            [
+                "All_the_President's_Men_(film)",
+                "actor",
+                "Martin_Balsam"
+            ]
+        ],
+        "score": "20.884283",
+        "rank": "1",
+        "new_score": "23.581127",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "G\u00e9rard_Philipe",
+            "nationality",
+            "France"
+        ],
+        "rule": [
+            [
+                "G\u00e9rard_Philipe",
+                "birthPlace",
+                "Cannes"
+            ]
+        ],
+        "score": "20.288643",
+        "rank": "1",
+        "new_score": "20.832098",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Sean_Pertwee",
+            "birthPlace",
+            "London"
+        ],
+        "rule": [
+            [
+                "Sean_Pertwee",
+                "hasOccupation",
+                "Film_producer"
+            ]
+        ],
+        "score": "15.754512",
+        "rank": "1",
+        "new_score": "21.584562",
+        "new_rank": "104"
+    },
+    {
+        "triple_to_explain": [
+            "Gulshan_Grover",
+            "knowsLanguage",
+            "Hindi"
+        ],
+        "rule": [
+            [
+                "Mashaal",
+                "actor",
+                "Gulshan_Grover"
+            ]
+        ],
+        "score": "21.65356",
+        "rank": "1",
+        "new_score": "23.412521",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "A._R._Rahman",
+            "hasOccupation",
+            "Music_director"
+        ],
+        "rule": [
+            [
+                "Kandukondain_Kandukondain",
+                "musicBy",
+                "A._R._Rahman"
+            ]
+        ],
+        "score": "24.666765",
+        "rank": "1",
+        "new_score": "26.809097",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "David_Mich\u00f4d",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Animal_Kingdom_(film)",
+                "actor",
+                "David_Mich\u00f4d"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "alumniOf",
+                "Sydney_Grammar_School"
+            ]
+        ],
+        "score": "27.277596",
+        "rank": "1",
+        "new_score": "26.722551",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jean_Dast\u00e9",
+            "knowsLanguage",
+            "French_language"
+        ],
+        "rule": [
+            [
+                "Jean_Dast\u00e9",
+                "hasOccupation",
+                "Stage_actor"
+            ],
+            [
+                "The_War_Is_Over_(1966_film)",
+                "actor",
+                "Jean_Dast\u00e9"
+            ],
+            [
+                "Under_Western_Eyes_(1936_film)",
+                "actor",
+                "Jean_Dast\u00e9"
+            ]
+        ],
+        "score": "23.823982",
+        "rank": "1",
+        "new_score": "26.769327",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Josef_Bierbichler",
+            "nationality",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Josef_Bierbichler",
+                "knowsLanguage",
+                "German_language"
+            ]
+        ],
+        "score": "22.683636",
+        "rank": "1",
+        "new_score": "26.829325",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "This_Is_My_Affair",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "This_Is_My_Affair",
+                "actor",
+                "Alan_Dinehart"
+            ],
+            [
+                "This_Is_My_Affair",
+                "actor",
+                "Marjorie_Weaver"
+            ],
+            [
+                "This_Is_My_Affair",
+                "actor",
+                "Robert_McWade"
+            ]
+        ],
+        "score": "27.909824",
+        "rank": "1",
+        "new_score": "26.252337",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "J._V._Somayajulu",
+            "nationality",
+            "India"
+        ],
+        "rule": [
+            [
+                "J._V._Somayajulu",
+                "birthPlace",
+                "Srikakulam_district"
+            ]
+        ],
+        "score": "20.140575",
+        "rank": "1",
+        "new_score": "21.616495",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hearts_of_the_World",
+            "director",
+            "D._W._Griffith"
+        ],
+        "rule": [
+            [
+                "Hearts_of_the_World",
+                "producer",
+                "D._W._Griffith"
+            ]
+        ],
+        "score": "15.960816",
+        "rank": "1",
+        "new_score": "21.744017",
+        "new_rank": "50"
+    },
+    {
+        "triple_to_explain": [
+            "Olga_Chekhova",
+            "knowsLanguage",
+            "Russian_language"
+        ],
+        "rule": [
+            [
+                "Michael_Chekhov",
+                "spouse",
+                "Olga_Chekhova"
+            ]
+        ],
+        "score": "24.92932",
+        "rank": "1",
+        "new_score": "26.93321",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Mateja_Ke\u017eman",
+            "hasOccupation",
+            "Football_player"
+        ],
+        "rule": [
+            [
+                "Mateja_Ke\u017eman",
+                "memberOf",
+                "FK_Zemun"
+            ]
+        ],
+        "score": "25.877111",
+        "rank": "1",
+        "new_score": "24.969662",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Borys_Paton",
+            "memberOf",
+            "Russian_Academy_of_Sciences"
+        ],
+        "rule": [
+            [
+                "Borys_Paton",
+                "hasOccupation",
+                "Politician"
+            ]
+        ],
+        "score": "17.03283",
+        "rank": "1",
+        "new_score": "18.42273",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Franco_Fabrizi",
+            "nationality",
+            "Kingdom_of_Italy"
+        ],
+        "rule": [
+            [
+                "Franco_Fabrizi",
+                "knowsLanguage",
+                "Italian_language"
+            ]
+        ],
+        "score": "20.292637",
+        "rank": "1",
+        "new_score": "19.751583",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Glipostenoda",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Glipostenoda",
+                "parentTaxon",
+                "Mordellidae"
+            ]
+        ],
+        "score": "35.607437",
+        "rank": "1",
+        "new_score": "41.28322",
+        "new_rank": "184"
+    },
+    {
+        "triple_to_explain": [
+            "Don_S._Davis",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Don_S._Davis",
+                "alumniOf",
+                "Southern_Illinois_University_Carbondale"
+            ],
+            [
+                "Don_S._Davis",
+                "familyName",
+                "Davis_(surname)"
+            ],
+            [
+                "Hook_(film)",
+                "actor",
+                "Don_S._Davis"
+            ],
+            [
+                "Look_Who's_Talking",
+                "actor",
+                "Don_S._Davis"
+            ]
+        ],
+        "score": "28.682974",
+        "rank": "1",
+        "new_score": "32.118683",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Uwe_Timm",
+            "memberOf",
+            "Deutsche_Akademie_f\u00fcr_Sprache_und_Dichtung"
+        ],
+        "rule": [
+            [
+                "Uwe_Timm",
+                "memberOf",
+                "Sozialistischer_Deutscher_Studentenbund"
+            ]
+        ],
+        "score": "13.270308",
+        "rank": "1",
+        "new_score": "16.408278",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Das_Boot",
+            "productionCompany",
+            "Bavaria_Film"
+        ],
+        "rule": [
+            [
+                "Das_Boot",
+                "actor",
+                "Heinz_Hoenig"
+            ]
+        ],
+        "score": "24.220541",
+        "rank": "1",
+        "new_score": "24.18125",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Gottfried_Schatz",
+            "memberOf",
+            "Academy_of_Sciences_Leopoldina"
+        ],
+        "rule": [
+            [
+                "Gottfried_Schatz",
+                "memberOf",
+                "Austrian_Academy_of_Sciences"
+            ]
+        ],
+        "score": "15.592539",
+        "rank": "1",
+        "new_score": "15.467642",
+        "new_rank": "3"
+    }
+]

@@ -1,0 +1,2007 @@
+[
+    {
+        "triple_to_explain": [
+            "Orange_line_(Kaohsiung_Metro)",
+            "type",
+            "Rapid_transit"
+        ],
+        "rule": [
+            [
+                "Orange_line_(Kaohsiung_Metro)",
+                "location",
+                "Kaohsiung"
+            ]
+        ],
+        "score": "15.821857",
+        "rank": "1",
+        "new_score": "14.0663395",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dorothy_Dalton",
+            "spouse",
+            "Lew_Cody"
+        ],
+        "rule": [
+            [
+                "Lew_Cody",
+                "spouse",
+                "Dorothy_Dalton"
+            ]
+        ],
+        "score": "29.966742",
+        "rank": "1",
+        "new_score": "14.938337",
+        "new_rank": "882"
+    },
+    {
+        "triple_to_explain": [
+            "Kahrizak_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Kahrizak_Rural_District",
+                "isPartOf",
+                "Tehran_province"
+            ],
+            [
+                "Kahrizak_Rural_District",
+                "isPartOf",
+                "Kahrizak_District"
+            ]
+        ],
+        "score": "22.522987",
+        "rank": "1",
+        "new_score": "10.377182",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lincoln_County,_Minnesota",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Lincoln_County,_Minnesota",
+                "state",
+                "Minnesota"
+            ]
+        ],
+        "score": "20.187096",
+        "rank": "1",
+        "new_score": "9.5925665",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Trzebiesz%C3%B3w",
+            "isPartOf",
+            "Lublin_Voivodeship"
+        ],
+        "rule": [
+            [
+                "%C5%81uk%C3%B3w_County",
+                "part",
+                "Gmina_Trzebiesz%C3%B3w"
+            ]
+        ],
+        "score": "22.17172",
+        "rank": "1",
+        "new_score": "17.258574",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Zonguldak",
+            "country",
+            "Turkey"
+        ],
+        "rule": [
+            [
+                "Zonguldak",
+                "leaderParty",
+                "Republican_People%27s_Party"
+            ]
+        ],
+        "score": "18.485184",
+        "rank": "1",
+        "new_score": "6.060712",
+        "new_rank": "177"
+    },
+    {
+        "triple_to_explain": [
+            "Pope_County,_Minnesota",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Pope_County,_Minnesota",
+                "state",
+                "Minnesota"
+            ]
+        ],
+        "score": "20.33608",
+        "rank": "1",
+        "new_score": "9.594466",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Leslie_Kong",
+            "genre",
+            "Reggae"
+        ],
+        "rule": [
+            [
+                "Leslie_Kong",
+                "genre",
+                "Ska"
+            ],
+            [
+                "Island_Records",
+                "foundedBy",
+                "Leslie_Kong"
+            ]
+        ],
+        "score": "13.416206",
+        "rank": "1",
+        "new_score": "-1.4422503",
+        "new_rank": "1050"
+    },
+    {
+        "triple_to_explain": [
+            "Shin_Hyun-joon_(actor)",
+            "birthPlace",
+            "South_Korea"
+        ],
+        "rule": [
+            [
+                "Shin_Hyun-joon_(actor)",
+                "birthPlace",
+                "Seoul"
+            ]
+        ],
+        "score": "19.037542",
+        "rank": "1",
+        "new_score": "8.269141",
+        "new_rank": "396"
+    },
+    {
+        "triple_to_explain": [
+            "Shahr_Khodro_F.C.",
+            "position",
+            "Persian_Gulf_Pro_League"
+        ],
+        "rule": [
+            [
+                "Shahr_Khodro_F.C.",
+                "league",
+                "Persian_Gulf_Pro_League"
+            ],
+            [
+                "Shahr_Khodro_F.C.",
+                "season",
+                "2015%E2%80%9316_Persian_Gulf_Pro_League"
+            ]
+        ],
+        "score": "22.5461",
+        "rank": "1",
+        "new_score": "1.4472108",
+        "new_rank": "1650"
+    },
+    {
+        "triple_to_explain": [
+            "G%C3%BClnar",
+            "country",
+            "Turkey"
+        ],
+        "rule": [
+            [
+                "G%C3%BClnar",
+                "isPartOf",
+                "Mersin_Province"
+            ],
+            [
+                "G%C3%BClnar",
+                "leaderParty",
+                "Nationalist_Movement_Party"
+            ]
+        ],
+        "score": "22.260769",
+        "rank": "1",
+        "new_score": "6.060973",
+        "new_rank": "177"
+    },
+    {
+        "triple_to_explain": [
+            "A._M._Rathnam",
+            "residence",
+            "Hyderabad"
+        ],
+        "rule": [
+            [
+                "A._M._Rathnam",
+                "residence",
+                "Film_Nagar"
+            ]
+        ],
+        "score": "17.79125",
+        "rank": "1",
+        "new_score": "3.1848226",
+        "new_rank": "617"
+    },
+    {
+        "triple_to_explain": [
+            "Srebrenica",
+            "timeZone",
+            "Central_European_Time"
+        ],
+        "rule": [
+            [
+                "Srebrenica",
+                "timeZone",
+                "Central_European_Summer_Time"
+            ]
+        ],
+        "score": "16.207455",
+        "rank": "1",
+        "new_score": "3.3693366",
+        "new_rank": "34"
+    },
+    {
+        "triple_to_explain": [
+            "Wheeler_County,_Oregon",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Wheeler_County,_Oregon",
+                "state",
+                "Oregon"
+            ]
+        ],
+        "score": "19.514418",
+        "rank": "1",
+        "new_score": "9.59218",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "%C3%87ubuk",
+            "timeZone",
+            "Eastern_European_Summer_Time"
+        ],
+        "rule": [
+            [
+                "%C3%87ubuk",
+                "isPartOf",
+                "Ankara"
+            ],
+            [
+                "%C3%87ubuk",
+                "leaderName",
+                "Justice_and_Development_Party_(Turkey)"
+            ]
+        ],
+        "score": "13.254011",
+        "rank": "1",
+        "new_score": "2.215388",
+        "new_rank": "159"
+    },
+    {
+        "triple_to_explain": [
+            "San_Pedro_Department,_Paraguay",
+            "leaderParty",
+            "Colorado_Party_(Paraguay)"
+        ],
+        "rule": [
+            [
+                "San_Pedro_Department,_Paraguay",
+                "country",
+                "Paraguay"
+            ]
+        ],
+        "score": "25.349415",
+        "rank": "1",
+        "new_score": "9.428188",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Southeast_Missouri_State_University",
+            "type",
+            "Public_university"
+        ],
+        "rule": [
+            [
+                "Southeast_Missouri_State_University",
+                "state",
+                "Missouri"
+            ]
+        ],
+        "score": "14.038713",
+        "rank": "1",
+        "new_score": "5.6490316",
+        "new_rank": "20"
+    },
+    {
+        "triple_to_explain": [
+            "Ribera_d%27Ebre",
+            "country",
+            "Spain"
+        ],
+        "rule": [
+            [
+                "Ribera_d%27Ebre",
+                "timeZone",
+                "Central_European_Summer_Time"
+            ],
+            [
+                "Ribera_d%27Ebre",
+                "type",
+                "Comarques_of_Catalonia"
+            ]
+        ],
+        "score": "22.671038",
+        "rank": "1",
+        "new_score": "5.275032",
+        "new_rank": "431"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_K%C4%85ty_Wroc%C5%82awskie",
+            "isPartOf",
+            "Wroc%C5%82aw_County"
+        ],
+        "rule": [
+            [
+                "Wroc%C5%82aw_County",
+                "part",
+                "Gmina_K%C4%85ty_Wroc%C5%82awskie"
+            ]
+        ],
+        "score": "22.880198",
+        "rank": "1",
+        "new_score": "14.87777",
+        "new_rank": "44"
+    },
+    {
+        "triple_to_explain": [
+            "Regina_Cassandra",
+            "occupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Regina_Cassandra",
+                "birthPlace",
+                "Chennai"
+            ],
+            [
+                "Regina_Cassandra",
+                "birthPlace",
+                "Tamil_Nadu"
+            ]
+        ],
+        "score": "12.156287",
+        "rank": "1",
+        "new_score": "4.6559467",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Warren_Mitchell",
+            "deathPlace",
+            "London"
+        ],
+        "rule": [
+            [
+                "Warren_Mitchell",
+                "birthPlace",
+                "London"
+            ]
+        ],
+        "score": "17.604662",
+        "rank": "1",
+        "new_score": "11.640514",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Twentynine_Palms,_California",
+            "isPartOf",
+            "California"
+        ],
+        "rule": [
+            [
+                "Twentynine_Palms,_California",
+                "timeZone",
+                "Pacific_Time_Zone"
+            ]
+        ],
+        "score": "21.61793",
+        "rank": "1",
+        "new_score": "15.233162",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Fred_Guiol",
+            "occupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Fred_Guiol",
+                "occupation",
+                "Screenwriter"
+            ]
+        ],
+        "score": "14.683273",
+        "rank": "1",
+        "new_score": "7.0717893",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "CS_Mioveni",
+            "season",
+            "2015%E2%80%9316_Liga_II"
+        ],
+        "rule": [
+            [
+                "CS_Mioveni",
+                "position",
+                "Liga_II"
+            ]
+        ],
+        "score": "27.264479",
+        "rank": "1",
+        "new_score": "9.735032",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Lygropia",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule": [
+            [
+                "Lygropia",
+                "kingdom",
+                "Animal"
+            ],
+            [
+                "Lygropia",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "18.024605",
+        "rank": "1",
+        "new_score": "4.4286103",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Lutjanus",
+            "class",
+            "Actinopterygii"
+        ],
+        "rule": [
+            [
+                "Lutjanus",
+                "order",
+                "Perciformes"
+            ]
+        ],
+        "score": "17.281338",
+        "rank": "1",
+        "new_score": "6.639955",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Municipality_of_Ajdov%C5%A1%C4%8Dina",
+            "timeZone",
+            "Central_European_Summer_Time"
+        ],
+        "rule": [
+            [
+                "Municipality_of_Ajdov%C5%A1%C4%8Dina",
+                "country",
+                "Slovenia"
+            ]
+        ],
+        "score": "12.531542",
+        "rank": "1",
+        "new_score": "3.7673938",
+        "new_rank": "22"
+    },
+    {
+        "triple_to_explain": [
+            "Lincoln_County,_West_Virginia",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Lincoln_County,_West_Virginia",
+                "state",
+                "West_Virginia"
+            ]
+        ],
+        "score": "20.850533",
+        "rank": "1",
+        "new_score": "9.592833",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Carlo_Siliotto",
+            "birthPlace",
+            "Italy"
+        ],
+        "rule": [
+            [
+                "Carlo_Siliotto",
+                "birthPlace",
+                "Rome"
+            ]
+        ],
+        "score": "16.492426",
+        "rank": "1",
+        "new_score": "7.004407",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Glen_Cook",
+            "genre",
+            "Fantasy"
+        ],
+        "rule": [
+            [
+                "Glen_Cook",
+                "genre",
+                "Science_fiction"
+            ]
+        ],
+        "score": "14.713694",
+        "rank": "1",
+        "new_score": "4.802165",
+        "new_rank": "46"
+    },
+    {
+        "triple_to_explain": [
+            "Ozomdel-e_Jonubi_Rural_District",
+            "isPartOf",
+            "East_Azerbaijan_province"
+        ],
+        "rule": [
+            [
+                "Ozomdel-e_Jonubi_Rural_District",
+                "country",
+                "Iran"
+            ]
+        ],
+        "score": "22.156029",
+        "rank": "1",
+        "new_score": "17.122967",
+        "new_rank": "122"
+    },
+    {
+        "triple_to_explain": [
+            "Juan_Bustillo_Oro",
+            "deathPlace",
+            "Mexico"
+        ],
+        "rule": [
+            [
+                "Juan_Bustillo_Oro",
+                "birthPlace",
+                "Mexico"
+            ],
+            [
+                "Juan_Bustillo_Oro",
+                "birthPlace",
+                "Mexico_City"
+            ]
+        ],
+        "score": "18.566998",
+        "rank": "1",
+        "new_score": "1.9584975",
+        "new_rank": "1241"
+    },
+    {
+        "triple_to_explain": [
+            "Venturiaceae",
+            "class",
+            "Dothideomycetes"
+        ],
+        "rule": [
+            [
+                "Venturiaceae",
+                "order",
+                "Pleosporales"
+            ]
+        ],
+        "score": "16.108917",
+        "rank": "1",
+        "new_score": "4.2439547",
+        "new_rank": "35"
+    },
+    {
+        "triple_to_explain": [
+            "Liptougou_Department",
+            "type",
+            "Departments_of_Burkina_Faso"
+        ],
+        "rule": [
+            [
+                "Liptougou_Department",
+                "country",
+                "Burkina_Faso"
+            ],
+            [
+                "Liptougou_Department",
+                "isPartOf",
+                "Gnagna_Province"
+            ]
+        ],
+        "score": "21.250221",
+        "rank": "1",
+        "new_score": "6.31622",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Monroe,_Georgia",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Monroe,_Georgia",
+                "isPartOf",
+                "Georgia_(U.S._state)"
+            ]
+        ],
+        "score": "20.799238",
+        "rank": "1",
+        "new_score": "15.987608",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "FC_Solyaris_Moscow",
+            "season",
+            "2015%E2%80%9316_Russian_Professional_Football_League"
+        ],
+        "rule": [
+            [
+                "FC_Solyaris_Moscow",
+                "league",
+                "Russian_Second_League"
+            ]
+        ],
+        "score": "25.559122",
+        "rank": "1",
+        "new_score": "19.719486",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Ravenea",
+            "family",
+            "Arecaceae"
+        ],
+        "rule": [
+            [
+                "Ravenea",
+                "order",
+                "Arecales"
+            ],
+            [
+                "Ravenea",
+                "order",
+                "Commelinids"
+            ]
+        ],
+        "score": "31.542332",
+        "rank": "1",
+        "new_score": "9.179291",
+        "new_rank": "872"
+    },
+    {
+        "triple_to_explain": [
+            "Cirripectes",
+            "order",
+            "Perciformes"
+        ],
+        "rule": [
+            [
+                "Cirripectes",
+                "class",
+                "Actinopterygii"
+            ]
+        ],
+        "score": "20.763927",
+        "rank": "1",
+        "new_score": "14.7863865",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Lincoln_County,_Oklahoma",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Lincoln_County,_Oklahoma",
+                "state",
+                "Oklahoma"
+            ]
+        ],
+        "score": "19.903215",
+        "rank": "1",
+        "new_score": "9.592675",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Vipul_Amrutlal_Shah",
+            "occupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Vipul_Amrutlal_Shah",
+                "occupation",
+                "Film_producer"
+            ]
+        ],
+        "score": "14.733352",
+        "rank": "1",
+        "new_score": "11.7352085",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Forth_(programming_language)",
+            "influencedBy",
+            "Lisp_(programming_language)"
+        ],
+        "rule": [
+            [
+                "Lisp_(programming_language)",
+                "influenced",
+                "Forth_(programming_language)"
+            ]
+        ],
+        "score": "19.540165",
+        "rank": "1",
+        "new_score": "2.560244",
+        "new_rank": "369"
+    },
+    {
+        "triple_to_explain": [
+            "Fo%C4%8Da",
+            "timeZone",
+            "Central_European_Time"
+        ],
+        "rule": [
+            [
+                "Fo%C4%8Da",
+                "isPartOf",
+                "Republika_Srpska"
+            ],
+            [
+                "Fo%C4%8Da",
+                "timeZone",
+                "Central_European_Summer_Time"
+            ]
+        ],
+        "score": "17.283743",
+        "rank": "1",
+        "new_score": "3.369345",
+        "new_rank": "34"
+    },
+    {
+        "triple_to_explain": [
+            "Daniel_Frohman",
+            "ethnicity",
+            "American_Jews"
+        ],
+        "rule": [
+            [
+                "Daniel_Frohman",
+                "birthPlace",
+                "Sandusky,_Ohio"
+            ]
+        ],
+        "score": "13.320512",
+        "rank": "1",
+        "new_score": "7.2619286",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Oxychilus",
+            "kingdom",
+            "Animal"
+        ],
+        "rule": [
+            [
+                "Oxychilus",
+                "family",
+                "Gastrodontoidea"
+            ],
+            [
+                "Oxychilus",
+                "family",
+                "Oxychilidae"
+            ]
+        ],
+        "score": "15.553867",
+        "rank": "1",
+        "new_score": "6.850303",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Siriul_Mare",
+            "country",
+            "Romania"
+        ],
+        "rule": [
+            [
+                "Siriul_Mare",
+                "district",
+                "Buz%C4%83u_County"
+            ],
+            [
+                "Siriul_Mare",
+                "riverMouth",
+                "Buz%C4%83u_(river)"
+            ]
+        ],
+        "score": "21.363205",
+        "rank": "1",
+        "new_score": "4.1883974",
+        "new_rank": "1260"
+    },
+    {
+        "triple_to_explain": [
+            "Eda_Warren",
+            "deathPlace",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Eda_Warren",
+                "birthPlace",
+                "United_States"
+            ]
+        ],
+        "score": "17.256155",
+        "rank": "1",
+        "new_score": "6.326486",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Lanham,_Maryland",
+            "timeZone",
+            "Eastern_Time_Zone"
+        ],
+        "rule": [
+            [
+                "Lanham,_Maryland",
+                "isPartOf",
+                "Maryland"
+            ],
+            [
+                "Lanham,_Maryland",
+                "isPartOf",
+                "Prince_George%27s_County,_Maryland"
+            ]
+        ],
+        "score": "13.868268",
+        "rank": "1",
+        "new_score": "2.9202216",
+        "new_rank": "61"
+    },
+    {
+        "triple_to_explain": [
+            "Chimaeridae",
+            "class",
+            "Chondrichthyes"
+        ],
+        "rule": [
+            [
+                "Hydrolagus",
+                "family",
+                "Chimaeridae"
+            ]
+        ],
+        "score": "13.830652",
+        "rank": "1",
+        "new_score": "-0.47039506",
+        "new_rank": "11284"
+    },
+    {
+        "triple_to_explain": [
+            "Tarrah_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Tarrah_Rural_District",
+                "isPartOf",
+                "Ahvaz_County"
+            ],
+            [
+                "Tarrah_Rural_District",
+                "isPartOf",
+                "Khuzestan_province"
+            ]
+        ],
+        "score": "24.488049",
+        "rank": "1",
+        "new_score": "10.376914",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bifrenaria",
+            "family",
+            "Epidendroideae"
+        ],
+        "rule": [
+            [
+                "Bifrenaria",
+                "family",
+                "Orchid"
+            ]
+        ],
+        "score": "31.313421",
+        "rank": "1",
+        "new_score": "29.766373",
+        "new_rank": "79"
+    },
+    {
+        "triple_to_explain": [
+            "%C3%87ubuk",
+            "country",
+            "Turkey"
+        ],
+        "rule": [
+            [
+                "%C3%87ubuk",
+                "isPartOf",
+                "Ankara"
+            ],
+            [
+                "%C3%87ubuk",
+                "leaderName",
+                "Justice_and_Development_Party_(Turkey)"
+            ]
+        ],
+        "score": "20.244421",
+        "rank": "1",
+        "new_score": "6.0589285",
+        "new_rank": "177"
+    },
+    {
+        "triple_to_explain": [
+            "Stalybridge",
+            "country",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "Stalybridge",
+                "metropolitanBorough",
+                "Tameside"
+            ],
+            [
+                "Stalybridge_Celtic_F.C.",
+                "ground",
+                "Stalybridge"
+            ]
+        ],
+        "score": "21.027046",
+        "rank": "1",
+        "new_score": "6.4186935",
+        "new_rank": "121"
+    },
+    {
+        "triple_to_explain": [
+            "Bharathi_Vishnuvardhan",
+            "spouse",
+            "Vishnuvardhan_(actor)"
+        ],
+        "rule": [
+            [
+                "Vishnuvardhan_(actor)",
+                "spouse",
+                "Bharathi_Vishnuvardhan"
+            ]
+        ],
+        "score": "29.128967",
+        "rank": "1",
+        "new_score": "2.7256265",
+        "new_rank": "36914"
+    },
+    {
+        "triple_to_explain": [
+            "Agylla_(moth)",
+            "kingdom",
+            "Animal"
+        ],
+        "rule": [
+            [
+                "Agylla_(moth)",
+                "phylum",
+                "Arthropod"
+            ],
+            [
+                "Agylla_(moth)",
+                "order",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "19.45275",
+        "rank": "1",
+        "new_score": "6.850043",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Moulton,_Alabama",
+            "isPartOf",
+            "Lawrence_County,_Alabama"
+        ],
+        "rule": [
+            [
+                "Lawrence_County,_Alabama",
+                "countySeat",
+                "Moulton,_Alabama"
+            ]
+        ],
+        "score": "19.082134",
+        "rank": "1",
+        "new_score": "0.26142347",
+        "new_rank": "26697"
+    },
+    {
+        "triple_to_explain": [
+            "Erythroxylum",
+            "class",
+            "Eudicots"
+        ],
+        "rule": [
+            [
+                "Erythroxylum",
+                "order",
+                "Malpighiales"
+            ],
+            [
+                "Erythroxylum",
+                "order",
+                "Rosids"
+            ]
+        ],
+        "score": "20.070446",
+        "rank": "1",
+        "new_score": "4.9993367",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Fencing_at_the_1960_Summer_Olympics_%E2%80%93_Men%27s_team_%C3%A9p%C3%A9e",
+            "previousEvent",
+            "Fencing_at_the_1956_Summer_Olympics_%E2%80%93_Men%27s_team_%C3%A9p%C3%A9e"
+        ],
+        "rule": [
+            [
+                "Fencing_at_the_1956_Summer_Olympics_%E2%80%93_Men%27s_team_%C3%A9p%C3%A9e",
+                "nextEvent",
+                "Fencing_at_the_1960_Summer_Olympics_%E2%80%93_Men%27s_team_%C3%A9p%C3%A9e"
+            ],
+            [
+                "Fencing_at_the_1960_Summer_Olympics_%E2%80%93_Men%27s_team_%C3%A9p%C3%A9e",
+                "goldMedalist",
+                "Edoardo_Mangiarotti"
+            ]
+        ],
+        "score": "38.15866",
+        "rank": "1",
+        "new_score": "10.219685",
+        "new_rank": "2168"
+    },
+    {
+        "triple_to_explain": [
+            "Sailing_at_the_1908_Summer_Olympics_%E2%80%93_12_Metre",
+            "nextEvent",
+            "Sailing_at_the_1912_Summer_Olympics_%E2%80%93_12_Metre"
+        ],
+        "rule": [
+            [
+                "Sailing_at_the_1912_Summer_Olympics_%E2%80%93_12_Metre",
+                "previousEvent",
+                "Sailing_at_the_1908_Summer_Olympics_%E2%80%93_12_Metre"
+            ]
+        ],
+        "score": "38.568245",
+        "rank": "1",
+        "new_score": "10.429014",
+        "new_rank": "317"
+    },
+    {
+        "triple_to_explain": [
+            "Kim_Ha-neul",
+            "birthPlace",
+            "South_Korea"
+        ],
+        "rule": [
+            [
+                "Kim_Ha-neul",
+                "birthPlace",
+                "Seoul"
+            ],
+            [
+                "Kim_Ha-neul",
+                "education",
+                "Seoul_Institute_of_the_Arts"
+            ]
+        ],
+        "score": "18.975887",
+        "rank": "1",
+        "new_score": "3.8479018",
+        "new_rank": "331"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Wejherowo",
+            "isPartOf",
+            "Wejherowo_County"
+        ],
+        "rule": [
+            [
+                "Wejherowo_County",
+                "part",
+                "Gmina_Wejherowo"
+            ]
+        ],
+        "score": "21.313148",
+        "rank": "1",
+        "new_score": "6.5033345",
+        "new_rank": "5067"
+    },
+    {
+        "triple_to_explain": [
+            "Anopinella",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule": [
+            [
+                "Anopinella",
+                "family",
+                "Tortricinae"
+            ],
+            [
+                "Anopinella",
+                "order",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "18.787663",
+        "rank": "1",
+        "new_score": "4.428413",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Brodnica,_Kuyavian-Pomeranian_Voivodeship",
+            "type",
+            "Gmina"
+        ],
+        "rule": [
+            [
+                "Gmina_Brodnica,_Kuyavian-Pomeranian_Voivodeship",
+                "country",
+                "Poland"
+            ],
+            [
+                "Gmina_Brodnica,_Kuyavian-Pomeranian_Voivodeship",
+                "isPartOf",
+                "Kuyavian-Pomeranian_Voivodeship"
+            ]
+        ],
+        "score": "20.678274",
+        "rank": "1",
+        "new_score": "6.0211577",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Gonzales,_Texas",
+            "type",
+            "City"
+        ],
+        "rule": [
+            [
+                "Gonzales,_Texas",
+                "country",
+                "United_States"
+            ],
+            [
+                "Gonzales,_Texas",
+                "isPartOf",
+                "Texas"
+            ]
+        ],
+        "score": "18.179985",
+        "rank": "1",
+        "new_score": "6.4256997",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Shuangfeng_County",
+            "isPartOf",
+            "Hunan"
+        ],
+        "rule": [
+            [
+                "Shuangfeng_County",
+                "isPartOf",
+                "Loudi"
+            ]
+        ],
+        "score": "22.28242",
+        "rank": "1",
+        "new_score": "7.5442924",
+        "new_rank": "83"
+    },
+    {
+        "triple_to_explain": [
+            "RNC_Media",
+            "location",
+            "Quebec"
+        ],
+        "rule": [
+            [
+                "RNC_Media",
+                "location",
+                "Montreal"
+            ]
+        ],
+        "score": "19.948498",
+        "rank": "1",
+        "new_score": "7.3448477",
+        "new_rank": "398"
+    },
+    {
+        "triple_to_explain": [
+            "Zorqabad_Rural_District",
+            "isPartOf",
+            "North_Khorasan_province"
+        ],
+        "rule": [
+            [
+                "Zorqabad_Rural_District",
+                "country",
+                "Iran"
+            ]
+        ],
+        "score": "24.051064",
+        "rank": "1",
+        "new_score": "19.86589",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Nakuru",
+            "timeZone",
+            "East_Africa_Time"
+        ],
+        "rule": [
+            [
+                "Nakuru",
+                "country",
+                "Kenya"
+            ],
+            [
+                "Nakuru",
+                "type",
+                "List_of_cities_and_towns_in_Kenya_by_population"
+            ]
+        ],
+        "score": "15.62603",
+        "rank": "1",
+        "new_score": "2.2534423",
+        "new_rank": "150"
+    },
+    {
+        "triple_to_explain": [
+            "Andrei_Tarkovsky",
+            "birthPlace",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "Andrei_Tarkovsky",
+                "birthPlace",
+                "Russian_Soviet_Federative_Socialist_Republic"
+            ]
+        ],
+        "score": "17.389883",
+        "rank": "1",
+        "new_score": "1.2870264",
+        "new_rank": "2500"
+    },
+    {
+        "triple_to_explain": [
+            "Florida_Township,_Parke_County,_Indiana",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Florida_Township,_Parke_County,_Indiana",
+                "type",
+                "Civil_township"
+            ]
+        ],
+        "score": "18.034258",
+        "rank": "1",
+        "new_score": "16.344255",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Florence,_Oregon",
+            "type",
+            "City"
+        ],
+        "rule": [
+            [
+                "Florence,_Oregon",
+                "country",
+                "United_States"
+            ],
+            [
+                "Florence,_Oregon",
+                "isPartOf",
+                "Oregon"
+            ]
+        ],
+        "score": "19.771675",
+        "rank": "1",
+        "new_score": "6.427204",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Baxley,_Georgia",
+            "type",
+            "City"
+        ],
+        "rule": [
+            [
+                "Baxley,_Georgia",
+                "country",
+                "United_States"
+            ],
+            [
+                "Baxley,_Georgia",
+                "isPartOf",
+                "Georgia_(U.S._state)"
+            ]
+        ],
+        "score": "18.774023",
+        "rank": "1",
+        "new_score": "6.427788",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Tally_Hall",
+            "associatedMusicalArtist",
+            "Nellie_McKay"
+        ],
+        "rule": [
+            [
+                "Tally_Hall",
+                "associatedBand",
+                "Nellie_McKay"
+            ]
+        ],
+        "score": "19.93613",
+        "rank": "1",
+        "new_score": "-3.0879493",
+        "new_rank": "21219"
+    },
+    {
+        "triple_to_explain": [
+            "Tarvastu_Parish",
+            "type",
+            "Municipalities_of_Estonia"
+        ],
+        "rule": [
+            [
+                "Tarvastu_Parish",
+                "country",
+                "Estonia"
+            ],
+            [
+                "Tarvastu_Parish",
+                "isPartOf",
+                "Viljandi_County"
+            ]
+        ],
+        "score": "21.332832",
+        "rank": "1",
+        "new_score": "5.422664",
+        "new_rank": "24"
+    },
+    {
+        "triple_to_explain": [
+            "Stomphastis",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule": [
+            [
+                "Stomphastis",
+                "kingdom",
+                "Animal"
+            ],
+            [
+                "Stomphastis",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "18.379751",
+        "rank": "1",
+        "new_score": "4.429273",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Linyi",
+            "type",
+            "Prefecture-level_city"
+        ],
+        "rule": [
+            [
+                "Linyi",
+                "isPartOf",
+                "Shandong"
+            ]
+        ],
+        "score": "17.940928",
+        "rank": "1",
+        "new_score": "6.1034813",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "%C3%87ubuk",
+            "timeZone",
+            "Eastern_European_Time"
+        ],
+        "rule": [
+            [
+                "%C3%87ubuk",
+                "isPartOf",
+                "Ankara"
+            ],
+            [
+                "%C3%87ubuk",
+                "leaderName",
+                "Justice_and_Development_Party_(Turkey)"
+            ]
+        ],
+        "score": "14.208724",
+        "rank": "1",
+        "new_score": "2.9222276",
+        "new_rank": "60"
+    },
+    {
+        "triple_to_explain": [
+            "Thalassoma",
+            "class",
+            "Actinopterygii"
+        ],
+        "rule": [
+            [
+                "Thalassoma",
+                "order",
+                "Perciformes"
+            ],
+            [
+                "Thalassoma",
+                "kingdom",
+                "Animal"
+            ]
+        ],
+        "score": "19.333435",
+        "rank": "1",
+        "new_score": "6.6392813",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Lewisburg,_Tennessee",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Lewisburg,_Tennessee",
+                "type",
+                "City"
+            ]
+        ],
+        "score": "21.799751",
+        "rank": "1",
+        "new_score": "12.992481",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Sphecosoma",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Sphecosoma",
+                "phylum",
+                "Arthropod"
+            ]
+        ],
+        "score": "19.78153",
+        "rank": "1",
+        "new_score": "18.478731",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mohsen_Makhmalbaf",
+            "stateOfOrigin",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Mohsen_Makhmalbaf",
+                "nationality",
+                "Iran"
+            ],
+            [
+                "Mohsen_Makhmalbaf",
+                "award",
+                "Federico_Fellini"
+            ]
+        ],
+        "score": "17.010557",
+        "rank": "1",
+        "new_score": "0.7947626",
+        "new_rank": "150"
+    },
+    {
+        "triple_to_explain": [
+            "Philip_I,_Landgrave_of_Hesse",
+            "deathPlace",
+            "Holy_Roman_Empire"
+        ],
+        "rule": [
+            [
+                "Philip_I,_Landgrave_of_Hesse",
+                "birthPlace",
+                "Holy_Roman_Empire"
+            ]
+        ],
+        "score": "17.398178",
+        "rank": "1",
+        "new_score": "4.496562",
+        "new_rank": "6072"
+    },
+    {
+        "triple_to_explain": [
+            "B%C3%A9k%C3%A9scsaba",
+            "timeZone",
+            "Central_European_Summer_Time"
+        ],
+        "rule": [
+            [
+                "B%C3%A9k%C3%A9scsaba",
+                "country",
+                "Hungary"
+            ]
+        ],
+        "score": "14.401472",
+        "rank": "1",
+        "new_score": "12.628123",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Christian_Clavier",
+            "birthPlace",
+            "France"
+        ],
+        "rule": [
+            [
+                "Christian_Clavier",
+                "birthPlace",
+                "Paris"
+            ],
+            [
+                "Christian_Clavier",
+                "occupation",
+                "Film_director"
+            ]
+        ],
+        "score": "17.107443",
+        "rank": "1",
+        "new_score": "1.4853109",
+        "new_rank": "2135"
+    },
+    {
+        "triple_to_explain": [
+            "Andr%C3%A9-Paul_Antoine",
+            "deathPlace",
+            "Paris"
+        ],
+        "rule": [
+            [
+                "Andr%C3%A9-Paul_Antoine",
+                "birthPlace",
+                "Paris"
+            ],
+            [
+                "Andr%C3%A9-Paul_Antoine",
+                "birthPlace",
+                "France"
+            ]
+        ],
+        "score": "18.491156",
+        "rank": "1",
+        "new_score": "5.8404117",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Pol-e_Doab_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Pol-e_Doab_Rural_District",
+                "isPartOf",
+                "Markazi_province"
+            ]
+        ],
+        "score": "21.784885",
+        "rank": "1",
+        "new_score": "10.378859",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Baylor_College_of_Medicine",
+            "campus",
+            "Urban_area"
+        ],
+        "rule": [
+            [
+                "Baylor_College_of_Medicine",
+                "state",
+                "Texas"
+            ]
+        ],
+        "score": "13.728043",
+        "rank": "1",
+        "new_score": "2.8961973",
+        "new_rank": "61"
+    },
+    {
+        "triple_to_explain": [
+            "Kodagu_district",
+            "timeZone",
+            "Indian_Standard_Time"
+        ],
+        "rule": [
+            [
+                "Kodagu_district",
+                "country",
+                "India"
+            ],
+            [
+                "Kodagu_district",
+                "isPartOf",
+                "Karnataka"
+            ]
+        ],
+        "score": "17.39992",
+        "rank": "1",
+        "new_score": "5.667593",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "East_Greenwich,_Rhode_Island",
+            "type",
+            "New_England_town"
+        ],
+        "rule": [
+            [
+                "East_Greenwich,_Rhode_Island",
+                "isPartOf",
+                "Rhode_Island"
+            ]
+        ],
+        "score": "17.521193",
+        "rank": "1",
+        "new_score": "8.6437025",
+        "new_rank": "104"
+    },
+    {
+        "triple_to_explain": [
+            "Justicia_(plant)",
+            "class",
+            "Eudicots"
+        ],
+        "rule": [
+            [
+                "Justicia_(plant)",
+                "kingdom",
+                "Plant"
+            ],
+            [
+                "Justicia_(plant)",
+                "order",
+                "Asterids"
+            ]
+        ],
+        "score": "20.817348",
+        "rank": "1",
+        "new_score": "4.9975743",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Orbe",
+            "country",
+            "Switzerland"
+        ],
+        "rule": [
+            [
+                "Orbe",
+                "canton",
+                "Vaud"
+            ],
+            [
+                "Orbe",
+                "type",
+                "Municipalities_of_Switzerland"
+            ]
+        ],
+        "score": "25.089634",
+        "rank": "1",
+        "new_score": "6.5975595",
+        "new_rank": "93"
+    },
+    {
+        "triple_to_explain": [
+            "Harry_McCoy",
+            "birthPlace",
+            "Philadelphia"
+        ],
+        "rule": [
+            [
+                "Harry_McCoy",
+                "birthPlace",
+                "Pennsylvania"
+            ]
+        ],
+        "score": "17.740383",
+        "rank": "1",
+        "new_score": "4.796722",
+        "new_rank": "117"
+    },
+    {
+        "triple_to_explain": [
+            "New_York_University_Stern_School_of_Business",
+            "campus",
+            "Urban_area"
+        ],
+        "rule": [
+            [
+                "New_York_University_Stern_School_of_Business",
+                "city",
+                "New_York_City"
+            ],
+            [
+                "Eric_Chu",
+                "almaMater",
+                "New_York_University_Stern_School_of_Business"
+            ]
+        ],
+        "score": "17.333456",
+        "rank": "1",
+        "new_score": "2.8964558",
+        "new_rank": "61"
+    },
+    {
+        "triple_to_explain": [
+            "Stewart_Lerman",
+            "genre",
+            "Rock_music"
+        ],
+        "rule": [
+            [
+                "Stewart_Lerman",
+                "genre",
+                "Pop_music"
+            ]
+        ],
+        "score": "12.793621",
+        "rank": "1",
+        "new_score": "2.267874",
+        "new_rank": "31"
+    },
+    {
+        "triple_to_explain": [
+            "Mark-Paul_Gosselaar",
+            "occupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "John_from_Cincinnati",
+                "starring",
+                "Mark-Paul_Gosselaar"
+            ],
+            [
+                "Saved_by_the_Bell",
+                "starring",
+                "Mark-Paul_Gosselaar"
+            ]
+        ],
+        "score": "11.086136",
+        "rank": "1",
+        "new_score": "4.6573086",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Dick_Purcell",
+            "stateOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Dick_Purcell",
+                "nationality",
+                "United_States"
+            ],
+            [
+                "Dick_Purcell",
+                "birthPlace",
+                "Greenwich,_Connecticut"
+            ]
+        ],
+        "score": "18.324682",
+        "rank": "1",
+        "new_score": "3.512333",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Heinie_Conklin",
+            "birthPlace",
+            "California"
+        ],
+        "rule": [
+            [
+                "Heinie_Conklin",
+                "birthPlace",
+                "San_Francisco"
+            ]
+        ],
+        "score": "16.422817",
+        "rank": "1",
+        "new_score": "4.062679",
+        "new_rank": "261"
+    },
+    {
+        "triple_to_explain": [
+            "Prachya_Pinkaew",
+            "occupation",
+            "Film_producer"
+        ],
+        "rule": [
+            [
+                "Prachya_Pinkaew",
+                "occupation",
+                "Screenwriter"
+            ]
+        ],
+        "score": "13.181927",
+        "rank": "1",
+        "new_score": "6.4860826",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Meitetsu_Seto_Line",
+            "owner",
+            "Meitetsu"
+        ],
+        "rule": [
+            [
+                "Meitetsu_Seto_Line",
+                "location",
+                "Aichi_Prefecture"
+            ]
+        ],
+        "score": "14.620203",
+        "rank": "1",
+        "new_score": "6.6237807",
+        "new_rank": "39"
+    },
+    {
+        "triple_to_explain": [
+            "Ernest_Lehman",
+            "occupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "West_Side_Story_(1961_film)",
+                "writer",
+                "Ernest_Lehman"
+            ]
+        ],
+        "score": "10.783867",
+        "rank": "1",
+        "new_score": "3.907559",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Puerto_Rico_Islanders",
+            "league",
+            "North_American_Soccer_League_(2011%E2%80%932017)"
+        ],
+        "rule": [
+            [
+                "Chris_Nurse",
+                "team",
+                "Puerto_Rico_Islanders"
+            ]
+        ],
+        "score": "21.14225",
+        "rank": "1",
+        "new_score": "22.288607",
+        "new_rank": "1"
+    }
+]

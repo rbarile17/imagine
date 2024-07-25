@@ -1,0 +1,1892 @@
+[
+    {
+        "triple_to_explain": [
+            "Obvious_(Westlife_song)",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "Obvious_(Westlife_song)",
+                "recordLabel",
+                "RCA_Records"
+            ]
+        ],
+        "score": "0.5645167231559753",
+        "rank": "1",
+        "new_score": "0.4345847964286804",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Willard_Hill",
+            "genre",
+            "Jazz"
+        ],
+        "rule": [
+            [
+                "Willard_Hill",
+                "genre",
+                "Hip_hop_music"
+            ]
+        ],
+        "score": "0.10771817713975906",
+        "rank": "1",
+        "new_score": "0.05847209692001343",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Lampranthus",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Lampranthus",
+                "division",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.9932115077972412",
+        "rank": "1",
+        "new_score": "0.96572345495224",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Megasis",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Megasis",
+                "order",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "0.7439872026443481",
+        "rank": "1",
+        "new_score": "0.7023579478263855",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "7th_Infantry_Regiment_(United_States)",
+            "battle",
+            "Gulf_War"
+        ],
+        "rule": [
+            [
+                "Robert_D._Maxwell",
+                "militaryUnit",
+                "7th_Infantry_Regiment_(United_States)"
+            ],
+            [
+                "Franklin_Gardner",
+                "militaryUnit",
+                "7th_Infantry_Regiment_(United_States)"
+            ]
+        ],
+        "score": "0.1257299780845642",
+        "rank": "1",
+        "new_score": "0.19601011276245117",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "MC_900_Ft._Jesus",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "MC_900_Ft._Jesus",
+                "genre",
+                "Jazz"
+            ]
+        ],
+        "score": "0.3189485967159271",
+        "rank": "1",
+        "new_score": "0.2545299232006073",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Trinity_Christian_School_(Sharpsburg,_Georgia)",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Trinity_Christian_School_(Sharpsburg,_Georgia)",
+                "state",
+                "Georgia_(U.S._state)"
+            ]
+        ],
+        "score": "0.49979445338249207",
+        "rank": "1",
+        "new_score": "0.7160128355026245",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Canobbio",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Canobbio",
+                "neighboringMunicipality",
+                "Lugano"
+            ],
+            [
+                "Lugano",
+                "neighboringMunicipality",
+                "Canobbio"
+            ]
+        ],
+        "score": "0.5512160062789917",
+        "rank": "1",
+        "new_score": "0.6605653166770935",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Banksia_sessilis",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Banksia_sessilis",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.9922371506690979",
+        "rank": "1",
+        "new_score": "0.9842702746391296",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gland,_Switzerland",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Gland,_Switzerland",
+                "canton",
+                "Vaud"
+            ]
+        ],
+        "score": "0.6871844530105591",
+        "rank": "1",
+        "new_score": "0.6534231901168823",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mundell_Lowe",
+            "recordLabel",
+            "RCA_Records"
+        ],
+        "rule": [
+            [
+                "Mundell_Lowe",
+                "genre",
+                "Soundtrack"
+            ]
+        ],
+        "score": "0.21475550532341003",
+        "rank": "1",
+        "new_score": "0.07880609482526779",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Steven_Lee_(music_producer)",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Steven_Lee_(music_producer)",
+                "genre",
+                "K-pop"
+            ],
+            [
+                "Kiss_Kiss_/_Lucky_Guy",
+                "producer",
+                "Steven_Lee_(music_producer)"
+            ]
+        ],
+        "score": "0.17204761505126953",
+        "rank": "1",
+        "new_score": "0.2587166130542755",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Phragmipedium_vittatum",
+            "family",
+            "Orchidaceae"
+        ],
+        "rule": [
+            [
+                "Phragmipedium_vittatum",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.30647924542427063",
+        "rank": "1",
+        "new_score": "0.1940794438123703",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Trichopilia_tortilis",
+            "family",
+            "Epidendroideae"
+        ],
+        "rule": [
+            [
+                "Trichopilia_tortilis",
+                "division",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.14455103874206543",
+        "rank": "1",
+        "new_score": "0.12614423036575317",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Copromorphidae",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Copromorphidae",
+                "order",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "0.8347324728965759",
+        "rank": "1",
+        "new_score": "0.7109593152999878",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Agrimoniinae",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Leucosidea",
+                "family",
+                "Agrimoniinae"
+            ]
+        ],
+        "score": "0.9950670003890991",
+        "rank": "1",
+        "new_score": "0.9644201993942261",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rhynchostylis",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Rhynchostylis",
+                "family",
+                "Epidendroideae"
+            ]
+        ],
+        "score": "0.986331582069397",
+        "rank": "1",
+        "new_score": "0.9808341860771179",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hip_hop_music",
+            "musicSubgenre",
+            "Gangsta_rap"
+        ],
+        "rule": [
+            [
+                "Outlawz",
+                "genre",
+                "Hip_hop_music"
+            ]
+        ],
+        "score": "0.0011478803353384137",
+        "rank": "1",
+        "new_score": "0.0014986299211159348",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Reviews_on_the_Run",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Reviews_on_the_Run",
+                "executiveProducer",
+                "EP_Daily"
+            ],
+            [
+                "Reviews_on_the_Run",
+                "related",
+                "EP_Daily"
+            ],
+            [
+                "Reviews_on_the_Run",
+                "related",
+                "The_Lab_with_Leo_Laporte"
+            ],
+            [
+                "Reviews_on_the_Run",
+                "location",
+                "British_Columbia"
+            ]
+        ],
+        "score": "0.4820527732372284",
+        "rank": "1",
+        "new_score": "0.8049288392066956",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sadat_X",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Sadat_X",
+                "associatedBand",
+                "House_of_Pain"
+            ],
+            [
+                "Sadat_X",
+                "associatedMusicalArtist",
+                "House_of_Pain"
+            ]
+        ],
+        "score": "0.3780249357223511",
+        "rank": "1",
+        "new_score": "0.2645033895969391",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Music_for_Large_&_Small_Ensembles",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "Music_for_Large_&_Small_Ensembles",
+                "genre",
+                "Jazz"
+            ]
+        ],
+        "score": "0.4527719020843506",
+        "rank": "1",
+        "new_score": "0.44282642006874084",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Oncidium_altissimum",
+            "family",
+            "Epidendroideae"
+        ],
+        "rule": [
+            [
+                "Oncidium_altissimum",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.15934787690639496",
+        "rank": "1",
+        "new_score": "0.12001609057188034",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Eurosport_2",
+            "locationCountry",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Eurosport_2",
+                "country",
+                "Germany"
+            ]
+        ],
+        "score": "0.4131885766983032",
+        "rank": "1",
+        "new_score": "0.2811834216117859",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Codariocalyx",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Codariocalyx",
+                "division",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.990767776966095",
+        "rank": "1",
+        "new_score": "0.9649742245674133",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jalilabad_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Jalilabad_Rural_District",
+                "isPartOf",
+                "Tehran_Province"
+            ]
+        ],
+        "score": "0.31393861770629883",
+        "rank": "1",
+        "new_score": "0.6190251708030701",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Heliothis",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Heliothis",
+                "order",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "0.8247595429420471",
+        "rank": "1",
+        "new_score": "0.6888148784637451",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "My_Girlfriend_(Relient_K_song)",
+            "format",
+            "Compact_disc"
+        ],
+        "rule": [
+            [
+                "My_Girlfriend_(Relient_K_song)",
+                "recordLabel",
+                "Gotee_Records"
+            ]
+        ],
+        "score": "0.5560024976730347",
+        "rank": "1",
+        "new_score": "0.6579610109329224",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Glyphodes",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Glyphodes",
+                "family",
+                "Crambidae"
+            ]
+        ],
+        "score": "0.8658998012542725",
+        "rank": "1",
+        "new_score": "0.7024619579315186",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Brian_Charlesworth",
+            "almaMater",
+            "University_of_Cambridge"
+        ],
+        "rule": [
+            [
+                "Brian_Charlesworth",
+                "award",
+                "Darwin\u2013Wallace_Medal"
+            ]
+        ],
+        "score": "0.08176988363265991",
+        "rank": "1",
+        "new_score": "0.17656253278255463",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sagina",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Sagina",
+                "division",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.9933225512504578",
+        "rank": "1",
+        "new_score": "0.9649838209152222",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Robyn_Is_Here",
+            "recordLabel",
+            "RCA_Records"
+        ],
+        "rule": [
+            [
+                "Robyn_Is_Here",
+                "recordLabel",
+                "Ariola_Records"
+            ]
+        ],
+        "score": "0.20634399354457855",
+        "rank": "1",
+        "new_score": "0.0894373208284378",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Udara",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Udara",
+                "order",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "0.8176712393760681",
+        "rank": "1",
+        "new_score": "0.6971763968467712",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Chalcidinae",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Chalcidinae",
+                "order",
+                "Hymenoptera"
+            ]
+        ],
+        "score": "0.7559378743171692",
+        "rank": "1",
+        "new_score": "0.7019800543785095",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Eddie_Mazur",
+            "formerTeam",
+            "Montreal_Canadiens"
+        ],
+        "rule": [
+            [
+                "Eddie_Mazur",
+                "deathPlace",
+                "Winnipeg"
+            ]
+        ],
+        "score": "0.11662779003381729",
+        "rank": "1",
+        "new_score": "0.09790807217359543",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Obtusipalpis",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Obtusipalpis",
+                "family",
+                "Crambidae"
+            ]
+        ],
+        "score": "0.7820028066635132",
+        "rank": "1",
+        "new_score": "0.7071295976638794",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Little_Ferry,_New_Jersey",
+            "governmentType",
+            "Borough_(New_Jersey)"
+        ],
+        "rule": [
+            [
+                "Little_Ferry,_New_Jersey",
+                "type",
+                "Borough_(New_Jersey)"
+            ]
+        ],
+        "score": "0.6033382415771484",
+        "rank": "1",
+        "new_score": "0.033825259655714035",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Behind_Crimson_Eyes",
+            "formerBandMember",
+            "Drum_kit"
+        ],
+        "rule": [
+            [
+                "Behind_Crimson_Eyes",
+                "formerBandMember",
+                "Drum_kit"
+            ]
+        ],
+        "score": "0.011049607768654823",
+        "rank": "1",
+        "new_score": "0.002233212348073721",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Savosa",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Savosa",
+                "neighboringMunicipality",
+                "Lugano"
+            ]
+        ],
+        "score": "0.6101155281066895",
+        "rank": "1",
+        "new_score": "0.6672679781913757",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Packera_bolanderi",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Packera_bolanderi",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.9825636744499207",
+        "rank": "1",
+        "new_score": "0.9832162261009216",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dimocarpus",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Dimocarpus",
+                "division",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.9933444261550903",
+        "rank": "1",
+        "new_score": "0.9640350937843323",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Best_of_You",
+            "recordLabel",
+            "RCA_Records"
+        ],
+        "rule": [
+            [
+                "Best_of_You",
+                "previousWork",
+                "Have_It_All_(song)"
+            ]
+        ],
+        "score": "0.2822727560997009",
+        "rank": "1",
+        "new_score": "0.06509875506162643",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Thelymitra_cyanea",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Thelymitra_cyanea",
+                "family",
+                "Orchidaceae"
+            ],
+            [
+                "Thelymitra_cyanea",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.9959614872932434",
+        "rank": "1",
+        "new_score": "0.9845053553581238",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Azochis",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Azochis",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.754324734210968",
+        "rank": "1",
+        "new_score": "0.3116404712200165",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dacryotrichia",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Dacryotrichia",
+                "kingdom",
+                "Plant"
+            ],
+            [
+                "Dacryotrichia",
+                "binomial",
+                "Dacryotrichia"
+            ]
+        ],
+        "score": "0.9808456897735596",
+        "rank": "1",
+        "new_score": "0.9836410880088806",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Astictopterus",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Astictopterus",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.7366253137588501",
+        "rank": "1",
+        "new_score": "0.3085007965564728",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Obtusipalpis",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Obtusipalpis",
+                "family",
+                "Crambidae"
+            ]
+        ],
+        "score": "0.6852642297744751",
+        "rank": "1",
+        "new_score": "0.33490046858787537",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "She's_Like_the_Wind",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "She's_Like_the_Wind",
+                "musicalArtist",
+                "Patrick_Swayze"
+            ],
+            [
+                "She's_Like_the_Wind",
+                "writer",
+                "Patrick_Swayze"
+            ]
+        ],
+        "score": "0.3874339461326599",
+        "rank": "1",
+        "new_score": "0.251930296421051",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "FSN_Chicago",
+            "pictureFormat",
+            "480i"
+        ],
+        "rule": [
+            [
+                "FSN_Chicago",
+                "language",
+                "English_language"
+            ]
+        ],
+        "score": "0.3071689009666443",
+        "rank": "1",
+        "new_score": "0.12120497226715088",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Helmut_Haugk",
+            "deathPlace",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Helmut_Haugk",
+                "birthPlace",
+                "Germany"
+            ]
+        ],
+        "score": "0.36196210980415344",
+        "rank": "1",
+        "new_score": "0.23415307700634003",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Acyclania",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Acyclania",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.7650547623634338",
+        "rank": "1",
+        "new_score": "0.2932393252849579",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Cartoon_Network_(Philippines)",
+            "pictureFormat",
+            "480i"
+        ],
+        "rule": [
+            [
+                "Cartoon_Network_(Philippines)",
+                "sisterStation",
+                "Toonami_(Asia)"
+            ]
+        ],
+        "score": "0.3017626106739044",
+        "rank": "1",
+        "new_score": "0.11835020780563354",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Live_at_the_Marquee_(Dream_Theater_album)",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "Live_at_the_Marquee_(Dream_Theater_album)",
+                "genre",
+                "Progressive_metal"
+            ]
+        ],
+        "score": "0.5602968335151672",
+        "rank": "1",
+        "new_score": "0.44852831959724426",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Keith_Carlock",
+            "instrument",
+            "Drum_kit"
+        ],
+        "rule": [
+            [
+                "Keith_Carlock",
+                "instrument",
+                "Percussion_instrument"
+            ]
+        ],
+        "score": "0.7571043968200684",
+        "rank": "1",
+        "new_score": "0.6829900145530701",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "From_I_Extreme_II_Another",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "From_I_Extreme_II_Another",
+                "genre",
+                "New_jack_swing"
+            ]
+        ],
+        "score": "0.1435849368572235",
+        "rank": "1",
+        "new_score": "0.2515471577644348",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Flava_(song)",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Flava_(song)",
+                "genre",
+                "New_jack_swing"
+            ],
+            [
+                "Flava_(song)",
+                "musicalArtist",
+                "Peter_Andre"
+            ],
+            [
+                "Flava_(song)",
+                "writer",
+                "Peter_Andre"
+            ]
+        ],
+        "score": "0.34230610728263855",
+        "rank": "1",
+        "new_score": "0.2419145554304123",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Spodoptera",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Spodoptera",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.7464262843132019",
+        "rank": "1",
+        "new_score": "0.32710134983062744",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Carthamus",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Carthamus",
+                "division",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.993901252746582",
+        "rank": "1",
+        "new_score": "0.965743899345398",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Andriy_Donets'",
+            "birthPlace",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "Andriy_Donets'",
+                "team",
+                "FC_Chornomorets_Odesa"
+            ]
+        ],
+        "score": "0.08892083168029785",
+        "rank": "1",
+        "new_score": "0.011616408824920654",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Stagmatoptera",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Stagmatoptera",
+                "family",
+                "Mantidae"
+            ]
+        ],
+        "score": "0.7541961073875427",
+        "rank": "1",
+        "new_score": "0.7009912729263306",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Myrmecophila_humboldtii",
+            "family",
+            "Epidendroideae"
+        ],
+        "rule": [
+            [
+                "Myrmecophila_humboldtii",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.16491638123989105",
+        "rank": "1",
+        "new_score": "0.11804316192865372",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hoplomorpha",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Hoplomorpha",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.7581173181533813",
+        "rank": "1",
+        "new_score": "0.32148832082748413",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "A_Ship_Comes_In",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "A_Ship_Comes_In",
+                "starring",
+                "Louise_Dresser"
+            ]
+        ],
+        "score": "0.5667232275009155",
+        "rank": "1",
+        "new_score": "0.722598135471344",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gamia",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Gamia",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.7507079243659973",
+        "rank": "1",
+        "new_score": "0.3270018398761749",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Venom_(Bullet_for_My_Valentine_album)",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "Venom_(Bullet_for_My_Valentine_album)",
+                "genre",
+                "Heavy_metal_music"
+            ]
+        ],
+        "score": "0.7317187786102295",
+        "rank": "1",
+        "new_score": "0.3266345262527466",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Always_(Switchfoot_song)",
+            "format",
+            "Compact_disc"
+        ],
+        "rule": [
+            [
+                "Always_(Switchfoot_song)",
+                "producer",
+                "Rob_Cavallo"
+            ]
+        ],
+        "score": "0.5706638693809509",
+        "rank": "1",
+        "new_score": "0.6169534921646118",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Clancy_of_the_Mounted",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Clancy_of_the_Mounted",
+                "distributor",
+                "Universal_Studios"
+            ]
+        ],
+        "score": "0.5465842485427856",
+        "rank": "1",
+        "new_score": "0.7134082913398743",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Trichaea",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Trichaea",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.8245819211006165",
+        "rank": "1",
+        "new_score": "0.33664917945861816",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Micropera_utriculosa",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Micropera_utriculosa",
+                "family",
+                "Epidendroideae"
+            ]
+        ],
+        "score": "0.9884828925132751",
+        "rank": "1",
+        "new_score": "0.9804673194885254",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "James_C._Gardner",
+            "religion",
+            "United_Methodist_Church"
+        ],
+        "rule": [
+            [
+                "James_C._Gardner",
+                "birthPlace",
+                "Louisiana"
+            ]
+        ],
+        "score": "0.13627204298973083",
+        "rank": "1",
+        "new_score": "0.19432872533798218",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Harvey_Locke_Carey",
+            "religion",
+            "United_Methodist_Church"
+        ],
+        "rule": [
+            [
+                "Harvey_Locke_Carey",
+                "almaMater",
+                "University_of_Arkansas"
+            ]
+        ],
+        "score": "0.1065463200211525",
+        "rank": "1",
+        "new_score": "0.23979048430919647",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Desmobathrinae",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Desmobathrinae",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.7270259857177734",
+        "rank": "1",
+        "new_score": "0.33250918984413147",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Karl-Richard_Ko\u00dfmann",
+            "deathPlace",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Karl-Richard_Ko\u00dfmann",
+                "birthPlace",
+                "Germany"
+            ]
+        ],
+        "score": "0.17871850728988647",
+        "rank": "1",
+        "new_score": "0.16049261391162872",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ranunculaceae",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Ranunculaceae",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.9926717281341553",
+        "rank": "1",
+        "new_score": "0.9814096689224243",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hofstetten_bei_Brienz",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Hofstetten_bei_Brienz",
+                "neighboringMunicipality",
+                "Brienzwiler"
+            ]
+        ],
+        "score": "0.667910635471344",
+        "rank": "1",
+        "new_score": "0.6551292538642883",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sclerocactus_polyancistrus",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Sclerocactus_polyancistrus",
+                "division",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.9869957566261292",
+        "rank": "1",
+        "new_score": "0.9670252203941345",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Stanhopea_oculata",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Stanhopea_oculata",
+                "genus",
+                "Stanhopea"
+            ]
+        ],
+        "score": "0.9936285614967346",
+        "rank": "1",
+        "new_score": "0.9734773635864258",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sessa,_Ticino",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Astano",
+                "neighboringMunicipality",
+                "Sessa,_Ticino"
+            ],
+            [
+                "Sessa,_Ticino",
+                "neighboringMunicipality",
+                "Astano"
+            ]
+        ],
+        "score": "0.5796000957489014",
+        "rank": "1",
+        "new_score": "0.6031697392463684",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hallway_Productionz",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Hallway_Productionz",
+                "hometown",
+                "Stockton,_California"
+            ]
+        ],
+        "score": "0.34883952140808105",
+        "rank": "1",
+        "new_score": "0.2573867738246918",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Calopogon",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Calopogon",
+                "family",
+                "Orchidaceae"
+            ],
+            [
+                "Calopogon",
+                "kingdom",
+                "Plant"
+            ],
+            [
+                "Calopogon",
+                "family",
+                "Epidendroideae"
+            ]
+        ],
+        "score": "0.9867056012153625",
+        "rank": "1",
+        "new_score": "0.9847589135169983",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "California_Split",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "California_Split",
+                "starring",
+                "George_Segal"
+            ]
+        ],
+        "score": "0.5613447427749634",
+        "rank": "1",
+        "new_score": "0.6911383867263794",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Augustus_George_Vernon_Harcourt",
+            "birthPlace",
+            "London"
+        ],
+        "rule": [
+            [
+                "Augustus_George_Vernon_Harcourt",
+                "doctoralAdvisor",
+                "Sir_Benjamin_Collins_Brodie,_2nd_Baronet"
+            ]
+        ],
+        "score": "0.07459647208452225",
+        "rank": "1",
+        "new_score": "0.04150158539414406",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Why_Do_Fools_Fall_in_Love_(album)",
+            "recordLabel",
+            "Capitol_Records"
+        ],
+        "rule": [
+            [
+                "Why_Do_Fools_Fall_in_Love_(album)",
+                "recordLabel",
+                "RCA_Records"
+            ]
+        ],
+        "score": "0.31617873907089233",
+        "rank": "1",
+        "new_score": "0.09411383420228958",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Remapping_the_Human_Soul",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Remapping_the_Human_Soul",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "Remapping_the_Human_Soul",
+                "language",
+                "English_language"
+            ]
+        ],
+        "score": "0.16394108533859253",
+        "rank": "1",
+        "new_score": "0.234736829996109",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dracula_benedictii",
+            "family",
+            "Orchidaceae"
+        ],
+        "rule": [
+            [
+                "Dracula_benedictii",
+                "division",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.311340868473053",
+        "rank": "1",
+        "new_score": "0.16683658957481384",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ilse_Bing",
+            "nationality",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Ilse_Bing",
+                "birthPlace",
+                "Germany"
+            ]
+        ],
+        "score": "0.7353926301002502",
+        "rank": "1",
+        "new_score": "0.17194505035877228",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Trichosalpinx_ciliaris",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Trichosalpinx_ciliaris",
+                "family",
+                "Epidendroideae"
+            ]
+        ],
+        "score": "0.9941260814666748",
+        "rank": "1",
+        "new_score": "0.9714474678039551",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Arundinarieae",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Arundinarieae",
+                "division",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.9959410429000854",
+        "rank": "1",
+        "new_score": "0.9647192358970642",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "BMW_3/20",
+            "assembly",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "BMW_3/20",
+                "bodyStyle",
+                "Convertible"
+            ]
+        ],
+        "score": "0.08851990103721619",
+        "rank": "1",
+        "new_score": "0.11433718353509903",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Thayer_Melvin",
+            "party",
+            "Whig_Party_(United_States)"
+        ],
+        "rule": [
+            [
+                "Thayer_Melvin",
+                "militaryRank",
+                "Captain_(United_States_O-3)"
+            ]
+        ],
+        "score": "0.15186090767383575",
+        "rank": "1",
+        "new_score": "0.1095493957400322",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Playtime_Is_Over_(Candyman_album)",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Playtime_Is_Over_(Candyman_album)",
+                "genre",
+                "Hip_hop_music"
+            ]
+        ],
+        "score": "0.3649519085884094",
+        "rank": "1",
+        "new_score": "0.22743837535381317",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Psaphida",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Psaphida",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.7770950794219971",
+        "rank": "1",
+        "new_score": "0.31129592657089233",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Zekelita",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Zekelita",
+                "order",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "0.8086897730827332",
+        "rank": "1",
+        "new_score": "0.6969250440597534",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "This_Ain't_Love",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "This_Ain't_Love",
+                "genre",
+                "Drum_and_bass"
+            ]
+        ],
+        "score": "0.44548651576042175",
+        "rank": "1",
+        "new_score": "0.47191542387008667",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Linaria",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Linaria",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.9884570240974426",
+        "rank": "1",
+        "new_score": "0.990013599395752",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hamlet_(1990_film)",
+            "musicComposer",
+            "Ennio_Morricone"
+        ],
+        "rule": [
+            [
+                "Hamlet_(1990_film)",
+                "distributor",
+                "Universal_Studios"
+            ]
+        ],
+        "score": "0.06992565095424652",
+        "rank": "1",
+        "new_score": "0.013561141677200794",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "The_1982_Annual_World's_Best_SF",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "The_1982_Annual_World's_Best_SF",
+                "author",
+                "Donald_A._Wollheim"
+            ],
+            [
+                "The_1982_Annual_World's_Best_SF",
+                "publisher",
+                "DAW_Books"
+            ],
+            [
+                "The_1982_Annual_World's_Best_SF",
+                "coverArtist",
+                "Wayne_Barlowe"
+            ]
+        ],
+        "score": "0.5782948732376099",
+        "rank": "1",
+        "new_score": "0.7031102180480957",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Macaranga",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Macaranga",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.9917492866516113",
+        "rank": "1",
+        "new_score": "0.9841288328170776",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Princess_Sarah_(TV_series)",
+            "network",
+            "ABS-CBN"
+        ],
+        "rule": [
+            [
+                "Princess_Sarah_(TV_series)",
+                "language",
+                "Filipino_language"
+            ]
+        ],
+        "score": "0.045338451862335205",
+        "rank": "1",
+        "new_score": "0.05384036526083946",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Romeo_Miller",
+            "occupation",
+            "Model_(people)"
+        ],
+        "rule": [
+            [
+                "Romeo_Miller",
+                "recordLabel",
+                "Romeo_Miller"
+            ]
+        ],
+        "score": "0.11214494705200195",
+        "rank": "1",
+        "new_score": "0.26813164353370667",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Candalides",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Candalides",
+                "class",
+                "Insect"
+            ]
+        ],
+        "score": "0.635353147983551",
+        "rank": "1",
+        "new_score": "0.3242664933204651",
+        "new_rank": "1"
+    }
+]

@@ -1,0 +1,2722 @@
+[
+    {
+        "triple_to_explain": [
+            "Somali_National_University",
+            "city",
+            "Mogadishu"
+        ],
+        "rule": [
+            [
+                "Somali_National_University",
+                "country",
+                "Somalia"
+            ],
+            [
+                "Somali_National_University",
+                "state",
+                "Banaadir"
+            ],
+            [
+                "Abdi_Farah_Shirdon",
+                "almaMater",
+                "Somali_National_University"
+            ],
+            [
+                "Abdiweli_Sheikh_Ahmed",
+                "almaMater",
+                "Somali_National_University"
+            ],
+            [
+                "Abdiweli_Gaas",
+                "almaMater",
+                "Somali_National_University"
+            ]
+        ],
+        "score": "0.08392278105020523",
+        "rank": "2",
+        "new_score": "5.351614973392316e-08",
+        "new_rank": "2133"
+    },
+    {
+        "triple_to_explain": [
+            "The_Andantes",
+            "genre",
+            "Psychedelic_soul"
+        ],
+        "rule": [
+            [
+                "The_Andantes",
+                "associatedMusicalArtist",
+                "The_Supremes"
+            ],
+            [
+                "The_Andantes",
+                "genre",
+                "Doo-wop"
+            ]
+        ],
+        "score": "0.08979617804288864",
+        "rank": "2",
+        "new_score": "1.0724475941970013e-05",
+        "new_rank": "35"
+    },
+    {
+        "triple_to_explain": [
+            "Flor_do_Caribe",
+            "genre",
+            "Drama"
+        ],
+        "rule": [
+            [
+                "Flor_do_Caribe",
+                "genre",
+                "Telenovela"
+            ]
+        ],
+        "score": "0.00049588707042858",
+        "rank": "12",
+        "new_score": "1.2071113815181889e-05",
+        "new_rank": "61"
+    },
+    {
+        "triple_to_explain": [
+            "Tim_Gunn",
+            "hometown",
+            "New_York_City"
+        ],
+        "rule": [
+            [
+                "Tim_Gunn",
+                "residence",
+                "Manhattan"
+            ]
+        ],
+        "score": "0.0013619977980852127",
+        "rank": "2",
+        "new_score": "0.0915796160697937",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Gawvi",
+            "recordLabel",
+            "Reach_Records"
+        ],
+        "rule": [
+            [
+                "Gawvi",
+                "associatedMusicalArtist",
+                "Trip_Lee"
+            ],
+            [
+                "Gawvi",
+                "associatedBand",
+                "Andy_Mineo"
+            ],
+            [
+                "Gawvi",
+                "associatedBand",
+                "Derek_Minor"
+            ],
+            [
+                "Gawvi",
+                "associatedBand",
+                "Lecrae"
+            ],
+            [
+                "Gawvi",
+                "associatedBand",
+                "Tedashii"
+            ],
+            [
+                "Gawvi",
+                "birthPlace",
+                "The_Bronx"
+            ],
+            [
+                "116_(hip_hop_group)",
+                "bandMember",
+                "Gawvi"
+            ]
+        ],
+        "score": "0.005240083672106266",
+        "rank": "3",
+        "new_score": "0.003306441009044647",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "George_Child_Villiers,_5th_Earl_of_Jersey",
+            "party",
+            "Conservative_Party_(UK)"
+        ],
+        "rule": [
+            [
+                "George_Child_Villiers,_5th_Earl_of_Jersey",
+                "nationality",
+                "British_people"
+            ],
+            [
+                "George_Child_Villiers,_5th_Earl_of_Jersey",
+                "predecessor",
+                "William_Keppel,_4th_Earl_of_Albemarle"
+            ],
+            [
+                "William_Keppel,_4th_Earl_of_Albemarle",
+                "successor",
+                "George_Child_Villiers,_5th_Earl_of_Jersey"
+            ]
+        ],
+        "score": "0.005541704129427671",
+        "rank": "2",
+        "new_score": "1.333904128841823e-05",
+        "new_rank": "13"
+    },
+    {
+        "triple_to_explain": [
+            "Four_Rooms",
+            "cinematography",
+            "Andrzej_Seku%C5%82a"
+        ],
+        "rule": [
+            [
+                "Four_Rooms",
+                "writer",
+                "Robert_Rodriguez"
+            ],
+            [
+                "Four_Rooms",
+                "cinematography",
+                "Rodrigo_Garc%C3%ADa_(director)"
+            ],
+            [
+                "Four_Rooms",
+                "editing",
+                "Sally_Menke"
+            ]
+        ],
+        "score": "2.9583047123082906e-10",
+        "rank": "20792",
+        "new_score": "7.975052909725555e-12",
+        "new_rank": "30321"
+    },
+    {
+        "triple_to_explain": [
+            "Euphorbia",
+            "family",
+            "Euphorbieae"
+        ],
+        "rule": [
+            [
+                "Euphorbia",
+                "family",
+                "Euphorbiaceae"
+            ],
+            [
+                "Euphorbia",
+                "family",
+                "Euphorbioideae"
+            ]
+        ],
+        "score": "0.0019424259662628174",
+        "rank": "15",
+        "new_score": "5.480480922415154e-06",
+        "new_rank": "164"
+    },
+    {
+        "triple_to_explain": [
+            "Ben_Frost",
+            "occupation",
+            "Record_producer"
+        ],
+        "rule": [
+            [
+                "Ben_Frost",
+                "associatedMusicalArtist",
+                "Brian_Eno"
+            ],
+            [
+                "Ben_Frost",
+                "associatedMusicalArtist",
+                "Tim_Hecker"
+            ],
+            [
+                "Ben_Frost",
+                "associatedMusicalArtist",
+                "Valgeir_Sigur%C3%B0sson"
+            ],
+            [
+                "The_Paradise_Motel",
+                "associatedMusicalArtist",
+                "Ben_Frost"
+            ],
+            [
+                "Ben_Frost",
+                "genre",
+                "Experimental_music"
+            ]
+        ],
+        "score": "0.00010738734999904409",
+        "rank": "9",
+        "new_score": "0.0008071662741713226",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Chvrches",
+            "genre",
+            "Indie_pop"
+        ],
+        "rule": [
+            [
+                "Hayley_Williams",
+                "associatedBand",
+                "Chvrches"
+            ],
+            [
+                "Lauren_Mayberry",
+                "associatedBand",
+                "Chvrches"
+            ],
+            [
+                "Hayley_Williams",
+                "associatedMusicalArtist",
+                "Chvrches"
+            ],
+            [
+                "Lauren_Mayberry",
+                "associatedMusicalArtist",
+                "Chvrches"
+            ],
+            [
+                "Chvrches",
+                "bandMember",
+                "Lauren_Mayberry"
+            ],
+            [
+                "Chvrches",
+                "genre",
+                "Synth-pop"
+            ]
+        ],
+        "score": "0.0011589736677706242",
+        "rank": "15",
+        "new_score": "0.00028049081447534263",
+        "new_rank": "25"
+    },
+    {
+        "triple_to_explain": [
+            "Royal_Southern_Brotherhood",
+            "hometown",
+            "Louisiana"
+        ],
+        "rule": [
+            [
+                "Royal_Southern_Brotherhood",
+                "associatedMusicalArtist",
+                "The_Meters"
+            ]
+        ],
+        "score": "0.012131153605878353",
+        "rank": "2",
+        "new_score": "0.0023961642291396856",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Thanet_District",
+            "isPartOf",
+            "Kent"
+        ],
+        "rule": [
+            [
+                "Thanet_District",
+                "isPartOf",
+                "England"
+            ],
+            [
+                "Thanet_District",
+                "isPartOf",
+                "Margate"
+            ]
+        ],
+        "score": "0.00336926756426692",
+        "rank": "6",
+        "new_score": "0.0013368006329983473",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Biarritz",
+            "region",
+            "Aquitaine"
+        ],
+        "rule": [
+            [
+                "Biarritz",
+                "country",
+                "France"
+            ],
+            [
+                "Biarritz",
+                "arrondissement",
+                "Bayonne"
+            ],
+            [
+                "L%C3%A9opold_de_Folin",
+                "deathPlace",
+                "Biarritz"
+            ]
+        ],
+        "score": "1.835878356359899e-05",
+        "rank": "18",
+        "new_score": "6.9974094003555365e-06",
+        "new_rank": "27"
+    },
+    {
+        "triple_to_explain": [
+            "Happy_End_(band)",
+            "recordLabel",
+            "King_Records_(Japan)"
+        ],
+        "rule": [
+            [
+                "Haruomi_Hosono",
+                "associatedMusicalArtist",
+                "Happy_End_(band)"
+            ],
+            [
+                "Happy_End_(band)",
+                "hometown",
+                "Chiyoda,_Tokyo"
+            ]
+        ],
+        "score": "2.768210327630527e-09",
+        "rank": "2297",
+        "new_score": "1.960483132279478e-06",
+        "new_rank": "315"
+    },
+    {
+        "triple_to_explain": [
+            "Nhiek_Tioulong",
+            "predecessor",
+            "Norodom_Sihanouk"
+        ],
+        "rule": [
+            [
+                "Nhiek_Tioulong",
+                "birthPlace",
+                "French_protectorate_of_Cambodia"
+            ]
+        ],
+        "score": "0.28389161825180054",
+        "rank": "2",
+        "new_score": "0.3476097285747528",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Torino_FC",
+            "manager",
+            "Sini%C5%A1a_Mihajlovi%C4%87"
+        ],
+        "rule": [
+            [
+                "Graeme_Souness",
+                "managerClub",
+                "Torino_FC"
+            ],
+            [
+                "Franco_Lerda",
+                "team",
+                "Torino_FC"
+            ],
+            [
+                "Krunoslav_Jur%C4%8Di%C4%87",
+                "team",
+                "Torino_FC"
+            ],
+            [
+                "Paddy_Sloan",
+                "team",
+                "Torino_FC"
+            ],
+            [
+                "Robert_Jarni",
+                "team",
+                "Torino_FC"
+            ]
+        ],
+        "score": "0.05648302286863327",
+        "rank": "3",
+        "new_score": "0.07816507667303085",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Only_Crime",
+            "associatedMusicalArtist",
+            "Bane_(band)"
+        ],
+        "rule": [
+            [
+                "Bill_Stevenson_(musician)",
+                "associatedBand",
+                "Only_Crime"
+            ]
+        ],
+        "score": "0.08530490845441818",
+        "rank": "2",
+        "new_score": "0.023960474878549576",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Suzanne_Collins",
+            "education",
+            "Indiana_University"
+        ],
+        "rule": [
+            [
+                "The_Hunger_Games_(film)",
+                "writer",
+                "Suzanne_Collins"
+            ],
+            [
+                "Suzanne_Collins",
+                "birthPlace",
+                "Connecticut"
+            ],
+            [
+                "Suzanne_Collins",
+                "birthPlace",
+                "United_States"
+            ]
+        ],
+        "score": "3.219921751451693e-08",
+        "rank": "2577",
+        "new_score": "9.79323813226074e-05",
+        "new_rank": "25"
+    },
+    {
+        "triple_to_explain": [
+            "Don%27t_Lie",
+            "recordedIn",
+            "California"
+        ],
+        "rule": [
+            [
+                "Don%27t_Lie",
+                "writer",
+                "Slick_Rick"
+            ]
+        ],
+        "score": "0.004068541340529919",
+        "rank": "6",
+        "new_score": "0.013783050701022148",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Kenneth_Cranham",
+            "birthPlace",
+            "Fife"
+        ],
+        "rule": [
+            [
+                "Kenneth_Cranham",
+                "spouse",
+                "Diana_Quick"
+            ]
+        ],
+        "score": "0.012673073448240757",
+        "rank": "5",
+        "new_score": "0.0295199453830719",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Oak_Knoll_District_of_Napa_Valley_AVA",
+            "varietals",
+            "Zinfandel"
+        ],
+        "rule": [
+            [
+                "Oak_Knoll_District_of_Napa_Valley_AVA",
+                "isPartOfWineRegion",
+                "Napa_Valley_AVA"
+            ]
+        ],
+        "score": "0.04752400889992714",
+        "rank": "2",
+        "new_score": "0.04115058481693268",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Snakes_%26_Arrows",
+            "genre",
+            "Hard_rock"
+        ],
+        "rule": [
+            [
+                "Snakes_%26_Arrows",
+                "genre",
+                "Progressive_rock"
+            ],
+            [
+                "Snakes_%26_Arrows",
+                "recordLabel",
+                "Atlantic_Records"
+            ]
+        ],
+        "score": "4.700256249634549e-05",
+        "rank": "20",
+        "new_score": "0.12335044890642166",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "A_Perfect_Circle",
+            "formerBandMember",
+            "Troy_Van_Leeuwen"
+        ],
+        "rule": [
+            [
+                "A_Perfect_Circle",
+                "genre",
+                "Alternative_rock"
+            ],
+            [
+                "A_Perfect_Circle",
+                "bandMember",
+                "Maynard_James_Keenan"
+            ]
+        ],
+        "score": "0.008006708696484566",
+        "rank": "14",
+        "new_score": "0.009774419479072094",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Mount_Laurel,_New_Jersey",
+            "isPartOf",
+            "Burlington_County,_New_Jersey"
+        ],
+        "rule": [
+            [
+                "Mount_Laurel,_New_Jersey",
+                "isPartOf",
+                "New_Jersey"
+            ],
+            [
+                "NFL_Films",
+                "locationCity",
+                "Mount_Laurel,_New_Jersey"
+            ]
+        ],
+        "score": "0.0007179281092248857",
+        "rank": "6",
+        "new_score": "0.0031867187935858965",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "DJ_Yella",
+            "recordLabel",
+            "Ruthless_Records"
+        ],
+        "rule": [
+            [
+                "Foe_tha_Love_of_$",
+                "producer",
+                "DJ_Yella"
+            ],
+            [
+                "Straight_Outta_Compton_(song)",
+                "producer",
+                "DJ_Yella"
+            ],
+            [
+                "Foe_tha_Love_of_$",
+                "writer",
+                "DJ_Yella"
+            ]
+        ],
+        "score": "0.006929237395524979",
+        "rank": "3",
+        "new_score": "0.41686660051345825",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dennis_Wilson",
+            "recordLabel",
+            "Capitol_Records"
+        ],
+        "rule": [
+            [
+                "Dennis_Wilson",
+                "recordLabel",
+                "Brother_Records"
+            ],
+            [
+                "Dennis_Wilson",
+                "recordLabel",
+                "Caribou_Records"
+            ],
+            [
+                "Dennis_Wilson",
+                "recordLabel",
+                "Reprise_Records"
+            ]
+        ],
+        "score": "0.0003601592034101486",
+        "rank": "14",
+        "new_score": "0.989453911781311",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "...Nothing_Like_the_Sun",
+            "genre",
+            "Soft_rock"
+        ],
+        "rule": [
+            [
+                "...Nothing_Like_the_Sun",
+                "genre",
+                "Dance-rock"
+            ],
+            [
+                "...Nothing_Like_the_Sun",
+                "genre",
+                "Funk_rock"
+            ]
+        ],
+        "score": "0.005374040920287371",
+        "rank": "9",
+        "new_score": "0.00039400788955390453",
+        "new_rank": "28"
+    },
+    {
+        "triple_to_explain": [
+            "Sport_Relief_2012",
+            "network",
+            "BBC_One"
+        ],
+        "rule": [
+            [
+                "Sport_Relief_2012",
+                "location",
+                "Television_Centre,_London"
+            ]
+        ],
+        "score": "0.03280538693070412",
+        "rank": "3",
+        "new_score": "0.023433931171894073",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Another_One_Bites_the_Dust",
+            "album",
+            "The_Game_(Queen_album)"
+        ],
+        "rule": [
+            [
+                "Another_One_Bites_the_Dust",
+                "recordLabel",
+                "EMI"
+            ],
+            [
+                "Another_One_Bites_the_Dust",
+                "genre",
+                "Disco"
+            ],
+            [
+                "Another_One_Bites_the_Dust",
+                "producer",
+                "Jerry_Duplessis"
+            ],
+            [
+                "Another_One_Bites_the_Dust",
+                "producer",
+                "Queen_(band)"
+            ]
+        ],
+        "score": "6.0677604778902605e-05",
+        "rank": "105",
+        "new_score": "1.6970923297776608e-06",
+        "new_rank": "397"
+    },
+    {
+        "triple_to_explain": [
+            "Ben_Shive",
+            "hometown",
+            "Tennessee"
+        ],
+        "rule": [
+            [
+                "Ben_Shive",
+                "genre",
+                "Christian_rock"
+            ]
+        ],
+        "score": "0.010715623386204243",
+        "rank": "3",
+        "new_score": "9.959155431715772e-05",
+        "new_rank": "43"
+    },
+    {
+        "triple_to_explain": [
+            "Red_Nose_Day_2009",
+            "presenter",
+            "Claudia_Winkleman"
+        ],
+        "rule": [
+            [
+                "Red_Nose_Day_2009",
+                "previousWork",
+                "Red_Nose_Day_2007"
+            ],
+            [
+                "Red_Nose_Day_2009",
+                "location",
+                "Television_Centre,_London"
+            ]
+        ],
+        "score": "0.06939132511615753",
+        "rank": "5",
+        "new_score": "0.014367216266691685",
+        "new_rank": "24"
+    },
+    {
+        "triple_to_explain": [
+            "John_J._Crittenden",
+            "predecessor",
+            "Martin_D._Hardin"
+        ],
+        "rule": [
+            [
+                "John_J._Crittenden",
+                "deathPlace",
+                "Frankfort,_Kentucky"
+            ]
+        ],
+        "score": "0.13867750763893127",
+        "rank": "3",
+        "new_score": "0.37543371319770813",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gary_Humphries",
+            "almaMater",
+            "Australian_National_University"
+        ],
+        "rule": [
+            [
+                "Bernard_Collaery",
+                "associate",
+                "Gary_Humphries"
+            ],
+            [
+                "Craig_Duby",
+                "associate",
+                "Gary_Humphries"
+            ],
+            [
+                "Ellnor_Grassby",
+                "associate",
+                "Gary_Humphries"
+            ],
+            [
+                "Gary_Humphries",
+                "associate",
+                "Bernard_Collaery"
+            ],
+            [
+                "Gary_Humphries",
+                "associate",
+                "Craig_Duby"
+            ],
+            [
+                "Gary_Humphries",
+                "associate",
+                "Ellnor_Grassby"
+            ],
+            [
+                "Gary_Humphries",
+                "associate",
+                "Roberta_McRae"
+            ],
+            [
+                "Gary_Humphries",
+                "associate",
+                "Rosemary_Follett"
+            ],
+            [
+                "Gary_Humphries",
+                "associate",
+                "Wayne_Berry"
+            ],
+            [
+                "Norm_Jensen",
+                "associate",
+                "Gary_Humphries"
+            ],
+            [
+                "Roberta_McRae",
+                "associate",
+                "Gary_Humphries"
+            ],
+            [
+                "Jon_Stanhope",
+                "predecessor",
+                "Gary_Humphries"
+            ]
+        ],
+        "score": "0.08694291114807129",
+        "rank": "3",
+        "new_score": "0.0759040042757988",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Charles_Scott_(governor)",
+            "battle",
+            "American_Revolutionary_War"
+        ],
+        "rule": [
+            [
+                "Charles_Scott_(governor)",
+                "militaryBranch",
+                "Continental_Army"
+            ]
+        ],
+        "score": "0.015182132832705975",
+        "rank": "2",
+        "new_score": "0.0028092029970139265",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "The_La%27s",
+            "associatedMusicalArtist",
+            "Cast_(band)"
+        ],
+        "rule": [
+            [
+                "Bob_Andrews_(keyboardist)",
+                "associatedMusicalArtist",
+                "The_La%27s"
+            ],
+            [
+                "Beady_Eye",
+                "associatedMusicalArtist",
+                "The_La%27s"
+            ],
+            [
+                "The_La%27s",
+                "genre",
+                "Indie_pop"
+            ],
+            [
+                "The_La%27s",
+                "genre",
+                "Jangle_pop"
+            ]
+        ],
+        "score": "0.0037125826347619295",
+        "rank": "7",
+        "new_score": "0.002569386502727866",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Dillard_University",
+            "type",
+            "Historically_black_colleges_and_universities"
+        ],
+        "rule": [
+            [
+                "Andrew_Young",
+                "almaMater",
+                "Dillard_University"
+            ],
+            [
+                "Garrett_Morris",
+                "education",
+                "Dillard_University"
+            ]
+        ],
+        "score": "0.0012126952642574906",
+        "rank": "6",
+        "new_score": "2.776355358946603e-07",
+        "new_rank": "360"
+    },
+    {
+        "triple_to_explain": [
+            "Hiromi_Uehara",
+            "hometown",
+            "Shizuoka_Prefecture"
+        ],
+        "rule": [
+            [
+                "Hiromi_Uehara",
+                "genre",
+                "Classical_music"
+            ]
+        ],
+        "score": "0.004649680107831955",
+        "rank": "6",
+        "new_score": "0.001737064914777875",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "The_Criterion_Collection",
+            "industry",
+            "Home_video"
+        ],
+        "rule": [
+            [
+                "The_Criterion_Collection",
+                "parentCompany",
+                "Janus_Films"
+            ]
+        ],
+        "score": "2.1575224309344776e-06",
+        "rank": "127",
+        "new_score": "0.001473504351451993",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Ugo_Foscolo",
+            "birthPlace",
+            "Republic_of_Venice"
+        ],
+        "rule": [
+            [
+                "Ugo_Foscolo",
+                "deathPlace",
+                "London"
+            ],
+            [
+                "Ugo_Foscolo",
+                "influencedBy",
+                "Laurence_Sterne"
+            ]
+        ],
+        "score": "1.4777198202864383e-06",
+        "rank": "1153",
+        "new_score": "1.4893862498865929e-07",
+        "new_rank": "1759"
+    },
+    {
+        "triple_to_explain": [
+            "AC/DC",
+            "formerBandMember",
+            "Malcolm_Young"
+        ],
+        "rule": [
+            [
+                "Highway_to_Hell_(song)",
+                "musicalArtist",
+                "AC/DC"
+            ]
+        ],
+        "score": "0.17086195945739746",
+        "rank": "5",
+        "new_score": "0.12530915439128876",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Les_Blank",
+            "birthPlace",
+            "Tampa,_Florida"
+        ],
+        "rule": [
+            [
+                "Les_Blank",
+                "nationality",
+                "United_States"
+            ],
+            [
+                "Les_Blank",
+                "occupation",
+                "Documentary_film"
+            ]
+        ],
+        "score": "3.5145445581585832e-12",
+        "rank": "64793",
+        "new_score": "1.022512421400279e-07",
+        "new_rank": "3911"
+    },
+    {
+        "triple_to_explain": [
+            "Ian_Anderson",
+            "recordLabel",
+            "Chrysalis_Records"
+        ],
+        "rule": [
+            [
+                "Ian_Anderson",
+                "instrument",
+                "Guitar"
+            ],
+            [
+                "Ian_Anderson",
+                "associatedBand",
+                "Steven_Wilson"
+            ],
+            [
+                "Ian_Anderson",
+                "instrument",
+                "Flute"
+            ],
+            [
+                "Roy_Harper_(singer)",
+                "associatedBand",
+                "Ian_Anderson"
+            ]
+        ],
+        "score": "1.7357413526042365e-05",
+        "rank": "64",
+        "new_score": "8.538026396998077e-10",
+        "new_rank": "1288"
+    },
+    {
+        "triple_to_explain": [
+            "Happy_Endings_(TV_series)",
+            "channel",
+            "American_Broadcasting_Company"
+        ],
+        "rule": [
+            [
+                "Happy_Endings_(TV_series)",
+                "starring",
+                "Elisha_Cuthbert"
+            ],
+            [
+                "Happy_Endings_(TV_series)",
+                "distributor",
+                "Sony_Pictures_Television"
+            ],
+            [
+                "Happy_Endings_(TV_series)",
+                "location",
+                "Chicago"
+            ],
+            [
+                "Happy_Endings_(TV_series)",
+                "location",
+                "Los_Angeles"
+            ]
+        ],
+        "score": "0.004724354017525911",
+        "rank": "3",
+        "new_score": "0.03086230345070362",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Baby_Don%27t_You_Do_It",
+            "recordLabel",
+            "Track_Records"
+        ],
+        "rule": [
+            [
+                "Baby_Don%27t_You_Do_It",
+                "musicalBand",
+                "The_Who"
+            ],
+            [
+                "Baby_Don%27t_You_Do_It",
+                "recordedIn",
+                "San_Francisco"
+            ]
+        ],
+        "score": "1.6231850850090268e-06",
+        "rank": "131",
+        "new_score": "0.0025200932286679745",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Black_Flag_(band)",
+            "genre",
+            "Post-hardcore"
+        ],
+        "rule": [
+            [
+                "Black_Flag_(band)",
+                "associatedBand",
+                "Minutemen_(band)"
+            ],
+            [
+                "Black_Flag_(band)",
+                "associatedBand",
+                "Misfits_(band)"
+            ],
+            [
+                "Dead_Fucking_Last",
+                "associatedBand",
+                "Black_Flag_(band)"
+            ]
+        ],
+        "score": "5.914027951803291e-07",
+        "rank": "114",
+        "new_score": "3.7859561416553333e-05",
+        "new_rank": "41"
+    },
+    {
+        "triple_to_explain": [
+            "Patty_Murray",
+            "successor",
+            "Bernie_Sanders"
+        ],
+        "rule": [
+            [
+                "Maria_Cantwell",
+                "associate",
+                "Patty_Murray"
+            ]
+        ],
+        "score": "7.169148375396617e-06",
+        "rank": "284",
+        "new_score": "0.0002874835336115211",
+        "new_rank": "33"
+    },
+    {
+        "triple_to_explain": [
+            "Indigenous_peoples_of_Mexico",
+            "language",
+            "Nahuatl"
+        ],
+        "rule": [
+            [
+                "Indigenous_peoples_of_Mexico",
+                "language",
+                "Spanish_language"
+            ],
+            [
+                "Indigenous_peoples_of_Mexico",
+                "populationPlace",
+                "Veracruz"
+            ],
+            [
+                "Indigenous_peoples_of_Mexico",
+                "populationPlace",
+                "Campeche"
+            ],
+            [
+                "Indigenous_peoples_of_Mexico",
+                "populationPlace",
+                "Chiapas"
+            ],
+            [
+                "Indigenous_peoples_of_Mexico",
+                "populationPlace",
+                "Guerrero"
+            ],
+            [
+                "Indigenous_peoples_of_Mexico",
+                "populationPlace",
+                "Oaxaca"
+            ]
+        ],
+        "score": "0.00017496489454060793",
+        "rank": "23",
+        "new_score": "1.2492756695792195e-07",
+        "new_rank": "1429"
+    },
+    {
+        "triple_to_explain": [
+            "Carla_Bley",
+            "recordLabel",
+            "Universal_Music_Group"
+        ],
+        "rule": [
+            [
+                "Carla_Bley",
+                "associatedBand",
+                "Jack_Bruce"
+            ],
+            [
+                "Carla_Bley",
+                "associatedBand",
+                "Johnny_Griffin"
+            ],
+            [
+                "Carla_Bley",
+                "associatedBand",
+                "Nick_Mason"
+            ],
+            [
+                "Carla_Bley",
+                "associatedBand",
+                "Steve_Swallow"
+            ],
+            [
+                "Carla_Bley",
+                "genre",
+                "Jazz_fusion"
+            ]
+        ],
+        "score": "3.359384645462704e-11",
+        "rank": "10523",
+        "new_score": "0.0007256167591549456",
+        "new_rank": "43"
+    },
+    {
+        "triple_to_explain": [
+            "Manfred_von_Brauchitsch",
+            "deathPlace",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Manfred_von_Brauchitsch",
+                "birthPlace",
+                "Hamburg"
+            ]
+        ],
+        "score": "0.8879804015159607",
+        "rank": "2",
+        "new_score": "0.970088541507721",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "SuperFuckers",
+            "format",
+            "High-definition_television"
+        ],
+        "rule": [
+            [
+                "SuperFuckers",
+                "voice",
+                "Justin_Roiland"
+            ]
+        ],
+        "score": "7.617371143575635e-12",
+        "rank": "26003",
+        "new_score": "0.0005198595463298261",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Lee_Jae-jin_(musician,_born_1991)",
+            "occupation",
+            "Bassist"
+        ],
+        "rule": [
+            [
+                "F.T._Island",
+                "bandMember",
+                "Lee_Jae-jin_(musician,_born_1991)"
+            ]
+        ],
+        "score": "5.80994822030334e-07",
+        "rank": "87",
+        "new_score": "2.058093251378068e-09",
+        "new_rank": "3157"
+    },
+    {
+        "triple_to_explain": [
+            "Socorro_County,_New_Mexico",
+            "largestCity",
+            "Socorro,_New_Mexico"
+        ],
+        "rule": [
+            [
+                "Socorro_County,_New_Mexico",
+                "country",
+                "United_States"
+            ],
+            [
+                "Socorro,_New_Mexico",
+                "isPartOf",
+                "Socorro_County,_New_Mexico"
+            ]
+        ],
+        "score": "0.014496357180178165",
+        "rank": "4",
+        "new_score": "3.999038256097265e-07",
+        "new_rank": "2062"
+    },
+    {
+        "triple_to_explain": [
+            "John_Banks_(New_Zealand_politician)",
+            "party",
+            "ACT_New_Zealand"
+        ],
+        "rule": [
+            [
+                "John_Banks_(New_Zealand_politician)",
+                "primeMinister",
+                "Jim_Bolger"
+            ],
+            [
+                "John_Banks_(New_Zealand_politician)",
+                "primeMinister",
+                "John_Key"
+            ],
+            [
+                "John_Banks_(New_Zealand_politician)",
+                "otherParty",
+                "New_Zealand_National_Party"
+            ]
+        ],
+        "score": "4.14909955281928e-08",
+        "rank": "830",
+        "new_score": "2.525804347897065e-06",
+        "new_rank": "338"
+    },
+    {
+        "triple_to_explain": [
+            "Morehouse_College",
+            "affiliation",
+            "Oberlin_Group_of_Libraries"
+        ],
+        "rule": [
+            [
+                "Morehouse_College",
+                "city",
+                "Atlanta"
+            ],
+            [
+                "Martin_Luther_King_Jr.",
+                "almaMater",
+                "Morehouse_College"
+            ]
+        ],
+        "score": "0.04834213852882385",
+        "rank": "3",
+        "new_score": "0.051780518144369125",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Paradise_Lost_(band)",
+            "recordLabel",
+            "Metal_Blade_Records"
+        ],
+        "rule": [
+            [
+                "Paradise_Lost_(band)",
+                "formerBandMember",
+                "Adrian_Erlandsson"
+            ]
+        ],
+        "score": "2.8067125867892173e-07",
+        "rank": "941",
+        "new_score": "6.527513323817402e-05",
+        "new_rank": "112"
+    },
+    {
+        "triple_to_explain": [
+            "Syreeta_Wright",
+            "genre",
+            "Motown"
+        ],
+        "rule": [
+            [
+                "Syreeta_Wright",
+                "associatedMusicalArtist",
+                "Jermaine_Jackson"
+            ],
+            [
+                "Syreeta_Wright",
+                "genre",
+                "Smooth_soul"
+            ],
+            [
+                "Syreeta_Wright",
+                "deathPlace",
+                "Los_Angeles"
+            ],
+            [
+                "Signed,_Sealed,_Delivered_I%27m_Yours",
+                "writer",
+                "Syreeta_Wright"
+            ]
+        ],
+        "score": "1.023308442427151e-07",
+        "rank": "945",
+        "new_score": "3.2054026632977184e-07",
+        "new_rank": "216"
+    },
+    {
+        "triple_to_explain": [
+            "Adam_F",
+            "associatedBand",
+            "M.O.P."
+        ],
+        "rule": [
+            [
+                "Adam_F",
+                "recordLabel",
+                "Breakbeat_Kaos"
+            ],
+            [
+                "Adam_F",
+                "associatedBand",
+                "DJ_Fresh"
+            ],
+            [
+                "Adam_F",
+                "associatedBand",
+                "Pharoahe_Monch"
+            ],
+            [
+                "Adam_F",
+                "associatedBand",
+                "Redman_(rapper)"
+            ],
+            [
+                "Pendulum_(drum_and_bass_band)",
+                "associatedBand",
+                "Adam_F"
+            ],
+            [
+                "Pharoahe_Monch",
+                "associatedBand",
+                "Adam_F"
+            ],
+            [
+                "Adam_F",
+                "birthPlace",
+                "Liverpool"
+            ],
+            [
+                "Adam_F",
+                "recordLabel",
+                "Astralwerks"
+            ]
+        ],
+        "score": "0.0007737288251519203",
+        "rank": "72",
+        "new_score": "6.207520186762849e-08",
+        "new_rank": "1743"
+    },
+    {
+        "triple_to_explain": [
+            "Suburban_Legends",
+            "recordLabel",
+            "Rock_Ridge_Music"
+        ],
+        "rule": [
+            [
+                "Suburban_Legends",
+                "genre",
+                "Rock_music"
+            ],
+            [
+                "Suburban_Legends",
+                "genre",
+                "Funk"
+            ]
+        ],
+        "score": "0.0035103356931358576",
+        "rank": "16",
+        "new_score": "0.0037721882108598948",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Ville_Valo",
+            "associatedMusicalArtist",
+            "Daniel_Lioneye"
+        ],
+        "rule": [
+            [
+                "Ville_Valo",
+                "instrument",
+                "Singing"
+            ]
+        ],
+        "score": "0.00013149554433766752",
+        "rank": "214",
+        "new_score": "1.101131033465208e-06",
+        "new_rank": "1650"
+    },
+    {
+        "triple_to_explain": [
+            "Hip_hop_music",
+            "derivative",
+            "Breakbeat"
+        ],
+        "rule": [
+            [
+                "Mark_Pritchard_(music_producer)",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "Afrika_Bambaataa",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "Hip_hop_music",
+                "musicSubgenre",
+                "Baltimore_club"
+            ],
+            [
+                "Hip_hop_music",
+                "derivative",
+                "Big_beat"
+            ],
+            [
+                "Hip_hop_music",
+                "derivative",
+                "Drum_and_bass"
+            ],
+            [
+                "Hip_hop_music",
+                "derivative",
+                "Electro_(music)"
+            ],
+            [
+                "Hip_hop_music",
+                "derivative",
+                "Jungle_music"
+            ],
+            [
+                "Hip_hop_music",
+                "derivative",
+                "Trip_hop"
+            ]
+        ],
+        "score": "0.5944226980209351",
+        "rank": "8",
+        "new_score": "0.0023379537742584944",
+        "new_rank": "25"
+    },
+    {
+        "triple_to_explain": [
+            "Lawrence_Summers",
+            "birthPlace",
+            "New_Haven,_Connecticut"
+        ],
+        "rule": [
+            [
+                "Lawrence_Summers",
+                "almaMater",
+                "Harvard_University"
+            ]
+        ],
+        "score": "6.335986836347729e-05",
+        "rank": "21",
+        "new_score": "0.0024317249190062284",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Jolene_(song)",
+            "genre",
+            "Alternative_rock"
+        ],
+        "rule": [
+            [
+                "Jolene_(song)",
+                "genre",
+                "Country_pop"
+            ],
+            [
+                "Jolene_(song)",
+                "genre",
+                "Garage_rock"
+            ],
+            [
+                "Jolene_(song)",
+                "format",
+                "Music_download"
+            ]
+        ],
+        "score": "7.193148121587001e-08",
+        "rank": "531",
+        "new_score": "6.561589316333993e-07",
+        "new_rank": "352"
+    },
+    {
+        "triple_to_explain": [
+            "Hank_Garland",
+            "genre",
+            "Jazz"
+        ],
+        "rule": [
+            [
+                "Hank_Garland",
+                "genre",
+                "Country_music"
+            ]
+        ],
+        "score": "0.02763846144080162",
+        "rank": "2",
+        "new_score": "0.9070411920547485",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "KPN",
+            "location",
+            "Netherlands"
+        ],
+        "rule": [
+            [
+                "KPN",
+                "owningCompany",
+                "Ontario_Teachers%27_Pension_Plan"
+            ],
+            [
+                "KPN",
+                "product",
+                "Mobile_phone"
+            ],
+            [
+                "KPN",
+                "product",
+                "Internet"
+            ]
+        ],
+        "score": "0.0012155574513599277",
+        "rank": "6",
+        "new_score": "0.0049083903431892395",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Ignaz_Seipel",
+            "deathPlace",
+            "First_Austrian_Republic"
+        ],
+        "rule": [
+            [
+                "Wilhelm_Miklas",
+                "chancellor",
+                "Ignaz_Seipel"
+            ]
+        ],
+        "score": "0.0007729619392193854",
+        "rank": "4",
+        "new_score": "0.0002939249388873577",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Jacques_Maritain",
+            "influencedBy",
+            "Charles_Maurras"
+        ],
+        "rule": [
+            [
+                "Jacques_Maritain",
+                "birthPlace",
+                "Paris"
+            ],
+            [
+                "Jacques_Maritain",
+                "mainInterest",
+                "Philosophy_of_religion"
+            ],
+            [
+                "Alojz_Rebula",
+                "influencedBy",
+                "Jacques_Maritain"
+            ]
+        ],
+        "score": "0.3978535532951355",
+        "rank": "3",
+        "new_score": "0.668111264705658",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Nelson,_Lancashire",
+            "district",
+            "Borough_of_Pendle"
+        ],
+        "rule": [
+            [
+                "British_Mirpuris",
+                "populationPlace",
+                "Nelson,_Lancashire"
+            ],
+            [
+                "British_Pakistanis",
+                "populationPlace",
+                "Nelson,_Lancashire"
+            ],
+            [
+                "Nelson,_Lancashire",
+                "country",
+                "United_Kingdom"
+            ]
+        ],
+        "score": "4.9048154323827475e-05",
+        "rank": "69",
+        "new_score": "2.7426938231656095e-07",
+        "new_rank": "672"
+    },
+    {
+        "triple_to_explain": [
+            "German_Army_(1935%E2%80%931945)",
+            "militaryBranch",
+            "Wehrmacht"
+        ],
+        "rule": [
+            [
+                "Afrika_Korps",
+                "militaryBranch",
+                "German_Army_(1935%E2%80%931945)"
+            ],
+            [
+                "XXXIX_Panzer_Corps",
+                "militaryBranch",
+                "German_Army_(1935%E2%80%931945)"
+            ],
+            [
+                "Erich_Mende",
+                "militaryBranch",
+                "German_Army_(1935%E2%80%931945)"
+            ]
+        ],
+        "score": "0.00012293255713302642",
+        "rank": "30",
+        "new_score": "3.8223970477702096e-05",
+        "new_rank": "30"
+    },
+    {
+        "triple_to_explain": [
+            "Albanians",
+            "populationPlace",
+            "Greece"
+        ],
+        "rule": [
+            [
+                "Albanians",
+                "populationPlace",
+                "Slovenia"
+            ],
+            [
+                "Albanians",
+                "religion",
+                "Irreligion"
+            ],
+            [
+                "Albanians",
+                "religion",
+                "Sunni_Islam"
+            ],
+            [
+                "Arb%C3%ABresh%C3%AB_people",
+                "related",
+                "Albanians"
+            ]
+        ],
+        "score": "0.017957210540771484",
+        "rank": "9",
+        "new_score": "0.022925617173314095",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Oeste_Futebol_Clube",
+            "ground",
+            "Brazil"
+        ],
+        "rule": [
+            [
+                "Oeste_Futebol_Clube",
+                "ground",
+                "Osasco"
+            ],
+            [
+                "Oeste_Futebol_Clube",
+                "manager",
+                "Fernando_Diniz"
+            ]
+        ],
+        "score": "0.01989363692700863",
+        "rank": "2",
+        "new_score": "0.09339386224746704",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "%C3%89mile_Loubet",
+            "deathPlace",
+            "French_Third_Republic"
+        ],
+        "rule": [
+            [
+                "Charles_Dupuy",
+                "president",
+                "%C3%89mile_Loubet"
+            ],
+            [
+                "%C3%89mile_Loubet",
+                "predecessor",
+                "Charles_de_Freycinet"
+            ],
+            [
+                "Armand_Falli%C3%A8res",
+                "predecessor",
+                "%C3%89mile_Loubet"
+            ],
+            [
+                "%C3%89mile_Loubet",
+                "deathPlace",
+                "Mont%C3%A9limar"
+            ],
+            [
+                "Sadi_Carnot_(statesman)",
+                "primeMinister",
+                "%C3%89mile_Loubet"
+            ]
+        ],
+        "score": "0.0010534869506955147",
+        "rank": "6",
+        "new_score": "0.013050777837634087",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Pop_Levi",
+            "genre",
+            "Pop_music"
+        ],
+        "rule": [
+            [
+                "Pop_Levi",
+                "birthPlace",
+                "Surrey"
+            ],
+            [
+                "Pop_Levi",
+                "instrument",
+                "Fender_Stratocaster"
+            ],
+            [
+                "Pop_Levi",
+                "recordLabel",
+                "Neon_Gold_Records"
+            ],
+            [
+                "Pop_Levi",
+                "recordLabel",
+                "Ninja_Tune"
+            ]
+        ],
+        "score": "3.129215997432766e-09",
+        "rank": "2488",
+        "new_score": "3.127555601167842e-06",
+        "new_rank": "166"
+    },
+    {
+        "triple_to_explain": [
+            "Mark_de_Clive-Lowe",
+            "genre",
+            "Pop_music"
+        ],
+        "rule": [
+            [
+                "Mark_de_Clive-Lowe",
+                "instrument",
+                "Keyboard_instrument"
+            ]
+        ],
+        "score": "0.08396732062101364",
+        "rank": "2",
+        "new_score": "0.016547448933124542",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Aaron_Gillespie",
+            "genre",
+            "Metalcore"
+        ],
+        "rule": [
+            [
+                "Aaron_Gillespie",
+                "recordLabel",
+                "BEC_Recordings"
+            ],
+            [
+                "Aaron_Gillespie",
+                "recordLabel",
+                "Solid_State_Records"
+            ],
+            [
+                "Aaron_Gillespie",
+                "recordLabel",
+                "Tooth_%26_Nail_Records"
+            ],
+            [
+                "Aaron_Gillespie",
+                "recordLabel",
+                "Virgin_Records"
+            ]
+        ],
+        "score": "0.0031836305279284716",
+        "rank": "10",
+        "new_score": "2.1076059510960476e-06",
+        "new_rank": "217"
+    },
+    {
+        "triple_to_explain": [
+            "Love_Under_the_Sun",
+            "producer",
+            "Johnnie_To"
+        ],
+        "rule": [
+            [
+                "Love_Under_the_Sun",
+                "director",
+                "Andy_Lau"
+            ],
+            [
+                "Love_Under_the_Sun",
+                "starring",
+                "Anthony_Wong_(Hong_Kong_actor)"
+            ],
+            [
+                "Love_Under_the_Sun",
+                "musicComposer",
+                "Peter_Kam"
+            ]
+        ],
+        "score": "2.1884696252527647e-05",
+        "rank": "44",
+        "new_score": "0.0003019522991962731",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "David_Blunkett",
+            "religion",
+            "Methodism"
+        ],
+        "rule": [
+            [
+                "David_Blunkett",
+                "almaMater",
+                "University_of_Sheffield"
+            ]
+        ],
+        "score": "8.323727524839342e-05",
+        "rank": "9",
+        "new_score": "6.794668934162473e-06",
+        "new_rank": "21"
+    },
+    {
+        "triple_to_explain": [
+            "Edge_of_the_Universe_(song)",
+            "producer",
+            "Bee_Gees"
+        ],
+        "rule": [
+            [
+                "Edge_of_the_Universe_(song)",
+                "genre",
+                "Pop_rock"
+            ],
+            [
+                "Edge_of_the_Universe_(song)",
+                "subsequentWork",
+                "How_Deep_Is_Your_Love_(Bee_Gees_song)"
+            ]
+        ],
+        "score": "0.012362510897219181",
+        "rank": "4",
+        "new_score": "0.06423292309045792",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kishi_Bashi",
+            "genre",
+            "Indie_rock"
+        ],
+        "rule": [
+            [
+                "Kishi_Bashi",
+                "associatedMusicalArtist",
+                "Of_Montreal"
+            ],
+            [
+                "Kishi_Bashi",
+                "genre",
+                "Indie_pop"
+            ],
+            [
+                "Kishi_Bashi",
+                "genre",
+                "Psychedelic_pop"
+            ],
+            [
+                "Kishi_Bashi",
+                "recordLabel",
+                "Joyful_Noise_Recordings"
+            ]
+        ],
+        "score": "0.0667235478758812",
+        "rank": "2",
+        "new_score": "2.23689858103171e-06",
+        "new_rank": "53"
+    },
+    {
+        "triple_to_explain": [
+            "Elizabeth_Blackburn",
+            "almaMater",
+            "University_of_Melbourne"
+        ],
+        "rule": [
+            [
+                "Elizabeth_Blackburn",
+                "birthPlace",
+                "Australia"
+            ],
+            [
+                "Elizabeth_Blackburn",
+                "award",
+                "Albert_Lasker_Award_for_Basic_Medical_Research"
+            ],
+            [
+                "Elizabeth_Blackburn",
+                "award",
+                "Dickson_Prize"
+            ],
+            [
+                "Elizabeth_Blackburn",
+                "award",
+                "L%27Or%C3%A9al-UNESCO_For_Women_in_Science_Awards"
+            ],
+            [
+                "Elizabeth_Blackburn",
+                "award",
+                "Nobel_Prize_in_Physiology_or_Medicine"
+            ]
+        ],
+        "score": "2.7777880973189895e-07",
+        "rank": "690",
+        "new_score": "0.00017774090520106256",
+        "new_rank": "19"
+    },
+    {
+        "triple_to_explain": [
+            "Hudson_River_Region_AVA",
+            "growingGrape",
+            "Pinot_noir"
+        ],
+        "rule": [
+            [
+                "Hudson_River_Region_AVA",
+                "growingGrape",
+                "Cabernet_Franc"
+            ],
+            [
+                "Hudson_River_Region_AVA",
+                "isPartOfWineRegion",
+                "New_York_wine"
+            ]
+        ],
+        "score": "0.010843108408153057",
+        "rank": "5",
+        "new_score": "0.036152247339487076",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "William_Hague",
+            "almaMater",
+            "Magdalen_College,_Oxford"
+        ],
+        "rule": [
+            [
+                "Chris_Grayling",
+                "predecessor",
+                "William_Hague"
+            ],
+            [
+                "David_Miliband",
+                "predecessor",
+                "William_Hague"
+            ],
+            [
+                "Jack_Straw",
+                "predecessor",
+                "William_Hague"
+            ],
+            [
+                "Philip_Hammond",
+                "predecessor",
+                "William_Hague"
+            ],
+            [
+                "William_Hague",
+                "predecessor",
+                "Andrew_Lansley"
+            ],
+            [
+                "William_Hague",
+                "predecessor",
+                "John_Major"
+            ],
+            [
+                "William_Hague",
+                "predecessor",
+                "Peter_Mandelson"
+            ],
+            [
+                "William_Hague",
+                "religion",
+                "Anglicanism"
+            ]
+        ],
+        "score": "9.864475032372866e-06",
+        "rank": "231",
+        "new_score": "0.0012114413548260927",
+        "new_rank": "15"
+    },
+    {
+        "triple_to_explain": [
+            "Mil_Mi-17",
+            "type",
+            "Military_transport_aircraft"
+        ],
+        "rule": [
+            [
+                "Mil_Mi-8",
+                "successor",
+                "Mil_Mi-17"
+            ],
+            [
+                "Bangladesh_Air_Force",
+                "aircraftAttack",
+                "Mil_Mi-17"
+            ]
+        ],
+        "score": "0.0023073458578437567",
+        "rank": "4",
+        "new_score": "0.028269032016396523",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Kristin_Chenoweth",
+            "birthPlace",
+            "Broken_Arrow,_Oklahoma"
+        ],
+        "rule": [
+            [
+                "Hairspray_Live!",
+                "starring",
+                "Kristin_Chenoweth"
+            ],
+            [
+                "The_Peanuts_Movie",
+                "starring",
+                "Kristin_Chenoweth"
+            ],
+            [
+                "100_(Glee)",
+                "guest",
+                "Kristin_Chenoweth"
+            ],
+            [
+                "Rumours_(Glee)",
+                "guest",
+                "Kristin_Chenoweth"
+            ],
+            [
+                "Sit_Down,_Shut_Up_(2009_TV_series)",
+                "voice",
+                "Kristin_Chenoweth"
+            ]
+        ],
+        "score": "7.953979814200041e-13",
+        "rank": "64862",
+        "new_score": "1.466208914280287e-07",
+        "new_rank": "1028"
+    },
+    {
+        "triple_to_explain": [
+            "Matt_Elliott_(musician)",
+            "hometown",
+            "Bristol"
+        ],
+        "rule": [
+            [
+                "Matt_Elliott_(musician)",
+                "recordLabel",
+                "Domino_Recording_Company"
+            ],
+            [
+                "Matt_Elliott_(musician)",
+                "recordLabel",
+                "Merge_Records"
+            ]
+        ],
+        "score": "1.5870892866587383e-07",
+        "rank": "1057",
+        "new_score": "1.37091902274733e-07",
+        "new_rank": "481"
+    },
+    {
+        "triple_to_explain": [
+            "Stackridge",
+            "genre",
+            "Folk_rock"
+        ],
+        "rule": [
+            [
+                "Stackridge",
+                "formerBandMember",
+                "Dave_Lawson_(musician)"
+            ],
+            [
+                "Stackridge",
+                "formerBandMember",
+                "Peter_Van_Hooke"
+            ]
+        ],
+        "score": "2.3175341823389317e-07",
+        "rank": "318",
+        "new_score": "4.053156033023697e-08",
+        "new_rank": "587"
+    },
+    {
+        "triple_to_explain": [
+            "Gorguts",
+            "genre",
+            "Technical_death_metal"
+        ],
+        "rule": [
+            [
+                "Colin_Marston",
+                "associatedMusicalArtist",
+                "Gorguts"
+            ]
+        ],
+        "score": "0.009337126277387142",
+        "rank": "5",
+        "new_score": "0.0006843969458714128",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Inuit",
+            "language",
+            "Inuktitut"
+        ],
+        "rule": [
+            [
+                "Inuit",
+                "religion",
+                "Christianity"
+            ],
+            [
+                "Kalaallit",
+                "related",
+                "Inuit"
+            ],
+            [
+                "Baffin_Island",
+                "ethnicGroup",
+                "Inuit"
+            ],
+            [
+                "Belcher_Islands",
+                "ethnicGroup",
+                "Inuit"
+            ]
+        ],
+        "score": "0.000701023091096431",
+        "rank": "24",
+        "new_score": "0.02383289858698845",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Pete_Seeger",
+            "associatedBand",
+            "The_Weavers"
+        ],
+        "rule": [
+            [
+                "Arlo_Guthrie",
+                "associatedBand",
+                "Pete_Seeger"
+            ],
+            [
+                "Big_Bill_Broonzy",
+                "associatedBand",
+                "Pete_Seeger"
+            ],
+            [
+                "Buffy_Sainte-Marie",
+                "associatedBand",
+                "Pete_Seeger"
+            ],
+            [
+                "Joan_Baez",
+                "associatedBand",
+                "Pete_Seeger"
+            ],
+            [
+                "Pete_Seeger",
+                "associatedBand",
+                "Arlo_Guthrie"
+            ],
+            [
+                "Pete_Seeger",
+                "associatedBand",
+                "Lead_Belly"
+            ],
+            [
+                "Pete_Seeger",
+                "associatedBand",
+                "Woody_Guthrie"
+            ],
+            [
+                "Holly_Near",
+                "associatedBand",
+                "Pete_Seeger"
+            ],
+            [
+                "Ronnie_Gilbert",
+                "associatedBand",
+                "Pete_Seeger"
+            ],
+            [
+                "Holly_Near",
+                "associatedMusicalArtist",
+                "Pete_Seeger"
+            ],
+            [
+                "Ronnie_Gilbert",
+                "associatedMusicalArtist",
+                "Pete_Seeger"
+            ],
+            [
+                "If_I_Had_a_Hammer",
+                "writer",
+                "Pete_Seeger"
+            ]
+        ],
+        "score": "0.015858765691518784",
+        "rank": "7",
+        "new_score": "0.0005123066948726773",
+        "new_rank": "20"
+    },
+    {
+        "triple_to_explain": [
+            "Michael_B._Donley",
+            "militaryBranch",
+            "United_States_Army"
+        ],
+        "rule": [
+            [
+                "Michael_B._Donley",
+                "president",
+                "Barack_Obama"
+            ],
+            [
+                "New_York_Air_National_Guard",
+                "commander",
+                "Michael_B._Donley"
+            ]
+        ],
+        "score": "0.0002687066444195807",
+        "rank": "12",
+        "new_score": "0.9523079991340637",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Little_Fockers",
+            "starring",
+            "Harvey_Keitel"
+        ],
+        "rule": [
+            [
+                "Little_Fockers",
+                "distributor",
+                "Universal_Pictures"
+            ]
+        ],
+        "score": "4.0728162275627255e-05",
+        "rank": "430",
+        "new_score": "1.7533650975565251e-07",
+        "new_rank": "2554"
+    },
+    {
+        "triple_to_explain": [
+            "Nigerian_Americans",
+            "religion",
+            "Animism"
+        ],
+        "rule": [
+            [
+                "Nigerian_Americans",
+                "religion",
+                "Anglicanism"
+            ]
+        ],
+        "score": "0.00032312364783138037",
+        "rank": "49",
+        "new_score": "0.0008301956695504487",
+        "new_rank": "23"
+    },
+    {
+        "triple_to_explain": [
+            "Victor_Krummenacher",
+            "birthPlace",
+            "Riverside,_California"
+        ],
+        "rule": [
+            [
+                "Victor_Krummenacher",
+                "instrument",
+                "Bass_guitar"
+            ],
+            [
+                "Victor_Krummenacher",
+                "associatedMusicalArtist",
+                "Cracker_(band)"
+            ],
+            [
+                "Victor_Krummenacher",
+                "associatedMusicalArtist",
+                "Monks_of_Doom"
+            ],
+            [
+                "Camper_Van_Beethoven",
+                "bandMember",
+                "Victor_Krummenacher"
+            ],
+            [
+                "Monks_of_Doom",
+                "bandMember",
+                "Victor_Krummenacher"
+            ]
+        ],
+        "score": "5.30732052084204e-07",
+        "rank": "800",
+        "new_score": "7.441828347509727e-05",
+        "new_rank": "68"
+    },
+    {
+        "triple_to_explain": [
+            "Never_Can_Say_Goodbye",
+            "producer",
+            "Harold_Wheeler_(musician)"
+        ],
+        "rule": [
+            [
+                "Michael_(Glee)",
+                "musicComposer",
+                "Never_Can_Say_Goodbye"
+            ],
+            [
+                "Never_Can_Say_Goodbye",
+                "producer",
+                "Shep_Pettibone"
+            ],
+            [
+                "Never_Can_Say_Goodbye",
+                "producer",
+                "Stephen_Hague"
+            ],
+            [
+                "Never_Can_Say_Goodbye",
+                "musicalArtist",
+                "Gloria_Gaynor"
+            ],
+            [
+                "Never_Can_Say_Goodbye",
+                "musicalArtist",
+                "The_Communards"
+            ],
+            [
+                "Never_Can_Say_Goodbye",
+                "recordLabel",
+                "Motown"
+            ]
+        ],
+        "score": "0.0010637925006449223",
+        "rank": "37",
+        "new_score": "2.2141759927762905e-06",
+        "new_rank": "247"
+    },
+    {
+        "triple_to_explain": [
+            "Calhoun_County,_Alabama",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Anniston,_Alabama",
+                "isPartOf",
+                "Calhoun_County,_Alabama"
+            ],
+            [
+                "Jacksonville,_Alabama",
+                "isPartOf",
+                "Calhoun_County,_Alabama"
+            ],
+            [
+                "Oxford,_Alabama",
+                "isPartOf",
+                "Calhoun_County,_Alabama"
+            ]
+        ],
+        "score": "0.6915839910507202",
+        "rank": "2",
+        "new_score": "0.9226170778274536",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Tom_Conway",
+            "birthPlace",
+            "Russian_Empire"
+        ],
+        "rule": [
+            [
+                "Bulldog_Drummond",
+                "portrayer",
+                "Tom_Conway"
+            ],
+            [
+                "The_Saint_(Simon_Templar)",
+                "portrayer",
+                "Tom_Conway"
+            ],
+            [
+                "Peter_Pan_(1953_film)",
+                "narrator",
+                "Tom_Conway"
+            ]
+        ],
+        "score": "2.2013731282299887e-08",
+        "rank": "3747",
+        "new_score": "8.099218575807754e-06",
+        "new_rank": "538"
+    },
+    {
+        "triple_to_explain": [
+            "Falkland_Islands",
+            "capital",
+            "Stanley,_Falkland_Islands"
+        ],
+        "rule": [
+            [
+                "Falkland_Islands",
+                "governmentType",
+                "Parliamentary_system"
+            ]
+        ],
+        "score": "0.00013819438754580915",
+        "rank": "5",
+        "new_score": "0.0001336382410954684",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Nobutaka_Machimura",
+            "deathPlace",
+            "Osaka"
+        ],
+        "rule": [
+            [
+                "Nobutaka_Machimura",
+                "birthPlace",
+                "Numazu"
+            ],
+            [
+                "Nobutaka_Machimura",
+                "predecessor",
+                "Tar%C5%8D_As%C5%8D"
+            ],
+            [
+                "Tar%C5%8D_As%C5%8D",
+                "predecessor",
+                "Nobutaka_Machimura"
+            ]
+        ],
+        "score": "4.617015747498954e-08",
+        "rank": "3333",
+        "new_score": "5.488345209414547e-07",
+        "new_rank": "536"
+    },
+    {
+        "triple_to_explain": [
+            "Phil_Lewis_(musician)",
+            "associatedBand",
+            "L.A._Guns"
+        ],
+        "rule": [
+            [
+                "Dave_Moreno",
+                "associatedMusicalArtist",
+                "Phil_Lewis_(musician)"
+            ]
+        ],
+        "score": "6.077240686863661e-05",
+        "rank": "40",
+        "new_score": "3.3326987249893136e-06",
+        "new_rank": "323"
+    },
+    {
+        "triple_to_explain": [
+            "I%27m_So_Glad",
+            "producer",
+            "Derek_Lawrence"
+        ],
+        "rule": [
+            [
+                "I%27m_So_Glad",
+                "recordedIn",
+                "London"
+            ]
+        ],
+        "score": "2.2412639737012796e-05",
+        "rank": "83",
+        "new_score": "0.00010479679622221738",
+        "new_rank": "45"
+    },
+    {
+        "triple_to_explain": [
+            "Dixie_Carter",
+            "education",
+            "Rhodes_College"
+        ],
+        "rule": [
+            [
+                "Dixie_Carter",
+                "party",
+                "Republican_Party_(United_States)"
+            ],
+            [
+                "Diff%27rent_Strokes",
+                "starring",
+                "Dixie_Carter"
+            ]
+        ],
+        "score": "9.035383300215472e-06",
+        "rank": "373",
+        "new_score": "1.4819168825397355e-07",
+        "new_rank": "2406"
+    }
+]

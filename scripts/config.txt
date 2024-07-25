@@ -1,0 +1,37 @@
+ID method     mode      dataset  summarization
+1  imagine              DB50K	 no
+2  imagine              DB100K   no
+3  imagine              YAGO4-20 no
+4  imagine              DB50K	 simulation
+5  imagine              DB100K   simulation
+6  imagine              YAGO4-20 simulation
+7  imagine              DB50K	 bisimulation
+8  imagine              DB100K   bisimulation
+9  imagine              YAGO4-20 bisimulation
+10 wimagine             DB50K	 no
+11 wimagine             DB100K   no
+12 wimagine             YAGO4-20 no
+13 wimagine             DB50K	 simulation
+14 wimagine             DB100K   simulation
+15 wimagine             YAGO4-20 simulation
+16 wimagine             DB50K	 bisimulation
+17 wimagine             DB100K   bisimulation
+18 wimagine             YAGO4-20 bisimulation
+19 ikelpie              DB50K	 no
+20 ikelpie              DB100K   no
+21 ikelpie              YAGO4-20 no
+22 ikelpie++            DB50K	 simulation
+23 ikelpie++            DB100K   simulation
+24 ikelpie++            YAGO4-20 simulation
+25 ikelpie++            DB50K	 bisimulation
+26 ikelpie++            DB100K   bisimulation
+27 ikelpie++            YAGO4-20 bisimulation
+28 kelpie     necessary DB50K	 no
+29 kelpie     necessary DB100K   no
+30 kelpie     necessary YAGO4-20 no
+31 kelpie++   necessary DB50K	 simulation
+32 kelpie++   necessary DB100K   simulation
+33 kelpie++   necessary YAGO4-20 simulation
+34 kelpie++   necessary DB50K	 bisimulation
+35 kelpie++   necessary DB100K   bisimulation
+36 kelpie++   necessary YAGO4-20 bisimulation

@@ -1,0 +1,3362 @@
+[
+    {
+        "triple": [
+            "Bernard_Edwards",
+            "familyName",
+            "Edwards_(surname)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bernard_Edwards",
+                        "deathPlace",
+                        "Japan"
+                    ]
+                ],
+                0.8978912990262435
+            ],
+            [
+                [
+                    [
+                        "Bernard_Edwards",
+                        "deathPlace",
+                        "Japan"
+                    ],
+                    [
+                        "Bernard_Edwards",
+                        "birthPlace",
+                        "Greenville,_South_Carolina"
+                    ]
+                ],
+                -0.770918855700852
+            ],
+            [
+                [
+                    [
+                        "Bernard_Edwards",
+                        "birthPlace",
+                        "Greenville,_South_Carolina"
+                    ]
+                ],
+                -3.9312679364305825
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.882600784301758
+    },
+    {
+        "triple": [
+            "Armenian_State_Pedagogical_University",
+            "location",
+            "Yerevan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Armenian_State_Pedagogical_University",
+                        "award",
+                        "Order_of_the_Red_Banner_of_Labour"
+                    ]
+                ],
+                -46382.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.106872320175171
+    },
+    {
+        "triple": [
+            "Mort_Glickman",
+            "deathPlace",
+            "Sherman_Oaks,_Los_Angeles"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mort_Glickman",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                0.06518760433903446
+            ],
+            [
+                [
+                    [
+                        "Mort_Glickman",
+                        "birthPlace",
+                        "Chicago"
+                    ]
+                ],
+                -0.45243425722475406
+            ],
+            [
+                [
+                    [
+                        "Mort_Glickman",
+                        "birthPlace",
+                        "Chicago"
+                    ],
+                    [
+                        "Mort_Glickman",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                -759.6018518518518
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.832003831863403
+    },
+    {
+        "triple": [
+            "Candlemass_(band)",
+            "genre",
+            "Doom_metal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Candlemass_(band)",
+                        "foundingLocation",
+                        "Stockholm"
+                    ]
+                ],
+                -20.797882554017555
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.133296966552734
+    },
+    {
+        "triple": [
+            "Barbezieux-Saint-Hilaire",
+            "containedInPlace",
+            "Charente"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Barbezieux-Saint-Hilaire",
+                        "containedInPlace",
+                        "Arrondissement_of_Cognac"
+                    ]
+                ],
+                -2.7817063492063494
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.064515113830566
+    },
+    {
+        "triple": [
+            "Chablais_Alps",
+            "containedInPlace",
+            "Canton_of_Valais"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chablais_Alps",
+                        "containedInPlace",
+                        "Alps"
+                    ]
+                ],
+                -375.3735408560311
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.921171188354492
+    },
+    {
+        "triple": [
+            "English_College,_Douai",
+            "parentOrganization",
+            "University_of_Douai"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "English_College,_Douai",
+                        "location",
+                        "Douai"
+                    ]
+                ],
+                -0.019552093047600288
+            ],
+            [
+                [
+                    [
+                        "English_College,_Douai",
+                        "containedInPlace",
+                        "Douai"
+                    ]
+                ],
+                -0.6207497832062957
+            ],
+            [
+                [
+                    [
+                        "English_College,_Douai",
+                        "containedInPlace",
+                        "Douai"
+                    ],
+                    [
+                        "English_College,_Douai",
+                        "location",
+                        "Douai"
+                    ]
+                ],
+                -652.2466517857143
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.781144857406616
+    },
+    {
+        "triple": [
+            "Emon_Saha",
+            "nationality",
+            "Bangladesh"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Emon_Saha",
+                        "birthPlace",
+                        "Dhaka"
+                    ]
+                ],
+                -96802.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.010393142700195
+    },
+    {
+        "triple": [
+            "Walter_R._Booth",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Walter_R._Booth",
+                        "familyName",
+                        "Booth_(surname)"
+                    ]
+                ],
+                0.850646430924094
+            ],
+            [
+                [
+                    [
+                        "Walter_R._Booth",
+                        "birthPlace",
+                        "Worcester"
+                    ]
+                ],
+                -0.5789742102989783
+            ],
+            [
+                [
+                    [
+                        "Walter_R._Booth",
+                        "familyName",
+                        "Booth_(surname)"
+                    ],
+                    [
+                        "Walter_R._Booth",
+                        "birthPlace",
+                        "Worcester"
+                    ]
+                ],
+                -572.3075536242603
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.84786319732666
+    },
+    {
+        "triple": [
+            "Casimir_I_of_Kuyavia",
+            "hasOccupation",
+            "Aristocracy_(class)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Casimir_I_of_Kuyavia",
+                        "givenName",
+                        "Casimir"
+                    ]
+                ],
+                -317.6376696134868
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.112593173980713
+    },
+    {
+        "triple": [
+            "Beavis_and_Butt-Head",
+            "musicBy",
+            "Mike_Judge"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Beavis_and_Butt-Head",
+                        "countryOfOrigin",
+                        "United_States"
+                    ]
+                ],
+                1.0896577040354412
+            ],
+            [
+                [
+                    [
+                        "Beavis_and_Butt-Head",
+                        "creator",
+                        "Mike_Judge"
+                    ]
+                ],
+                -6280.0
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.599674701690674
+    },
+    {
+        "triple": [
+            "Hudson_Soft",
+            "parentOrganization",
+            "Konami"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hudson_Soft",
+                        "foundingLocation",
+                        "Sapporo"
+                    ]
+                ],
+                -34.63118555080483
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.067554473876953
+    },
+    {
+        "triple": [
+            "Gomphocerinae",
+            "taxonRank",
+            "Subfamily"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gomphocerinae",
+                        "parentTaxon",
+                        "Acrididae"
+                    ]
+                ],
+                -19381.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.150838851928711
+    },
+    {
+        "triple": [
+            "Canton_of_Bellegarde-sur-Valserine",
+            "containedInPlace",
+            "Arrondissement_of_Gex"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Canton_of_Bellegarde-sur-Valserine",
+                        "containedInPlace",
+                        "Arrondissement_of_Belley"
+                    ]
+                ],
+                -1.0677568151595744
+            ],
+            [
+                [
+                    [
+                        "Canton_of_Bellegarde-sur-Valserine",
+                        "containedInPlace",
+                        "Arrondissement_of_Nantua"
+                    ]
+                ],
+                -1.6744872715312358
+            ],
+            [
+                [
+                    [
+                        "Canton_of_Bellegarde-sur-Valserine",
+                        "containedInPlace",
+                        "Arrondissement_of_Belley"
+                    ],
+                    [
+                        "Canton_of_Bellegarde-sur-Valserine",
+                        "containedInPlace",
+                        "Arrondissement_of_Nantua"
+                    ]
+                ],
+                -41.85377999094613
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.878541469573975
+    },
+    {
+        "triple": [
+            "Ried_im_Innkreis",
+            "memberOf",
+            "Climate_Alliance"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ried_im_Innkreis",
+                        "containedInPlace",
+                        "Ried_im_Innkreis_District"
+                    ]
+                ],
+                -2.943021774291992
+            ],
+            [
+                [
+                    [
+                        "Ried_im_Innkreis_District",
+                        "containsPlace",
+                        "Ried_im_Innkreis"
+                    ]
+                ],
+                -5.7817340850830075
+            ],
+            [
+                [
+                    [
+                        "Ried_im_Innkreis",
+                        "containedInPlace",
+                        "Ried_im_Innkreis_District"
+                    ],
+                    [
+                        "Ried_im_Innkreis_District",
+                        "containsPlace",
+                        "Ried_im_Innkreis"
+                    ]
+                ],
+                -15586.8
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.819515228271484
+    },
+    {
+        "triple": [
+            "Girvan",
+            "containedInPlace",
+            "South_Ayrshire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Girvan",
+                        "containedInPlace",
+                        "Ayrshire"
+                    ]
+                ],
+                -94298.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.088005304336548
+    },
+    {
+        "triple": [
+            "The_Flaming_Lips",
+            "genre",
+            "Space_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Flaming_Lips",
+                        "genre",
+                        "Alternative_rock"
+                    ]
+                ],
+                0.592672277379919
+            ],
+            [
+                [
+                    [
+                        "The_Flaming_Lips",
+                        "foundingLocation",
+                        "Oklahoma_City"
+                    ]
+                ],
+                0.008531318218619735
+            ],
+            [
+                [
+                    [
+                        "The_Flaming_Lips",
+                        "genre",
+                        "Alternative_rock"
+                    ],
+                    [
+                        "The_Flaming_Lips",
+                        "foundingLocation",
+                        "Oklahoma_City"
+                    ]
+                ],
+                -3580.1111111111113
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.248452186584473
+    },
+    {
+        "triple": [
+            "Maria_de_la_Cerda_y_de_Lara",
+            "givenName",
+            "Maria_(given_name)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Maria_de_la_Cerda_y_de_Lara",
+                        "nationality",
+                        "Crown_of_Castile"
+                    ]
+                ],
+                -0.4396347683243435
+            ],
+            [
+                [
+                    [
+                        "Maria_de_la_Cerda_y_de_Lara",
+                        "deathPlace",
+                        "Paris"
+                    ]
+                ],
+                -3.1567760720592752
+            ],
+            [
+                [
+                    [
+                        "Maria_de_la_Cerda_y_de_Lara",
+                        "deathPlace",
+                        "Paris"
+                    ],
+                    [
+                        "Maria_de_la_Cerda_y_de_Lara",
+                        "nationality",
+                        "Crown_of_Castile"
+                    ]
+                ],
+                -234.39066339066338
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.728651523590088
+    },
+    {
+        "triple": [
+            "Tintoretto",
+            "nationality",
+            "Republic_of_Venice"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tintoretto",
+                        "birthPlace",
+                        "Venice"
+                    ]
+                ],
+                1.2019503116607666
+            ],
+            [
+                [
+                    [
+                        "Tintoretto",
+                        "deathPlace",
+                        "Venice"
+                    ]
+                ],
+                0.08224578201770782
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.79475712776184
+    },
+    {
+        "triple": [
+            "4_(Beyonc\u00e9_album)",
+            "producer",
+            "Babyface_(musician)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "4_(Beyonc\u00e9_album)",
+                        "genre",
+                        "Contemporary_R&B"
+                    ]
+                ],
+                0.3444185206499049
+            ],
+            [
+                [
+                    [
+                        "4_(Beyonc\u00e9_album)",
+                        "inLanguage",
+                        "English_language"
+                    ]
+                ],
+                -60.14529596560847
+            ],
+            [
+                [
+                    [
+                        "4_(Beyonc\u00e9_album)",
+                        "inLanguage",
+                        "English_language"
+                    ],
+                    [
+                        "4_(Beyonc\u00e9_album)",
+                        "genre",
+                        "Contemporary_R&B"
+                    ]
+                ],
+                -235.97089947089947
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.223268032073975
+    },
+    {
+        "triple": [
+            "Zangezursky_Uyezd",
+            "containedInPlace",
+            "Elisabethpol_Governorate"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Zangezursky_Uyezd",
+                        "containedInPlace",
+                        "Armenian_Soviet_Socialist_Republic"
+                    ]
+                ],
+                -33.025145772594755
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.198513269424438
+    },
+    {
+        "triple": [
+            "University_of_Central_Lancashire",
+            "memberOf",
+            "Jisc"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_Central_Lancashire",
+                        "location",
+                        "City_of_Preston,_Lancashire"
+                    ]
+                ],
+                -0.11017974785396031
+            ],
+            [
+                [
+                    [
+                        "University_of_Central_Lancashire",
+                        "containedInPlace",
+                        "City_of_Preston,_Lancashire"
+                    ]
+                ],
+                -0.8377957344055176
+            ],
+            [
+                [
+                    [
+                        "University_of_Central_Lancashire",
+                        "containedInPlace",
+                        "City_of_Preston,_Lancashire"
+                    ],
+                    [
+                        "University_of_Central_Lancashire",
+                        "location",
+                        "City_of_Preston,_Lancashire"
+                    ]
+                ],
+                -6128.142299107143
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.762661695480347
+    },
+    {
+        "triple": [
+            "You_Are_the_Best!",
+            "genre",
+            "Romantic_comedy"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "You_Are_the_Best!",
+                        "actor",
+                        "Jo_Jung-suk"
+                    ]
+                ],
+                -0.20889686048030853
+            ],
+            [
+                [
+                    [
+                        "You_Are_the_Best!",
+                        "countryOfOrigin",
+                        "South_Korea"
+                    ]
+                ],
+                -7.624237060546875
+            ],
+            [
+                [
+                    [
+                        "You_Are_the_Best!",
+                        "countryOfOrigin",
+                        "South_Korea"
+                    ],
+                    [
+                        "You_Are_the_Best!",
+                        "actor",
+                        "Jo_Jung-suk"
+                    ]
+                ],
+                -12109.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.394089698791504
+    },
+    {
+        "triple": [
+            "Mangifera_indica",
+            "taxonRank",
+            "Species"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mangifera_indica",
+                        "parentTaxon",
+                        "Mangifera"
+                    ]
+                ],
+                -96909.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.083892345428467
+    },
+    {
+        "triple": [
+            "Canton_of_Bricquebec",
+            "containedInPlace",
+            "Manche"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Arrondissement_of_Cherbourg",
+                        "containsPlace",
+                        "Canton_of_Bricquebec"
+                    ]
+                ],
+                0.38516777753829956
+            ],
+            [
+                [
+                    [
+                        "Canton_of_Bricquebec",
+                        "containedInPlace",
+                        "Arrondissement_of_Cherbourg"
+                    ]
+                ],
+                -0.8907145261764526
+            ],
+            [
+                [
+                    [
+                        "Arrondissement_of_Cherbourg",
+                        "containsPlace",
+                        "Canton_of_Bricquebec"
+                    ],
+                    [
+                        "Canton_of_Bricquebec",
+                        "containedInPlace",
+                        "Arrondissement_of_Cherbourg"
+                    ]
+                ],
+                -96807.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.805234670639038
+    },
+    {
+        "triple": [
+            "Robert_J._Walsh",
+            "deathPlace",
+            "New_York_City"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Robert_J._Walsh",
+                        "givenName",
+                        "Robert"
+                    ]
+                ],
+                0.052787262946367264
+            ],
+            [
+                [
+                    [
+                        "Robert_J._Walsh",
+                        "birthPlace",
+                        "Chicago"
+                    ]
+                ],
+                -9.999659538269043
+            ],
+            [
+                [
+                    [
+                        "Robert_J._Walsh",
+                        "birthPlace",
+                        "Chicago"
+                    ],
+                    [
+                        "Robert_J._Walsh",
+                        "givenName",
+                        "Robert"
+                    ]
+                ],
+                -66754.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.739349365234375
+    },
+    {
+        "triple": [
+            "Natalia_Verbeke",
+            "hasOccupation",
+            "Stage_actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Natalia_Verbeke",
+                        "knowsLanguage",
+                        "Spanish_language"
+                    ]
+                ],
+                0.8654538322897518
+            ],
+            [
+                [
+                    [
+                        "Natalia_Verbeke",
+                        "givenName",
+                        "Carolina_(name)"
+                    ]
+                ],
+                0.4607490932240206
+            ],
+            [
+                [
+                    [
+                        "Natalia_Verbeke",
+                        "knowsLanguage",
+                        "Spanish_language"
+                    ],
+                    [
+                        "Natalia_Verbeke",
+                        "givenName",
+                        "Carolina_(name)"
+                    ]
+                ],
+                -2848.029411764706
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.983193159103394
+    },
+    {
+        "triple": [
+            "Alberto_Fern\u00e1ndez_de_Rosa",
+            "nationality",
+            "Argentina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alberto_Fern\u00e1ndez_de_Rosa",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -0.9701156616210938
+            ],
+            [
+                [
+                    [
+                        "Violetta_(TV_series)",
+                        "actor",
+                        "Alberto_Fern\u00e1ndez_de_Rosa"
+                    ]
+                ],
+                -69.9891128540039
+            ],
+            [
+                [
+                    [
+                        "Violetta_(TV_series)",
+                        "actor",
+                        "Alberto_Fern\u00e1ndez_de_Rosa"
+                    ],
+                    [
+                        "Alberto_Fern\u00e1ndez_de_Rosa",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -96894.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.387454509735107
+    },
+    {
+        "triple": [
+            "UFO_(band)",
+            "genre",
+            "Space_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "UFO_(band)",
+                        "foundingLocation",
+                        "London"
+                    ]
+                ],
+                -409.43159054487177
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.012637376785278
+    },
+    {
+        "triple": [
+            "Wasps_RFC",
+            "sport",
+            "Rugby_union"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Wasps_RFC",
+                        "location",
+                        "Coventry"
+                    ]
+                ],
+                0.6837418079376221
+            ],
+            [
+                [
+                    [
+                        "Gareth_Rees_(rugby_union)",
+                        "memberOf",
+                        "Wasps_RFC"
+                    ]
+                ],
+                -6.969903469085693
+            ],
+            [
+                [
+                    [
+                        "Gareth_Rees_(rugby_union)",
+                        "memberOf",
+                        "Wasps_RFC"
+                    ],
+                    [
+                        "Wasps_RFC",
+                        "location",
+                        "Coventry"
+                    ]
+                ],
+                -96893.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.17504358291626
+    },
+    {
+        "triple": [
+            "Canton_of_Carpentras-Nord",
+            "containsPlace",
+            "Carpentras"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Arrondissement_of_Carpentras",
+                        "containsPlace",
+                        "Canton_of_Carpentras-Nord"
+                    ],
+                    [
+                        "Canton_of_Carpentras-Nord",
+                        "containedInPlace",
+                        "Arrondissement_of_Carpentras"
+                    ]
+                ],
+                0.163915479552188
+            ],
+            [
+                [
+                    [
+                        "Arrondissement_of_Carpentras",
+                        "containsPlace",
+                        "Canton_of_Carpentras-Nord"
+                    ]
+                ],
+                0.06160120014044524
+            ],
+            [
+                [
+                    [
+                        "Canton_of_Carpentras-Nord",
+                        "containedInPlace",
+                        "Arrondissement_of_Carpentras"
+                    ]
+                ],
+                -0.08872276283457477
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.964086532592773
+    },
+    {
+        "triple": [
+            "Richard_Brome",
+            "hasOccupation",
+            "Playwright"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Richard_Brome",
+                        "givenName",
+                        "Richard"
+                    ]
+                ],
+                0.061794549226760864
+            ],
+            [
+                [
+                    [
+                        "Richard_Brome",
+                        "deathPlace",
+                        "London"
+                    ]
+                ],
+                -15.99300765991211
+            ],
+            [
+                [
+                    [
+                        "Richard_Brome",
+                        "deathPlace",
+                        "London"
+                    ],
+                    [
+                        "Richard_Brome",
+                        "givenName",
+                        "Richard"
+                    ]
+                ],
+                -96351.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.978171348571777
+    },
+    {
+        "triple": [
+            "Forbes,_New_South_Wales",
+            "containedInPlace",
+            "Division_of_Riverina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Forbes,_New_South_Wales",
+                        "containedInPlace",
+                        "Division_of_Parkes"
+                    ]
+                ],
+                0.8478813831368944
+            ],
+            [
+                [
+                    [
+                        "Forbes,_New_South_Wales",
+                        "containedInPlace",
+                        "Electoral_district_of_Orange"
+                    ]
+                ],
+                -2.4866736388948962
+            ],
+            [
+                [
+                    [
+                        "Forbes,_New_South_Wales",
+                        "containedInPlace",
+                        "Electoral_district_of_Orange"
+                    ],
+                    [
+                        "Forbes,_New_South_Wales",
+                        "containedInPlace",
+                        "Division_of_Parkes"
+                    ]
+                ],
+                -11.747231833910035
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.719356775283813
+    },
+    {
+        "triple": [
+            "Surrey_Hills,_Victoria",
+            "containedInPlace",
+            "Division_of_Chisholm"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Surrey_Hills,_Victoria",
+                        "containedInPlace",
+                        "City_of_Boroondara"
+                    ]
+                ],
+                -1093.7922077922078
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.138229131698608
+    },
+    {
+        "triple": [
+            "The_Marshall_Mathers_LP_2",
+            "producer",
+            "Eminem"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Marshall_Mathers_LP_2",
+                        "inLanguage",
+                        "English_language"
+                    ]
+                ],
+                0.5296465566521237
+            ],
+            [
+                [
+                    [
+                        "The_Marshall_Mathers_LP_2",
+                        "genre",
+                        "Hip_hop_music"
+                    ]
+                ],
+                -4.401835756807191
+            ],
+            [
+                [
+                    [
+                        "The_Marshall_Mathers_LP_2",
+                        "inLanguage",
+                        "English_language"
+                    ],
+                    [
+                        "The_Marshall_Mathers_LP_2",
+                        "genre",
+                        "Hip_hop_music"
+                    ]
+                ],
+                -74.9192533116064
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.860564231872559
+    },
+    {
+        "triple": [
+            "Airdrie,_North_Lanarkshire",
+            "containedInPlace",
+            "North_Lanarkshire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Airdrie,_North_Lanarkshire",
+                        "containedInPlace",
+                        "Lanarkshire"
+                    ]
+                ],
+                0.8307511276720926
+            ],
+            [
+                [
+                    [
+                        "Ian_Bannen",
+                        "birthPlace",
+                        "Airdrie,_North_Lanarkshire"
+                    ]
+                ],
+                -1.5116740619075635
+            ],
+            [
+                [
+                    [
+                        "Ian_Bannen",
+                        "birthPlace",
+                        "Airdrie,_North_Lanarkshire"
+                    ],
+                    [
+                        "Airdrie,_North_Lanarkshire",
+                        "containedInPlace",
+                        "Lanarkshire"
+                    ]
+                ],
+                -5.010394194940185
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.685352802276611
+    },
+    {
+        "triple": [
+            "King_Saud_University",
+            "founder",
+            "Saud_of_Saudi_Arabia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "King_Saud_University",
+                        "containedInPlace",
+                        "Riyadh"
+                    ]
+                ],
+                0.15611866240356106
+            ],
+            [
+                [
+                    [
+                        "King_Saud_University",
+                        "location",
+                        "Riyadh"
+                    ]
+                ],
+                -2.377175455278307
+            ],
+            [
+                [
+                    [
+                        "King_Saud_University",
+                        "containedInPlace",
+                        "Riyadh"
+                    ],
+                    [
+                        "King_Saud_University",
+                        "location",
+                        "Riyadh"
+                    ]
+                ],
+                -63.98607925034626
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.330550193786621
+    },
+    {
+        "triple": [
+            "University_of_Northern_Iowa",
+            "memberOf",
+            "Coalition_for_Networked_Information"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_Northern_Iowa",
+                        "location",
+                        "Cedar_Falls,_Iowa"
+                    ]
+                ],
+                0.003933240705180148
+            ],
+            [
+                [
+                    [
+                        "University_of_Northern_Iowa",
+                        "containedInPlace",
+                        "Cedar_Falls,_Iowa"
+                    ]
+                ],
+                -0.857796902709856
+            ],
+            [
+                [
+                    [
+                        "University_of_Northern_Iowa",
+                        "containedInPlace",
+                        "Cedar_Falls,_Iowa"
+                    ],
+                    [
+                        "University_of_Northern_Iowa",
+                        "location",
+                        "Cedar_Falls,_Iowa"
+                    ]
+                ],
+                -80.24920061263973
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.768161058425903
+    },
+    {
+        "triple": [
+            "Fraserburgh",
+            "containedInPlace",
+            "Aberdeenshire_(historic)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fraserburgh",
+                        "containedInPlace",
+                        "Aberdeenshire"
+                    ]
+                ],
+                -87418.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.10816240310669
+    },
+    {
+        "triple": [
+            "Pearl_White",
+            "hasOccupation",
+            "Stage_actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "deathPlace",
+                        "Neuilly-sur-Seine"
+                    ]
+                ],
+                0.46877023577690125
+            ],
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -18.374849319458008
+            ],
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "deathPlace",
+                        "Neuilly-sur-Seine"
+                    ],
+                    [
+                        "Pearl_White",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -12112.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.210277080535889
+    },
+    {
+        "triple": [
+            "Slayer",
+            "genre",
+            "Hardcore_punk"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Slayer",
+                        "genre",
+                        "Speed_metal"
+                    ]
+                ],
+                0.6965893455173658
+            ],
+            [
+                [
+                    [
+                        "Slayer",
+                        "foundingLocation",
+                        "Huntington_Park,_California"
+                    ]
+                ],
+                0.1483828814133354
+            ],
+            [
+                [
+                    [
+                        "Slayer",
+                        "foundingLocation",
+                        "Huntington_Park,_California"
+                    ],
+                    [
+                        "Slayer",
+                        "genre",
+                        "Speed_metal"
+                    ]
+                ],
+                -1035.6630434782608
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.36139702796936
+    },
+    {
+        "triple": [
+            "Children_of_Bodom",
+            "genre",
+            "Black_metal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Children_of_Bodom",
+                        "genre",
+                        "Neoclassical_metal"
+                    ]
+                ],
+                0.9264108718759597
+            ],
+            [
+                [
+                    [
+                        "Children_of_Bodom",
+                        "foundingLocation",
+                        "Espoo"
+                    ]
+                ],
+                -8.534942102080773
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.400674104690552
+    },
+    {
+        "triple": [
+            "Sarreguemines",
+            "containedInPlace",
+            "Moselle_(department)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sarreguemines",
+                        "containedInPlace",
+                        "Arrondissement_of_Sarreguemines"
+                    ]
+                ],
+                0.48794146787252274
+            ],
+            [
+                [
+                    [
+                        "Sarreguemines",
+                        "location",
+                        "Arrondissement_of_Sarreguemines"
+                    ]
+                ],
+                0.1362924345737026
+            ],
+            [
+                [
+                    [
+                        "Sarreguemines",
+                        "containedInPlace",
+                        "Arrondissement_of_Sarreguemines"
+                    ],
+                    [
+                        "Sarreguemines",
+                        "location",
+                        "Arrondissement_of_Sarreguemines"
+                    ]
+                ],
+                -3.239574636375621
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.677765607833862
+    },
+    {
+        "triple": [
+            "St_Olave's_Grammar_School",
+            "containedInPlace",
+            "Orpington"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lawrence_Durrell",
+                        "alumniOf",
+                        "St_Olave's_Grammar_School"
+                    ]
+                ],
+                0.4265387038506118
+            ],
+            [
+                [
+                    [
+                        "St_Olave's_Grammar_School",
+                        "containedInPlace",
+                        "London_Borough_of_Bromley"
+                    ]
+                ],
+                -1.1414453214068556
+            ],
+            [
+                [
+                    [
+                        "St_Olave's_Grammar_School",
+                        "containedInPlace",
+                        "London_Borough_of_Bromley"
+                    ],
+                    [
+                        "Lawrence_Durrell",
+                        "alumniOf",
+                        "St_Olave's_Grammar_School"
+                    ]
+                ],
+                -4.886220262977883
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.040903091430664
+    },
+    {
+        "triple": [
+            "Creed_Taylor",
+            "familyName",
+            "Taylor_(surname)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Creed_Taylor",
+                        "birthPlace",
+                        "Lynchburg,_Virginia"
+                    ]
+                ],
+                0.951660906682249
+            ],
+            [
+                [
+                    [
+                        "Creed_Taylor",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                -1.9834821106957607
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.966033220291138
+    },
+    {
+        "triple": [
+            "Warsaw_Shore",
+            "inLanguage",
+            "Polish_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Warsaw_Shore",
+                        "countryOfOrigin",
+                        "Poland"
+                    ]
+                ],
+                -48452.99609375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.31157374382019
+    },
+    {
+        "triple": [
+            "Bromsgrove_School",
+            "containedInPlace",
+            "Worcestershire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bromsgrove_School",
+                        "location",
+                        "Bromsgrove"
+                    ]
+                ],
+                0.044595533696450834
+            ],
+            [
+                [
+                    [
+                        "Bromsgrove_School",
+                        "containedInPlace",
+                        "Bromsgrove"
+                    ]
+                ],
+                -0.15348925398557178
+            ],
+            [
+                [
+                    [
+                        "Bromsgrove_School",
+                        "containedInPlace",
+                        "Bromsgrove"
+                    ],
+                    [
+                        "Bromsgrove_School",
+                        "location",
+                        "Bromsgrove"
+                    ]
+                ],
+                -0.6357320983256145
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.950089693069458
+    },
+    {
+        "triple": [
+            "Ruch_Radzionk\u00f3w",
+            "sport",
+            "Badminton"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ruch_Radzionk\u00f3w",
+                        "sport",
+                        "Association_football"
+                    ]
+                ],
+                -6914.85546875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.277000427246094
+    },
+    {
+        "triple": [
+            "Harald_Bluetooth",
+            "nationality",
+            "Denmark"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Harald_Bluetooth",
+                        "birthPlace",
+                        "Denmark"
+                    ]
+                ],
+                -96742.9921875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.231679439544678
+    },
+    {
+        "triple": [
+            "Zubayr_ibn_al-Awam",
+            "deathPlace",
+            "Basra"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Zubayr_ibn_al-Awam",
+                        "birthPlace",
+                        "Mecca"
+                    ]
+                ],
+                -13.305403288958496
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.362555742263794
+    },
+    {
+        "triple": [
+            "Quebec_Nordiques",
+            "sport",
+            "Ice_hockey"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Quebec_Nordiques",
+                        "location",
+                        "Quebec_City"
+                    ]
+                ],
+                -131.1619628240109
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.16658878326416
+    },
+    {
+        "triple": [
+            "Alfred_Rolfe_(director)",
+            "givenName",
+            "Alfred_(name)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alfred_Rolfe_(director)",
+                        "birthPlace",
+                        "Melbourne"
+                    ]
+                ],
+                0.6885765165441177
+            ],
+            [
+                [
+                    [
+                        "Alfred_Rolfe_(director)",
+                        "deathPlace",
+                        "Sydney"
+                    ]
+                ],
+                -1.155146412568934
+            ],
+            [
+                [
+                    [
+                        "Alfred_Rolfe_(director)",
+                        "birthPlace",
+                        "Melbourne"
+                    ],
+                    [
+                        "Alfred_Rolfe_(director)",
+                        "deathPlace",
+                        "Sydney"
+                    ]
+                ],
+                -221.86823529411765
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.440603733062744
+    },
+    {
+        "triple": [
+            "Wertheim_am_Main",
+            "memberOf",
+            "Climate_Alliance"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Main-Tauber-Kreis",
+                        "containsPlace",
+                        "Wertheim_am_Main"
+                    ]
+                ],
+                0.4671838624136789
+            ],
+            [
+                [
+                    [
+                        "Wertheim_am_Main",
+                        "containedInPlace",
+                        "Main-Tauber-Kreis"
+                    ]
+                ],
+                -3.9778619493756975
+            ],
+            [
+                [
+                    [
+                        "Main-Tauber-Kreis",
+                        "containsPlace",
+                        "Wertheim_am_Main"
+                    ],
+                    [
+                        "Wertheim_am_Main",
+                        "containedInPlace",
+                        "Main-Tauber-Kreis"
+                    ]
+                ],
+                -766.3839285714286
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.298278093338013
+    },
+    {
+        "triple": [
+            "Sigur_R\u00f3s",
+            "genre",
+            "Post-metal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sigur_R\u00f3s",
+                        "foundingLocation",
+                        "Reykjav\u00edk"
+                    ]
+                ],
+                -283.47433393429486
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.042185544967651
+    },
+    {
+        "triple": [
+            "Nyctimene_(genus)",
+            "parentTaxon",
+            "Pteropodinae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nyctimene_(genus)",
+                        "parentTaxon",
+                        "Megabat"
+                    ]
+                ],
+                -25.856247939333993
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.347540378570557
+    },
+    {
+        "triple": [
+            "Seine",
+            "containedInPlace",
+            "Seine-et-Marne"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Seine",
+                        "containedInPlace",
+                        "Burgundy"
+                    ]
+                ],
+                -1.6981796829125073
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.273621320724487
+    },
+    {
+        "triple": [
+            "Steve_Lillywhite",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Steve_Lillywhite",
+                        "birthPlace",
+                        "Egham"
+                    ]
+                ],
+                0.8415407538414001
+            ],
+            [
+                [
+                    [
+                        "Steve_Lillywhite",
+                        "givenName",
+                        "Steve"
+                    ]
+                ],
+                -92.99303436279297
+            ],
+            [
+                [
+                    [
+                        "Steve_Lillywhite",
+                        "givenName",
+                        "Steve"
+                    ],
+                    [
+                        "Steve_Lillywhite",
+                        "birthPlace",
+                        "Egham"
+                    ]
+                ],
+                -96890.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.832952499389648
+    },
+    {
+        "triple": [
+            "Canton_of_Darney",
+            "containedInPlace",
+            "Arrondissement_of_\u00c9pinal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Canton_of_Darney",
+                        "containedInPlace",
+                        "Arrondissement_of_Neufch\u00e2teau,_Vosges"
+                    ]
+                ],
+                -4461.952380952381
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.170873641967773
+    },
+    {
+        "triple": [
+            "Badminton_at_the_2008_Summer_Olympics_\u2013_Men's_doubles",
+            "competitor",
+            "Lee_Yong-dae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Badminton_at_the_2008_Summer_Olympics_\u2013_Men's_doubles",
+                        "location",
+                        "Beijing"
+                    ]
+                ],
+                0.18294661045074462
+            ],
+            [
+                [
+                    [
+                        "Badminton_at_the_2008_Summer_Olympics_\u2013_Men's_doubles",
+                        "competitor",
+                        "Jens_Eriksen"
+                    ]
+                ],
+                -0.5990662574768066
+            ],
+            [
+                [
+                    [
+                        "Badminton_at_the_2008_Summer_Olympics_\u2013_Men's_doubles",
+                        "competitor",
+                        "Jens_Eriksen"
+                    ],
+                    [
+                        "Badminton_at_the_2008_Summer_Olympics_\u2013_Men's_doubles",
+                        "location",
+                        "Beijing"
+                    ]
+                ],
+                -19352.8
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.900883913040161
+    },
+    {
+        "triple": [
+            "Scooter_(band)",
+            "genre",
+            "Techno"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Scooter_(band)",
+                        "foundingLocation",
+                        "Hamburg"
+                    ]
+                ],
+                0.1375788290669599
+            ],
+            [
+                [
+                    [
+                        "Scooter_(band)",
+                        "genre",
+                        "House_music"
+                    ]
+                ],
+                -1.3622040035217766
+            ],
+            [
+                [
+                    [
+                        "Scooter_(band)",
+                        "genre",
+                        "House_music"
+                    ],
+                    [
+                        "Scooter_(band)",
+                        "foundingLocation",
+                        "Hamburg"
+                    ]
+                ],
+                -759.8031496062993
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.328004837036133
+    },
+    {
+        "triple": [
+            "Gong_(band)",
+            "genre",
+            "Progressive_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gong_(band)",
+                        "foundingLocation",
+                        "Paris"
+                    ]
+                ],
+                -0.17713925645753095
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.489106178283691
+    },
+    {
+        "triple": [
+            "Alikovsky_District",
+            "containedInPlace",
+            "Chuvashia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alikovsky_District",
+                        "containedInPlace",
+                        "Chuvash_Autonomous_Soviet_Socialist_Republic"
+                    ]
+                ],
+                -91586.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.222070455551147
+    },
+    {
+        "triple": [
+            "Alberto_Barcel",
+            "knowsLanguage",
+            "Spanish_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alberto_Barcel",
+                        "birthPlace",
+                        "Argentina"
+                    ]
+                ],
+                -1.207786202430725
+            ],
+            [
+                [
+                    [
+                        "Alberto_Barcel",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -76.12454986572266
+            ],
+            [
+                [
+                    [
+                        "Alberto_Barcel",
+                        "birthPlace",
+                        "Argentina"
+                    ],
+                    [
+                        "Alberto_Barcel",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -12112.625
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.404866218566895
+    },
+    {
+        "triple": [
+            "Alabama_(band)",
+            "genre",
+            "Country_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alabama_(band)",
+                        "foundingLocation",
+                        "Fort_Payne,_Alabama"
+                    ]
+                ],
+                -56.64338727678572
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.512737512588501
+    },
+    {
+        "triple": [
+            "1989_IBF_World_Championships_\u2013_Women's_Doubles",
+            "sport",
+            "Badminton"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "1989_IBF_World_Championships_\u2013_Women's_Doubles",
+                        "location",
+                        "Jakarta"
+                    ]
+                ],
+                -32243.666666666668
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.177687644958496
+    },
+    {
+        "triple": [
+            "Bad_T\u00f6lz",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bad_T\u00f6lz-Wolfratshausen",
+                        "containsPlace",
+                        "Bad_T\u00f6lz"
+                    ]
+                ],
+                -0.17476463317871094
+            ],
+            [
+                [
+                    [
+                        "Bad_T\u00f6lz",
+                        "containedInPlace",
+                        "Bad_T\u00f6lz-Wolfratshausen"
+                    ]
+                ],
+                -0.6441817510695684
+            ],
+            [
+                [
+                    [
+                        "Bad_T\u00f6lz",
+                        "containedInPlace",
+                        "Bad_T\u00f6lz-Wolfratshausen"
+                    ],
+                    [
+                        "Bad_T\u00f6lz-Wolfratshausen",
+                        "containsPlace",
+                        "Bad_T\u00f6lz"
+                    ]
+                ],
+                -172.5714019982993
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.39668083190918
+    },
+    {
+        "triple": [
+            "Mercyful_Fate",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mercyful_Fate",
+                        "foundingLocation",
+                        "Copenhagen"
+                    ]
+                ],
+                -1.870366522606383
+            ],
+            [
+                [
+                    [
+                        "Mercyful_Fate",
+                        "genre",
+                        "Black_metal"
+                    ]
+                ],
+                -2.553187593500665
+            ],
+            [
+                [
+                    [
+                        "Mercyful_Fate",
+                        "foundingLocation",
+                        "Copenhagen"
+                    ],
+                    [
+                        "Mercyful_Fate",
+                        "genre",
+                        "Black_metal"
+                    ]
+                ],
+                -1009.2659574468086
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.885618448257446
+    },
+    {
+        "triple": [
+            "Yverdon-les-Bains",
+            "location",
+            "Vaud"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yverdon-les-Bains",
+                        "containedInPlace",
+                        "Jura-Nord_vaudois_District"
+                    ]
+                ],
+                0.9776507689075313
+            ],
+            [
+                [
+                    [
+                        "Jura-Nord_vaudois_District",
+                        "containsPlace",
+                        "Yverdon-les-Bains"
+                    ]
+                ],
+                -2.4207418012089965
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.870556831359863
+    },
+    {
+        "triple": [
+            "Dharamshala",
+            "containedInPlace",
+            "Kangra_district"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "14th_Dalai_Lama",
+                        "homeLocation",
+                        "Dharamshala"
+                    ]
+                ],
+                0.019505859412474576
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.13161015510559
+    },
+    {
+        "triple": [
+            "Rodolfo_Sciammarella",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rodolfo_Sciammarella",
+                        "givenName",
+                        "Rodolfo"
+                    ]
+                ],
+                -24223.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.19005274772644
+    },
+    {
+        "triple": [
+            "Ramapo_College",
+            "memberOf",
+            "Council_of_Public_Liberal_Arts_Colleges"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ramapo_College",
+                        "location",
+                        "Mahwah,_New_Jersey"
+                    ]
+                ],
+                -0.18209835578655376
+            ],
+            [
+                [
+                    [
+                        "Ramapo_College",
+                        "containedInPlace",
+                        "Mahwah,_New_Jersey"
+                    ]
+                ],
+                -4.72052317652209
+            ],
+            [
+                [
+                    [
+                        "Ramapo_College",
+                        "containedInPlace",
+                        "Mahwah,_New_Jersey"
+                    ],
+                    [
+                        "Ramapo_College",
+                        "location",
+                        "Mahwah,_New_Jersey"
+                    ]
+                ],
+                -1588.9653825431035
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.510075807571411
+    },
+    {
+        "triple": [
+            "KC_and_the_Sunshine_Band",
+            "genre",
+            "Funk"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "KC_and_the_Sunshine_Band",
+                        "award",
+                        "Grammy_Award_for_Album_of_the_Year"
+                    ]
+                ],
+                0.7892063314264471
+            ],
+            [
+                [
+                    [
+                        "KC_and_the_Sunshine_Band",
+                        "genre",
+                        "Disco"
+                    ]
+                ],
+                -97.81818181818181
+            ],
+            [
+                [
+                    [
+                        "KC_and_the_Sunshine_Band",
+                        "genre",
+                        "Disco"
+                    ],
+                    [
+                        "KC_and_the_Sunshine_Band",
+                        "award",
+                        "Grammy_Award_for_Album_of_the_Year"
+                    ]
+                ],
+                -8786.363636363636
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.854106903076172
+    },
+    {
+        "triple": [
+            "Bijay_Mohanty",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bijay_Mohanty",
+                        "award",
+                        "Odisha_Sahitya_Academy_Award"
+                    ]
+                ],
+                0.0002167058412741981
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.184707164764404
+    },
+    {
+        "triple": [
+            "Martin_Birch",
+            "hasOccupation",
+            "Audio_engineer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Martin_Birch",
+                        "birthPlace",
+                        "United_Kingdom"
+                    ]
+                ],
+                -0.5527090219350962
+            ],
+            [
+                [
+                    [
+                        "Martin_Birch",
+                        "familyName",
+                        "Birch_(surname)"
+                    ]
+                ],
+                -102.51233974358975
+            ],
+            [
+                [
+                    [
+                        "Martin_Birch",
+                        "birthPlace",
+                        "United_Kingdom"
+                    ],
+                    [
+                        "Martin_Birch",
+                        "familyName",
+                        "Birch_(surname)"
+                    ]
+                ],
+                -247.1455528846154
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.917137384414673
+    },
+    {
+        "triple": [
+            "Camel_(band)",
+            "genre",
+            "Space_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Camel_(band)",
+                        "foundingLocation",
+                        "Guildford"
+                    ]
+                ],
+                -2677.9166666666665
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.184245347976685
+    },
+    {
+        "triple": [
+            "Saran_(director)",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Saran_(director)",
+                        "birthPlace",
+                        "Coimbatore"
+                    ]
+                ],
+                0.38869476318359375
+            ],
+            [
+                [
+                    [
+                        "Saran_(director)",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                -3.9980125427246094
+            ],
+            [
+                [
+                    [
+                        "Saran_(director)",
+                        "birthPlace",
+                        "Coimbatore"
+                    ],
+                    [
+                        "Saran_(director)",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                -24225.25
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.04832649230957
+    },
+    {
+        "triple": [
+            "Alberto_Fern\u00e1ndez_de_Rosa",
+            "spouse",
+            "Cristina_Banegas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alberto_Fern\u00e1ndez_de_Rosa",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                0.10972874352815787
+            ],
+            [
+                [
+                    [
+                        "Violetta_(TV_series)",
+                        "actor",
+                        "Alberto_Fern\u00e1ndez_de_Rosa"
+                    ],
+                    [
+                        "Alberto_Fern\u00e1ndez_de_Rosa",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -1.0529927279291957
+            ],
+            [
+                [
+                    [
+                        "Violetta_(TV_series)",
+                        "actor",
+                        "Alberto_Fern\u00e1ndez_de_Rosa"
+                    ]
+                ],
+                -2.110796375074063
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.244160890579224
+    },
+    {
+        "triple": [
+            "Raymond_Menmuir",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Raymond_Menmuir",
+                        "hasOccupation",
+                        "Television_director"
+                    ]
+                ],
+                -96851.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.208253860473633
+    },
+    {
+        "triple": [
+            "Steve_Levine",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Steve_Levine",
+                        "givenName",
+                        "Steve"
+                    ]
+                ],
+                -96870.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.353837966918945
+    },
+    {
+        "triple": [
+            "The_Monkees",
+            "genre",
+            "Pop_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Monkees",
+                        "foundingLocation",
+                        "Los_Angeles"
+                    ]
+                ],
+                1.8471064567565918
+            ],
+            [
+                [
+                    [
+                        "The_Monkees",
+                        "genre",
+                        "Rock_music"
+                    ]
+                ],
+                -182.9997100830078
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.610893726348877
+    },
+    {
+        "triple": [
+            "Vittsj\u00f6_GIK",
+            "sport",
+            "Sport_of_athletics"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Danesha_Adams",
+                        "memberOf",
+                        "Vittsj\u00f6_GIK"
+                    ]
+                ],
+                0.9301574757321134
+            ],
+            [
+                [
+                    [
+                        "Vittsj\u00f6_GIK",
+                        "sport",
+                        "Association_football"
+                    ]
+                ],
+                -0.23094303389886878
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.723717212677002
+    },
+    {
+        "triple": [
+            "Minnesota_Golden_Gophers_football",
+            "sport",
+            "American_football"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Minnesota_Golden_Gophers_football",
+                        "location",
+                        "Minnesota"
+                    ]
+                ],
+                -96877.984375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.17141342163086
+    },
+    {
+        "triple": [
+            "Fort_Hays_State_University",
+            "memberOf",
+            "Scholarly_Publishing_and_Academic_Resources_Coalition"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fort_Hays_State_University",
+                        "location",
+                        "Hays,_Kansas"
+                    ]
+                ],
+                0.3948815801869268
+            ],
+            [
+                [
+                    [
+                        "Fort_Hays_State_University",
+                        "containedInPlace",
+                        "Hays,_Kansas"
+                    ]
+                ],
+                -1.6111251167629077
+            ],
+            [
+                [
+                    [
+                        "Fort_Hays_State_University",
+                        "containedInPlace",
+                        "Hays,_Kansas"
+                    ],
+                    [
+                        "Fort_Hays_State_University",
+                        "location",
+                        "Hays,_Kansas"
+                    ]
+                ],
+                -128.84230638586956
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.933453798294067
+    },
+    {
+        "triple": [
+            "Bougainville_Island",
+            "containedInPlace",
+            "Solomon_Islands"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bougainville_Island",
+                        "containedInPlace",
+                        "Autonomous_Region_of_Bougainville"
+                    ]
+                ],
+                0.08198518838078804
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.186493635177612
+    },
+    {
+        "triple": [
+            "Canton_of_Illiers-Combray",
+            "containedInPlace",
+            "Arrondissement_of_Ch\u00e2teaudun"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Canton_of_Illiers-Combray",
+                        "containedInPlace",
+                        "Arrondissement_of_Chartres"
+                    ]
+                ],
+                -6635.7692307692305
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.131435871124268
+    },
+    {
+        "triple": [
+            "Motala",
+            "containedInPlace",
+            "\u00d6sterg\u00f6tland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Motala",
+                        "containedInPlace",
+                        "Motala_Municipality"
+                    ]
+                ],
+                -7.858662940670679
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.24237871170044
+    },
+    {
+        "triple": [
+            "Living_Colour",
+            "genre",
+            "Alternative_metal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Living_Colour",
+                        "foundingLocation",
+                        "New_York_City"
+                    ]
+                ],
+                0.7674223214141593
+            ],
+            [
+                [
+                    [
+                        "Living_Colour",
+                        "genre",
+                        "Funk_metal"
+                    ]
+                ],
+                0.2892595716744415
+            ],
+            [
+                [
+                    [
+                        "Living_Colour",
+                        "genre",
+                        "Funk_metal"
+                    ],
+                    [
+                        "Living_Colour",
+                        "foundingLocation",
+                        "New_York_City"
+                    ]
+                ],
+                -799.0578512396694
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.611738920211792
+    },
+    {
+        "triple": [
+            "Moers",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Moers",
+                        "location",
+                        "Wesel_(district)"
+                    ]
+                ],
+                0.3610989451408386
+            ],
+            [
+                [
+                    [
+                        "Moers",
+                        "containedInPlace",
+                        "Wesel_(district)"
+                    ]
+                ],
+                0.14226330816745758
+            ],
+            [
+                [
+                    [
+                        "Moers",
+                        "containedInPlace",
+                        "Wesel_(district)"
+                    ],
+                    [
+                        "Moers",
+                        "location",
+                        "Wesel_(district)"
+                    ]
+                ],
+                -24575.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.911112070083618
+    },
+    {
+        "triple": [
+            "Rugby_Europe",
+            "sport",
+            "Rugby_union"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rugby_Europe",
+                        "memberOf",
+                        "World_Rugby"
+                    ]
+                ],
+                -0.001396013502261885
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.528717756271362
+    },
+    {
+        "triple": [
+            "Al_Cliver",
+            "givenName",
+            "Al_(given_name)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Al_Cliver",
+                        "knowsLanguage",
+                        "Italian_language"
+                    ]
+                ],
+                0.8119249252240391
+            ],
+            [
+                [
+                    [
+                        "Al_Cliver",
+                        "birthPlace",
+                        "Alexandria"
+                    ]
+                ],
+                -2.0557912754642462
+            ],
+            [
+                [
+                    [
+                        "Al_Cliver",
+                        "birthPlace",
+                        "Alexandria"
+                    ],
+                    [
+                        "Al_Cliver",
+                        "knowsLanguage",
+                        "Italian_language"
+                    ]
+                ],
+                -34.71249076127125
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.701056241989136
+    },
+    {
+        "triple": [
+            "Belize_national_football_team",
+            "sport",
+            "Association_football"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Belize_national_football_team",
+                        "memberOf",
+                        "CONCACAF"
+                    ]
+                ],
+                -0.019734633296311033
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.40836501121521
+    },
+    {
+        "triple": [
+            "Amiiformes",
+            "taxonRank",
+            "Order_(biology)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Amiiformes",
+                        "parentTaxon",
+                        "Actinopterygii"
+                    ]
+                ],
+                -96875.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.10269045829773
+    },
+    {
+        "triple": [
+            "Garin_Nugroho",
+            "nationality",
+            "Indonesia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Garin_Nugroho",
+                        "birthPlace",
+                        "Yogyakarta"
+                    ]
+                ],
+                -11395.8740234375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.390441179275513
+    },
+    {
+        "triple": [
+            "Inter_Milan_Women",
+            "sponsor",
+            "Konami"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Inter_Milan_Women",
+                        "parentOrganization",
+                        "Inter_Milan"
+                    ]
+                ],
+                1.5912227630615234
+            ],
+            [
+                [
+                    [
+                        "Inter_Milan",
+                        "subOrganization",
+                        "Inter_Milan_Women"
+                    ]
+                ],
+                -1.6730901002883911
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.583190441131592
+    },
+    {
+        "triple": [
+            "Guillermo_Rivas_(actor)",
+            "nationality",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Guillermo_Rivas_(actor)",
+                        "birthPlace",
+                        "Mexico_City"
+                    ]
+                ],
+                1.8655431270599365
+            ],
+            [
+                [
+                    [
+                        "Guillermo_Rivas_(actor)",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -15.991841316223145
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.208380699157715
+    },
+    {
+        "triple": [
+            "Inter_Milan_Women",
+            "sponsor",
+            "Sky_Limited"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Inter_Milan_Women",
+                        "parentOrganization",
+                        "Inter_Milan"
+                    ]
+                ],
+                0.546061098575592
+            ],
+            [
+                [
+                    [
+                        "Inter_Milan",
+                        "subOrganization",
+                        "Inter_Milan_Women"
+                    ]
+                ],
+                0.276128888130188
+            ],
+            [
+                [
+                    [
+                        "Inter_Milan",
+                        "subOrganization",
+                        "Inter_Milan_Women"
+                    ],
+                    [
+                        "Inter_Milan_Women",
+                        "parentOrganization",
+                        "Inter_Milan"
+                    ]
+                ],
+                -96434.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.20876669883728
+    },
+    {
+        "triple": [
+            "John_Llewellyn_Moxey",
+            "nationality",
+            "Argentina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "John_Llewellyn_Moxey",
+                        "hasOccupation",
+                        "Television_director"
+                    ]
+                ],
+                1.0093647938854289
+            ],
+            [
+                [
+                    [
+                        "John_Llewellyn_Moxey",
+                        "birthPlace",
+                        "Argentina"
+                    ]
+                ],
+                -15.056069428066039
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.744665384292603
+    },
+    {
+        "triple": [
+            "Coast_Mountains",
+            "containedInPlace",
+            "Pacific_Coast_Ranges"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pacific_Ranges",
+                        "containedInPlace",
+                        "Coast_Mountains"
+                    ]
+                ],
+                0.9150408989560288
+            ],
+            [
+                [
+                    [
+                        "Coast_Mountains",
+                        "containedInPlace",
+                        "Alaska"
+                    ]
+                ],
+                -3.911504424778761
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.077016830444336
+    },
+    {
+        "triple": [
+            "Acad\u00e9mie_de_Marseille",
+            "founder",
+            "Louis_XV_of_France"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Acad\u00e9mie_de_Marseille",
+                        "containedInPlace",
+                        "Marseille"
+                    ]
+                ],
+                0.16275070211958614
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.036883115768433
+    },
+    {
+        "triple": [
+            "Ayr",
+            "containedInPlace",
+            "South_Ayrshire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ayr",
+                        "containedInPlace",
+                        "Ayrshire"
+                    ]
+                ],
+                -91471.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.150187730789185
+    }
+]

@@ -1,0 +1,2102 @@
+[
+    {
+        "triple": [
+            "Iris_savannarum",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Iris_savannarum",
+                        "division",
+                        "Flowering_plant"
+                    ]
+                ],
+                0.9999198317527771
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 3.0837275981903076
+    },
+    {
+        "triple": [
+            "Hawley's_of_High_Street",
+            "producer",
+            "Walter_C._Mycroft"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hawley's_of_High_Street",
+                        "distributor",
+                        "Associated_British_Picture_Corporation"
+                    ]
+                ],
+                23926.986328125
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8706486225128174
+    },
+    {
+        "triple": [
+            "KSFC",
+            "broadcastArea",
+            "Spokane,_Washington"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "KSFC",
+                        "city",
+                        "Spokane,_Washington"
+                    ]
+                ],
+                5638.96728515625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8901824951171875
+    },
+    {
+        "triple": [
+            "Burundi_Black",
+            "format",
+            "Compact_disc"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Burundi_Black",
+                        "format",
+                        "Special_edition"
+                    ]
+                ],
+                3008.759521484375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7282383441925049
+    },
+    {
+        "triple": [
+            "Oliver_Ellsworth",
+            "birthPlace",
+            "Windsor,_Connecticut"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Oliver_Ellsworth",
+                        "deathPlace",
+                        "Windsor,_Connecticut"
+                    ]
+                ],
+                24580.998046875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8773448467254639
+    },
+    {
+        "triple": [
+            "Michel_Langevin",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Michel_Langevin",
+                        "genre",
+                        "Progressive_metal"
+                    ]
+                ],
+                6822.9990234375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7157645225524902
+    },
+    {
+        "triple": [
+            "Lipova,_Arad",
+            "leaderParty",
+            "Social_Democratic_Party_(Romania)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lipova,_Arad",
+                        "timeZone",
+                        "Eastern_European_Time"
+                    ]
+                ],
+                13036.9931640625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8672845363616943
+    },
+    {
+        "triple": [
+            "The_Whirlwind_(album)",
+            "producer",
+            "Transatlantic_(band)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Whirlwind_(album)",
+                        "artist",
+                        "Transatlantic_(band)"
+                    ]
+                ],
+                22442.99609375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.857215404510498
+    },
+    {
+        "triple": [
+            "Otto_Schury",
+            "birthPlace",
+            "Germany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Otto_Schury",
+                        "deathPlace",
+                        "Germany"
+                    ]
+                ],
+                813.9993896484375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7168338298797607
+    },
+    {
+        "triple": [
+            "Camargo,_Cantabria",
+            "leaderParty",
+            "Spanish_Socialist_Workers'_Party"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Camargo,_Cantabria",
+                        "isPartOf",
+                        "Cantabria"
+                    ]
+                ],
+                2991.799560546875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8632349967956543
+    },
+    {
+        "triple": [
+            "Megasis",
+            "class",
+            "Insect"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Megasis",
+                        "order",
+                        "Lepidoptera"
+                    ]
+                ],
+                16357.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8588109016418457
+    },
+    {
+        "triple": [
+            "Tillandsia_schiedeana",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tillandsia_schiedeana",
+                        "division",
+                        "Flowering_plant"
+                    ]
+                ],
+                3.999919891357422
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7480149269104004
+    },
+    {
+        "triple": [
+            "Ryan_Salvis",
+            "formerTeam",
+            "Southern_Professional_Hockey_League"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ryan_Salvis",
+                        "league",
+                        "Southern_Professional_Hockey_League"
+                    ]
+                ],
+                16706.97265625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8656518459320068
+    },
+    {
+        "triple": [
+            "Babylon_5:_Blood_Oath",
+            "language",
+            "English_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Babylon_5:_Blood_Oath",
+                        "series",
+                        "Babylon_5"
+                    ]
+                ],
+                161.9733428955078
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8819799423217773
+    },
+    {
+        "triple": [
+            "Resapamea",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Resapamea",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                14624.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.6906247138977051
+    },
+    {
+        "triple": [
+            "Hugo_Ventura",
+            "team",
+            "Portugal_national_under-21_football_team"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hugo_Ventura",
+                        "birthPlace",
+                        "Vila_Nova_de_Gaia"
+                    ]
+                ],
+                21470.994140625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8771393299102783
+    },
+    {
+        "triple": [
+            "Didymogonyx",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Didymogonyx",
+                        "kingdom",
+                        "Plant"
+                    ]
+                ],
+                1.9998403787612915
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.72723388671875
+    },
+    {
+        "triple": [
+            "Ali_Sayad_Shirazi",
+            "birthPlace",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ali_Sayad_Shirazi",
+                        "deathPlace",
+                        "Iran"
+                    ]
+                ],
+                24429.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8614919185638428
+    },
+    {
+        "triple": [
+            "Safor",
+            "part",
+            "Daim\u00fas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Daim\u00fas",
+                        "isPartOf",
+                        "Safor"
+                    ]
+                ],
+                24617.990234375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.6925468444824219
+    },
+    {
+        "triple": [
+            "My_Wave",
+            "genre",
+            "Grunge"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "My_Wave",
+                        "recordedIn",
+                        "Washington_(state)"
+                    ]
+                ],
+                23321.98046875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8512706756591797
+    },
+    {
+        "triple": [
+            "Horizon_TV_Asia",
+            "pictureFormat",
+            "480i"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Horizon_TV_Asia",
+                        "language",
+                        "English_language"
+                    ]
+                ],
+                3.994227647781372
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8642923831939697
+    },
+    {
+        "triple": [
+            "Iris_bracteata",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Iris_bracteata",
+                        "division",
+                        "Flowering_plant"
+                    ]
+                ],
+                0.9999198317527771
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7203810214996338
+    },
+    {
+        "triple": [
+            "Walther_Fischer_von_Weikersthal",
+            "birthPlace",
+            "Germany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Walther_Fischer_von_Weikersthal",
+                        "deathPlace",
+                        "Germany"
+                    ]
+                ],
+                187.99942016601562
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8771018981933594
+    },
+    {
+        "triple": [
+            "Dimocarpus",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dimocarpus",
+                        "division",
+                        "Flowering_plant"
+                    ]
+                ],
+                0.9999198913574219
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.918511152267456
+    },
+    {
+        "triple": [
+            "Laid",
+            "subsequentWork",
+            "Wah_Wah"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Wah_Wah",
+                        "previousWork",
+                        "Laid"
+                    ]
+                ],
+                22247.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7301528453826904
+    },
+    {
+        "triple": [
+            "If_I_Didn't_Love_You_(Tina_Arena_song)",
+            "subsequentWork",
+            "Now_I_Can_Dance"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Now_I_Can_Dance",
+                        "previousWork",
+                        "If_I_Didn't_Love_You_(Tina_Arena_song)"
+                    ]
+                ],
+                6355.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8837294578552246
+    },
+    {
+        "triple": [
+            "The_Gorgon",
+            "language",
+            "English_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Gorgon",
+                        "starring",
+                        "Peter_Cushing"
+                    ]
+                ],
+                164.95492553710938
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.6863579750061035
+    },
+    {
+        "triple": [
+            "Donga_Dongadi",
+            "writer",
+            "Subramaniam_Siva"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Donga_Dongadi",
+                        "director",
+                        "Subramaniam_Siva"
+                    ]
+                ],
+                5151.98828125
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8618168830871582
+    },
+    {
+        "triple": [
+            "30_Minute_Love_Affair",
+            "recordLabel",
+            "RCA_Records"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "30_Minute_Love_Affair",
+                        "genre",
+                        "Synthpop"
+                    ]
+                ],
+                6749.98486328125
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8806986808776855
+    },
+    {
+        "triple": [
+            "Piacenza",
+            "frazioni",
+            "Piacenza"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Piacenza_Calcio_1919",
+                        "ground",
+                        "Piacenza"
+                    ]
+                ],
+                10927.951171875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.6964166164398193
+    },
+    {
+        "triple": [
+            "The_Invisible_Man's_Revenge",
+            "musicComposer",
+            "Hans_J._Salter"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Invisible_Man's_Revenge",
+                        "distributor",
+                        "Universal_Studios"
+                    ]
+                ],
+                16537.990234375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8685178756713867
+    },
+    {
+        "triple": [
+            "Oberthueria_(moth)",
+            "class",
+            "Insect"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Oberthueria_(moth)",
+                        "order",
+                        "Lepidoptera"
+                    ]
+                ],
+                16349.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.6964664459228516
+    },
+    {
+        "triple": [
+            "Stay_My_Baby",
+            "musicalBand",
+            "Amy_Diamond"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Stay_My_Baby",
+                        "musicalArtist",
+                        "Amy_Diamond"
+                    ]
+                ],
+                8850.9990234375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8405263423919678
+    },
+    {
+        "triple": [
+            "Helma_Sanders-Brahms",
+            "deathPlace",
+            "Germany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Helma_Sanders-Brahms",
+                        "birthPlace",
+                        "Germany"
+                    ]
+                ],
+                2.9995429515838623
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8556804656982422
+    },
+    {
+        "triple": [
+            "The_Pandoras",
+            "formerBandMember",
+            "Kim_Shattuck"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kim_Shattuck",
+                        "associatedBand",
+                        "The_Pandoras"
+                    ]
+                ],
+                6682.99853515625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7130424976348877
+    },
+    {
+        "triple": [
+            "Mad_Caddies",
+            "bandMember",
+            "Mad_Caddies"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mad_Caddies",
+                        "bandMember",
+                        "Mad_Caddies"
+                    ]
+                ],
+                9964.9921875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8922290802001953
+    },
+    {
+        "triple": [
+            "Crotalarieae",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Crotalarieae",
+                        "kingdom",
+                        "Plant"
+                    ]
+                ],
+                0.9998403191566467
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8823630809783936
+    },
+    {
+        "triple": [
+            "George_Lewis_(trombonist)",
+            "genre",
+            "Jazz"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Anthony_Braxton",
+                        "associatedMusicalArtist",
+                        "George_Lewis_(trombonist)"
+                    ]
+                ],
+                3747.9755859375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7167649269104004
+    },
+    {
+        "triple": [
+            "Super_20",
+            "recordLabel",
+            "Ariola_Records"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Super_20",
+                        "producer",
+                        "Anthony_Monn"
+                    ]
+                ],
+                6074.9951171875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8590319156646729
+    },
+    {
+        "triple": [
+            "Glen_Gardner,_New_Jersey",
+            "governmentType",
+            "Borough_(New_Jersey)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Glen_Gardner,_New_Jersey",
+                        "type",
+                        "Borough_(New_Jersey)"
+                    ]
+                ],
+                867.998779296875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.6932642459869385
+    },
+    {
+        "triple": [
+            "Jobst-Hilmar_von_Bose",
+            "deathPlace",
+            "Germany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jobst-Hilmar_von_Bose",
+                        "birthPlace",
+                        "Germany"
+                    ]
+                ],
+                2.9995429515838623
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.859140157699585
+    },
+    {
+        "triple": [
+            "Miriam_Stockley",
+            "birthPlace",
+            "South_Africa"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Miriam_Stockley",
+                        "hometown",
+                        "South_Africa"
+                    ]
+                ],
+                24466.998046875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8702704906463623
+    },
+    {
+        "triple": [
+            "Block_B",
+            "hometown",
+            "South_Korea"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Block_B",
+                        "genre",
+                        "K-pop"
+                    ]
+                ],
+                18212.998046875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7241578102111816
+    },
+    {
+        "triple": [
+            "Laughter_&_Lust",
+            "producer",
+            "Joe_Jackson_(musician)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Laughter_&_Lust",
+                        "artist",
+                        "Joe_Jackson_(musician)"
+                    ]
+                ],
+                818.9954223632812
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9034855365753174
+    },
+    {
+        "triple": [
+            "The_Cabinet_of_Caligari",
+            "language",
+            "English_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Cabinet_of_Caligari",
+                        "starring",
+                        "Estelle_Winwood"
+                    ]
+                ],
+                1348.9482421875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7220146656036377
+    },
+    {
+        "triple": [
+            "Photo_(song)",
+            "musicalBand",
+            "Ryan_Cabrera"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Photo_(song)",
+                        "musicalArtist",
+                        "Ryan_Cabrera"
+                    ]
+                ],
+                8086.99951171875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8792972564697266
+    },
+    {
+        "triple": [
+            "Konrad_Zuse",
+            "residence",
+            "Germany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Konrad_Zuse",
+                        "deathPlace",
+                        "Germany"
+                    ]
+                ],
+                1089.9986572265625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9152505397796631
+    },
+    {
+        "triple": [
+            "The_Happy_Club",
+            "subsequentWork",
+            "Sex,_Age_&_Death"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sex,_Age_&_Death",
+                        "previousWork",
+                        "The_Happy_Club"
+                    ]
+                ],
+                3117.999755859375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.699244499206543
+    },
+    {
+        "triple": [
+            "FBI_Girl",
+            "director",
+            "William_Berke"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FBI_Girl",
+                        "producer",
+                        "William_Berke"
+                    ]
+                ],
+                294.976318359375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8640284538269043
+    },
+    {
+        "triple": [
+            "Asplundia",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Asplundia",
+                        "division",
+                        "Flowering_plant"
+                    ]
+                ],
+                0.9999197721481323
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7042570114135742
+    },
+    {
+        "triple": [
+            "Maybe_He'll_Notice_Her_Now",
+            "musicalArtist",
+            "Mindy_McCready"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Maybe_He'll_Notice_Her_Now",
+                        "musicalBand",
+                        "Mindy_McCready"
+                    ]
+                ],
+                42.99949264526367
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8604319095611572
+    },
+    {
+        "triple": [
+            "Micrulia",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Micrulia",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                15524.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8730852603912354
+    },
+    {
+        "triple": [
+            "Melianthaceae",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Melianthaceae",
+                        "division",
+                        "Flowering_plant"
+                    ]
+                ],
+                0.9999198317527771
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7006330490112305
+    },
+    {
+        "triple": [
+            "Cycles_(Frank_Sinatra_album)",
+            "subsequentWork",
+            "My_Way_(Frank_Sinatra_album)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "My_Way_(Frank_Sinatra_album)",
+                        "previousWork",
+                        "Cycles_(Frank_Sinatra_album)"
+                    ]
+                ],
+                1050.9998779296875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8592827320098877
+    },
+    {
+        "triple": [
+            "Jack_McDonald_(ice_hockey_b._1887)",
+            "formerTeam",
+            "Montreal_Canadiens"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jack_McDonald_(ice_hockey_b._1887)",
+                        "formerTeam",
+                        "Toronto_St._Patricks"
+                    ]
+                ],
+                23651.99609375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7195641994476318
+    },
+    {
+        "triple": [
+            "Spatalistis",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Spatalistis",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                16176.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8768820762634277
+    },
+    {
+        "triple": [
+            "Milo_Aukerman",
+            "associatedBand",
+            "All_(band)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Milo_Aukerman",
+                        "associatedMusicalArtist",
+                        "All_(band)"
+                    ]
+                ],
+                23057.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7232072353363037
+    },
+    {
+        "triple": [
+            "Sea_of_Dreams_(Misia_song)",
+            "subsequentWork",
+            "Any_Love_(Misia_song)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Any_Love_(Misia_song)",
+                        "previousWork",
+                        "Sea_of_Dreams_(Misia_song)"
+                    ]
+                ],
+                674.9998779296875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8692409992218018
+    },
+    {
+        "triple": [
+            "Y_Records",
+            "foundedBy",
+            "Y_Records"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "John_Waddington_(musician)",
+                        "recordLabel",
+                        "Y_Records"
+                    ]
+                ],
+                17664.8828125
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.90645432472229
+    },
+    {
+        "triple": [
+            "M6_Group",
+            "industry",
+            "Mass_media"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "M6_Group",
+                        "product",
+                        "Mass_media"
+                    ]
+                ],
+                0.9420093894004822
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7058632373809814
+    },
+    {
+        "triple": [
+            "Pseuderanthemum",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pseuderanthemum",
+                        "division",
+                        "Flowering_plant"
+                    ]
+                ],
+                0.9999198317527771
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8536641597747803
+    },
+    {
+        "triple": [
+            "Acacia_coriacea",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Acacia_coriacea",
+                        "division",
+                        "Flowering_plant"
+                    ]
+                ],
+                0.9999198317527771
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7089745998382568
+    },
+    {
+        "triple": [
+            "Stondom_do_Tokija",
+            "subsequentWork",
+            "Goribor_(album)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Goribor_(album)",
+                        "previousWork",
+                        "Stondom_do_Tokija"
+                    ]
+                ],
+                1054.9998779296875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8478260040283203
+    },
+    {
+        "triple": [
+            "Holidays_in_the_Sun_(song)",
+            "previousWork",
+            "Pretty_Vacant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pretty_Vacant",
+                        "subsequentWork",
+                        "Holidays_in_the_Sun_(song)"
+                    ]
+                ],
+                23474.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8699471950531006
+    },
+    {
+        "triple": [
+            "Hoplomorpha",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hoplomorpha",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                7262.99951171875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.706928014755249
+    },
+    {
+        "triple": [
+            "Central_City,_Kentucky",
+            "isPartOf",
+            "Muhlenberg_County,_Kentucky"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Muhlenberg_County,_Kentucky",
+                        "largestCity",
+                        "Central_City,_Kentucky"
+                    ]
+                ],
+                2544.9970703125
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8872127532958984
+    },
+    {
+        "triple": [
+            "1968_Australian_Grand_Prix",
+            "secondDriver",
+            "Chris_Amon"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "1968_Australian_Grand_Prix",
+                        "fastestDriver",
+                        "Chris_Amon"
+                    ]
+                ],
+                34.999183654785156
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8956365585327148
+    },
+    {
+        "triple": [
+            "Chrysozephyrus",
+            "class",
+            "Insect"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chrysozephyrus",
+                        "order",
+                        "Lepidoptera"
+                    ]
+                ],
+                14061.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7024261951446533
+    },
+    {
+        "triple": [
+            "The_Man_in_the_Mirror_(1936_film)",
+            "distributor",
+            "Associated_British_Picture_Corporation"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Man_in_the_Mirror_(1936_film)",
+                        "starring",
+                        "Garry_Marsh"
+                    ]
+                ],
+                1561.9375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8550083637237549
+    },
+    {
+        "triple": [
+            "Andr\u00e9s_Mart\u00ednez_Trueba",
+            "birthPlace",
+            "Montevideo"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Andr\u00e9s_Mart\u00ednez_Trueba",
+                        "deathPlace",
+                        "Montevideo"
+                    ]
+                ],
+                23776.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8824958801269531
+    },
+    {
+        "triple": [
+            "Bobby_Convey",
+            "team",
+            "D.C._United"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bobby_Convey",
+                        "team",
+                        "Generation_Adidas"
+                    ]
+                ],
+                23068.990234375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.693835973739624
+    },
+    {
+        "triple": [
+            "Tom_Kurvers",
+            "formerTeam",
+            "Montreal_Canadiens"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tom_Kurvers",
+                        "draftTeam",
+                        "Montreal_Canadiens"
+                    ]
+                ],
+                18953.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8609890937805176
+    },
+    {
+        "triple": [
+            "Urban_Guerrilla",
+            "producer",
+            "Hawkwind"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Urban_Guerrilla",
+                        "musicalArtist",
+                        "Hawkwind"
+                    ]
+                ],
+                268.9761047363281
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7058751583099365
+    },
+    {
+        "triple": [
+            "M._C._Oliver",
+            "deathPlace",
+            "London"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "M._C._Oliver",
+                        "birthPlace",
+                        "London"
+                    ]
+                ],
+                7710.99951171875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8684301376342773
+    },
+    {
+        "triple": [
+            "Malcolm_Milne",
+            "team",
+            "Alpine_skiing_at_the_1968_Winter_Olympics"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Malcolm_Milne",
+                        "team",
+                        "Alpine_skiing_at_the_1972_Winter_Olympics"
+                    ]
+                ],
+                3433.998779296875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8842613697052002
+    },
+    {
+        "triple": [
+            "Mean_(song)",
+            "previousWork",
+            "Back_to_December"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Back_to_December",
+                        "subsequentWork",
+                        "Mean_(song)"
+                    ]
+                ],
+                23765.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7044289112091064
+    },
+    {
+        "triple": [
+            "Ali_V\u00e2sib",
+            "successor",
+            "Mehmed_Orhan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mehmed_Orhan",
+                        "predecessor",
+                        "Ali_V\u00e2sib"
+                    ]
+                ],
+                1900.999755859375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8840494155883789
+    },
+    {
+        "triple": [
+            "Will_H._Hays",
+            "predecessor",
+            "Albert_S._Burleson"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Albert_S._Burleson",
+                        "successor",
+                        "Will_H._Hays"
+                    ]
+                ],
+                21068.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7278404235839844
+    },
+    {
+        "triple": [
+            "Rodmond_Roblin",
+            "successor",
+            "Tobias_Norris"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tobias_Norris",
+                        "predecessor",
+                        "Rodmond_Roblin"
+                    ]
+                ],
+                13844.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8728387355804443
+    },
+    {
+        "triple": [
+            "Bajrakitiyabha",
+            "profession",
+            "Diplomat"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bajrakitiyabha",
+                        "almaMater",
+                        "Bachelor_of_Laws"
+                    ]
+                ],
+                760.9602661132812
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8752598762512207
+    },
+    {
+        "triple": [
+            "Polygala",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Polygala",
+                        "kingdom",
+                        "Plant"
+                    ]
+                ],
+                0.9998404383659363
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.6946790218353271
+    },
+    {
+        "triple": [
+            "Master_Blaster_(Jammin')",
+            "subsequentWork",
+            "I_Ain't_Gonna_Stand_for_It"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "I_Ain't_Gonna_Stand_for_It",
+                        "previousWork",
+                        "Master_Blaster_(Jammin')"
+                    ]
+                ],
+                12557.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8907670974731445
+    },
+    {
+        "triple": [
+            "1970_Belgian_Grand_Prix",
+            "fastestDriver",
+            "Chris_Amon"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "1970_Belgian_Grand_Prix",
+                        "secondDriver",
+                        "Chris_Amon"
+                    ]
+                ],
+                16.99835777282715
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7017486095428467
+    },
+    {
+        "triple": [
+            "Mammillaria_discolor",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mammillaria_discolor",
+                        "division",
+                        "Flowering_plant"
+                    ]
+                ],
+                1.9999198913574219
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8771255016326904
+    },
+    {
+        "triple": [
+            "Samuel_Rothschild",
+            "deathPlace",
+            "Greater_Sudbury"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Samuel_Rothschild",
+                        "birthPlace",
+                        "Greater_Sudbury"
+                    ]
+                ],
+                18.999305725097656
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7502896785736084
+    },
+    {
+        "triple": [
+            "Grizzly_(novel)",
+            "language",
+            "English_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Grizzly_(novel)",
+                        "publisher",
+                        "Random_House"
+                    ]
+                ],
+                1337.9932861328125
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8573215007781982
+    },
+    {
+        "triple": [
+            "Run_to_Him",
+            "subsequentWork",
+            "Please_Don't_Ask_About_Barbara"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Please_Don't_Ask_About_Barbara",
+                        "previousWork",
+                        "Run_to_Him"
+                    ]
+                ],
+                24437.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.882636547088623
+    },
+    {
+        "triple": [
+            "The_Chinese_Puzzle_(TV_series)",
+            "genre",
+            "Thriller_(genre)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Chinese_Puzzle_(TV_series)",
+                        "network",
+                        "BBC"
+                    ]
+                ],
+                2694.876708984375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.71830153465271
+    },
+    {
+        "triple": [
+            "Obvious_(Westlife_song)",
+            "recordedIn",
+            "London"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Obvious_(Westlife_song)",
+                        "recordLabel",
+                        "RCA_Records"
+                    ]
+                ],
+                9318.97265625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.857548713684082
+    },
+    {
+        "triple": [
+            "William_J._McConnell",
+            "deathPlace",
+            "Moscow,_Idaho"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "William_J._McConnell",
+                        "residence",
+                        "Moscow,_Idaho"
+                    ]
+                ],
+                4780.9931640625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9026267528533936
+    },
+    {
+        "triple": [
+            "Automatic_Flowers",
+            "musicalBand",
+            "Our_Lady_Peace"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Automatic_Flowers",
+                        "musicalArtist",
+                        "Our_Lady_Peace"
+                    ]
+                ],
+                2701.999755859375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7076618671417236
+    },
+    {
+        "triple": [
+            "Kamoliddin_Tajiev",
+            "birthPlace",
+            "Soviet_Union"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kamoliddin_Tajiev",
+                        "birthPlace",
+                        "Soviet_Union"
+                    ]
+                ],
+                23213.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8649852275848389
+    },
+    {
+        "triple": [
+            "Kozhi_Koovuthu_(1982_film)",
+            "writer",
+            "Gangai_Amaran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kozhi_Koovuthu_(1982_film)",
+                        "director",
+                        "Gangai_Amaran"
+                    ]
+                ],
+                4965.99658203125
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8813235759735107
+    },
+    {
+        "triple": [
+            "Urban_Guerrilla",
+            "musicalBand",
+            "Hawkwind"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Urban_Guerrilla",
+                        "musicalArtist",
+                        "Hawkwind"
+                    ]
+                ],
+                1282.9996337890625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.6990971565246582
+    },
+    {
+        "triple": [
+            "Walter_Lee_(Louisiana_politician)",
+            "deathPlace",
+            "Louisiana"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Walter_Lee_(Louisiana_politician)",
+                        "residence",
+                        "Louisiana"
+                    ]
+                ],
+                24.99908447265625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8754074573516846
+    },
+    {
+        "triple": [
+            "Gamia",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gamia",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                18238.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7213876247406006
+    },
+    {
+        "triple": [
+            "Saeima",
+            "politicalPartyInLegislature",
+            "National_Alliance_(Latvia)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Saeima",
+                        "politicalPartyOfLeader",
+                        "National_Alliance_(Latvia)"
+                    ]
+                ],
+                24341.9921875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.9237494468688965
+    },
+    {
+        "triple": [
+            "Platylesches",
+            "class",
+            "Insect"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Platylesches",
+                        "order",
+                        "Lepidoptera"
+                    ]
+                ],
+                23273.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.7224352359771729
+    },
+    {
+        "triple": [
+            "Why_Do_Fools_Fall_in_Love_(album)",
+            "recordLabel",
+            "Capitol_Records"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Why_Do_Fools_Fall_in_Love_(album)",
+                        "recordLabel",
+                        "RCA_Records"
+                    ]
+                ],
+                6643.99560546875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.864875078201294
+    },
+    {
+        "triple": [
+            "Oleksiy_Gai",
+            "birthPlace",
+            "Soviet_Union"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Oleksiy_Gai",
+                        "team",
+                        "FC_Chornomorets_Odesa"
+                    ]
+                ],
+                22770.9921875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 0.8703403472900391
+    }
+]

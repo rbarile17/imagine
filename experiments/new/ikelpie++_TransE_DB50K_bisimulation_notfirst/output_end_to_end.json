@@ -1,0 +1,2077 @@
+[
+    {
+        "triple_to_explain": [
+            "The_Monster_(song)",
+            "musicalBand",
+            "Eminem"
+        ],
+        "rule": [
+            [
+                "Alex_Feather_Akimov",
+                "associatedBand",
+                "The_Monster_(song)"
+            ],
+            [
+                "Alex_Feather_Akimov",
+                "associatedMusicalArtist",
+                "The_Monster_(song)"
+            ]
+        ],
+        "score": "0.92021424",
+        "rank": "9",
+        "new_score": "0.31948462",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "True_Stories_and_Other_Dreams",
+            "genre",
+            "Folk_music"
+        ],
+        "rule": [
+            [
+                "True_Stories_and_Other_Dreams",
+                "recordedIn",
+                "Record_Plant"
+            ]
+        ],
+        "score": "1.7427282",
+        "rank": "2",
+        "new_score": "4.951599",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Stanhopea_gibbosa",
+            "genus",
+            "Stanhopea"
+        ],
+        "rule": [
+            [
+                "Stanhopea_gibbosa",
+                "kingdom",
+                "Plant"
+            ]
+        ],
+        "score": "0.04635692",
+        "rank": "66",
+        "new_score": "0.06086095",
+        "new_rank": "143"
+    },
+    {
+        "triple_to_explain": [
+            "Kandeh_Yumkella",
+            "residence",
+            "Sierra_Leone"
+        ],
+        "rule": [
+            [
+                "Kandeh_Yumkella",
+                "almaMater",
+                "University_of_Illinois_at_Urbana\u2013Champaign"
+            ]
+        ],
+        "score": "1.644898",
+        "rank": "10",
+        "new_score": "1.6481984",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Tony_Chilton",
+            "team",
+            "Sunderland_A.F.C."
+        ],
+        "rule": [
+            [
+                "Tony_Chilton",
+                "team",
+                "Barrow_A.F.C."
+            ]
+        ],
+        "score": "1.0379405",
+        "rank": "11",
+        "new_score": "5.302652",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Josie_Carroll",
+            "race",
+            "Alabama_Stakes"
+        ],
+        "rule": [
+            [
+                "Josie_Carroll",
+                "race",
+                "Woodstock_Stakes"
+            ]
+        ],
+        "score": "1.8046029",
+        "rank": "7",
+        "new_score": "5.4758916",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Steve_DiGiorgio",
+            "genre",
+            "Progressive_metal"
+        ],
+        "rule": [
+            [
+                "Dragonlord_(band)",
+                "formerBandMember",
+                "Steve_DiGiorgio"
+            ],
+            [
+                "Steve_DiGiorgio",
+                "associatedBand",
+                "Autopsy_(band)"
+            ]
+        ],
+        "score": "2.333325",
+        "rank": "5",
+        "new_score": "1.5175731",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "BMW_7_Series_(F01)",
+            "assembly",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "BMW_7_Series_(F01)",
+                "assembly",
+                "Kaliningrad"
+            ],
+            [
+                "BMW_7_Series_(F01)",
+                "assembly",
+                "Toluca"
+            ]
+        ],
+        "score": "5.7493105",
+        "rank": "21394",
+        "new_score": "6.9902782",
+        "new_rank": "10616"
+    },
+    {
+        "triple_to_explain": [
+            "Trevor_Dunn",
+            "instrument",
+            "Clarinet"
+        ],
+        "rule": [
+            [
+                "Trevor_Dunn",
+                "associatedBand",
+                "Masada_(band)"
+            ],
+            [
+                "Trevor_Dunn",
+                "recordLabel",
+                "Ipecac_Recordings"
+            ],
+            [
+                "Trevor_Dunn",
+                "associatedBand",
+                "Fant\u00f4mas_(band)"
+            ],
+            [
+                "Trevor_Dunn",
+                "associatedMusicalArtist",
+                "Fant\u00f4mas_(band)"
+            ]
+        ],
+        "score": "2.7723396",
+        "rank": "3",
+        "new_score": "5.454294",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Jay_Sean",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Hit_the_Lights_(Jay_Sean_song)",
+                "musicalArtist",
+                "Jay_Sean"
+            ],
+            [
+                "Hit_the_Lights_(Jay_Sean_song)",
+                "writer",
+                "Jay_Sean"
+            ],
+            [
+                "I'm_All_Yours",
+                "musicalArtist",
+                "Jay_Sean"
+            ],
+            [
+                "I'm_All_Yours",
+                "writer",
+                "Jay_Sean"
+            ]
+        ],
+        "score": "2.4277115",
+        "rank": "3",
+        "new_score": "1.8125957",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Gugash_Magani",
+            "team",
+            "Besa_Kavaj\u00eb"
+        ],
+        "rule": [
+            [
+                "Gugash_Magani",
+                "managerClub",
+                "Flamurtari_Vlor\u00eb"
+            ]
+        ],
+        "score": "3.3286078",
+        "rank": "199",
+        "new_score": "2.9562495",
+        "new_rank": "167"
+    },
+    {
+        "triple_to_explain": [
+            "Cornelius_P._Comegys",
+            "religion",
+            "United_Methodist_Church"
+        ],
+        "rule": [
+            [
+                "Cornelius_P._Comegys",
+                "battle",
+                "War_of_1812"
+            ],
+            [
+                "Cornelius_P._Comegys",
+                "party",
+                "Whig_Party_(United_States)"
+            ]
+        ],
+        "score": "2.4319122",
+        "rank": "7",
+        "new_score": "5.446796",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Hernando_Siles_Reyes",
+            "deathPlace",
+            "Peru"
+        ],
+        "rule": [
+            [
+                "Hernando_Siles_Reyes",
+                "birthPlace",
+                "Bolivia"
+            ]
+        ],
+        "score": "1.6655018",
+        "rank": "9",
+        "new_score": "5.1154246",
+        "new_rank": "18"
+    },
+    {
+        "triple_to_explain": [
+            "Moon_Landing_(album)",
+            "producer",
+            "Steve_Robson"
+        ],
+        "rule": [
+            [
+                "Moon_Landing_(album)",
+                "recordedIn",
+                "London"
+            ],
+            [
+                "Heart_to_Heart_(James_Blunt_song)",
+                "album",
+                "Moon_Landing_(album)"
+            ]
+        ],
+        "score": "2.5494068",
+        "rank": "326",
+        "new_score": "5.12867",
+        "new_rank": "2653"
+    },
+    {
+        "triple_to_explain": [
+            "Infernal_Affairs_III",
+            "starring",
+            "Eric_Tsang"
+        ],
+        "rule": [
+            [
+                "Andy_Lau",
+                "award",
+                "Infernal_Affairs_III"
+            ],
+            [
+                "Infernal_Affairs_III",
+                "starring",
+                "Andy_Lau"
+            ]
+        ],
+        "score": "4.38473",
+        "rank": "710",
+        "new_score": "4.5313497",
+        "new_rank": "364"
+    },
+    {
+        "triple_to_explain": [
+            "Ernani_Pereira",
+            "team",
+            "Guarani_FC"
+        ],
+        "rule": [
+            [
+                "Ernani_Pereira",
+                "team",
+                "Mersin_\u0130dmanyurdu"
+            ]
+        ],
+        "score": "0.38853252",
+        "rank": "3",
+        "new_score": "0.6181887",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "The_Honeydrippers",
+            "associatedBand",
+            "The_Firm_(rock_band)"
+        ],
+        "rule": [
+            [
+                "Jimmy_Page",
+                "associatedMusicalArtist",
+                "The_Honeydrippers"
+            ],
+            [
+                "Nile_Rodgers",
+                "associatedBand",
+                "The_Honeydrippers"
+            ],
+            [
+                "Nile_Rodgers",
+                "associatedMusicalArtist",
+                "The_Honeydrippers"
+            ],
+            [
+                "The_Honeydrippers",
+                "formerBandMember",
+                "Nile_Rodgers"
+            ]
+        ],
+        "score": "1.084381",
+        "rank": "11",
+        "new_score": "1.5127541",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Balochistan_conflict",
+            "commander",
+            "Ali_Khamenei"
+        ],
+        "rule": [
+            [
+                "Balochistan_conflict",
+                "commander",
+                "Rahimuddin_Khan"
+            ]
+        ],
+        "score": "3.5319638",
+        "rank": "17629",
+        "new_score": "4.010731",
+        "new_rank": "18119"
+    },
+    {
+        "triple_to_explain": [
+            "Jonathan_David_G\u00f3mez",
+            "team",
+            "Arsenal_de_Sarand\u00ed"
+        ],
+        "rule": [
+            [
+                "Jonathan_David_G\u00f3mez",
+                "team",
+                "Real_Murcia"
+            ]
+        ],
+        "score": "2.6943288",
+        "rank": "90",
+        "new_score": "5.592447",
+        "new_rank": "195"
+    },
+    {
+        "triple_to_explain": [
+            "Yakov_Cherevichenko",
+            "battle",
+            "Battle_of_Rostov_(1941)"
+        ],
+        "rule": [
+            [
+                "Battle_of_Rostov_(1941)",
+                "commander",
+                "Yakov_Cherevichenko"
+            ]
+        ],
+        "score": "3.3144586",
+        "rank": "7",
+        "new_score": "5.6840777",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Snookeroo",
+            "writer",
+            "Elton_John"
+        ],
+        "rule": [
+            [
+                "Snookeroo",
+                "recordLabel",
+                "Apple_Records"
+            ]
+        ],
+        "score": "3.515232",
+        "rank": "4488",
+        "new_score": "5.005332",
+        "new_rank": "11449"
+    },
+    {
+        "triple_to_explain": [
+            "Jayne_Casey",
+            "associatedMusicalArtist",
+            "Big_in_Japan_(band)"
+        ],
+        "rule": [
+            [
+                "Jayne_Casey",
+                "associatedBand",
+                "Big_in_Japan_(band)"
+            ],
+            [
+                "Jayne_Casey",
+                "genre",
+                "Synthpop"
+            ]
+        ],
+        "score": "0.22202468",
+        "rank": "3",
+        "new_score": "0.1049439",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Cameron_Brown_(musician)",
+            "associatedBand",
+            "Don_Cherry_(trumpeter)"
+        ],
+        "rule": [
+            [
+                "Cameron_Brown_(musician)",
+                "associatedBand",
+                "Dewey_Redman"
+            ],
+            [
+                "Cameron_Brown_(musician)",
+                "associatedMusicalArtist",
+                "Dewey_Redman"
+            ],
+            [
+                "Cameron_Brown_(musician)",
+                "genre",
+                "Jazz"
+            ]
+        ],
+        "score": "0.04513117",
+        "rank": "3",
+        "new_score": "0.2540582",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Satyasheel_Deshpande",
+            "birthPlace",
+            "Mumbai"
+        ],
+        "rule": [
+            [
+                "Satyasheel_Deshpande",
+                "genre",
+                "Hindustani_classical_music"
+            ]
+        ],
+        "score": "4.0199056",
+        "rank": "2",
+        "new_score": "5.1814904",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Isaac_D._Barnard",
+            "battle",
+            "War_of_1812"
+        ],
+        "rule": [
+            [
+                "Isaac_D._Barnard",
+                "birthPlace",
+                "Aston_Township,_Delaware_County,_Pennsylvania"
+            ]
+        ],
+        "score": "4.6986794",
+        "rank": "18",
+        "new_score": "5.8658123",
+        "new_rank": "13"
+    },
+    {
+        "triple_to_explain": [
+            "Giddens_Ko",
+            "notableWork",
+            "You_Are_the_Apple_of_My_Eye"
+        ],
+        "rule": [
+            [
+                "You_Are_the_Apple_of_My_Eye",
+                "director",
+                "Giddens_Ko"
+            ]
+        ],
+        "score": "1.9964317",
+        "rank": "2",
+        "new_score": "1.9304785",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "The_Ultimate_Collection_(Michael_Jackson_album)",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "The_Ultimate_Collection_(Michael_Jackson_album)",
+                "genre",
+                "New_jack_swing"
+            ]
+        ],
+        "score": "3.2198715",
+        "rank": "41",
+        "new_score": "6.4859695",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Rusty_Anderson",
+            "associatedBand",
+            "Ednaswap"
+        ],
+        "rule": [
+            [
+                "Rusty_Anderson",
+                "hometown",
+                "La_Habra,_California"
+            ]
+        ],
+        "score": "0.12068642",
+        "rank": "2",
+        "new_score": "0.08561698",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Bryn_Merrick",
+            "associatedBand",
+            "The_Damned_(band)"
+        ],
+        "rule": [
+            [
+                "Bryn_Merrick",
+                "associatedMusicalArtist",
+                "The_Damned_(band)"
+            ]
+        ],
+        "score": "0.06746074",
+        "rank": "2",
+        "new_score": "1.2988267",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Benjamin_C._Dawkins,_Jr.",
+            "militaryRank",
+            "United_States_Navy_Reserve"
+        ],
+        "rule": [
+            [
+                "Benjamin_C._Dawkins,_Jr.",
+                "birthPlace",
+                "Louisiana"
+            ]
+        ],
+        "score": "3.7694917",
+        "rank": "14732",
+        "new_score": "6.0284367",
+        "new_rank": "4045"
+    },
+    {
+        "triple_to_explain": [
+            "Alain_Lequeux",
+            "race",
+            "Prix_Ganay"
+        ],
+        "rule": [
+            [
+                "Alain_Lequeux",
+                "race",
+                "Crit\u00e9rium_de_Saint-Cloud"
+            ],
+            [
+                "Alain_Lequeux",
+                "race",
+                "Grosser_Preis_von_Berlin"
+            ],
+            [
+                "Alain_Lequeux",
+                "race",
+                "Prix_Jean-Luc_Lagard\u00e8re"
+            ],
+            [
+                "Alain_Lequeux",
+                "raceHorse",
+                "Providential"
+            ]
+        ],
+        "score": "2.8246415",
+        "rank": "572",
+        "new_score": "5.476397",
+        "new_rank": "68"
+    },
+    {
+        "triple_to_explain": [
+            "Mart\u00edn_Bonjour",
+            "team",
+            "Rampla_Juniors"
+        ],
+        "rule": [
+            [
+                "Mart\u00edn_Bonjour",
+                "team",
+                "Club_Deportivo_Universidad_C\u00e9sar_Vallejo"
+            ]
+        ],
+        "score": "2.2185256",
+        "rank": "77",
+        "new_score": "6.8779025",
+        "new_rank": "260"
+    },
+    {
+        "triple_to_explain": [
+            "Kri\u0161j\u0101nis_R\u0113dlihs",
+            "birthPlace",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "Kri\u0161j\u0101nis_R\u0113dlihs",
+                "position",
+                "Defenceman"
+            ]
+        ],
+        "score": "1.8748653",
+        "rank": "2",
+        "new_score": "5.3674307",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Belizean_Americans",
+            "related",
+            "Black_people"
+        ],
+        "rule": [
+            [
+                "Belizean_Americans",
+                "language",
+                "English_language"
+            ],
+            [
+                "Belizean_Americans",
+                "religion",
+                "Catholicism"
+            ]
+        ],
+        "score": "2.7881153",
+        "rank": "12658",
+        "new_score": "5.321429",
+        "new_rank": "10991"
+    },
+    {
+        "triple_to_explain": [
+            "Welcome_to_My_Hood",
+            "previousWork",
+            "All_I_Do_Is_Win"
+        ],
+        "rule": [
+            [
+                "Welcome_to_My_Hood",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "Welcome_to_My_Hood",
+                "genre",
+                "Gangsta_rap"
+            ],
+            [
+                "Welcome_to_My_Hood",
+                "musicalArtist",
+                "Bun_B"
+            ],
+            [
+                "Welcome_to_My_Hood",
+                "musicalBand",
+                "Bun_B"
+            ]
+        ],
+        "score": "0.50774556",
+        "rank": "9",
+        "new_score": "0.20601979",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Vehicle_(The_Clean_album)",
+            "subsequentWork",
+            "Modern_Rock_(album)"
+        ],
+        "rule": [
+            [
+                "Vehicle_(The_Clean_album)",
+                "recordedIn",
+                "London"
+            ]
+        ],
+        "score": "0.69137675",
+        "rank": "2",
+        "new_score": "0.06667663",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Twins_Affair",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Twins_Affair",
+                "instrument",
+                "Drum_kit"
+            ]
+        ],
+        "score": "1.1309441",
+        "rank": "3",
+        "new_score": "4.902299",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Lindsay_Davis_(figure_skater)",
+            "formerPartner",
+            "Themistocles_Leftheris"
+        ],
+        "rule": [
+            [
+                "Lindsay_Davis_(figure_skater)",
+                "formerCoach",
+                "Tammy_Gambill"
+            ]
+        ],
+        "score": "0.5098155",
+        "rank": "2",
+        "new_score": "0.71781266",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Frankie_Goes_to_Hollywood",
+            "genre",
+            "Dance_music"
+        ],
+        "rule": [
+            [
+                "Relax_(song)",
+                "musicalArtist",
+                "Frankie_Goes_to_Hollywood"
+            ],
+            [
+                "Relax_(song)",
+                "musicalBand",
+                "Frankie_Goes_to_Hollywood"
+            ],
+            [
+                "Frankie_Goes_to_Hollywood",
+                "associatedMusicalArtist",
+                "Big_in_Japan_(band)"
+            ],
+            [
+                "Maximum_Joy_(album)",
+                "artist",
+                "Frankie_Goes_to_Hollywood"
+            ]
+        ],
+        "score": "1.9185083",
+        "rank": "5",
+        "new_score": "0.81537193",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lydia_Shum",
+            "occupation",
+            "Master_of_ceremonies"
+        ],
+        "rule": [
+            [
+                "Cat_vs_Rat",
+                "starring",
+                "Lydia_Shum"
+            ]
+        ],
+        "score": "3.8458624",
+        "rank": "5",
+        "new_score": "5.3852515",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Henry_II_of_England",
+            "deathPlace",
+            "Chinon"
+        ],
+        "rule": [
+            [
+                "Ranulf_de_Glanvill",
+                "monarch",
+                "Henry_II_of_England"
+            ]
+        ],
+        "score": "6.5827794",
+        "rank": "727",
+        "new_score": "6.061837",
+        "new_rank": "756"
+    },
+    {
+        "triple_to_explain": [
+            "Cristian_Castro",
+            "recordLabel",
+            "Sony_Music_Latin"
+        ],
+        "rule": [
+            [
+                "Cristian_Castro",
+                "genre",
+                "Bolero"
+            ],
+            [
+                "Cristian_Castro",
+                "genre",
+                "Heavy_metal_music"
+            ],
+            [
+                "Sof\u00eda_Castro",
+                "relative",
+                "Cristian_Castro"
+            ],
+            [
+                "Volver_a_amar",
+                "openingTheme",
+                "Cristian_Castro"
+            ]
+        ],
+        "score": "3.9474795",
+        "rank": "39",
+        "new_score": "5.9537506",
+        "new_rank": "46"
+    },
+    {
+        "triple_to_explain": [
+            "List_of_Serbian_football_transfers_winter_2009\u201310",
+            "currentMember",
+            "Aleksandar_Davidov"
+        ],
+        "rule": [
+            [
+                "List_of_Serbian_football_transfers_winter_2009\u201310",
+                "currentMember",
+                "Milo\u0161_Relji\u0107"
+            ]
+        ],
+        "score": "2.3088086",
+        "rank": "1833",
+        "new_score": "2.9339147",
+        "new_rank": "1898"
+    },
+    {
+        "triple_to_explain": [
+            "Carles_Benavent",
+            "associatedBand",
+            "Paco_de_Luc\u00eda"
+        ],
+        "rule": [
+            [
+                "Carles_Benavent",
+                "birthPlace",
+                "Barcelona"
+            ]
+        ],
+        "score": "0.081592046",
+        "rank": "2",
+        "new_score": "0.124009214",
+        "new_rank": "147"
+    },
+    {
+        "triple_to_explain": [
+            "Nir_Klinger",
+            "managerClub",
+            "AEP_Paphos_F.C."
+        ],
+        "rule": [
+            [
+                "Nir_Klinger",
+                "birthPlace",
+                "Haifa"
+            ]
+        ],
+        "score": "3.8096428",
+        "rank": "93",
+        "new_score": "4.3489227",
+        "new_rank": "138"
+    },
+    {
+        "triple_to_explain": [
+            "Mirai_Sentai_Timeranger",
+            "creator",
+            "Toei_Company"
+        ],
+        "rule": [
+            [
+                "Mirai_Sentai_Timeranger",
+                "language",
+                "Japanese_language"
+            ]
+        ],
+        "score": "2.8114436",
+        "rank": "10136",
+        "new_score": "6.0279584",
+        "new_rank": "12004"
+    },
+    {
+        "triple_to_explain": [
+            "The_Monkey_Puzzle_(UFO_album)",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule": [
+            [
+                "The_Monkey_Puzzle_(UFO_album)",
+                "recordedIn",
+                "Germany"
+            ]
+        ],
+        "score": "3.1916776",
+        "rank": "5",
+        "new_score": "4.465979",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Jasmine_Curtis-Smith",
+            "nationality",
+            "Filipino_Australians"
+        ],
+        "rule": [
+            [
+                "Jasmine_Curtis-Smith",
+                "stateOfOrigin",
+                "Filipino_Australians"
+            ]
+        ],
+        "score": "3.5484395",
+        "rank": "165",
+        "new_score": "7.509943",
+        "new_rank": "14254"
+    },
+    {
+        "triple_to_explain": [
+            "Harinder_Singh_Khalsa",
+            "birthPlace",
+            "Punjab_Province_(British_India)"
+        ],
+        "rule": [
+            [
+                "Harinder_Singh_Khalsa",
+                "otherParty",
+                "Shiromani_Akali_Dal"
+            ]
+        ],
+        "score": "3.4314678",
+        "rank": "20",
+        "new_score": "4.696871",
+        "new_rank": "24"
+    },
+    {
+        "triple_to_explain": [
+            "Gutur_Gu",
+            "starring",
+            "Gutur_Gu"
+        ],
+        "rule": [
+            [
+                "Gutur_Gu",
+                "location",
+                "Mumbai"
+            ]
+        ],
+        "score": "3.3736036",
+        "rank": "459",
+        "new_score": "2.8352432",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Consuelo_Tom\u00e1s",
+            "nationality",
+            "Panama"
+        ],
+        "rule": [
+            [
+                "Consuelo_Tom\u00e1s",
+                "occupation",
+                "Poet"
+            ]
+        ],
+        "score": "1.3237476",
+        "rank": "15",
+        "new_score": "1.8475617",
+        "new_rank": "122"
+    },
+    {
+        "triple_to_explain": [
+            "Soribada",
+            "regionServed",
+            "South_Korea"
+        ],
+        "rule": [
+            [
+                "Soribada",
+                "locationCountry",
+                "South_Korea"
+            ],
+            [
+                "Kim_Yeon-woo",
+                "recordLabel",
+                "Soribada"
+            ],
+            [
+                "Soribada",
+                "genre",
+                "K-pop"
+            ]
+        ],
+        "score": "2.1655734",
+        "rank": "18",
+        "new_score": "1.9716924",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Steve_Junker_(ice_hockey)",
+            "formerTeam",
+            "Schwenninger_Wild_Wings"
+        ],
+        "rule": [
+            [
+                "Steve_Junker_(ice_hockey)",
+                "birthPlace",
+                "British_Columbia"
+            ]
+        ],
+        "score": "6.92153",
+        "rank": "24106",
+        "new_score": "6.6558466",
+        "new_rank": "10938"
+    },
+    {
+        "triple_to_explain": [
+            "Don't_Call_It_Love",
+            "recordLabel",
+            "RCA_Records"
+        ],
+        "rule": [
+            [
+                "Don't_Call_It_Love",
+                "subsequentWork",
+                "Real_Love_(Dolly_Parton_and_Kenny_Rogers_song)"
+            ],
+            [
+                "Real_Love_(Dolly_Parton_and_Kenny_Rogers_song)",
+                "previousWork",
+                "Don't_Call_It_Love"
+            ]
+        ],
+        "score": "2.5547426",
+        "rank": "2",
+        "new_score": "4.9073524",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Chase_N_Dough",
+            "associatedBand",
+            "Tink_(musician)"
+        ],
+        "rule": [
+            [
+                "Chase_N_Dough",
+                "genre",
+                "Hip_hop_music"
+            ]
+        ],
+        "score": "0.11342155",
+        "rank": "2",
+        "new_score": "0.09641186",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Salvador_Laurel",
+            "almaMater",
+            "University_of_the_Philippines_College_of_Law"
+        ],
+        "rule": [
+            [
+                "Salvador_Laurel",
+                "successor",
+                "Joseph_Estrada"
+            ]
+        ],
+        "score": "4.587778",
+        "rank": "124",
+        "new_score": "6.6565094",
+        "new_rank": "172"
+    },
+    {
+        "triple_to_explain": [
+            "Romeo_Miller",
+            "occupation",
+            "Model_(people)"
+        ],
+        "rule": [
+            [
+                "Hip_Hop_History",
+                "producer",
+                "Romeo_Miller"
+            ],
+            [
+                "Lil_Zane",
+                "associatedMusicalArtist",
+                "Romeo_Miller"
+            ],
+            [
+                "Romeo_Miller",
+                "recordLabel",
+                "Romeo_Miller"
+            ],
+            [
+                "My_Baby_(Lil'_Romeo_song)",
+                "musicalBand",
+                "Romeo_Miller"
+            ]
+        ],
+        "score": "2.4859402",
+        "rank": "2",
+        "new_score": "3.2262695",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Afro-soul",
+            "stylisticOrigin",
+            "Jazz"
+        ],
+        "rule": [
+            [
+                "Afro-soul",
+                "instrument",
+                "Drum_kit"
+            ]
+        ],
+        "score": "7.6398034",
+        "rank": "24594",
+        "new_score": "4.806717",
+        "new_rank": "119"
+    },
+    {
+        "triple_to_explain": [
+            "Thomas_Eisner",
+            "birthPlace",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Thomas_Eisner",
+                "award",
+                "National_Medal_of_Science"
+            ]
+        ],
+        "score": "2.780915",
+        "rank": "37",
+        "new_score": "4.316955",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Viktor_Derbunov",
+            "team",
+            "Hong_Kong_Rangers_FC"
+        ],
+        "rule": [
+            [
+                "Viktor_Derbunov",
+                "team",
+                "FC_Asmaral_Moscow"
+            ]
+        ],
+        "score": "3.7536762",
+        "rank": "174",
+        "new_score": "3.5087829",
+        "new_rank": "166"
+    },
+    {
+        "triple_to_explain": [
+            "Greatest_Hits_(Trisha_Yearwood_album)",
+            "producer",
+            "Trisha_Yearwood"
+        ],
+        "rule": [
+            [
+                "Greatest_Hits_(Trisha_Yearwood_album)",
+                "artist",
+                "Trisha_Yearwood"
+            ]
+        ],
+        "score": "0.38216633",
+        "rank": "2",
+        "new_score": "5.340497",
+        "new_rank": "3181"
+    },
+    {
+        "triple_to_explain": [
+            "BMX_Bandits_(band)",
+            "associatedBand",
+            "Eugenius_(band)"
+        ],
+        "rule": [
+            [
+                "BMX_Bandits_(band)",
+                "associatedMusicalArtist",
+                "Eugenius_(band)"
+            ],
+            [
+                "Eugenius_(band)",
+                "associatedBand",
+                "BMX_Bandits_(band)"
+            ]
+        ],
+        "score": "0.08671046",
+        "rank": "2",
+        "new_score": "0.06691264",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Ralf_Metzenmacher",
+            "nationality",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Ralf_Metzenmacher",
+                "birthPlace",
+                "Germany"
+            ]
+        ],
+        "score": "1.7882655",
+        "rank": "3",
+        "new_score": "6.2743",
+        "new_rank": "751"
+    },
+    {
+        "triple_to_explain": [
+            "Little_Baby_Nothing",
+            "previousWork",
+            "Suicide_Is_Painless"
+        ],
+        "rule": [
+            [
+                "Little_Baby_Nothing",
+                "format",
+                "Compact_disc"
+            ]
+        ],
+        "score": "0.8537711",
+        "rank": "144",
+        "new_score": "0.18281694",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ta_Mok",
+            "deathPlace",
+            "Phnom_Penh"
+        ],
+        "rule": [
+            [
+                "1997_clashes_in_Cambodia",
+                "commander",
+                "Ta_Mok"
+            ]
+        ],
+        "score": "5.217531",
+        "rank": "364",
+        "new_score": "6.901465",
+        "new_rank": "545"
+    },
+    {
+        "triple_to_explain": [
+            "Constance_Cummings",
+            "birthPlace",
+            "Washington_(state)"
+        ],
+        "rule": [
+            [
+                "Channel_Crossing",
+                "starring",
+                "Constance_Cummings"
+            ],
+            [
+                "Blithe_Spirit_(film)",
+                "starring",
+                "Constance_Cummings"
+            ],
+            [
+                "Constance_Cummings",
+                "spouse",
+                "Benn_Levy"
+            ]
+        ],
+        "score": "3.8930323",
+        "rank": "37",
+        "new_score": "5.036859",
+        "new_rank": "37"
+    },
+    {
+        "triple_to_explain": [
+            "Davide_Cattaneo",
+            "team",
+            "S.S.D._Monza_1912"
+        ],
+        "rule": [
+            [
+                "Davide_Cattaneo",
+                "team",
+                "A.C._Meda_1913"
+            ]
+        ],
+        "score": "2.7216365",
+        "rank": "11",
+        "new_score": "6.2316904",
+        "new_rank": "33"
+    },
+    {
+        "triple_to_explain": [
+            "Eien_Pressure",
+            "musicalBand",
+            "AKB48"
+        ],
+        "rule": [
+            [
+                "Eien_Pressure",
+                "musicalArtist",
+                "AKB48"
+            ]
+        ],
+        "score": "0.6837312",
+        "rank": "2",
+        "new_score": "2.2253687",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Jim_Reeves",
+            "recordLabel",
+            "RCA_Records"
+        ],
+        "rule": [
+            [
+                "Roy_Drusky",
+                "associatedBand",
+                "Jim_Reeves"
+            ],
+            [
+                "Roy_Drusky",
+                "associatedMusicalArtist",
+                "Jim_Reeves"
+            ]
+        ],
+        "score": "2.2633533",
+        "rank": "2",
+        "new_score": "5.148851",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Fant\u00f4mas_(band)",
+            "bandMember",
+            "Trevor_Dunn"
+        ],
+        "rule": [
+            [
+                "Fant\u00f4mas_(band)",
+                "recordLabel",
+                "Ipecac_Recordings"
+            ]
+        ],
+        "score": "0.052962553",
+        "rank": "2",
+        "new_score": "7.1960335",
+        "new_rank": "24416"
+    },
+    {
+        "triple_to_explain": [
+            "List_of_Serbian_football_transfers_winter_2009\u201310",
+            "currentMember",
+            "\u017deljko_Kova\u010devi\u0107"
+        ],
+        "rule": [
+            [
+                "List_of_Serbian_football_transfers_winter_2009\u201310",
+                "currentMember",
+                "Mladen_Popovi\u0107"
+            ],
+            [
+                "List_of_Serbian_football_transfers_winter_2009\u201310",
+                "currentMember",
+                "Vuka\u0161in_Tomi\u0107"
+            ],
+            [
+                "List_of_Serbian_football_transfers_winter_2009\u201310",
+                "currentMember",
+                "Bojan_Mi\u0161i\u0107"
+            ],
+            [
+                "List_of_Serbian_football_transfers_winter_2009\u201310",
+                "currentMember",
+                "Stefan_Milojevi\u0107"
+            ]
+        ],
+        "score": "2.5548995",
+        "rank": "2312",
+        "new_score": "3.2313952",
+        "new_rank": "2790"
+    },
+    {
+        "triple_to_explain": [
+            "Dandelion_Family",
+            "format",
+            "480i"
+        ],
+        "rule": [
+            [
+                "Dandelion_Family",
+                "location",
+                "South_Korea"
+            ]
+        ],
+        "score": "2.322317",
+        "rank": "2",
+        "new_score": "2.096784",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Never_Done_Nothing_Like_That_Before",
+            "producer",
+            "Tony_Hoffer"
+        ],
+        "rule": [
+            [
+                "Never_Done_Nothing_Like_That_Before",
+                "musicalArtist",
+                "Supergrass"
+            ],
+            [
+                "Never_Done_Nothing_Like_That_Before",
+                "musicalBand",
+                "Supergrass"
+            ],
+            [
+                "Never_Done_Nothing_Like_That_Before",
+                "writer",
+                "Supergrass"
+            ]
+        ],
+        "score": "3.0270216",
+        "rank": "3914",
+        "new_score": "5.72212",
+        "new_rank": "5222"
+    },
+    {
+        "triple_to_explain": [
+            "Hartley_College",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Hartley_College",
+                "city",
+                "Point_Pedro"
+            ]
+        ],
+        "score": "3.981605",
+        "rank": "3",
+        "new_score": "5.0043807",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Darije_Kalezi\u0107",
+            "managerClub",
+            "Roda_JC_Kerkrade"
+        ],
+        "rule": [
+            [
+                "Roda_JC_Kerkrade",
+                "manager",
+                "Darije_Kalezi\u0107"
+            ]
+        ],
+        "score": "2.2354753",
+        "rank": "63",
+        "new_score": "1.9798565",
+        "new_rank": "269"
+    },
+    {
+        "triple_to_explain": [
+            "Alejandro_(song)",
+            "recordedIn",
+            "Amsterdam"
+        ],
+        "rule": [
+            [
+                "Alejandro_(song)",
+                "genre",
+                "Synthpop"
+            ]
+        ],
+        "score": "2.0645595",
+        "rank": "11",
+        "new_score": "4.2621503",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Jos\u00e9_Luis_Brown",
+            "team",
+            "Real_Murcia"
+        ],
+        "rule": [
+            [
+                "Jos\u00e9_Luis_Brown",
+                "team",
+                "Stade_Brestois_29"
+            ]
+        ],
+        "score": "1.1753668",
+        "rank": "63",
+        "new_score": "1.7563057",
+        "new_rank": "123"
+    },
+    {
+        "triple_to_explain": [
+            "Yes_(band)",
+            "associatedBand",
+            "Circa_(band)"
+        ],
+        "rule": [
+            [
+                "Circa_(band)",
+                "associatedBand",
+                "Yes_(band)"
+            ],
+            [
+                "Circa_(band)",
+                "associatedMusicalArtist",
+                "Yes_(band)"
+            ],
+            [
+                "Yes_(band)",
+                "associatedMusicalArtist",
+                "Circa_(band)"
+            ]
+        ],
+        "score": "0.07690621",
+        "rank": "3",
+        "new_score": "5.104744",
+        "new_rank": "23758"
+    },
+    {
+        "triple_to_explain": [
+            "Terry_Carkner",
+            "formerTeam",
+            "Quebec_Nordiques"
+        ],
+        "rule": [
+            [
+                "Terry_Carkner",
+                "position",
+                "Defenceman"
+            ]
+        ],
+        "score": "0.87656796",
+        "rank": "5",
+        "new_score": "4.7538905",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Peter_Machajd\u00edk",
+            "genre",
+            "Contemporary_classical_music"
+        ],
+        "rule": [
+            [
+                "Peter_Machajd\u00edk",
+                "birthPlace",
+                "Slovakia"
+            ]
+        ],
+        "score": "4.1715055",
+        "rank": "14",
+        "new_score": "5.638796",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Ava_Adore",
+            "writer",
+            "Billy_Corgan"
+        ],
+        "rule": [
+            [
+                "Ava_Adore",
+                "format",
+                "Compact_disc"
+            ]
+        ],
+        "score": "1.6370114",
+        "rank": "124",
+        "new_score": "1.9242406",
+        "new_rank": "379"
+    },
+    {
+        "triple_to_explain": [
+            "Eastern_Dedicated_Freight_Corridor",
+            "location",
+            "Bihar"
+        ],
+        "rule": [
+            [
+                "Eastern_Dedicated_Freight_Corridor",
+                "location",
+                "Jharkhand"
+            ]
+        ],
+        "score": "1.9147965",
+        "rank": "4",
+        "new_score": "5.3078146",
+        "new_rank": "69"
+    },
+    {
+        "triple_to_explain": [
+            "Ronald_E._Neumann",
+            "president",
+            "George_W._Bush"
+        ],
+        "rule": [
+            [
+                "Ronald_E._Neumann",
+                "profession",
+                "Diplomatic_rank"
+            ]
+        ],
+        "score": "2.77461",
+        "rank": "10",
+        "new_score": "4.600809",
+        "new_rank": "2547"
+    },
+    {
+        "triple_to_explain": [
+            "9X_Jhakaas",
+            "sisterStation",
+            "9XO"
+        ],
+        "rule": [
+            [
+                "9X_Jhakaas",
+                "headquarter",
+                "Mumbai"
+            ]
+        ],
+        "score": "0.12143974",
+        "rank": "2",
+        "new_score": "0.19865169",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Berg_am_Irchel",
+            "neighboringMunicipality",
+            "Flaach"
+        ],
+        "rule": [
+            [
+                "Flaach",
+                "neighboringMunicipality",
+                "Berg_am_Irchel"
+            ]
+        ],
+        "score": "0.14173977",
+        "rank": "2",
+        "new_score": "4.8928795",
+        "new_rank": "6282"
+    },
+    {
+        "triple_to_explain": [
+            "The_Wedding_March_(1928_film)",
+            "producer",
+            "Pat_Powers_(businessman)"
+        ],
+        "rule": [
+            [
+                "The_Wedding_March_(1928_film)",
+                "editing",
+                "Josef_von_Sternberg"
+            ]
+        ],
+        "score": "4.9464016",
+        "rank": "23093",
+        "new_score": "4.4150305",
+        "new_rank": "21080"
+    },
+    {
+        "triple_to_explain": [
+            "Baby_I_Need_Your_Loving",
+            "genre",
+            "Folk_music"
+        ],
+        "rule": [
+            [
+                "Baby_I_Need_Your_Loving",
+                "producer",
+                "Lamont_Dozier"
+            ],
+            [
+                "Baby_I_Need_Your_Loving",
+                "writer",
+                "Holland\u2013Dozier\u2013Holland"
+            ]
+        ],
+        "score": "2.7788267",
+        "rank": "4",
+        "new_score": "3.3084667",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "The_Dangerous_Crew",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Ant_Banks",
+                "associatedBand",
+                "The_Dangerous_Crew"
+            ],
+            [
+                "Ant_Banks",
+                "associatedMusicalArtist",
+                "The_Dangerous_Crew"
+            ],
+            [
+                "The_Dangerous_Crew",
+                "formerBandMember",
+                "Ant_Banks"
+            ],
+            [
+                "The_Dangerous_Crew",
+                "formerBandMember",
+                "The_Dangerous_Crew"
+            ]
+        ],
+        "score": "1.590271",
+        "rank": "2",
+        "new_score": "0.09272076",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "TMX_Finance",
+            "regionServed",
+            "South_Carolina"
+        ],
+        "rule": [
+            [
+                "TMX_Finance",
+                "regionServed",
+                "Georgia_(U.S._state)"
+            ]
+        ],
+        "score": "1.1545128",
+        "rank": "2",
+        "new_score": "5.252229",
+        "new_rank": "1668"
+    },
+    {
+        "triple_to_explain": [
+            "Job_de_Ruiter",
+            "deathPlace",
+            "Naarden"
+        ],
+        "rule": [
+            [
+                "Job_de_Ruiter",
+                "occupation",
+                "Prosecutor"
+            ]
+        ],
+        "score": "5.043477",
+        "rank": "128",
+        "new_score": "5.9633074",
+        "new_rank": "195"
+    },
+    {
+        "triple_to_explain": [
+            "Bernt_Moen",
+            "recordLabel",
+            "Earache_Records"
+        ],
+        "rule": [
+            [
+                "Bernt_Moen",
+                "genre",
+                "Jazz"
+            ]
+        ],
+        "score": "3.2695928",
+        "rank": "25",
+        "new_score": "5.92564",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Mitsubishi_UFJ_Financial_Group",
+            "parentCompany",
+            "Mitsubishi"
+        ],
+        "rule": [
+            [
+                "UnionBanCal_Corporation",
+                "parentCompany",
+                "Mitsubishi_UFJ_Financial_Group"
+            ]
+        ],
+        "score": "5.187534",
+        "rank": "20048",
+        "new_score": "4.891495",
+        "new_rank": "20361"
+    },
+    {
+        "triple_to_explain": [
+            "Paul_Armstrong",
+            "team",
+            "Airdrieonians_F.C._(1878)"
+        ],
+        "rule": [
+            [
+                "Paul_Armstrong",
+                "team",
+                "Republic_of_Ireland_national_under-21_football_team"
+            ]
+        ],
+        "score": "1.8940743",
+        "rank": "129",
+        "new_score": "6.3941584",
+        "new_rank": "184"
+    },
+    {
+        "triple_to_explain": [
+            "Machine_Sazi_Tabriz_F.C.",
+            "position",
+            "Iran_Football's_2nd_Division"
+        ],
+        "rule": [
+            [
+                "Shahriar_Shirvand",
+                "team",
+                "Machine_Sazi_Tabriz_F.C."
+            ]
+        ],
+        "score": "3.6614451",
+        "rank": "13",
+        "new_score": "3.8603911",
+        "new_rank": "28"
+    },
+    {
+        "triple_to_explain": [
+            "Hard_to_Earn",
+            "producer",
+            "DJ_Premier"
+        ],
+        "rule": [
+            [
+                "Hard_to_Earn",
+                "recordLabel",
+                "Chrysalis_Records"
+            ]
+        ],
+        "score": "1.3519267",
+        "rank": "15",
+        "new_score": "1.0964894",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Call_Me_(Blondie_song)",
+            "producer",
+            "Giorgio_Moroder"
+        ],
+        "rule": [
+            [
+                "Call_Me_(Blondie_song)",
+                "previousWork",
+                "My_Sharona"
+            ]
+        ],
+        "score": "1.067709",
+        "rank": "12",
+        "new_score": "0.94453406",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Paulin_Bordeleau",
+            "formerTeam",
+            "Quebec_Nordiques"
+        ],
+        "rule": [
+            [
+                "Paulin_Bordeleau",
+                "whaDraftTeam",
+                "Toronto_Toros"
+            ]
+        ],
+        "score": "1.9708656",
+        "rank": "3",
+        "new_score": "4.031222",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Williams_Mart\u00ednez",
+            "team",
+            "Valenciennes_FC"
+        ],
+        "rule": [
+            [
+                "Williams_Mart\u00ednez",
+                "birthPlace",
+                "Montevideo"
+            ]
+        ],
+        "score": "3.7179604",
+        "rank": "121",
+        "new_score": "6.3340774",
+        "new_rank": "82"
+    },
+    {
+        "triple_to_explain": [
+            "Borja_del_Rosario",
+            "birthPlace",
+            "Las_Palmas"
+        ],
+        "rule": [
+            [
+                "Borja_del_Rosario",
+                "team",
+                "UD_Las_Palmas"
+            ],
+            [
+                "Borja_del_Rosario",
+                "team",
+                "Atl\u00e9tico_Malague\u00f1o"
+            ],
+            [
+                "Borja_del_Rosario",
+                "team",
+                "Rayo_Vallecano_B"
+            ],
+            [
+                "Borja_del_Rosario",
+                "team",
+                "SD_Lemona"
+            ]
+        ],
+        "score": "6.593054",
+        "rank": "581",
+        "new_score": "6.8277507",
+        "new_rank": "402"
+    },
+    {
+        "triple_to_explain": [
+            "Roddy_Hunter",
+            "team",
+            "Kirkintilloch_Rob_Roy_F.C."
+        ],
+        "rule": [
+            [
+                "Roddy_Hunter",
+                "team",
+                "Clyde_F.C."
+            ]
+        ],
+        "score": "1.8327557",
+        "rank": "69",
+        "new_score": "6.0444975",
+        "new_rank": "138"
+    }
+]

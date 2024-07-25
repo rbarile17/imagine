@@ -1,0 +1,3657 @@
+[
+    {
+        "triple": [
+            "Xyridaceae",
+            "order",
+            "Poales"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Xyridaceae",
+                        "order",
+                        "Commelinids"
+                    ]
+                ],
+                -51.9793586730957
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.793113231658936
+    },
+    {
+        "triple": [
+            "Beebe,_Arkansas",
+            "type",
+            "City"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Beebe,_Arkansas",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                0.8803716659545898
+            ],
+            [
+                [
+                    [
+                        "Beebe,_Arkansas",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "Beebe,_Arkansas",
+                        "isPartOf",
+                        "Arkansas"
+                    ]
+                ],
+                -314.59931640625
+            ],
+            [
+                [
+                    [
+                        "Beebe,_Arkansas",
+                        "isPartOf",
+                        "Arkansas"
+                    ]
+                ],
+                -1066.99658203125
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.109041690826416
+    },
+    {
+        "triple": [
+            "William_Smith_(actor)",
+            "birthPlace",
+            "Missouri"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "William_Smith_(actor)",
+                        "birthPlace",
+                        "Columbia,_Missouri"
+                    ]
+                ],
+                0.20279136312351306
+            ],
+            [
+                [
+                    [
+                        "William_Smith_(actor)",
+                        "occupation",
+                        "Actor"
+                    ]
+                ],
+                -1.9615494841901364
+            ],
+            [
+                [
+                    [
+                        "William_Smith_(actor)",
+                        "birthPlace",
+                        "Columbia,_Missouri"
+                    ],
+                    [
+                        "William_Smith_(actor)",
+                        "occupation",
+                        "Actor"
+                    ]
+                ],
+                -11.925803353266462
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 17.751386404037476
+    },
+    {
+        "triple": [
+            "Grafton,_New_South_Wales",
+            "country",
+            "Australia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Clarence_River_(New_South_Wales)",
+                        "city",
+                        "Grafton,_New_South_Wales"
+                    ]
+                ],
+                -0.34249186515808105
+            ],
+            [
+                [
+                    [
+                        "Earle_Page",
+                        "birthPlace",
+                        "Grafton,_New_South_Wales"
+                    ]
+                ],
+                -3.7286529541015625
+            ],
+            [
+                [
+                    [
+                        "Clarence_River_(New_South_Wales)",
+                        "city",
+                        "Grafton,_New_South_Wales"
+                    ],
+                    [
+                        "Earle_Page",
+                        "birthPlace",
+                        "Grafton,_New_South_Wales"
+                    ]
+                ],
+                -12.122379302978516
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.2871675491333
+    },
+    {
+        "triple": [
+            "Eldoret",
+            "type",
+            "List_of_cities_and_towns_in_Kenya_by_population"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Eldoret",
+                        "country",
+                        "Kenya"
+                    ],
+                    [
+                        "Eldoret",
+                        "timeZone",
+                        "East_Africa_Time"
+                    ]
+                ],
+                -0.3896195498379794
+            ],
+            [
+                [
+                    [
+                        "Eldoret",
+                        "country",
+                        "Kenya"
+                    ]
+                ],
+                -2.960347401012074
+            ],
+            [
+                [
+                    [
+                        "Eldoret",
+                        "timeZone",
+                        "East_Africa_Time"
+                    ]
+                ],
+                -55.93975497159091
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.75427508354187
+    },
+    {
+        "triple": [
+            "Rugby,_North_Dakota",
+            "type",
+            "Town"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rugby,_North_Dakota",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -1.7666199820382253
+            ],
+            [
+                [
+                    [
+                        "Rugby,_North_Dakota",
+                        "isPartOf",
+                        "North_Dakota"
+                    ]
+                ],
+                -21.142197963169643
+            ],
+            [
+                [
+                    [
+                        "Rugby,_North_Dakota",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "Rugby,_North_Dakota",
+                        "isPartOf",
+                        "North_Dakota"
+                    ]
+                ],
+                -61.02620675223214
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.545210123062134
+    },
+    {
+        "triple": [
+            "Victoria,_Texas",
+            "isPartOf",
+            "Texas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Victoria,_Texas",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                0.9884170699905563
+            ],
+            [
+                [
+                    [
+                        "Victoria,_Texas",
+                        "leaderName",
+                        "Mayor"
+                    ]
+                ],
+                -1.8078088445977851
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.490559101104736
+    },
+    {
+        "triple": [
+            "Club_Destroyers",
+            "ground",
+            "Santa_Cruz_de_la_Sierra"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Club_Destroyers",
+                        "ground",
+                        "Bolivia"
+                    ]
+                ],
+                -1.5694215562608507
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.742579936981201
+    },
+    {
+        "triple": [
+            "Becamex_Binh_Duong",
+            "ground",
+            "B%C3%ACnh_D%C6%B0%C6%A1ng_province"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Becamex_Binh_Duong",
+                        "position",
+                        "V.League_1"
+                    ]
+                ],
+                0.33967351769990406
+            ],
+            [
+                [
+                    [
+                        "Becamex_Binh_Duong",
+                        "league",
+                        "V.League_1"
+                    ],
+                    [
+                        "Becamex_Binh_Duong",
+                        "position",
+                        "V.League_1"
+                    ]
+                ],
+                -0.18269175436378254
+            ],
+            [
+                [
+                    [
+                        "Becamex_Binh_Duong",
+                        "league",
+                        "V.League_1"
+                    ]
+                ],
+                -0.5076182310308383
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.866715431213379
+    },
+    {
+        "triple": [
+            "Indy_Eleven",
+            "ground",
+            "Indiana"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Indy_Eleven",
+                        "season",
+                        "2016_North_American_Soccer_League_season"
+                    ]
+                ],
+                -0.5346148557938497
+            ],
+            [
+                [
+                    [
+                        "Indy_Eleven",
+                        "ground",
+                        "Indianapolis"
+                    ],
+                    [
+                        "Indy_Eleven",
+                        "season",
+                        "2016_North_American_Soccer_League_season"
+                    ]
+                ],
+                -4.983612363222294
+            ],
+            [
+                [
+                    [
+                        "Indy_Eleven",
+                        "ground",
+                        "Indianapolis"
+                    ]
+                ],
+                -5.161266726633247
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 17.044708251953125
+    },
+    {
+        "triple": [
+            "Memmingen",
+            "type",
+            "Town"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Memmingen",
+                        "leaderParty",
+                        "Social_Democratic_Party_of_Germany"
+                    ]
+                ],
+                -0.48716515986715675
+            ],
+            [
+                [
+                    [
+                        "Memmingen",
+                        "federalState",
+                        "Bavaria"
+                    ],
+                    [
+                        "Memmingen",
+                        "leaderParty",
+                        "Social_Democratic_Party_of_Germany"
+                    ]
+                ],
+                -5.176868841057383
+            ],
+            [
+                [
+                    [
+                        "Memmingen",
+                        "federalState",
+                        "Bavaria"
+                    ]
+                ],
+                -6.5790572209063285
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.452431201934814
+    },
+    {
+        "triple": [
+            "Meitetsu_Seto_Line",
+            "owner",
+            "Meitetsu"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Meitetsu_Seto_Line",
+                        "location",
+                        "Aichi_Prefecture"
+                    ]
+                ],
+                0.090068691050639
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.574017763137817
+    },
+    {
+        "triple": [
+            "Osceola_County,_Michigan",
+            "country",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Osceola_County,_Michigan",
+                        "state",
+                        "Michigan"
+                    ]
+                ],
+                -1733.4989013671875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.297231197357178
+    },
+    {
+        "triple": [
+            "Craigieburn_line",
+            "railwayRollingStock",
+            "Comeng_(train)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Craigieburn_line",
+                        "isPartOf",
+                        "V/Line"
+                    ]
+                ],
+                -0.5345291137695313
+            ],
+            [
+                [
+                    [
+                        "Craigieburn_line",
+                        "isPartOf",
+                        "Metro_Trains_Melbourne"
+                    ]
+                ],
+                -3.089344787597656
+            ],
+            [
+                [
+                    [
+                        "Craigieburn_line",
+                        "isPartOf",
+                        "Metro_Trains_Melbourne"
+                    ],
+                    [
+                        "Craigieburn_line",
+                        "isPartOf",
+                        "V/Line"
+                    ]
+                ],
+                -232.4556919642857
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.996472358703613
+    },
+    {
+        "triple": [
+            "Lincoln_County,_West_Virginia",
+            "country",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lincoln_County,_West_Virginia",
+                        "state",
+                        "West_Virginia"
+                    ]
+                ],
+                -16.665130615234375
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.317140340805054
+    },
+    {
+        "triple": [
+            "Ashton-in-Makerfield",
+            "metropolitanBorough",
+            "Metropolitan_Borough_of_Wigan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ashton-in-Makerfield",
+                        "country",
+                        "United_Kingdom"
+                    ]
+                ],
+                -0.9039276440938314
+            ],
+            [
+                [
+                    [
+                        "Ashton-in-Makerfield",
+                        "country",
+                        "England"
+                    ]
+                ],
+                -1.4879144032796223
+            ],
+            [
+                [
+                    [
+                        "Ashton-in-Makerfield",
+                        "country",
+                        "England"
+                    ],
+                    [
+                        "Ashton-in-Makerfield",
+                        "country",
+                        "United_Kingdom"
+                    ]
+                ],
+                -151.83284505208334
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.989704132080078
+    },
+    {
+        "triple": [
+            "Tramelan",
+            "canton",
+            "Canton_of_Bern"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tramelan",
+                        "type",
+                        "Municipalities_of_Switzerland"
+                    ]
+                ],
+                -120.52109162703805
+            ],
+            [
+                [
+                    [
+                        "Tramelan",
+                        "country",
+                        "Switzerland"
+                    ]
+                ],
+                -127.26058296535327
+            ],
+            [
+                [
+                    [
+                        "Tramelan",
+                        "country",
+                        "Switzerland"
+                    ],
+                    [
+                        "Tramelan",
+                        "type",
+                        "Municipalities_of_Switzerland"
+                    ]
+                ],
+                -198.80411430027175
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.659748315811157
+    },
+    {
+        "triple": [
+            "Angoul%C3%AAme_Charente_FC",
+            "ground",
+            "Angoul%C3%AAme"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Angoul%C3%AAme_Charente_FC",
+                        "league",
+                        "Championnat_National_3"
+                    ],
+                    [
+                        "Angoul%C3%AAme_Charente_FC",
+                        "position",
+                        "Championnat_National_3"
+                    ]
+                ],
+                0.3023977405699339
+            ],
+            [
+                [
+                    [
+                        "Angoul%C3%AAme_Charente_FC",
+                        "position",
+                        "Championnat_National_3"
+                    ]
+                ],
+                -0.1694800691982723
+            ],
+            [
+                [
+                    [
+                        "Angoul%C3%AAme_Charente_FC",
+                        "league",
+                        "Championnat_National_3"
+                    ]
+                ],
+                -0.8786770589551212
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.77819538116455
+    },
+    {
+        "triple": [
+            "J._Warren_Kerrigan",
+            "occupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "J._Warren_Kerrigan",
+                        "birthPlace",
+                        "Louisville,_Kentucky"
+                    ]
+                ],
+                -0.9339080116965554
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.285651206970215
+    },
+    {
+        "triple": [
+            "Southern_Illinois_University_Edwardsville",
+            "state",
+            "Illinois"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Southern_Illinois_University_Edwardsville",
+                        "city",
+                        "Edwardsville,_Illinois"
+                    ]
+                ],
+                -6.221232520209418
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.865047216415405
+    },
+    {
+        "triple": [
+            "The_Casualties",
+            "recordLabel",
+            "SideOneDummy_Records"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Casualties",
+                        "genre",
+                        "Hardcore_punk"
+                    ]
+                ],
+                -5.053436279296875
+            ],
+            [
+                [
+                    [
+                        "The_Casualties",
+                        "genre",
+                        "Hardcore_punk"
+                    ],
+                    [
+                        "The_Casualties",
+                        "hometown",
+                        "New_York_City"
+                    ]
+                ],
+                -28.84485802283654
+            ],
+            [
+                [
+                    [
+                        "The_Casualties",
+                        "hometown",
+                        "New_York_City"
+                    ]
+                ],
+                -30.68983107346755
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.618523597717285
+    },
+    {
+        "triple": [
+            "MFK_Skalica",
+            "ground",
+            "Skalica"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Juraj_Piroska",
+                        "team",
+                        "MFK_Skalica"
+                    ]
+                ],
+                -0.1680000425428935
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.36897349357605
+    },
+    {
+        "triple": [
+            "Armenian_Soviet_Socialist_Republic",
+            "governmentType",
+            "Unitary_state"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Armenian_Soviet_Socialist_Republic",
+                        "capital",
+                        "Yerevan"
+                    ]
+                ],
+                -0.3680941036769322
+            ],
+            [
+                [
+                    [
+                        "Shavo_Odadjian",
+                        "birthPlace",
+                        "Armenian_Soviet_Socialist_Republic"
+                    ]
+                ],
+                -4.182236081077939
+            ],
+            [
+                [
+                    [
+                        "Armenian_Soviet_Socialist_Republic",
+                        "capital",
+                        "Yerevan"
+                    ],
+                    [
+                        "Shavo_Odadjian",
+                        "birthPlace",
+                        "Armenian_Soviet_Socialist_Republic"
+                    ]
+                ],
+                -144.3804175967262
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.775205373764038
+    },
+    {
+        "triple": [
+            "Creston,_Iowa",
+            "type",
+            "City"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Creston,_Iowa",
+                        "isPartOf",
+                        "Iowa"
+                    ]
+                ],
+                -48.80628967285156
+            ],
+            [
+                [
+                    [
+                        "Creston,_Iowa",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -1334.9718017578125
+            ],
+            [
+                [
+                    [
+                        "Creston,_Iowa",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "Creston,_Iowa",
+                        "isPartOf",
+                        "Iowa"
+                    ]
+                ],
+                -6581.99072265625
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.99148440361023
+    },
+    {
+        "triple": [
+            "Hebron,_Connecticut",
+            "country",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hebron,_Connecticut",
+                        "type",
+                        "New_England_town"
+                    ]
+                ],
+                -3.242788632710775
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.188901662826538
+    },
+    {
+        "triple": [
+            "David_Belasco",
+            "birthPlace",
+            "San_Francisco"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "David_Belasco",
+                        "occupation",
+                        "Theatre_director"
+                    ]
+                ],
+                0.8692830403645834
+            ],
+            [
+                [
+                    [
+                        "David_Belasco",
+                        "occupation",
+                        "Theatrical_producer"
+                    ]
+                ],
+                0.3967118577020968
+            ],
+            [
+                [
+                    [
+                        "David_Belasco",
+                        "occupation",
+                        "Theatre_director"
+                    ],
+                    [
+                        "David_Belasco",
+                        "occupation",
+                        "Theatrical_producer"
+                    ]
+                ],
+                -0.5195038928183151
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.93204641342163
+    },
+    {
+        "triple": [
+            "Werner_Herzog",
+            "birthPlace",
+            "Munich"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Werner_Herzog",
+                        "birthPlace",
+                        "Germany"
+                    ]
+                ],
+                -33.94408162434896
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.570842981338501
+    },
+    {
+        "triple": [
+            "Enrique_Carreras",
+            "occupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Enrique_Carreras",
+                        "birthPlace",
+                        "Lima"
+                    ]
+                ],
+                0.7363012101915147
+            ],
+            [
+                [
+                    [
+                        "Enrique_Carreras",
+                        "deathPlace",
+                        "Argentina"
+                    ],
+                    [
+                        "Enrique_Carreras",
+                        "birthPlace",
+                        "Lima"
+                    ]
+                ],
+                -1.4400610747160736
+            ],
+            [
+                [
+                    [
+                        "Enrique_Carreras",
+                        "deathPlace",
+                        "Argentina"
+                    ]
+                ],
+                -3.570995189525463
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.062842845916748
+    },
+    {
+        "triple": [
+            "Enterbrain",
+            "country",
+            "Japan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Enterbrain",
+                        "parentCompany",
+                        "Kadokawa_Future_Publishing"
+                    ]
+                ],
+                0.24202521030719465
+            ],
+            [
+                [
+                    [
+                        "Enterbrain",
+                        "parentCompany",
+                        "Kadokawa_Future_Publishing"
+                    ],
+                    [
+                        "RPG_Maker",
+                        "developer",
+                        "Enterbrain"
+                    ]
+                ],
+                -3.0351236783541164
+            ],
+            [
+                [
+                    [
+                        "RPG_Maker",
+                        "developer",
+                        "Enterbrain"
+                    ]
+                ],
+                -6.803593562199519
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.662352561950684
+    },
+    {
+        "triple": [
+            "Jayaram",
+            "residence",
+            "Tamil_Nadu"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Parvathy_Jayaram",
+                        "spouse",
+                        "Jayaram"
+                    ]
+                ],
+                -37.10238904838102
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.4825439453125
+    },
+    {
+        "triple": [
+            "Hoseynabad_Rural_District_(Jiroft_County)",
+            "isPartOf",
+            "Anbarabad_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hoseynabad_Rural_District_(Jiroft_County)",
+                        "isPartOf",
+                        "Kerman_province"
+                    ]
+                ],
+                0.415884762718564
+            ],
+            [
+                [
+                    [
+                        "Hoseynabad_Rural_District_(Jiroft_County)",
+                        "country",
+                        "Iran"
+                    ]
+                ],
+                -2.151283191499256
+            ],
+            [
+                [
+                    [
+                        "Hoseynabad_Rural_District_(Jiroft_County)",
+                        "country",
+                        "Iran"
+                    ],
+                    [
+                        "Hoseynabad_Rural_District_(Jiroft_County)",
+                        "isPartOf",
+                        "Kerman_province"
+                    ]
+                ],
+                -142.58086867559524
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.587283849716187
+    },
+    {
+        "triple": [
+            "Platycephalidae",
+            "class",
+            "Actinopterygii"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Platycephalidae",
+                        "order",
+                        "Scorpaeniformes"
+                    ]
+                ],
+                -0.3687500613076346
+            ],
+            [
+                [
+                    [
+                        "Platycephalidae",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                -2.849496841430664
+            ],
+            [
+                [
+                    [
+                        "Platycephalidae",
+                        "order",
+                        "Scorpaeniformes"
+                    ],
+                    [
+                        "Platycephalidae",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                -56.427743094308035
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.994653701782227
+    },
+    {
+        "triple": [
+            "Sukhothai_F.C.",
+            "ground",
+            "Thailand"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sukhothai_F.C.",
+                        "league",
+                        "Thai_League_1"
+                    ]
+                ],
+                0.4320528811820278
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.933654546737671
+    },
+    {
+        "triple": [
+            "Narendra_Singh_Tomar",
+            "primeMinister",
+            "Narendra_Modi"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Narendra_Singh_Tomar",
+                        "successor",
+                        "Piyush_Goyal"
+                    ]
+                ],
+                -5.973470514470881
+            ],
+            [
+                [
+                    [
+                        "Narendra_Singh_Tomar",
+                        "residence",
+                        "Gwalior"
+                    ]
+                ],
+                -22.33758406205611
+            ],
+            [
+                [
+                    [
+                        "Narendra_Singh_Tomar",
+                        "successor",
+                        "Piyush_Goyal"
+                    ],
+                    [
+                        "Narendra_Singh_Tomar",
+                        "residence",
+                        "Gwalior"
+                    ]
+                ],
+                -1916.270419034091
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.541108131408691
+    },
+    {
+        "triple": [
+            "Larry_Elmore",
+            "birthPlace",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Larry_Elmore",
+                        "birthPlace",
+                        "Louisville,_Kentucky"
+                    ]
+                ],
+                -23.925500869750977
+            ],
+            [
+                [
+                    [
+                        "Larry_Elmore",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                -74.95246887207031
+            ],
+            [
+                [
+                    [
+                        "Larry_Elmore",
+                        "nationality",
+                        "United_States"
+                    ],
+                    [
+                        "Larry_Elmore",
+                        "birthPlace",
+                        "Louisville,_Kentucky"
+                    ]
+                ],
+                -347.98419189453125
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.6015202999115
+    },
+    {
+        "triple": [
+            "Lima_(village),_New_York",
+            "isPartOf",
+            "Livingston_County,_New_York"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lima_(village),_New_York",
+                        "type",
+                        "Village_(United_States)"
+                    ]
+                ],
+                0.6053093585201055
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.025295972824097
+    },
+    {
+        "triple": [
+            "Naval_Air_Station_North_Island",
+            "operator",
+            "United_States_Navy"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Naval_Air_Station_North_Island",
+                        "location",
+                        "Coronado,_California"
+                    ]
+                ],
+                0.9124971574146917
+            ],
+            [
+                [
+                    [
+                        "Naval_Air_Station_North_Island",
+                        "commander",
+                        "Captain_(United_States)"
+                    ]
+                ],
+                0.6340692396161127
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 17.01725959777832
+    },
+    {
+        "triple": [
+            "Claude_Lelouch",
+            "occupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Claude_Lelouch",
+                        "birthPlace",
+                        "Paris"
+                    ]
+                ],
+                0.6652854947380094
+            ],
+            [
+                [
+                    [
+                        "Claude_Lelouch",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                0.5865536085415236
+            ],
+            [
+                [
+                    [
+                        "Claude_Lelouch",
+                        "birthPlace",
+                        "Paris"
+                    ],
+                    [
+                        "Claude_Lelouch",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                -0.07687935462364784
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.665940284729004
+    },
+    {
+        "triple": [
+            "Kashima_Soccer_Stadium",
+            "tenant",
+            "Kashima_Antlers"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kashima_Antlers",
+                        "ground",
+                        "Kashima_Soccer_Stadium"
+                    ]
+                ],
+                -3.8494526545206704
+            ],
+            [
+                [
+                    [
+                        "Kashima_Soccer_Stadium",
+                        "operator",
+                        "Kashima_Antlers"
+                    ]
+                ],
+                -12.592611948649088
+            ],
+            [
+                [
+                    [
+                        "Kashima_Antlers",
+                        "ground",
+                        "Kashima_Soccer_Stadium"
+                    ],
+                    [
+                        "Kashima_Soccer_Stadium",
+                        "operator",
+                        "Kashima_Antlers"
+                    ]
+                ],
+                -103.65500895182292
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.868539094924927
+    },
+    {
+        "triple": [
+            "Woonsocket,_Rhode_Island",
+            "type",
+            "City"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Woonsocket,_Rhode_Island",
+                        "isPartOf",
+                        "Rhode_Island"
+                    ]
+                ],
+                -109.5632854959239
+            ],
+            [
+                [
+                    [
+                        "Woonsocket,_Rhode_Island",
+                        "isPartOf",
+                        "Providence_County,_Rhode_Island"
+                    ]
+                ],
+                -307.2585130774456
+            ],
+            [
+                [
+                    [
+                        "Woonsocket,_Rhode_Island",
+                        "isPartOf",
+                        "Providence_County,_Rhode_Island"
+                    ],
+                    [
+                        "Woonsocket,_Rhode_Island",
+                        "isPartOf",
+                        "Rhode_Island"
+                    ]
+                ],
+                -512.8690132472826
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.05387568473816
+    },
+    {
+        "triple": [
+            "Nakhon_Pathom",
+            "isPartOf",
+            "Nakhon_Pathom_province"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nakhon_Pathom",
+                        "country",
+                        "Thailand"
+                    ]
+                ],
+                -2.5712046118530885
+            ],
+            [
+                [
+                    [
+                        "Nakhon_Pathom",
+                        "type",
+                        "Thesaban"
+                    ]
+                ],
+                -5.4507375573873125
+            ],
+            [
+                [
+                    [
+                        "Nakhon_Pathom",
+                        "country",
+                        "Thailand"
+                    ],
+                    [
+                        "Nakhon_Pathom",
+                        "type",
+                        "Thesaban"
+                    ]
+                ],
+                -8.398991809265443
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.06739091873169
+    },
+    {
+        "triple": [
+            "Marjorie_Hume",
+            "birthPlace",
+            "Norfolk"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Marjorie_Hume",
+                        "birthPlace",
+                        "Great_Yarmouth"
+                    ]
+                ],
+                -60.14192417689732
+            ],
+            [
+                [
+                    [
+                        "Marjorie_Hume",
+                        "deathPlace",
+                        "Surrey"
+                    ]
+                ],
+                -79.92538888113839
+            ],
+            [
+                [
+                    [
+                        "Marjorie_Hume",
+                        "birthPlace",
+                        "Great_Yarmouth"
+                    ],
+                    [
+                        "Marjorie_Hume",
+                        "deathPlace",
+                        "Surrey"
+                    ]
+                ],
+                -82.57132393973214
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.940730571746826
+    },
+    {
+        "triple": [
+            "Yerevan_Metro",
+            "location",
+            "Armenia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yerevan_Metro",
+                        "location",
+                        "Yerevan"
+                    ],
+                    [
+                        "Yerevan_Metro",
+                        "type",
+                        "Rapid_transit"
+                    ]
+                ],
+                0.8229527435437888
+            ],
+            [
+                [
+                    [
+                        "Yerevan_Metro",
+                        "type",
+                        "Rapid_transit"
+                    ]
+                ],
+                -1.034443614544121
+            ],
+            [
+                [
+                    [
+                        "Yerevan_Metro",
+                        "location",
+                        "Yerevan"
+                    ]
+                ],
+                -4.437101676677369
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.76828098297119
+    },
+    {
+        "triple": [
+            "Phellodon",
+            "family",
+            "Bankeraceae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Phellodon",
+                        "division",
+                        "Basidiomycota"
+                    ]
+                ],
+                -5.598358166402221
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.206503868103027
+    },
+    {
+        "triple": [
+            "John_Coquillon",
+            "occupation",
+            "Cinematographer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "John_Coquillon",
+                        "birthPlace",
+                        "The_Hague"
+                    ]
+                ],
+                -1.3268249847076752
+            ],
+            [
+                [
+                    [
+                        "John_Coquillon",
+                        "birthPlace",
+                        "Netherlands"
+                    ]
+                ],
+                -1.4824007474459135
+            ],
+            [
+                [
+                    [
+                        "John_Coquillon",
+                        "birthPlace",
+                        "Netherlands"
+                    ],
+                    [
+                        "John_Coquillon",
+                        "birthPlace",
+                        "The_Hague"
+                    ]
+                ],
+                -4.922950828468407
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.049311637878418
+    },
+    {
+        "triple": [
+            "Cramlington",
+            "region",
+            "North_East_England"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cramlington",
+                        "ceremonialCounty",
+                        "Northumberland"
+                    ]
+                ],
+                0.9944970208245355
+            ],
+            [
+                [
+                    [
+                        "Cramlington",
+                        "country",
+                        "United_Kingdom"
+                    ]
+                ],
+                0.46400022764463683
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.796793937683105
+    },
+    {
+        "triple": [
+            "Chery",
+            "industry",
+            "Automotive_industry"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chery",
+                        "location",
+                        "China"
+                    ],
+                    [
+                        "Chery",
+                        "location",
+                        "Anhui"
+                    ]
+                ],
+                0.9654442469278971
+            ],
+            [
+                [
+                    [
+                        "Chery",
+                        "location",
+                        "China"
+                    ]
+                ],
+                0.5596712112426758
+            ],
+            [
+                [
+                    [
+                        "Chery",
+                        "location",
+                        "Anhui"
+                    ]
+                ],
+                0.24211654663085938
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.98125410079956
+    },
+    {
+        "triple": [
+            "Dody_Dorn",
+            "birthPlace",
+            "Santa_Monica,_California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "I%27m_Still_Here_(2010_film)",
+                        "editing",
+                        "Dody_Dorn"
+                    ]
+                ],
+                0.38850321899256146
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.483384609222412
+    },
+    {
+        "triple": [
+            "Georges_P%C3%A9rinal",
+            "birthPlace",
+            "Paris"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Georges_P%C3%A9rinal",
+                        "deathPlace",
+                        "London"
+                    ]
+                ],
+                0.9090592638194133
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.81875491142273
+    },
+    {
+        "triple": [
+            "Castilleae",
+            "order",
+            "Rosales"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Castilleae",
+                        "family",
+                        "Moraceae"
+                    ]
+                ],
+                0.7439316836270419
+            ],
+            [
+                [
+                    [
+                        "Castilleae",
+                        "class",
+                        "Eudicots"
+                    ]
+                ],
+                0.6432536298578436
+            ],
+            [
+                [
+                    [
+                        "Castilleae",
+                        "class",
+                        "Eudicots"
+                    ],
+                    [
+                        "Castilleae",
+                        "family",
+                        "Moraceae"
+                    ]
+                ],
+                -21.78373302112926
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.970549821853638
+    },
+    {
+        "triple": [
+            "Starke_County,_Indiana",
+            "isPartOf",
+            "Indiana"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Starke_County,_Indiana",
+                        "type",
+                        "County_(United_States)"
+                    ]
+                ],
+                -4.908990173339844
+            ],
+            [
+                [
+                    [
+                        "Starke_County,_Indiana",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -19.699566650390626
+            ],
+            [
+                [
+                    [
+                        "Starke_County,_Indiana",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "Starke_County,_Indiana",
+                        "type",
+                        "County_(United_States)"
+                    ]
+                ],
+                -51.5199365234375
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.069464921951294
+    },
+    {
+        "triple": [
+            "Croton-on-Hudson,_New_York",
+            "type",
+            "Administrative_divisions_of_New_York_(state)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Manny_Albam",
+                        "deathPlace",
+                        "Croton-on-Hudson,_New_York"
+                    ]
+                ],
+                -4.970532553536551
+            ],
+            [
+                [
+                    [
+                        "Croton-on-Hudson,_New_York",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -92.56984165736607
+            ],
+            [
+                [
+                    [
+                        "Croton-on-Hudson,_New_York",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "Manny_Albam",
+                        "deathPlace",
+                        "Croton-on-Hudson,_New_York"
+                    ]
+                ],
+                -128.70530482700892
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.998180866241455
+    },
+    {
+        "triple": [
+            "First_Opium_War",
+            "territory",
+            "Hong_Kong_Island"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "First_Opium_War",
+                        "commander",
+                        "Henry_John_Temple,_3rd_Viscount_Palmerston"
+                    ]
+                ],
+                0.11009547968578946
+            ],
+            [
+                [
+                    [
+                        "Hugh_Gough,_1st_Viscount_Gough",
+                        "battle",
+                        "First_Opium_War"
+                    ]
+                ],
+                -1.4441383507601016
+            ],
+            [
+                [
+                    [
+                        "First_Opium_War",
+                        "commander",
+                        "Henry_John_Temple,_3rd_Viscount_Palmerston"
+                    ],
+                    [
+                        "Hugh_Gough,_1st_Viscount_Gough",
+                        "battle",
+                        "First_Opium_War"
+                    ]
+                ],
+                -4.347015575238854
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.935088157653809
+    },
+    {
+        "triple": [
+            "Southern_Arkansas_University",
+            "city",
+            "Magnolia,_Arkansas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Southern_Arkansas_University",
+                        "state",
+                        "Arkansas"
+                    ]
+                ],
+                0.27305003795546556
+            ],
+            [
+                [
+                    [
+                        "Southern_Arkansas_University",
+                        "type",
+                        "Public_university"
+                    ]
+                ],
+                -1.3510254565199056
+            ],
+            [
+                [
+                    [
+                        "Southern_Arkansas_University",
+                        "state",
+                        "Arkansas"
+                    ],
+                    [
+                        "Southern_Arkansas_University",
+                        "type",
+                        "Public_university"
+                    ]
+                ],
+                -2.293857672275641
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.127237558364868
+    },
+    {
+        "triple": [
+            "Lyn_Fotball",
+            "season",
+            "2015_Norwegian_Second_Division"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lyn_Fotball",
+                        "league",
+                        "Norwegian_Third_Division"
+                    ]
+                ],
+                0.47942984731573807
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.414682149887085
+    },
+    {
+        "triple": [
+            "Tanintharyi_Region",
+            "timeZone",
+            "Myanmar_Standard_Time"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tanintharyi_Region",
+                        "leaderParty",
+                        "National_League_for_Democracy"
+                    ]
+                ],
+                -14.993184407552084
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.355863094329834
+    },
+    {
+        "triple": [
+            "Stompin%27_Tom_Connors",
+            "genre",
+            "Traditional_folk_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Stompin%27_Tom_Connors",
+                        "recordLabel",
+                        "EMI"
+                    ]
+                ],
+                0.8900884740492877
+            ],
+            [
+                [
+                    [
+                        "Stompin%27_Tom_Connors",
+                        "genre",
+                        "Country_music"
+                    ]
+                ],
+                0.44748825185439167
+            ],
+            [
+                [
+                    [
+                        "Stompin%27_Tom_Connors",
+                        "genre",
+                        "Country_music"
+                    ],
+                    [
+                        "Stompin%27_Tom_Connors",
+                        "recordLabel",
+                        "EMI"
+                    ]
+                ],
+                0.0741797685623169
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.902626991271973
+    },
+    {
+        "triple": [
+            "VEU_Feldkirch",
+            "city",
+            "Feldkirch,_Vorarlberg"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "VEU_Feldkirch",
+                        "city",
+                        "Austria"
+                    ],
+                    [
+                        "Manon_Rh%C3%A9aume",
+                        "formerTeam",
+                        "VEU_Feldkirch"
+                    ]
+                ],
+                0.4845071670108343
+            ],
+            [
+                [
+                    [
+                        "Manon_Rh%C3%A9aume",
+                        "formerTeam",
+                        "VEU_Feldkirch"
+                    ]
+                ],
+                -0.12453001577085152
+            ],
+            [
+                [
+                    [
+                        "VEU_Feldkirch",
+                        "city",
+                        "Austria"
+                    ]
+                ],
+                -0.2576664080163074
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.944159746170044
+    },
+    {
+        "triple": [
+            "Orange_line_(Kaohsiung_Metro)",
+            "type",
+            "Rapid_transit"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Orange_line_(Kaohsiung_Metro)",
+                        "location",
+                        "Taiwan"
+                    ]
+                ],
+                0.9381551470075334
+            ],
+            [
+                [
+                    [
+                        "Orange_line_(Kaohsiung_Metro)",
+                        "location",
+                        "Kaohsiung"
+                    ]
+                ],
+                0.35683961595807756
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.12384557723999
+    },
+    {
+        "triple": [
+            "Kohima",
+            "country",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kohima",
+                        "isPartOf",
+                        "Nagaland"
+                    ]
+                ],
+                0.991278704474954
+            ],
+            [
+                [
+                    [
+                        "Kohima",
+                        "timeZone",
+                        "Indian_Standard_Time"
+                    ]
+                ],
+                0.4955271552590763
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.04353141784668
+    },
+    {
+        "triple": [
+            "H%C3%A9ctor_Alterio",
+            "birthPlace",
+            "Buenos_Aires"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "H%C3%A9ctor_Alterio",
+                        "occupation",
+                        "Actor"
+                    ]
+                ],
+                -1.0373155805799696
+            ],
+            [
+                [
+                    [
+                        "H%C3%A9ctor_Alterio",
+                        "birthPlace",
+                        "Argentina"
+                    ],
+                    [
+                        "H%C3%A9ctor_Alterio",
+                        "occupation",
+                        "Actor"
+                    ]
+                ],
+                -43.498084174262154
+            ],
+            [
+                [
+                    [
+                        "H%C3%A9ctor_Alterio",
+                        "birthPlace",
+                        "Argentina"
+                    ]
+                ],
+                -161.77704535590277
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.987552404403687
+    },
+    {
+        "triple": [
+            "Apennine_Mountains",
+            "country",
+            "Italy"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Apennine_Mountains",
+                        "country",
+                        "San_Marino"
+                    ]
+                ],
+                0.7322712229258979
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.30903673171997
+    },
+    {
+        "triple": [
+            "Linyi",
+            "type",
+            "Prefecture-level_city"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Linyi",
+                        "isPartOf",
+                        "Shandong"
+                    ]
+                ],
+                -66.28687032063802
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.66483473777771
+    },
+    {
+        "triple": [
+            "Dinavar_Rural_District",
+            "isPartOf",
+            "Sahneh_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dinavar_Rural_District",
+                        "country",
+                        "Iran"
+                    ],
+                    [
+                        "Dinavar_Rural_District",
+                        "isPartOf",
+                        "Kermanshah_province"
+                    ]
+                ],
+                -1.7226903815018504
+            ],
+            [
+                [
+                    [
+                        "Dinavar_Rural_District",
+                        "country",
+                        "Iran"
+                    ]
+                ],
+                -2.1820485968338814
+            ],
+            [
+                [
+                    [
+                        "Dinavar_Rural_District",
+                        "isPartOf",
+                        "Kermanshah_province"
+                    ]
+                ],
+                -7.828014173005757
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.251224756240845
+    },
+    {
+        "triple": [
+            "Libourne",
+            "country",
+            "France"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Libourne",
+                        "department",
+                        "Gironde"
+                    ]
+                ],
+                -0.31527318557103473
+            ],
+            [
+                [
+                    [
+                        "Gironde",
+                        "part",
+                        "Libourne"
+                    ]
+                ],
+                -2.95867919921875
+            ],
+            [
+                [
+                    [
+                        "Gironde",
+                        "part",
+                        "Libourne"
+                    ],
+                    [
+                        "Libourne",
+                        "department",
+                        "Gironde"
+                    ]
+                ],
+                -50.645477294921875
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.983369827270508
+    },
+    {
+        "triple": [
+            "Cranberry_Township,_Butler_County,_Pennsylvania",
+            "isPartOf",
+            "Butler_County,_Pennsylvania"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cranberry_Township,_Butler_County,_Pennsylvania",
+                        "type",
+                        "Township"
+                    ]
+                ],
+                -3.9632407081968966
+            ],
+            [
+                [
+                    [
+                        "Cranberry_Township,_Butler_County,_Pennsylvania",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "Cranberry_Township,_Butler_County,_Pennsylvania",
+                        "type",
+                        "Township"
+                    ]
+                ],
+                -22.37576745800114
+            ],
+            [
+                [
+                    [
+                        "Cranberry_Township,_Butler_County,_Pennsylvania",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -31.523835688354215
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.919941186904907
+    },
+    {
+        "triple": [
+            "Ben_Holmes",
+            "birthPlace",
+            "Richmond,_Virginia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ben_Holmes",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                0.9993665471423272
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.913090944290161
+    },
+    {
+        "triple": [
+            "Gmina_%C5%81ukta",
+            "type",
+            "Gmina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_%C5%81ukta",
+                        "isPartOf",
+                        "Ostr%C3%B3da_County"
+                    ]
+                ],
+                0.05658732354640961
+            ],
+            [
+                [
+                    [
+                        "Gmina_%C5%81ukta",
+                        "country",
+                        "Poland"
+                    ]
+                ],
+                -0.9753221869468689
+            ],
+            [
+                [
+                    [
+                        "Gmina_%C5%81ukta",
+                        "country",
+                        "Poland"
+                    ],
+                    [
+                        "Gmina_%C5%81ukta",
+                        "isPartOf",
+                        "Ostr%C3%B3da_County"
+                    ]
+                ],
+                -403.9969177246094
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.812861442565918
+    },
+    {
+        "triple": [
+            "Kure,_Hiroshima",
+            "type",
+            "Core_cities_of_Japan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hitomi_Shimatani",
+                        "birthPlace",
+                        "Kure,_Hiroshima"
+                    ]
+                ],
+                0.775249416545286
+            ],
+            [
+                [
+                    [
+                        "Kure,_Hiroshima",
+                        "region",
+                        "Ch%C5%ABgoku_region"
+                    ],
+                    [
+                        "Hitomi_Shimatani",
+                        "birthPlace",
+                        "Kure,_Hiroshima"
+                    ]
+                ],
+                -1.7775480625993114
+            ],
+            [
+                [
+                    [
+                        "Kure,_Hiroshima",
+                        "region",
+                        "Ch%C5%ABgoku_region"
+                    ]
+                ],
+                -5.0837867866128175
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.972491979598999
+    },
+    {
+        "triple": [
+            "Kalkaska_County,_Michigan",
+            "country",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Roman_Catholic_Diocese_of_Gaylord",
+                        "territory",
+                        "Kalkaska_County,_Michigan"
+                    ]
+                ],
+                0.9931845135158963
+            ],
+            [
+                [
+                    [
+                        "Kalkaska_County,_Michigan",
+                        "state",
+                        "Michigan"
+                    ]
+                ],
+                0.8870149718390571
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.807535886764526
+    },
+    {
+        "triple": [
+            "Futebol_Clube_Santa_Cruz",
+            "ground",
+            "Brazil"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Futebol_Clube_Santa_Cruz",
+                        "ground",
+                        "Santa_Cruz_do_Sul"
+                    ]
+                ],
+                0.3031845688819885
+            ],
+            [
+                [
+                    [
+                        "Cuca_(footballer,_born_1963)",
+                        "team",
+                        "Futebol_Clube_Santa_Cruz"
+                    ]
+                ],
+                -3.1934962272644043
+            ],
+            [
+                [
+                    [
+                        "Futebol_Clube_Santa_Cruz",
+                        "ground",
+                        "Santa_Cruz_do_Sul"
+                    ],
+                    [
+                        "Cuca_(footballer,_born_1963)",
+                        "team",
+                        "Futebol_Clube_Santa_Cruz"
+                    ]
+                ],
+                -57.74593734741211
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.01085615158081
+    },
+    {
+        "triple": [
+            "Camaenidae",
+            "family",
+            "Helicoidea"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Camaenidae",
+                        "class",
+                        "Gastropoda"
+                    ]
+                ],
+                -2.4355663299560546
+            ],
+            [
+                [
+                    [
+                        "Amphidromus",
+                        "family",
+                        "Camaenidae"
+                    ]
+                ],
+                -4.309115982055664
+            ],
+            [
+                [
+                    [
+                        "Amphidromus",
+                        "family",
+                        "Camaenidae"
+                    ],
+                    [
+                        "Camaenidae",
+                        "class",
+                        "Gastropoda"
+                    ]
+                ],
+                -48.911557006835935
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.07715630531311
+    },
+    {
+        "triple": [
+            "Air_Force_Space_Command",
+            "militaryBranch",
+            "United_States_Air_Force"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Air_Force_Space_Command",
+                        "garrison",
+                        "Colorado"
+                    ]
+                ],
+                -73.40731302897136
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.72531533241272
+    },
+    {
+        "triple": [
+            "Lewisburg,_Tennessee",
+            "isPartOf",
+            "Tennessee"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Grady_Martin",
+                        "deathPlace",
+                        "Lewisburg,_Tennessee"
+                    ]
+                ],
+                -3.8823783874511717
+            ],
+            [
+                [
+                    [
+                        "Lewisburg,_Tennessee",
+                        "type",
+                        "City"
+                    ]
+                ],
+                -16.699072265625
+            ],
+            [
+                [
+                    [
+                        "Lewisburg,_Tennessee",
+                        "type",
+                        "City"
+                    ],
+                    [
+                        "Grady_Martin",
+                        "deathPlace",
+                        "Lewisburg,_Tennessee"
+                    ]
+                ],
+                -500.999267578125
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.569072008132935
+    },
+    {
+        "triple": [
+            "Anthony_Bushell",
+            "deathPlace",
+            "Oxfordshire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Anthony_Bushell",
+                        "deathPlace",
+                        "Oxford"
+                    ]
+                ],
+                0.39065202077229816
+            ],
+            [
+                [
+                    [
+                        "Anthony_Bushell",
+                        "birthPlace",
+                        "Kent"
+                    ],
+                    [
+                        "Anthony_Bushell",
+                        "deathPlace",
+                        "Oxford"
+                    ]
+                ],
+                -0.2915555106268989
+            ],
+            [
+                [
+                    [
+                        "Anthony_Bushell",
+                        "birthPlace",
+                        "Kent"
+                    ]
+                ],
+                -2.955589930216471
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.296377658843994
+    },
+    {
+        "triple": [
+            "Ordughesh_Rural_District",
+            "isPartOf",
+            "Zeberkhan_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ordughesh_Rural_District",
+                        "isPartOf",
+                        "Razavi_Khorasan_province"
+                    ]
+                ],
+                0.7268753443008814
+            ],
+            [
+                [
+                    [
+                        "Ordughesh_Rural_District",
+                        "isPartOf",
+                        "Nishapur_County"
+                    ]
+                ],
+                -38.363934795673075
+            ],
+            [
+                [
+                    [
+                        "Ordughesh_Rural_District",
+                        "isPartOf",
+                        "Nishapur_County"
+                    ],
+                    [
+                        "Ordughesh_Rural_District",
+                        "isPartOf",
+                        "Razavi_Khorasan_province"
+                    ]
+                ],
+                -74.63588241185897
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.001139879226685
+    },
+    {
+        "triple": [
+            "Khawbung",
+            "country",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Khawbung",
+                        "isPartOf",
+                        "Mizoram"
+                    ]
+                ],
+                -0.39511557420094806
+            ],
+            [
+                [
+                    [
+                        "Khawbung",
+                        "timeZone",
+                        "Indian_Standard_Time"
+                    ]
+                ],
+                -0.6015952825546265
+            ],
+            [
+                [
+                    [
+                        "Khawbung",
+                        "isPartOf",
+                        "Mizoram"
+                    ],
+                    [
+                        "Khawbung",
+                        "timeZone",
+                        "Indian_Standard_Time"
+                    ]
+                ],
+                -7.915608088175456
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.854461193084717
+    },
+    {
+        "triple": [
+            "Walter_Lang",
+            "deathPlace",
+            "Palm_Springs,_California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Walter_Lang",
+                        "restingPlace",
+                        "Inglewood_Park_Cemetery"
+                    ]
+                ],
+                0.8973531087239583
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.987557172775269
+    },
+    {
+        "triple": [
+            "Jerry_Spinelli",
+            "genre",
+            "Children%27s_literature"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jerry_Spinelli",
+                        "birthPlace",
+                        "Norristown,_Pennsylvania"
+                    ]
+                ],
+                -0.34982420906187994
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.112852334976196
+    },
+    {
+        "triple": [
+            "Sacred_Heart_College,_Auckland",
+            "type",
+            "Day_school"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sacred_Heart_College,_Auckland",
+                        "grades",
+                        "Year_7"
+                    ]
+                ],
+                -0.5885183778527665
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.239478588104248
+    },
+    {
+        "triple": [
+            "Carlos_A._Mannucci",
+            "ground",
+            "Trujillo,_Peru"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Carlos_A._Mannucci",
+                        "ground",
+                        "Peru"
+                    ],
+                    [
+                        "Carlos_A._Mannucci",
+                        "league",
+                        "Peruvian_Segunda_Divisi%C3%B3n"
+                    ]
+                ],
+                -0.020032714423903697
+            ],
+            [
+                [
+                    [
+                        "Carlos_A._Mannucci",
+                        "league",
+                        "Peruvian_Segunda_Divisi%C3%B3n"
+                    ]
+                ],
+                -0.06567780616871775
+            ],
+            [
+                [
+                    [
+                        "Carlos_A._Mannucci",
+                        "ground",
+                        "Peru"
+                    ]
+                ],
+                -1.0594947401655201
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.871475458145142
+    },
+    {
+        "triple": [
+            "G.D._Interclube",
+            "league",
+            "Girabola"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ant%C3%B3nio_Caldas",
+                        "managerClub",
+                        "G.D._Interclube"
+                    ]
+                ],
+                -0.8207473021287185
+            ],
+            [
+                [
+                    [
+                        "G.D._Interclube",
+                        "ground",
+                        "Luanda"
+                    ],
+                    [
+                        "Ant%C3%B3nio_Caldas",
+                        "managerClub",
+                        "G.D._Interclube"
+                    ]
+                ],
+                -1.9220052865835338
+            ],
+            [
+                [
+                    [
+                        "G.D._Interclube",
+                        "ground",
+                        "Luanda"
+                    ]
+                ],
+                -5.989839993990385
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.107385158538818
+    },
+    {
+        "triple": [
+            "Habib_Wahid",
+            "birthPlace",
+            "Dhaka"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Habib_Wahid",
+                        "birthPlace",
+                        "Bangladesh"
+                    ]
+                ],
+                -21.485107421875
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.508073568344116
+    },
+    {
+        "triple": [
+            "Bertrand_Blier",
+            "birthPlace",
+            "Boulogne-Billancourt"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bertrand_Blier",
+                        "parent",
+                        "Bernard_Blier"
+                    ]
+                ],
+                0.9279812724650407
+            ],
+            [
+                [
+                    [
+                        "Bertrand_Blier",
+                        "birthPlace",
+                        "France"
+                    ]
+                ],
+                -3.5794323833048844
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.28618574142456
+    },
+    {
+        "triple": [
+            "Battle_of_the_Nile",
+            "isPartOfMilitaryConflict",
+            "French_Revolutionary_Wars"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Horatio_Nelson,_1st_Viscount_Nelson",
+                        "battle",
+                        "Battle_of_the_Nile"
+                    ]
+                ],
+                -0.12776627540588378
+            ],
+            [
+                [
+                    [
+                        "Battle_of_the_Nile",
+                        "commander",
+                        "Horatio_Nelson,_1st_Viscount_Nelson"
+                    ]
+                ],
+                -0.4243457794189453
+            ],
+            [
+                [
+                    [
+                        "Battle_of_the_Nile",
+                        "commander",
+                        "Horatio_Nelson,_1st_Viscount_Nelson"
+                    ],
+                    [
+                        "Horatio_Nelson,_1st_Viscount_Nelson",
+                        "battle",
+                        "Battle_of_the_Nile"
+                    ]
+                ],
+                -124.85206705729166
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.909396886825562
+    },
+    {
+        "triple": [
+            "Clinton,_Maryland",
+            "isPartOf",
+            "Prince_George%27s_County,_Maryland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Clinton,_Maryland",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                0.26107007403706395
+            ],
+            [
+                [
+                    [
+                        "Clinton,_Maryland",
+                        "isPartOf",
+                        "Maryland"
+                    ]
+                ],
+                -3.0696303256722386
+            ],
+            [
+                [
+                    [
+                        "Clinton,_Maryland",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "Clinton,_Maryland",
+                        "isPartOf",
+                        "Maryland"
+                    ]
+                ],
+                -25.430218931686046
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.194013595581055
+    },
+    {
+        "triple": [
+            "Bayburt",
+            "country",
+            "Turkey"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bayburt",
+                        "leaderParty",
+                        "Justice_and_Development_Party_(Turkey)"
+                    ]
+                ],
+                -214.74929809570312
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.400275468826294
+    },
+    {
+        "triple": [
+            "SV_Eintracht_Trier_05",
+            "league",
+            "Regionalliga_S%C3%BCdwest"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "SV_Eintracht_Trier_05",
+                        "season",
+                        "2015%E2%80%9316_Regionalliga"
+                    ]
+                ],
+                -1.3001973893907335
+            ],
+            [
+                [
+                    [
+                        "Klaus_Toppm%C3%B6ller",
+                        "team",
+                        "SV_Eintracht_Trier_05"
+                    ],
+                    [
+                        "SV_Eintracht_Trier_05",
+                        "season",
+                        "2015%E2%80%9316_Regionalliga"
+                    ]
+                ],
+                -1.331528557671441
+            ],
+            [
+                [
+                    [
+                        "Klaus_Toppm%C3%B6ller",
+                        "team",
+                        "SV_Eintracht_Trier_05"
+                    ]
+                ],
+                -4.217359754774305
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.80633020401001
+    },
+    {
+        "triple": [
+            "George_Melford",
+            "birthPlace",
+            "Rochester,_New_York"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "George_Melford",
+                        "deathPlace",
+                        "Hollywood,_Los_Angeles"
+                    ]
+                ],
+                -0.12625411461139546
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.481466293334961
+    },
+    {
+        "triple": [
+            "El_Dorado_International_Airport",
+            "operator",
+            "S.A._(corporation)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Avianca",
+                        "hubAirport",
+                        "El_Dorado_International_Airport"
+                    ]
+                ],
+                0.013507476749161428
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.214588403701782
+    },
+    {
+        "triple": [
+            "BBCU_F.C.",
+            "ground",
+            "Thailand"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "BBCU_F.C.",
+                        "league",
+                        "Thai_League_1"
+                    ]
+                ],
+                -30.56837899344308
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.30153226852417
+    },
+    {
+        "triple": [
+            "Selborne_College",
+            "country",
+            "South_Africa"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Selborne_College",
+                        "type",
+                        "State_school"
+                    ]
+                ],
+                -0.8025746732144743
+            ],
+            [
+                [
+                    [
+                        "Selborne_College",
+                        "state",
+                        "Eastern_Cape"
+                    ]
+                ],
+                -2.29024753055057
+            ],
+            [
+                [
+                    [
+                        "Selborne_College",
+                        "state",
+                        "Eastern_Cape"
+                    ],
+                    [
+                        "Selborne_College",
+                        "type",
+                        "State_school"
+                    ]
+                ],
+                -7.191838444890203
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.924286127090454
+    },
+    {
+        "triple": [
+            "FC_Norchi_Dinamo_Tbilisi",
+            "ground",
+            "Georgia_(country)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FC_Norchi_Dinamo_Tbilisi",
+                        "league",
+                        "Erovnuli_Liga_2"
+                    ]
+                ],
+                0.19971639682085085
+            ],
+            [
+                [
+                    [
+                        "FC_Norchi_Dinamo_Tbilisi",
+                        "ground",
+                        "Tbilisi"
+                    ]
+                ],
+                -1.1518061711237981
+            ],
+            [
+                [
+                    [
+                        "FC_Norchi_Dinamo_Tbilisi",
+                        "ground",
+                        "Tbilisi"
+                    ],
+                    [
+                        "FC_Norchi_Dinamo_Tbilisi",
+                        "league",
+                        "Erovnuli_Liga_2"
+                    ]
+                ],
+                -4.051250751201923
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.707628011703491
+    },
+    {
+        "triple": [
+            "Ruth_Prawer_Jhabvala",
+            "birthPlace",
+            "Cologne"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ruth_Prawer_Jhabvala",
+                        "deathPlace",
+                        "New_York_City"
+                    ]
+                ],
+                -2.096888281690886
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.222409725189209
+    },
+    {
+        "triple": [
+            "Thames_Ditton",
+            "country",
+            "Surrey"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Thames_Ditton",
+                        "district",
+                        "Borough_of_Elmbridge"
+                    ]
+                ],
+                0.5653649057660785
+            ],
+            [
+                [
+                    [
+                        "Thames_Ditton",
+                        "country",
+                        "United_Kingdom"
+                    ]
+                ],
+                -3.1239406040736606
+            ],
+            [
+                [
+                    [
+                        "Thames_Ditton",
+                        "country",
+                        "United_Kingdom"
+                    ],
+                    [
+                        "Thames_Ditton",
+                        "district",
+                        "Borough_of_Elmbridge"
+                    ]
+                ],
+                -16.640704563685826
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.788535118103027
+    },
+    {
+        "triple": [
+            "Noel_Langley",
+            "birthPlace",
+            "Durban"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Loose_Tubes",
+                        "bandMember",
+                        "Noel_Langley"
+                    ]
+                ],
+                -1.0299416948582556
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.307330846786499
+    },
+    {
+        "triple": [
+            "Prescot_Cables_F.C.",
+            "ground",
+            "Prescot"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Karl_Robinson",
+                        "team",
+                        "Prescot_Cables_F.C."
+                    ],
+                    [
+                        "Len_Ashurst",
+                        "team",
+                        "Prescot_Cables_F.C."
+                    ]
+                ],
+                0.7385010405959808
+            ],
+            [
+                [
+                    [
+                        "Karl_Robinson",
+                        "team",
+                        "Prescot_Cables_F.C."
+                    ]
+                ],
+                -0.13291140576819133
+            ],
+            [
+                [
+                    [
+                        "Len_Ashurst",
+                        "team",
+                        "Prescot_Cables_F.C."
+                    ]
+                ],
+                -0.22092741524597717
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 17.007471323013306
+    },
+    {
+        "triple": [
+            "Walter_Lassally",
+            "birthPlace",
+            "Berlin"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Walter_Lassally",
+                        "occupation",
+                        "Cinematographer"
+                    ]
+                ],
+                0.2219155713131553
+            ],
+            [
+                [
+                    [
+                        "Walter_Lassally",
+                        "birthPlace",
+                        "Weimar_Republic"
+                    ],
+                    [
+                        "Walter_Lassally",
+                        "occupation",
+                        "Cinematographer"
+                    ]
+                ],
+                -4.52598049766139
+            ],
+            [
+                [
+                    [
+                        "Walter_Lassally",
+                        "birthPlace",
+                        "Weimar_Republic"
+                    ]
+                ],
+                -11.683605796412417
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 20.228012800216675
+    },
+    {
+        "triple": [
+            "Arthur_Cohn",
+            "birthPlace",
+            "Basel"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Arthur_Cohn",
+                        "occupation",
+                        "Film_producer"
+                    ]
+                ],
+                -0.2902667913165481
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.08797550201416
+    },
+    {
+        "triple": [
+            "Buckingham_Township,_Bucks_County,_Pennsylvania",
+            "type",
+            "Township_(Pennsylvania)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Buckingham_Township,_Bucks_County,_Pennsylvania",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                0.973691328381508
+            ],
+            [
+                [
+                    [
+                        "Buckingham_Township,_Bucks_County,_Pennsylvania",
+                        "region",
+                        "Bucks_County,_Pennsylvania"
+                    ]
+                ],
+                0.9548760677144407
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 20.04311966896057
+    }
+]

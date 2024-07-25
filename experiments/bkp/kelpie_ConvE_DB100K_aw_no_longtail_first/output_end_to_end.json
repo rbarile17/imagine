@@ -1,0 +1,1842 @@
+[
+    {
+        "triple_to_explain": [
+            "Rituparna_Sengupta",
+            "birthPlace",
+            "Kolkata"
+        ],
+        "rule": [
+            [
+                "Rituparna_Sengupta",
+                "deathPlace",
+                "Kolkata"
+            ]
+        ],
+        "score": "0.9602776169776917",
+        "rank": "1",
+        "new_score": "0.7555603981018066",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Diganth",
+            "residence",
+            "Karnataka"
+        ],
+        "rule": [
+            [
+                "Aishwarya_Rai_Bachchan",
+                "spouse",
+                "Diganth"
+            ]
+        ],
+        "score": "0.5771949291229248",
+        "rank": "1",
+        "new_score": "0.9952556490898132",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Brod-Posavina_County",
+            "type",
+            "Counties_of_Croatia"
+        ],
+        "rule": [
+            [
+                "Brod-Posavina_County",
+                "county",
+                "Dubrovnik-Neretva_County"
+            ]
+        ],
+        "score": "0.1339384764432907",
+        "rank": "1",
+        "new_score": "0.030678968876600266",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "B%C3%A9k%C3%A9scsaba",
+            "timeZone",
+            "Central_European_Time"
+        ],
+        "rule": [
+            [
+                "%C3%84ngelholm_Municipality",
+                "isPartOf",
+                "B%C3%A9k%C3%A9scsaba"
+            ]
+        ],
+        "score": "0.9881436228752136",
+        "rank": "1",
+        "new_score": "0.7225573658943176",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Live_Oak,_Florida",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "%2B/-_(band)",
+                "deathPlace",
+                "Live_Oak,_Florida"
+            ]
+        ],
+        "score": "0.9866782426834106",
+        "rank": "1",
+        "new_score": "0.6905383467674255",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bridgton,_Maine",
+            "isPartOf",
+            "Cumberland_County,_Maine"
+        ],
+        "rule": [
+            [
+                "Bridgton,_Maine",
+                "district",
+                "Westbrook,_Maine"
+            ]
+        ],
+        "score": "0.006794799119234085",
+        "rank": "1",
+        "new_score": "0.008463342674076557",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Tando_Allahyar_District",
+            "country",
+            "Pakistan"
+        ],
+        "rule": [
+            [
+                "Abbottabad",
+                "state",
+                "Tando_Allahyar_District"
+            ]
+        ],
+        "score": "0.8316804766654968",
+        "rank": "1",
+        "new_score": "0.9933016300201416",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "High_Voltage_Software",
+            "product",
+            "Video_game"
+        ],
+        "rule": [
+            [
+                "Activision_Blizzard",
+                "foundedBy",
+                "High_Voltage_Software"
+            ]
+        ],
+        "score": "0.027896808460354805",
+        "rank": "1",
+        "new_score": "0.0004548140277620405",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Christoph_Waltz",
+            "birthPlace",
+            "Vienna"
+        ],
+        "rule": [
+            [
+                "Vienna",
+                "leaderName",
+                "Christoph_Waltz"
+            ]
+        ],
+        "score": "0.008465119637548923",
+        "rank": "1",
+        "new_score": "0.14133743941783905",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pygopodidae",
+            "kingdom",
+            "Animal"
+        ],
+        "rule": [
+            [
+                "Abralia",
+                "family",
+                "Pygopodidae"
+            ],
+            [
+                "Abyssotrophon",
+                "class",
+                "Pygopodidae"
+            ]
+        ],
+        "score": "0.1667397916316986",
+        "rank": "1",
+        "new_score": "0.9851582646369934",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Urfa",
+            "country",
+            "Turkey"
+        ],
+        "rule": [
+            [
+                "%C3%87aml%C4%B1dere,_Ankara",
+                "part",
+                "Urfa"
+            ]
+        ],
+        "score": "0.963935375213623",
+        "rank": "1",
+        "new_score": "0.17456138134002686",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Chelav_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Abadan,_Iran",
+                "federalState",
+                "Chelav_Rural_District"
+            ]
+        ],
+        "score": "0.6932640671730042",
+        "rank": "1",
+        "new_score": "0.9860550761222839",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Baotou",
+            "country",
+            "China"
+        ],
+        "rule": [
+            [
+                "Aviation_Industry_Corporation_of_China",
+                "regionServed",
+                "Baotou"
+            ]
+        ],
+        "score": "0.9817420840263367",
+        "rank": "1",
+        "new_score": "0.8851276636123657",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Guy_Ferland",
+            "occupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "%C3%89douard_Molinaro",
+                "spouse",
+                "Guy_Ferland"
+            ]
+        ],
+        "score": "0.8064417839050293",
+        "rank": "1",
+        "new_score": "0.9867895245552063",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kuban_Stadium",
+            "tenant",
+            "FC_Kuban_Krasnodar"
+        ],
+        "rule": [
+            [
+                "ASA_2013_T%C3%A2rgu_Mure%C8%99",
+                "ground",
+                "Kuban_Stadium"
+            ]
+        ],
+        "score": "0.34548303484916687",
+        "rank": "1",
+        "new_score": "0.24491570889949799",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Lincoln_County,_Oklahoma",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "10th_New_York_Cavalry_Regiment",
+                "garrison",
+                "Lincoln_County,_Oklahoma"
+            ]
+        ],
+        "score": "0.996636152267456",
+        "rank": "1",
+        "new_score": "0.9984143972396851",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Fusolatirus",
+            "kingdom",
+            "Animal"
+        ],
+        "rule": [
+            [
+                "Aborolabis",
+                "family",
+                "Fusolatirus"
+            ],
+            [
+                "Abyssocottinae",
+                "family",
+                "Fusolatirus"
+            ]
+        ],
+        "score": "0.8909950852394104",
+        "rank": "1",
+        "new_score": "0.7973954677581787",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jayachitra",
+            "birthPlace",
+            "Chennai"
+        ],
+        "rule": [
+            [
+                "Jayachitra",
+                "spouse",
+                "Anand_Babu"
+            ]
+        ],
+        "score": "0.0025902758352458477",
+        "rank": "1",
+        "new_score": "0.0016722319414839149",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Gharda%C3%AFa_Province",
+            "country",
+            "Algeria"
+        ],
+        "rule": [
+            [
+                "Algiers",
+                "isPartOf",
+                "Gharda%C3%AFa_Province"
+            ]
+        ],
+        "score": "0.6420376300811768",
+        "rank": "1",
+        "new_score": "0.8569658398628235",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Protea",
+            "class",
+            "Eudicots"
+        ],
+        "rule": [
+            [
+                "Protea",
+                "division",
+                "Eudicots"
+            ]
+        ],
+        "score": "0.9856616854667664",
+        "rank": "1",
+        "new_score": "0.9999996423721313",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jegenstorf",
+            "country",
+            "Switzerland"
+        ],
+        "rule": [
+            [
+                "%C3%89cublens,_Vaud",
+                "principalArea",
+                "Jegenstorf"
+            ]
+        ],
+        "score": "0.9859700798988342",
+        "rank": "1",
+        "new_score": "0.9903704524040222",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pichincha_Province",
+            "type",
+            "Provinces_of_Ecuador"
+        ],
+        "rule": [
+            [
+                "Pichincha_Province",
+                "county",
+                "Manab%C3%AD_Province"
+            ]
+        ],
+        "score": "0.23181477189064026",
+        "rank": "1",
+        "new_score": "0.38524577021598816",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "NK_Mosor",
+            "position",
+            "Second_Football_League_(Croatia)"
+        ],
+        "rule": [
+            [
+                "NK_Mosor",
+                "chairman",
+                "Slaven_Bili%C4%87"
+            ]
+        ],
+        "score": "0.9518106579780579",
+        "rank": "1",
+        "new_score": "0.066230408847332",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "FK_Srem_Jakovo",
+            "league",
+            "Serbian_League_Belgrade"
+        ],
+        "rule": [
+            [
+                "Aleksandar_Trnini%C4%87",
+                "managerClub",
+                "FK_Srem_Jakovo"
+            ]
+        ],
+        "score": "0.9879221320152283",
+        "rank": "1",
+        "new_score": "0.8578080534934998",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "FC_Elista",
+            "position",
+            "Russian_Amateur_Football_League"
+        ],
+        "rule": [
+            [
+                "FC_Elista",
+                "chairman",
+                "%C3%93scar_Arp%C3%B3n"
+            ]
+        ],
+        "score": "0.9965373277664185",
+        "rank": "1",
+        "new_score": "0.9632087349891663",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Falkenberg_Municipality",
+            "type",
+            "Municipalities_of_Sweden"
+        ],
+        "rule": [
+            [
+                "Avesta_Municipality",
+                "municipality",
+                "Falkenberg_Municipality"
+            ]
+        ],
+        "score": "0.03837096318602562",
+        "rank": "1",
+        "new_score": "0.0018670522840693593",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Tarachodidae",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule": [
+            [
+                "Acraea_(butterfly)",
+                "order",
+                "Tarachodidae"
+            ],
+            [
+                "Aleocharinae",
+                "class",
+                "Tarachodidae"
+            ]
+        ],
+        "score": "0.9999803304672241",
+        "rank": "1",
+        "new_score": "0.9999992847442627",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Alfred_J._Goulding",
+            "birthPlace",
+            "Melbourne"
+        ],
+        "rule": [
+            [
+                "1927_(band)",
+                "bandMember",
+                "Alfred_J._Goulding"
+            ]
+        ],
+        "score": "0.003756097052246332",
+        "rank": "1",
+        "new_score": "5.680180402123369e-05",
+        "new_rank": "31"
+    },
+    {
+        "triple_to_explain": [
+            "Eric_Bana",
+            "residence",
+            "Victoria_(state)"
+        ],
+        "rule": [
+            [
+                "Alexander_Peacock",
+                "profession",
+                "Eric_Bana"
+            ]
+        ],
+        "score": "0.2779766023159027",
+        "rank": "1",
+        "new_score": "0.34263506531715393",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lygropia",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Appias_(butterfly)",
+                "family",
+                "Lygropia"
+            ]
+        ],
+        "score": "0.969714879989624",
+        "rank": "1",
+        "new_score": "0.9983799457550049",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Palamuse_Parish",
+            "type",
+            "Municipalities_of_Estonia"
+        ],
+        "rule": [
+            [
+                "Municipalities_of_Estonia",
+                "isPartOf",
+                "Palamuse_Parish"
+            ]
+        ],
+        "score": "0.9940716624259949",
+        "rank": "1",
+        "new_score": "0.9999997615814209",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pol-e_Doab_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Abadan,_Iran",
+                "principalArea",
+                "Pol-e_Doab_Rural_District"
+            ]
+        ],
+        "score": "0.9955138564109802",
+        "rank": "1",
+        "new_score": "0.9953917264938354",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "America%27s_Best_Music",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "3rd_Rock_from_the_Sun",
+                "network",
+                "America%27s_Best_Music"
+            ]
+        ],
+        "score": "0.9196181893348694",
+        "rank": "1",
+        "new_score": "0.4851815104484558",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Abnama_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Ab_Pakhsh_District",
+                "county",
+                "Abnama_Rural_District"
+            ]
+        ],
+        "score": "0.9996625185012817",
+        "rank": "1",
+        "new_score": "0.9290064573287964",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "L%C3%B8renskog_IF",
+            "season",
+            "2015_Norwegian_Second_Division"
+        ],
+        "rule": [
+            [
+                "L%C3%B8renskog_IF",
+                "coach",
+                "Maurice_Ross"
+            ]
+        ],
+        "score": "0.9855667352676392",
+        "rank": "1",
+        "new_score": "0.9806031584739685",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Littorina",
+            "kingdom",
+            "Animal"
+        ],
+        "rule": [
+            [
+                "Abyssochrysoidea",
+                "order",
+                "Littorina"
+            ]
+        ],
+        "score": "0.9958837628364563",
+        "rank": "1",
+        "new_score": "0.8069332242012024",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Khorram_Dasht_Rural_District_(Kashan_County)",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Ab_Pakhsh_District",
+                "part",
+                "Khorram_Dasht_Rural_District_(Kashan_County)"
+            ]
+        ],
+        "score": "0.9999507665634155",
+        "rank": "1",
+        "new_score": "0.9964269995689392",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Anees_Bazmee",
+            "nationality",
+            "India"
+        ],
+        "rule": [
+            [
+                "1st_Horse_(Skinner%27s_Horse)",
+                "type",
+                "Anees_Bazmee"
+            ]
+        ],
+        "score": "0.9997947812080383",
+        "rank": "1",
+        "new_score": "0.9997954964637756",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Clinton_County,_Ohio",
+            "largestCity",
+            "Wilmington,_Ohio"
+        ],
+        "rule": [
+            [
+                "Clinton_County,_Ohio",
+                "isPartOf",
+                "Wilmington,_Ohio"
+            ]
+        ],
+        "score": "0.2400978058576584",
+        "rank": "1",
+        "new_score": "0.9074866771697998",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "James_Russo",
+            "occupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "A._K._Hangal",
+                "spouse",
+                "James_Russo"
+            ]
+        ],
+        "score": "0.12285662442445755",
+        "rank": "1",
+        "new_score": "0.3435547649860382",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Yobe_State",
+            "timeZone",
+            "West_Africa_Time"
+        ],
+        "rule": [
+            [
+                "Yobe_State",
+                "type",
+                "West_Africa_Time"
+            ]
+        ],
+        "score": "0.9978048205375671",
+        "rank": "1",
+        "new_score": "0.9999998807907104",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Howard_Ashman",
+            "birthPlace",
+            "Baltimore"
+        ],
+        "rule": [
+            [
+                "Alexander_Haig",
+                "religion",
+                "Howard_Ashman"
+            ]
+        ],
+        "score": "0.9011383056640625",
+        "rank": "1",
+        "new_score": "0.9895678162574768",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hot_Club_Records",
+            "country",
+            "Norway"
+        ],
+        "rule": [
+            [
+                "Arve_Isdal",
+                "knownFor",
+                "Hot_Club_Records"
+            ]
+        ],
+        "score": "0.22325800359249115",
+        "rank": "1",
+        "new_score": "0.44725969433784485",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "KCBL",
+            "broadcastNetwork",
+            "Fox_Sports_Radio"
+        ],
+        "rule": [
+            [
+                "KCBL",
+                "programmeFormat",
+                "WHTK_(AM)"
+            ]
+        ],
+        "score": "0.0023756104055792093",
+        "rank": "1",
+        "new_score": "0.0046825711615383625",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Fencing_at_the_1956_Summer_Olympics_%E2%80%93_Men%27s_team_foil",
+            "goldMedalist",
+            "Edoardo_Mangiarotti"
+        ],
+        "rule": [
+            [
+                "Fencing_at_the_1956_Summer_Olympics_%E2%80%93_Men%27s_team_foil",
+                "previousEvent",
+                "Fencing_at_the_1948_Summer_Olympics_%E2%80%93_Men%27s_team_%C3%A9p%C3%A9e"
+            ]
+        ],
+        "score": "0.6779710650444031",
+        "rank": "1",
+        "new_score": "0.7569773197174072",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rollinia",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Rollinia",
+                "division",
+                "Plant"
+            ]
+        ],
+        "score": "0.22954288125038147",
+        "rank": "1",
+        "new_score": "1.0",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Johan_Cruyff_Arena",
+            "location",
+            "Amsterdam"
+        ],
+        "rule": [
+            [
+                "Johan_Cruyff_Arena",
+                "builder",
+                "Elsevier"
+            ]
+        ],
+        "score": "0.001930641126818955",
+        "rank": "1",
+        "new_score": "0.006681543309241533",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Peter_Haber",
+            "stateOfOrigin",
+            "Sweden"
+        ],
+        "rule": [
+            [
+                "%C3%85ngermanland",
+                "leaderName",
+                "Peter_Haber"
+            ]
+        ],
+        "score": "0.9999614953994751",
+        "rank": "1",
+        "new_score": "0.9976317882537842",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ove_Sprog%C3%B8e",
+            "birthPlace",
+            "Denmark"
+        ],
+        "rule": [
+            [
+                "Aalborg",
+                "isPartOf",
+                "Ove_Sprog%C3%B8e"
+            ]
+        ],
+        "score": "0.12383667379617691",
+        "rank": "1",
+        "new_score": "0.025601504370570183",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Brighouse",
+            "country",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "4Music",
+                "headquarter",
+                "Brighouse"
+            ]
+        ],
+        "score": "0.2667294144630432",
+        "rank": "1",
+        "new_score": "0.439360111951828",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Infrabel",
+            "product",
+            "Rail_transport"
+        ],
+        "rule": [
+            [
+                "Banedanmark",
+                "successor",
+                "Infrabel"
+            ]
+        ],
+        "score": "0.15814027190208435",
+        "rank": "1",
+        "new_score": "0.9927511215209961",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ventura_County_Fusion",
+            "league",
+            "USL_League_Two"
+        ],
+        "rule": [
+            [
+                "Ocean_City,_New_Jersey",
+                "isPartOf",
+                "Ventura_County_Fusion"
+            ]
+        ],
+        "score": "0.43652570247650146",
+        "rank": "1",
+        "new_score": "0.9017369151115417",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Lipno,_Greater_Poland_Voivodeship",
+            "type",
+            "Gmina"
+        ],
+        "rule": [
+            [
+                "Gmina_Lipno,_Greater_Poland_Voivodeship",
+                "arrondissement",
+                "Gmina_%C5%81apan%C3%B3w"
+            ]
+        ],
+        "score": "0.9434279799461365",
+        "rank": "1",
+        "new_score": "0.8610554337501526",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "V%C3%A2lsan",
+            "district",
+            "Arge%C8%99_County"
+        ],
+        "rule": [
+            [
+                "V%C3%A2lsan",
+                "mouthPlace",
+                "Pite%C8%99ti"
+            ]
+        ],
+        "score": "0.15545833110809326",
+        "rank": "1",
+        "new_score": "0.9834595322608948",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lichinaceae",
+            "division",
+            "Ascomycota"
+        ],
+        "rule": [
+            [
+                "Agyriales",
+                "order",
+                "Lichinaceae"
+            ]
+        ],
+        "score": "0.4065384566783905",
+        "rank": "1",
+        "new_score": "0.8605512380599976",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Busia_County",
+            "timeZone",
+            "East_Africa_Time"
+        ],
+        "rule": [
+            [
+                "Antananarivo",
+                "district",
+                "Busia_County"
+            ]
+        ],
+        "score": "0.746719479560852",
+        "rank": "1",
+        "new_score": "0.9984835982322693",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Calanthe",
+            "order",
+            "Asparagales"
+        ],
+        "rule": [
+            [
+                "Calanthe",
+                "class",
+                "Aerangidinae"
+            ]
+        ],
+        "score": "0.5682758688926697",
+        "rank": "1",
+        "new_score": "0.007187517359852791",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Navarretia",
+            "class",
+            "Eudicots"
+        ],
+        "rule": [
+            [
+                "Aegiphila",
+                "family",
+                "Navarretia"
+            ]
+        ],
+        "score": "0.978975236415863",
+        "rank": "1",
+        "new_score": "0.999497652053833",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Elysia_(gastropod)",
+            "class",
+            "Gastropoda"
+        ],
+        "rule": [
+            [
+                "Acteonidae",
+                "family",
+                "Elysia_(gastropod)"
+            ]
+        ],
+        "score": "0.380201518535614",
+        "rank": "1",
+        "new_score": "0.17443834245204926",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_%C5%81%C4%85ck",
+            "isPartOf",
+            "P%C5%82ock_County"
+        ],
+        "rule": [
+            [
+                "P%C5%82ock_County",
+                "countySeat",
+                "Gmina_%C5%81%C4%85ck"
+            ]
+        ],
+        "score": "0.1736365705728531",
+        "rank": "1",
+        "new_score": "0.6361255645751953",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Vanilloideae",
+            "family",
+            "Orchid"
+        ],
+        "rule": [
+            [
+                "Angraecum",
+                "family",
+                "Vanilloideae"
+            ]
+        ],
+        "score": "0.9204597473144531",
+        "rank": "1",
+        "new_score": "0.25214847922325134",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Principality_of_Moscow",
+            "currency",
+            "Russian_ruble"
+        ],
+        "rule": [
+            [
+                "%C3%89douard_M%C3%A9n%C3%A9tries",
+                "birthPlace",
+                "Principality_of_Moscow"
+            ]
+        ],
+        "score": "0.8090977072715759",
+        "rank": "1",
+        "new_score": "0.7414605021476746",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Verticordia_subg._Verticordia",
+            "genus",
+            "Verticordia"
+        ],
+        "rule": [
+            [
+                "Myrtales",
+                "class",
+                "Verticordia_subg._Verticordia"
+            ]
+        ],
+        "score": "0.23405808210372925",
+        "rank": "1",
+        "new_score": "0.01089689414948225",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Crystal_Palace_National_Sports_Centre",
+            "location",
+            "England"
+        ],
+        "rule": [
+            [
+                "Armstrong_Whitworth",
+                "location",
+                "Crystal_Palace_National_Sports_Centre"
+            ]
+        ],
+        "score": "0.05993550643324852",
+        "rank": "1",
+        "new_score": "1.680059176578652e-05",
+        "new_rank": "30"
+    },
+    {
+        "triple_to_explain": [
+            "Placosaris",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule": [
+            [
+                "Acrolophinae",
+                "family",
+                "Placosaris"
+            ],
+            [
+                "Agaonidae",
+                "class",
+                "Placosaris"
+            ],
+            [
+                "Agaonidae",
+                "order",
+                "Placosaris"
+            ],
+            [
+                "Aleocharinae",
+                "class",
+                "Placosaris"
+            ]
+        ],
+        "score": "0.9999624490737915",
+        "rank": "1",
+        "new_score": "0.8222060203552246",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Stray_Cats",
+            "genre",
+            "Rockabilly"
+        ],
+        "rule": [
+            [
+                "A_Boy_Named_Sue",
+                "writer",
+                "Stray_Cats"
+            ]
+        ],
+        "score": "0.05711214989423752",
+        "rank": "1",
+        "new_score": "3.3235437513212673e-07",
+        "new_rank": "156"
+    },
+    {
+        "triple_to_explain": [
+            "Linyi",
+            "type",
+            "Prefecture-level_city"
+        ],
+        "rule": [
+            [
+                "Changsha",
+                "part",
+                "Linyi"
+            ]
+        ],
+        "score": "0.02819272316992283",
+        "rank": "1",
+        "new_score": "0.09204692393541336",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Janowiec_Ko%C5%9Bcielny",
+            "country",
+            "Poland"
+        ],
+        "rule": [
+            [
+                "%C5%81%C3%B3d%C5%BA_East_County",
+                "type",
+                "Gmina_Janowiec_Ko%C5%9Bcielny"
+            ]
+        ],
+        "score": "0.9942492246627808",
+        "rank": "1",
+        "new_score": "0.99982088804245",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ribera_d%27Ebre",
+            "isPartOf",
+            "Catalonia"
+        ],
+        "rule": [
+            [
+                "Badalona",
+                "type",
+                "Ribera_d%27Ebre"
+            ]
+        ],
+        "score": "0.9559099674224854",
+        "rank": "1",
+        "new_score": "0.98897385597229",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Justicia_(plant)",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Alismataceae",
+                "family",
+                "Justicia_(plant)"
+            ]
+        ],
+        "score": "0.9996581077575684",
+        "rank": "1",
+        "new_score": "0.8981829881668091",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "John_Lawrence_LeConte",
+            "nationality",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Aaron_Springer",
+                "relative",
+                "John_Lawrence_LeConte"
+            ]
+        ],
+        "score": "0.5198383331298828",
+        "rank": "1",
+        "new_score": "0.2572876811027527",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ambia_(moth)",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Acraea_(butterfly)",
+                "order",
+                "Ambia_(moth)"
+            ]
+        ],
+        "score": "0.9827982783317566",
+        "rank": "1",
+        "new_score": "0.9983144998550415",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lewisburg,_Tennessee",
+            "isPartOf",
+            "Tennessee"
+        ],
+        "rule": [
+            [
+                "Anderson_County,_Tennessee",
+                "city",
+                "Lewisburg,_Tennessee"
+            ]
+        ],
+        "score": "0.5148899555206299",
+        "rank": "1",
+        "new_score": "0.9444262981414795",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pitcairnia_subg._Pepinia",
+            "family",
+            "Bromeliaceae"
+        ],
+        "rule": [
+            [
+                "Aechmea",
+                "kingdom",
+                "Pitcairnia_subg._Pepinia"
+            ]
+        ],
+        "score": "0.027033032849431038",
+        "rank": "1",
+        "new_score": "0.043372418731451035",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Duque_de_Caxias,_Rio_de_Janeiro",
+            "isPartOf",
+            "Southeast_Region,_Brazil"
+        ],
+        "rule": [
+            [
+                "Duque_de_Caxias,_Rio_de_Janeiro",
+                "daylightSavingTimeZone",
+                "Nova_Igua%C3%A7u"
+            ]
+        ],
+        "score": "0.04757938161492348",
+        "rank": "1",
+        "new_score": "0.009387897327542305",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Quezon",
+            "timeZone",
+            "Philippine_Standard_Time"
+        ],
+        "rule": [
+            [
+                "Angeles_City",
+                "ceremonialCounty",
+                "Quezon"
+            ]
+        ],
+        "score": "0.04592682048678398",
+        "rank": "1",
+        "new_score": "0.008561920374631882",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Centre-Est_Region",
+            "country",
+            "Burkina_Faso"
+        ],
+        "rule": [
+            [
+                "Centre-Est_Region",
+                "isPartOf",
+                "Burkina_Faso"
+            ],
+            [
+                "Bal%C3%A9_Province",
+                "twinTown",
+                "Centre-Est_Region"
+            ],
+            [
+                "Blaise_Compaor%C3%A9",
+                "birthPlace",
+                "Centre-Est_Region"
+            ]
+        ],
+        "score": "0.02178412862122059",
+        "rank": "1",
+        "new_score": "0.9999969005584717",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ophidiasteridae",
+            "order",
+            "Valvatida"
+        ],
+        "rule": [
+            [
+                "Ophidiasteridae",
+                "class",
+                "Eumetazoa"
+            ]
+        ],
+        "score": "0.006991966161876917",
+        "rank": "1",
+        "new_score": "0.03850952908396721",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Kohistan_District,_Pakistan",
+            "isPartOf",
+            "Khyber_Pakhtunkhwa"
+        ],
+        "rule": [
+            [
+                "Khyber_Pakhtunkhwa",
+                "lieutenancyArea",
+                "Kohistan_District,_Pakistan"
+            ]
+        ],
+        "score": "0.40963953733444214",
+        "rank": "1",
+        "new_score": "0.9999227523803711",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Glacier_County,_Montana",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "18th_Infantry_Regiment_(United_States)",
+                "country",
+                "Glacier_County,_Montana"
+            ]
+        ],
+        "score": "0.081271231174469",
+        "rank": "1",
+        "new_score": "0.5212894082069397",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kenneth_V._Jones",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "ATP_Recordings",
+                "keyPerson",
+                "Kenneth_V._Jones"
+            ]
+        ],
+        "score": "0.9978467226028442",
+        "rank": "1",
+        "new_score": "0.9992696642875671",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Vilkij-e_Markazi_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Abadan,_Iran",
+                "isPartOf",
+                "Vilkij-e_Markazi_Rural_District"
+            ]
+        ],
+        "score": "0.9768169522285461",
+        "rank": "1",
+        "new_score": "0.9999994039535522",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "FC_Dinamo-93_Minsk",
+            "ground",
+            "Minsk"
+        ],
+        "rule": [
+            [
+                "FC_Dinamo-93_Minsk",
+                "city",
+                "Abbeville,_South_Carolina"
+            ]
+        ],
+        "score": "0.0055175358429551125",
+        "rank": "1",
+        "new_score": "0.002911265939474106",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Webster_Parish,_Louisiana",
+            "largestCity",
+            "Minden,_Louisiana"
+        ],
+        "rule": [
+            [
+                "Webster_Parish,_Louisiana",
+                "isPartOf",
+                "Webster_Parish,_Louisiana"
+            ]
+        ],
+        "score": "0.8012019991874695",
+        "rank": "1",
+        "new_score": "0.3034723103046417",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gonzales,_Texas",
+            "type",
+            "City"
+        ],
+        "rule": [
+            [
+                "Abilene,_Texas",
+                "type",
+                "Gonzales,_Texas"
+            ]
+        ],
+        "score": "0.9999328851699829",
+        "rank": "1",
+        "new_score": "0.9517496228218079",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Massawa",
+            "timeZone",
+            "East_Africa_Time"
+        ],
+        "rule": [
+            [
+                "Massawa",
+                "metropolitanBorough",
+                "East_Africa_Time"
+            ]
+        ],
+        "score": "0.11653079092502594",
+        "rank": "1",
+        "new_score": "0.9999959468841553",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mohsen_Makhmalbaf",
+            "stateOfOrigin",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Mohsen_Makhmalbaf",
+                "deathPlace",
+                "Iran"
+            ]
+        ],
+        "score": "0.9987444877624512",
+        "rank": "1",
+        "new_score": "0.9999403953552246",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sukhothai_F.C.",
+            "ground",
+            "Thailand"
+        ],
+        "rule": [
+            [
+                "Sukhothai_F.C.",
+                "city",
+                "Samut_Prakan_province"
+            ]
+        ],
+        "score": "0.2648833394050598",
+        "rank": "1",
+        "new_score": "0.18907885253429413",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Kamfiruz-e_Shomali_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Ab_Pakhsh_District",
+                "county",
+                "Kamfiruz-e_Shomali_Rural_District"
+            ]
+        ],
+        "score": "0.17039622366428375",
+        "rank": "1",
+        "new_score": "0.9977219700813293",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Nakasero",
+            "isPartOf",
+            "Central_Region,_Uganda"
+        ],
+        "rule": [
+            [
+                "Mukono_District",
+                "largestCity",
+                "Nakasero"
+            ]
+        ],
+        "score": "0.004195596557110548",
+        "rank": "1",
+        "new_score": "0.017422841861844063",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "CS_Mioveni",
+            "league",
+            "Liga_II"
+        ],
+        "rule": [
+            [
+                "CS_Mioveni",
+                "season",
+                "Liga_II"
+            ]
+        ],
+        "score": "0.9916543960571289",
+        "rank": "1",
+        "new_score": "0.9999958276748657",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Foligno",
+            "region",
+            "Umbria"
+        ],
+        "rule": [
+            [
+                "Foligno",
+                "isPartOf",
+                "Umbria"
+            ]
+        ],
+        "score": "0.38078945875167847",
+        "rank": "1",
+        "new_score": "0.9999916553497314",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lou_Breslow",
+            "occupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Alan_Rudolph",
+                "spouse",
+                "Lou_Breslow"
+            ]
+        ],
+        "score": "0.0015596249140799046",
+        "rank": "1",
+        "new_score": "5.8545282399791176e-08",
+        "new_rank": "930"
+    },
+    {
+        "triple_to_explain": [
+            "Ashford,_Surrey",
+            "country",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "50th_(Northumbrian)_Infantry_Division",
+                "garrison",
+                "Ashford,_Surrey"
+            ]
+        ],
+        "score": "0.1123613640666008",
+        "rank": "1",
+        "new_score": "0.015448256395757198",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Selangor_F.C._II",
+            "league",
+            "Malaysia_Premier_League"
+        ],
+        "rule": [
+            [
+                "Selangor_F.C._II",
+                "city",
+                "Ipoh"
+            ]
+        ],
+        "score": "0.9922932386398315",
+        "rank": "1",
+        "new_score": "0.9890718460083008",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Communist_Party_USA",
+            "ideology",
+            "Communism"
+        ],
+        "rule": [
+            [
+                "African_Party_for_the_Independence_of_Guinea_and_Cape_Verde",
+                "internationalAffiliation",
+                "Communist_Party_USA"
+            ]
+        ],
+        "score": "0.0999775379896164",
+        "rank": "1",
+        "new_score": "0.012639639899134636",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Subiaco,_Western_Australia",
+            "country",
+            "Australia"
+        ],
+        "rule": [
+            [
+                "1st_Light_Horse_Brigade",
+                "garrison",
+                "Subiaco,_Western_Australia"
+            ]
+        ],
+        "score": "0.999998927116394",
+        "rank": "1",
+        "new_score": "0.9851080775260925",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Balghelu_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Abadan,_Iran",
+                "principalArea",
+                "Balghelu_Rural_District"
+            ]
+        ],
+        "score": "0.30324840545654297",
+        "rank": "1",
+        "new_score": "0.9161068201065063",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Symmetrischema",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Lepidoptera",
+                "class",
+                "Symmetrischema"
+            ]
+        ],
+        "score": "0.8838180899620056",
+        "rank": "1",
+        "new_score": "1.0",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Verde_River",
+            "state",
+            "Arizona"
+        ],
+        "rule": [
+            [
+                "Verde_River",
+                "mouthPlace",
+                "Arizona"
+            ]
+        ],
+        "score": "0.9486979246139526",
+        "rank": "1",
+        "new_score": "0.9999998807907104",
+        "new_rank": "1"
+    }
+]

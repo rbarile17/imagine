@@ -1,0 +1,4432 @@
+[
+    {
+        "triple_to_explain": [
+            "Mithun_Chakraborty",
+            "award",
+            "National_Film_Award_for_Best_Actor"
+        ],
+        "rule": [
+            [
+                "Aadukalam",
+                "character",
+                "Mithun_Chakraborty"
+            ],
+            [
+                "Hum_Tum",
+                "character",
+                "Mithun_Chakraborty"
+            ],
+            [
+                "Aadukalam",
+                "producer",
+                "Mithun_Chakraborty"
+            ],
+            [
+                "Hum_Tum",
+                "producer",
+                "Mithun_Chakraborty"
+            ]
+        ],
+        "score": "18.468142",
+        "rank": "1",
+        "new_score": "18.54391",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Robert_Towne",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Alexandra_Paul",
+                "children",
+                "Robert_Towne"
+            ]
+        ],
+        "score": "27.33037",
+        "rank": "1",
+        "new_score": "25.923992",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Arthur_Hiller",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Arthur_Hiller",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._B._Raj"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._C._Tirulokchandar"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._E._Coleby"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._Jagannathan"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._K._Lohithadas"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._Kodandarami_Reddy"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._L._Vijay"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._P._Nagarajan"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._S._A._Sami"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._V._Meiyappan"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._Venkatesh_(director)"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "A._Vincent"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "AR_Murugadoss"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "Aanand_L._Rai"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "Aarathi"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "Arthur_Hiller",
+                "award",
+                "Aaron_Norris"
+            ]
+        ],
+        "score": "25.742321",
+        "rank": "1",
+        "new_score": "26.558311",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Yuri_Andropov",
+            "hasOccupation",
+            "Diplomat"
+        ],
+        "rule": [
+            [
+                "Yuri_Andropov",
+                "award",
+                "Diplomat"
+            ]
+        ],
+        "score": "24.888",
+        "rank": "1",
+        "new_score": "26.798958",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Paul_Wegener",
+            "knowsLanguage",
+            "German_language"
+        ],
+        "rule": [
+            [
+                "Counter-Strike:_Global_Offensive",
+                "character",
+                "Paul_Wegener"
+            ],
+            [
+                "Despair_(film)",
+                "about",
+                "Paul_Wegener"
+            ],
+            [
+                "Despair_(film)",
+                "character",
+                "Paul_Wegener"
+            ]
+        ],
+        "score": "22.903875",
+        "rank": "1",
+        "new_score": "26.092499",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Jagiellonian_University",
+            "memberOf",
+            "Coimbra_Group"
+        ],
+        "rule": [
+            [
+                "Adolf_Butenandt",
+                "alumniOf",
+                "Jagiellonian_University"
+            ],
+            [
+                "Adolphus_Frederick_V,_Grand_Duke_of_Mecklenburg-Strelitz",
+                "alumniOf",
+                "Jagiellonian_University"
+            ],
+            [
+                "Albrecht_von_Haller",
+                "alumniOf",
+                "Jagiellonian_University"
+            ],
+            [
+                "Alexander_Svanidze",
+                "alumniOf",
+                "Jagiellonian_University"
+            ],
+            [
+                "Alexander_von_Humboldt",
+                "alumniOf",
+                "Jagiellonian_University"
+            ],
+            [
+                "Anton_Dohrn",
+                "alumniOf",
+                "Jagiellonian_University"
+            ]
+        ],
+        "score": "20.629429",
+        "rank": "1",
+        "new_score": "22.007105",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Andr\u00e9_Simonyi",
+            "hasOccupation",
+            "Football_player"
+        ],
+        "rule": [
+            [
+                "Andr\u00e9_Simonyi",
+                "award",
+                "Football_player"
+            ]
+        ],
+        "score": "27.539461",
+        "rank": "1",
+        "new_score": "24.445623",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Terry_Kiser",
+            "nationality",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "'Til_There_Was_You",
+                "character",
+                "Terry_Kiser"
+            ],
+            [
+                "...All_the_Marbles",
+                "character",
+                "Terry_Kiser"
+            ]
+        ],
+        "score": "20.397274",
+        "rank": "1",
+        "new_score": "23.056158",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Fritz_Wepper",
+            "nationality",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "08%2F15_(film)",
+                "author",
+                "Fritz_Wepper"
+            ],
+            [
+                "16_Blocks",
+                "author",
+                "Fritz_Wepper"
+            ]
+        ],
+        "score": "21.763468",
+        "rank": "1",
+        "new_score": "21.572256",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Colin_Hanks",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Colin_Hanks",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._B._Raj"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._C._Tirulokchandar"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._E._Coleby"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._Jagannathan"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._K._Lohithadas"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._Kodandarami_Reddy"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._L._Vijay"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._P._Nagarajan"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._S._A._Sami"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._V._Meiyappan"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._Venkatesh_(director)"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "A._Vincent"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "AR_Murugadoss"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "Aanand_L._Rai"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "Aarathi"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "Colin_Hanks",
+                "award",
+                "Aaron_Norris"
+            ]
+        ],
+        "score": "27.577784",
+        "rank": "1",
+        "new_score": "26.116053",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "M\u00fchlacker",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule": [
+            [
+                "1._FC_Heidenheim",
+                "location",
+                "M\u00fchlacker"
+            ],
+            [
+                "1._FC_Kaiserslautern",
+                "location",
+                "M\u00fchlacker"
+            ],
+            [
+                "1._FC_Pforzheim",
+                "location",
+                "M\u00fchlacker"
+            ],
+            [
+                "1._FC_Union_Berlin",
+                "location",
+                "M\u00fchlacker"
+            ],
+            [
+                "1._FFC_Frankfurt",
+                "location",
+                "M\u00fchlacker"
+            ]
+        ],
+        "score": "18.993885",
+        "rank": "1",
+        "new_score": "22.515078",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Takashi_Yamazaki",
+            "knowsLanguage",
+            "Japanese_language"
+        ],
+        "rule": [
+            [
+                "A_Chef_of_Nobunaga",
+                "actor",
+                "Takashi_Yamazaki"
+            ],
+            [
+                "Civilization_VI",
+                "musicBy",
+                "Takashi_Yamazaki"
+            ],
+            [
+                "Civilization_VI",
+                "actor",
+                "Takashi_Yamazaki"
+            ],
+            [
+                "Hiroshima_(film)",
+                "character",
+                "Takashi_Yamazaki"
+            ]
+        ],
+        "score": "25.693752",
+        "rank": "1",
+        "new_score": "24.501265",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Roberto_Marinho",
+            "deathPlace",
+            "Rio_de_Janeiro"
+        ],
+        "rule": [
+            [
+                "Academia_Brasileira_de_Letras",
+                "founder",
+                "Roberto_Marinho"
+            ]
+        ],
+        "score": "19.13896",
+        "rank": "1",
+        "new_score": "20.843212",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Aliens_(film)",
+            "award",
+            "Hugo_Award_for_Best_Dramatic_Presentation"
+        ],
+        "rule": [
+            [
+                "Aliens_(film)",
+                "author",
+                "Fran_Walsh"
+            ],
+            [
+                "Aliens_(film)",
+                "author",
+                "George_Roy_Hill"
+            ],
+            [
+                "Aliens_(film)",
+                "author",
+                "Harlan_Ellison"
+            ],
+            [
+                "Aliens_(film)",
+                "author",
+                "J._R._R._Tolkien"
+            ],
+            [
+                "Aliens_(film)",
+                "author",
+                "Steven_Spielberg"
+            ],
+            [
+                "Aliens_(film)",
+                "author",
+                "Ted_Elliott_(screenwriter)"
+            ]
+        ],
+        "score": "20.28688",
+        "rank": "1",
+        "new_score": "21.9696",
+        "new_rank": "13"
+    },
+    {
+        "triple_to_explain": [
+            "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)",
+            "musicBy",
+            "William_Axt"
+        ],
+        "rule": [
+            [
+                "After_the_Thin_Man",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Bardelys_the_Magnificent",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Big_City_(1937_film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Blondie_of_the_Follies",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Bombshell_(1933_film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Broadway_to_Hollywood_(film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Espionage_(film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Fast_Company_(1938_film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Gabriel_Over_the_White_House",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Grand_Hotel_(1932_film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Greed_(1924_film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Hollywood_Party_(1934_film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Inspiration_(1931_film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "It's_in_the_Air_(1935_film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "La_Boh\u00e8me_(1926_film)",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Libeled_Lady",
+                "isBasedOn",
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)"
+            ],
+            [
+                "Ben-Hur:_A_Tale_of_the_Christ_(1925_film)",
+                "creator",
+                "William_Axt"
+            ]
+        ],
+        "score": "18.216114",
+        "rank": "1",
+        "new_score": "16.538057",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Graham_Lewis_(footballer)",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "'Allo_'Allo!",
+                "author",
+                "Graham_Lewis_(footballer)"
+            ]
+        ],
+        "score": "20.412266",
+        "rank": "1",
+        "new_score": "26.602564",
+        "new_rank": "181"
+    },
+    {
+        "triple_to_explain": [
+            "Pietro_De_Vico",
+            "nationality",
+            "Kingdom_of_Italy"
+        ],
+        "rule": [
+            [
+                "Ginevra_degli_Almieri",
+                "producer",
+                "Pietro_De_Vico"
+            ]
+        ],
+        "score": "19.88925",
+        "rank": "1",
+        "new_score": "20.404066",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Alexei_Ivanovich_Abrikosov",
+            "award",
+            "Order_of_the_Red_Banner_of_Labour"
+        ],
+        "rule": [
+            [
+                "Order_of_the_Red_Banner_of_Labour",
+                "founder",
+                "Alexei_Ivanovich_Abrikosov"
+            ]
+        ],
+        "score": "14.82778",
+        "rank": "1",
+        "new_score": "16.36047",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Cristian_Mungiu",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Cristian_Mungiu",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._B._Raj"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._C._Tirulokchandar"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._E._Coleby"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._Jagannathan"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._K._Lohithadas"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._Kodandarami_Reddy"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._L._Vijay"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._P._Nagarajan"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._S._A._Sami"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._V._Meiyappan"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._Venkatesh_(director)"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "A._Vincent"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "AR_Murugadoss"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "Aanand_L._Rai"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "Aarathi"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "Cristian_Mungiu",
+                "award",
+                "Aaron_Norris"
+            ]
+        ],
+        "score": "28.473806",
+        "rank": "1",
+        "new_score": "27.53276",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "The_Gangster_(1947_film)",
+            "genre",
+            "Film_noir"
+        ],
+        "rule": [
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "5_Against_the_House"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "711_Ocean_Drive"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "A_Blueprint_for_Murder"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "A_Double_Life_(1947_film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "A_Lady_Without_Passport"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "A_Woman's_Face"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Ace_in_the_Hole_(1951_film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Act_of_Violence"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "All_the_King's_Men_(1949_film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Almost_Human_(1974_film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Angel_Face_(1953_film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Appointment_with_Danger"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Armored_Car_Robbery"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Arsenic_and_Old_Lace_(film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Baby_Face_(film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Baby_Face_Nelson_(film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Beyond_the_Forest"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Black_Angel_(1946_film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "citation",
+                "Black_Tuesday_(film)"
+            ],
+            [
+                "The_Gangster_(1947_film)",
+                "about",
+                "Film_noir"
+            ]
+        ],
+        "score": "26.599705",
+        "rank": "1",
+        "new_score": "22.687021",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Au_grand_balcon",
+            "countryOfOrigin",
+            "France"
+        ],
+        "rule": [
+            [
+                "Au_grand_balcon",
+                "contentLocation",
+                "France"
+            ]
+        ],
+        "score": "27.165857",
+        "rank": "1",
+        "new_score": "24.429306",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Robert_Crippen",
+            "hasOccupation",
+            "Officer_(armed_forces)"
+        ],
+        "rule": [
+            [
+                "Raumpatrouille_\u2013_Die_phantastischen_Abenteuer_des_Raumschiffes_Orion",
+                "author",
+                "Robert_Crippen"
+            ],
+            [
+                "Raumpatrouille_\u2013_Die_phantastischen_Abenteuer_des_Raumschiffes_Orion",
+                "musicBy",
+                "Robert_Crippen"
+            ]
+        ],
+        "score": "24.14671",
+        "rank": "1",
+        "new_score": "28.995716",
+        "new_rank": "24"
+    },
+    {
+        "triple_to_explain": [
+            "Kellan_Lutz",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "City_of_God_\u2013_10_Years_Later",
+                "musicBy",
+                "Kellan_Lutz"
+            ]
+        ],
+        "score": "30.846853",
+        "rank": "1",
+        "new_score": "28.757338",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "James_Whale",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "James_Whale",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._B._Raj"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._C._Tirulokchandar"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._E._Coleby"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._Jagannathan"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._K._Lohithadas"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._Kodandarami_Reddy"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._L._Vijay"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._P._Nagarajan"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._S._A._Sami"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._V._Meiyappan"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._Venkatesh_(director)"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "A._Vincent"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "AR_Murugadoss"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "Aanand_L._Rai"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "Aarathi"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "James_Whale",
+                "award",
+                "Aaron_Norris"
+            ]
+        ],
+        "score": "27.619165",
+        "rank": "1",
+        "new_score": "24.483173",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rebel_in_the_Rye",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "300:_Rise_of_an_Empire",
+                "isBasedOn",
+                "Rebel_in_the_Rye"
+            ]
+        ],
+        "score": "26.203285",
+        "rank": "1",
+        "new_score": "24.029608",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Michael_Redgrave",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "'71_(film)",
+                "actor",
+                "Michael_Redgrave"
+            ]
+        ],
+        "score": "18.912664",
+        "rank": "1",
+        "new_score": "23.558453",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Jenny_McCarthy",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Jenny_McCarthy",
+                "award",
+                "Screenwriter"
+            ],
+            [
+                "Alexandra_Paul",
+                "spouse",
+                "Jenny_McCarthy"
+            ]
+        ],
+        "score": "27.657362",
+        "rank": "1",
+        "new_score": "24.87341",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Marcel_Dassault",
+            "knowsLanguage",
+            "French_language"
+        ],
+        "rule": [
+            [
+                "Around_the_World_in_Eighty_Days",
+                "editor",
+                "Marcel_Dassault"
+            ],
+            [
+                "Carmen_(novella)",
+                "editor",
+                "Marcel_Dassault"
+            ]
+        ],
+        "score": "24.08999",
+        "rank": "1",
+        "new_score": "24.939072",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Maldives",
+            "memberOf",
+            "International_Bank_for_Reconstruction_and_Development"
+        ],
+        "rule": [
+            [
+                "11'09%2201_September_11",
+                "countryOfOrigin",
+                "Maldives"
+            ]
+        ],
+        "score": "19.107046",
+        "rank": "1",
+        "new_score": "21.21623",
+        "new_rank": "13"
+    },
+    {
+        "triple_to_explain": [
+            "Alf_Kjellin",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Alexandra_Paul",
+                "spouse",
+                "Alf_Kjellin"
+            ]
+        ],
+        "score": "26.963375",
+        "rank": "1",
+        "new_score": "29.706364",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Giacomo_Gentilomo",
+            "nationality",
+            "Kingdom_of_Italy"
+        ],
+        "rule": [
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Achille_Majeroni"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Achille_Manzotti"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Ada_Colangeli"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Ada_Dondini"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Adele_Garavaglia"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Adolfo_Celi"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Adriana_Benetti"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Agostino_Salvietti"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Alan_Steel"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Alba_Arnova"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Alberto_Bonucci"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Alberto_De_Martino"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Alberto_Farnese"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Alberto_Lattuada"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Alberto_Lionello"
+            ],
+            [
+                "Giacomo_Gentilomo",
+                "award",
+                "Alberto_Lupo"
+            ]
+        ],
+        "score": "20.613306",
+        "rank": "1",
+        "new_score": "20.24343",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Carl_Wieman",
+            "memberOf",
+            "American_Academy_of_Arts_and_Sciences"
+        ],
+        "rule": [
+            [
+                "Carl_Wieman",
+                "award",
+                "American_Academy_of_Arts_and_Sciences"
+            ],
+            [
+                "American_Academy_of_Arts_and_Sciences",
+                "founder",
+                "Carl_Wieman"
+            ]
+        ],
+        "score": "17.23114",
+        "rank": "1",
+        "new_score": "18.799866",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Art_Smith_(actor)",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Alexandra_Paul",
+                "children",
+                "Art_Smith_(actor)"
+            ]
+        ],
+        "score": "31.434551",
+        "rank": "1",
+        "new_score": "31.85368",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "From_Dusk_till_Dawn:_The_Series",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "From_Dusk_till_Dawn:_The_Series",
+                "contentLocation",
+                "United_States"
+            ],
+            [
+                "101_Dalmatians_(1996_film)",
+                "isBasedOn",
+                "From_Dusk_till_Dawn:_The_Series"
+            ]
+        ],
+        "score": "23.719633",
+        "rank": "1",
+        "new_score": "25.179323",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Compton_Bennett",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule": [
+            [
+                "Alexandra_Paul",
+                "spouse",
+                "Compton_Bennett"
+            ]
+        ],
+        "score": "27.862518",
+        "rank": "1",
+        "new_score": "27.61706",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "The_Man_with_the_Golden_Gun_(film)",
+            "genre",
+            "Spy_film"
+        ],
+        "rule": [
+            [
+                "Stawka_wi\u0119ksza_ni\u017c_\u017cycie",
+                "isBasedOn",
+                "The_Man_with_the_Golden_Gun_(film)"
+            ]
+        ],
+        "score": "24.504833",
+        "rank": "1",
+        "new_score": "25.113857",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Suzan-Lori_Parks",
+            "hasOccupation",
+            "Playwright"
+        ],
+        "rule": [
+            [
+                "Suzan-Lori_Parks",
+                "award",
+                "Playwright"
+            ]
+        ],
+        "score": "29.02807",
+        "rank": "1",
+        "new_score": "26.6871",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Nikolai_Bulganin",
+            "knowsLanguage",
+            "Russian_language"
+        ],
+        "rule": [
+            [
+                "Anna_Karenina",
+                "character",
+                "Nikolai_Bulganin"
+            ],
+            [
+                "Anna_Karenina",
+                "contributor",
+                "Nikolai_Bulganin"
+            ]
+        ],
+        "score": "23.980738",
+        "rank": "1",
+        "new_score": "22.435417",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Renato_Scarpa",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "City_of_God_\u2013_10_Years_Later",
+                "character",
+                "Renato_Scarpa"
+            ],
+            [
+                "I_Knew_It_Was_You",
+                "director",
+                "Renato_Scarpa"
+            ]
+        ],
+        "score": "29.076307",
+        "rank": "1",
+        "new_score": "30.423237",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Paul_and_Pauline",
+            "countryOfOrigin",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Counter-Strike:_Global_Offensive",
+                "isBasedOn",
+                "Paul_and_Pauline"
+            ],
+            [
+                "Euro_Truck_Simulator_2",
+                "isBasedOn",
+                "Paul_and_Pauline"
+            ],
+            [
+                "Around_the_World_in_80_Days_(2004_film)",
+                "isBasedOn",
+                "Paul_and_Pauline"
+            ],
+            [
+                "Asterix_and_Obelix_vs._Caesar",
+                "isBasedOn",
+                "Paul_and_Pauline"
+            ]
+        ],
+        "score": "28.308533",
+        "rank": "1",
+        "new_score": "28.32605",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Altered_States",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "101_Dalmatians_(1996_film)",
+                "isBasedOn",
+                "Altered_States"
+            ],
+            [
+                "20,000_Leagues_Under_the_Sea_(1954_film)",
+                "isBasedOn",
+                "Altered_States"
+            ]
+        ],
+        "score": "26.015938",
+        "rank": "1",
+        "new_score": "24.033403",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Isaac_Cuenca",
+            "hasOccupation",
+            "Football_player"
+        ],
+        "rule": [
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Aaran_Lines"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Aaron_Brown_(footballer,_born_1980)"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Aaron_Brown_(footballer,_born_1983)"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Aaron_Hughes"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Abdelhak_Benchikha"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Abdelmajid_Eddine"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Abedi_(footballer)"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Abedi_Pele"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Abel_Xavier"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Ada_Hegerberg"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Adam_Rooney"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Aderaldo_Ferreira_Andr\u00e9"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Adrian_Caceres"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Adrian_Madaschi"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Adrian_Mutu"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Adrian_Webster_(footballer,_born_1980)"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Adriana_Mart\u00edn"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Adriano_Chuva"
+            ],
+            [
+                "Isaac_Cuenca",
+                "award",
+                "Adriano_Gerlin_da_Silva"
+            ]
+        ],
+        "score": "25.076174",
+        "rank": "1",
+        "new_score": "23.674067",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mintimer_Shaimiev",
+            "nationality",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "A_Royal_Scandal_(film)",
+                "producer",
+                "Mintimer_Shaimiev"
+            ]
+        ],
+        "score": "19.265194",
+        "rank": "1",
+        "new_score": "17.575367",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rudolf_Forster",
+            "knowsLanguage",
+            "German_language"
+        ],
+        "rule": [
+            [
+                "Despair_(film)",
+                "creator",
+                "Rudolf_Forster"
+            ]
+        ],
+        "score": "26.865484",
+        "rank": "1",
+        "new_score": "22.432014",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Malibu's_Most_Wanted",
+            "contentLocation",
+            "Los_Angeles"
+        ],
+        "rule": [
+            [
+                "Angels_in_the_Outfield_(1994_film)",
+                "isBasedOn",
+                "Malibu's_Most_Wanted"
+            ],
+            [
+                "Beverly_Hills_Chihuahua_2",
+                "isBasedOn",
+                "Malibu's_Most_Wanted"
+            ],
+            [
+                "Beverly_Hills_Chihuahua_3:_Viva_la_Fiesta!",
+                "isBasedOn",
+                "Malibu's_Most_Wanted"
+            ],
+            [
+                "Bulletproof_(1996_film)",
+                "isBasedOn",
+                "Malibu's_Most_Wanted"
+            ]
+        ],
+        "score": "19.834959",
+        "rank": "1",
+        "new_score": "24.986513",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Don_Coscarelli",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Don_Coscarelli",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._B._Raj"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._C._Tirulokchandar"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._E._Coleby"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._Jagannathan"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._K._Lohithadas"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._Kodandarami_Reddy"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._L._Vijay"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._P._Nagarajan"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._S._A._Sami"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._V._Meiyappan"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._Venkatesh_(director)"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "A._Vincent"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "AR_Murugadoss"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "Aanand_L._Rai"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "Aarathi"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "Don_Coscarelli",
+                "award",
+                "Aaron_Norris"
+            ]
+        ],
+        "score": "27.165548",
+        "rank": "1",
+        "new_score": "26.157515",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "The_Big_Store",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "The_Big_Store",
+                "contentLocation",
+                "United_States"
+            ]
+        ],
+        "score": "29.038729",
+        "rank": "1",
+        "new_score": "26.05014",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "The_Astronaut_Farmer",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "The_Astronaut_Farmer",
+                "contentLocation",
+                "United_States"
+            ],
+            [
+                "300:_Rise_of_an_Empire",
+                "isBasedOn",
+                "The_Astronaut_Farmer"
+            ],
+            [
+                "101_Dalmatians_(1996_film)",
+                "isBasedOn",
+                "The_Astronaut_Farmer"
+            ],
+            [
+                "20,000_Leagues_Under_the_Sea_(1954_film)",
+                "isBasedOn",
+                "The_Astronaut_Farmer"
+            ],
+            [
+                "12_Angry_Men_(1997_film)",
+                "about",
+                "The_Astronaut_Farmer"
+            ],
+            [
+                "24:_Redemption",
+                "about",
+                "The_Astronaut_Farmer"
+            ],
+            [
+                "A_Fairly_Odd_Movie:_Grow_Up,_Timmy_Turner!",
+                "about",
+                "The_Astronaut_Farmer"
+            ],
+            [
+                "A_Season_of_Giants",
+                "about",
+                "The_Astronaut_Farmer"
+            ]
+        ],
+        "score": "22.487478",
+        "rank": "1",
+        "new_score": "26.99925",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Corinnidae",
+            "taxonRank",
+            "Family_(biology)"
+        ],
+        "rule": [
+            [
+                "Assimineidae",
+                "parentTaxon",
+                "Corinnidae"
+            ],
+            [
+                "Calliostomatidae",
+                "parentTaxon",
+                "Corinnidae"
+            ]
+        ],
+        "score": "31.580065",
+        "rank": "1",
+        "new_score": "32.014244",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "John_Downer",
+            "honorificPrefix",
+            "Sir"
+        ],
+        "rule": [
+            [
+                "John_Downer",
+                "award",
+                "Sir"
+            ]
+        ],
+        "score": "16.935791",
+        "rank": "1",
+        "new_score": "20.344154",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Divine_Comedy",
+            "character",
+            "Dante_Alighieri"
+        ],
+        "rule": [
+            [
+                "Divine_Comedy",
+                "inLanguage",
+                "Italian_language"
+            ]
+        ],
+        "score": "19.575594",
+        "rank": "1",
+        "new_score": "21.230038",
+        "new_rank": "45"
+    },
+    {
+        "triple_to_explain": [
+            "Robert_Menasse",
+            "nationality",
+            "Austria"
+        ],
+        "rule": [
+            [
+                "1._April_2000",
+                "director",
+                "Robert_Menasse"
+            ],
+            [
+                "360_(film)",
+                "director",
+                "Robert_Menasse"
+            ]
+        ],
+        "score": "18.755762",
+        "rank": "1",
+        "new_score": "25.085625",
+        "new_rank": "41"
+    },
+    {
+        "triple_to_explain": [
+            "Tom_Schilling",
+            "birthPlace",
+            "Berlin"
+        ],
+        "rule": [
+            [
+                "1864_(TV_series)",
+                "creator",
+                "Tom_Schilling"
+            ]
+        ],
+        "score": "20.195509",
+        "rank": "1",
+        "new_score": "20.473347",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Rudolf_Leuckart",
+            "memberOf",
+            "Bavarian_Academy_of_Sciences_and_Humanities"
+        ],
+        "rule": [
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Adam_Weishaupt"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Adolf_Butenandt"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Adolf_Erik_Nordenski\u00f6ld"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Adolf_von_Harnack"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Albert_Einstein"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Alessandro_Volta"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Alexander_Agassiz"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Alphonse_Pyramus_de_Candolle"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Anatoly_Nikolaievich_Demidov,_1st_Prince_of_San_Donato"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Andr\u00e9_Weil"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Archduke_John_of_Austria"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Archibald_Geikie"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Arnold_Sommerfeld"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Arthur_Auwers"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Arthur_Eddington"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "August_B\u00f6ckh"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "August_Weismann"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "August_Wilhelm_Schlegel"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "August_Wilhelm_von_Hofmann"
+            ],
+            [
+                "Rudolf_Leuckart",
+                "award",
+                "Benjamin_Rush"
+            ]
+        ],
+        "score": "13.870501",
+        "rank": "1",
+        "new_score": "17.56701",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Taxi_(2004_film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "%22Weird_Al%22_Yankovic"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "50_Cent"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "9th_Wonder"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "A.B._Quintanilla"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "A._C._Lyles"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "A._J._Muste"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "A._W._Hackel"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "AJ_Michalka"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "A_Martinez"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Burr"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Copland"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Eckhart"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Hill_(actor)"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Norris"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Paul"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Sorkin"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Spelling"
+            ],
+            [
+                "Taxi_(2004_film)",
+                "actor",
+                "Aaron_Stanford"
+            ]
+        ],
+        "score": "24.126835",
+        "rank": "1",
+        "new_score": "24.238863",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Austria",
+            "memberOf",
+            "African_Development_Bank"
+        ],
+        "rule": [
+            [
+                "%22Weird_Al%22_Yankovic",
+                "birthPlace",
+                "Austria"
+            ]
+        ],
+        "score": "24.047205",
+        "rank": "1",
+        "new_score": "25.268663",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mesophleps",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Acontia",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Anomala",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Bulimulus",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Bythinella",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Candidula",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Carlia",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Ceroxys",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Coptodisca",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Coptops",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Cossula",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Ctenucha",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Dendrelaphis",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Dihammaphora",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Erebus_(moth)",
+                "parentTaxon",
+                "Mesophleps"
+            ]
+        ],
+        "score": "33.569553",
+        "rank": "1",
+        "new_score": "31.801945",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Olzhas_Suleimenov",
+            "nationality",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "A_Royal_Scandal_(film)",
+                "musicBy",
+                "Olzhas_Suleimenov"
+            ],
+            [
+                "A_Royal_Scandal_(film)",
+                "producer",
+                "Olzhas_Suleimenov"
+            ],
+            [
+                "Olzhas_Suleimenov",
+                "homeLocation",
+                "Soviet_Union"
+            ]
+        ],
+        "score": "20.291592",
+        "rank": "1",
+        "new_score": "19.037083",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "I_Spy_(film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "I_Spy_(film)",
+                "contentLocation",
+                "United_States"
+            ],
+            [
+                "300:_Rise_of_an_Empire",
+                "isBasedOn",
+                "I_Spy_(film)"
+            ],
+            [
+                "101_Dalmatians_(1996_film)",
+                "isBasedOn",
+                "I_Spy_(film)"
+            ],
+            [
+                "20,000_Leagues_Under_the_Sea_(1954_film)",
+                "isBasedOn",
+                "I_Spy_(film)"
+            ]
+        ],
+        "score": "23.40148",
+        "rank": "1",
+        "new_score": "27.594152",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Teja_(director)",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Alexandra_Paul",
+                "children",
+                "Teja_(director)"
+            ],
+            [
+                "Alexandra_Paul",
+                "spouse",
+                "Teja_(director)"
+            ]
+        ],
+        "score": "27.57857",
+        "rank": "1",
+        "new_score": "28.99931",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dragan_Mi\u0107anovi\u0107",
+            "nationality",
+            "Serbia"
+        ],
+        "rule": [
+            [
+                "Battle_of_Kosovo_(film)",
+                "actor",
+                "Dragan_Mi\u0107anovi\u0107"
+            ],
+            [
+                "Barking_at_the_Stars",
+                "musicBy",
+                "Dragan_Mi\u0107anovi\u0107"
+            ],
+            [
+                "Battle_of_Kosovo_(film)",
+                "musicBy",
+                "Dragan_Mi\u0107anovi\u0107"
+            ]
+        ],
+        "score": "21.457508",
+        "rank": "1",
+        "new_score": "19.955208",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rohit_Roy",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "City_of_God_\u2013_10_Years_Later",
+                "musicBy",
+                "Rohit_Roy"
+            ],
+            [
+                "Alexandra_Paul",
+                "children",
+                "Rohit_Roy"
+            ],
+            [
+                "Ashley_Olsen",
+                "children",
+                "Rohit_Roy"
+            ],
+            [
+                "I_Knew_It_Was_You",
+                "producer",
+                "Rohit_Roy"
+            ]
+        ],
+        "score": "32.848595",
+        "rank": "1",
+        "new_score": "28.297405",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Houston_Cougars",
+            "sport",
+            "Basketball"
+        ],
+        "rule": [
+            [
+                "AEK_B.C.",
+                "memberOf",
+                "Houston_Cougars"
+            ],
+            [
+                "ASK_Riga",
+                "memberOf",
+                "Houston_Cougars"
+            ],
+            [
+                "Adelaide_36ers",
+                "memberOf",
+                "Houston_Cougars"
+            ],
+            [
+                "Adelaide_Lightning",
+                "memberOf",
+                "Houston_Cougars"
+            ],
+            [
+                "Akita_Northern_Happinets",
+                "memberOf",
+                "Houston_Cougars"
+            ],
+            [
+                "Alaska_Aces_(PBA)",
+                "memberOf",
+                "Houston_Cougars"
+            ],
+            [
+                "Alba_Berlin",
+                "memberOf",
+                "Houston_Cougars"
+            ],
+            [
+                "Alba_Feh\u00e9rv\u00e1r",
+                "memberOf",
+                "Houston_Cougars"
+            ],
+            [
+                "Albany_Patroons",
+                "memberOf",
+                "Houston_Cougars"
+            ],
+            [
+                "Alia\u011fa_Petkim",
+                "memberOf",
+                "Houston_Cougars"
+            ]
+        ],
+        "score": "28.645658",
+        "rank": "1",
+        "new_score": "22.586649",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Six_Meetings_Before_Lunch",
+            "actor",
+            "Bradley_Whitford"
+        ],
+        "rule": [
+            [
+                "Six_Meetings_Before_Lunch",
+                "producer",
+                "Bradley_Whitford"
+            ]
+        ],
+        "score": "13.387953",
+        "rank": "1",
+        "new_score": "15.091787",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "'Til_We_Meet_Again",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "%22Weird_Al%22_Yankovic"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "50_Cent"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "9th_Wonder"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "A.B._Quintanilla"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "A._C._Lyles"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "A._J._Muste"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "A._W._Hackel"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "AJ_Michalka"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "A_Martinez"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Burr"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Copland"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Eckhart"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Hill_(actor)"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Norris"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Paul"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Sorkin"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Spelling"
+            ],
+            [
+                "'Til_We_Meet_Again",
+                "actor",
+                "Aaron_Stanford"
+            ]
+        ],
+        "score": "26.224768",
+        "rank": "1",
+        "new_score": "26.316525",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Beatriz,_Duchess_of_Viseu",
+            "nationality",
+            "Portugal"
+        ],
+        "rule": [
+            [
+                "36_Hours_(1965_film)",
+                "copyrightHolder",
+                "Beatriz,_Duchess_of_Viseu"
+            ],
+            [
+                "A_Man_Could_Get_Killed",
+                "copyrightHolder",
+                "Beatriz,_Duchess_of_Viseu"
+            ]
+        ],
+        "score": "18.020948",
+        "rank": "1",
+        "new_score": "21.185743",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Rocky_Carroll",
+            "award",
+            "Theatre_World_Award"
+        ],
+        "rule": [
+            [
+                "Rocky_Carroll",
+                "givenName",
+                "Theatre_World_Award"
+            ]
+        ],
+        "score": "23.307682",
+        "rank": "1",
+        "new_score": "22.452528",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Indian_Statistical_Institute",
+            "containedInPlace",
+            "North_24_Parganas_district"
+        ],
+        "rule": [
+            [
+                "Abhishek_Chatterjee",
+                "affiliation",
+                "Indian_Statistical_Institute"
+            ],
+            [
+                "S._R._Srinivasa_Varadhan",
+                "affiliation",
+                "Indian_Statistical_Institute"
+            ],
+            [
+                "Abhishek_Chatterjee",
+                "alumniOf",
+                "Indian_Statistical_Institute"
+            ],
+            [
+                "Indian_Statistical_Institute",
+                "award",
+                "Abel_Prize"
+            ],
+            [
+                "Indian_Statistical_Institute",
+                "award",
+                "National_Medal_of_Science"
+            ]
+        ],
+        "score": "10.061606",
+        "rank": "1",
+        "new_score": "16.532084",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Odette_Joyeux",
+            "knowsLanguage",
+            "French_language"
+        ],
+        "rule": [
+            [
+                "Around_the_World_in_Eighty_Days",
+                "editor",
+                "Odette_Joyeux"
+            ],
+            [
+                "Carmen_(novella)",
+                "editor",
+                "Odette_Joyeux"
+            ],
+            [
+                "Counter-Strike:_Global_Offensive",
+                "actor",
+                "Odette_Joyeux"
+            ]
+        ],
+        "score": "23.547064",
+        "rank": "1",
+        "new_score": "24.98873",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Carlo_Romano",
+            "knowsLanguage",
+            "Italian_language"
+        ],
+        "rule": [
+            [
+                "Carlo_Romano",
+                "award",
+                "Ada_Colangeli"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Adolfo_Celi"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Adriana_Asti"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Adriana_Benetti"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Adriana_Giuffr\u00e8"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Adriano_Celentano"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Adriano_Giannini"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Adriano_Rimoldi"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Agostina_Belli"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Agostino_Salvietti"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Al_Cliver"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Alain-Ren\u00e9_Lesage"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Alan_Steel"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Alba_Rohrwacher"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Albano_Carrisi"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Albert_Roca"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Alberto_De_Martino"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Alberto_Dell'Acqua"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Alberto_Giacometti"
+            ],
+            [
+                "Carlo_Romano",
+                "award",
+                "Alberto_Lattuada"
+            ]
+        ],
+        "score": "24.10902",
+        "rank": "1",
+        "new_score": "22.006044",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "John_Paul_Jones_(film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "101_Dalmatians_(1996_film)",
+                "isBasedOn",
+                "John_Paul_Jones_(film)"
+            ],
+            [
+                "20,000_Leagues_Under_the_Sea_(1954_film)",
+                "isBasedOn",
+                "John_Paul_Jones_(film)"
+            ],
+            [
+                "12_Angry_Men_(1997_film)",
+                "about",
+                "John_Paul_Jones_(film)"
+            ],
+            [
+                "24:_Redemption",
+                "about",
+                "John_Paul_Jones_(film)"
+            ],
+            [
+                "A_Fairly_Odd_Movie:_Grow_Up,_Timmy_Turner!",
+                "about",
+                "John_Paul_Jones_(film)"
+            ],
+            [
+                "A_Season_of_Giants",
+                "about",
+                "John_Paul_Jones_(film)"
+            ]
+        ],
+        "score": "28.397448",
+        "rank": "1",
+        "new_score": "26.47323",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bernard_Borderie",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Bernard_Borderie",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._B._Raj"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._C._Tirulokchandar"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._E._Coleby"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._Jagannathan"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._K._Lohithadas"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._Kodandarami_Reddy"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._L._Vijay"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._P._Nagarajan"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._S._A._Sami"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._V._Meiyappan"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._Venkatesh_(director)"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "A._Vincent"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "AR_Murugadoss"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "Aanand_L._Rai"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "Aarathi"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "Bernard_Borderie",
+                "award",
+                "Aaron_Norris"
+            ]
+        ],
+        "score": "28.400278",
+        "rank": "1",
+        "new_score": "23.926252",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lucky_Lady",
+            "actor",
+            "Gene_Hackman"
+        ],
+        "rule": [
+            [
+                "American_Masters",
+                "isBasedOn",
+                "Lucky_Lady"
+            ]
+        ],
+        "score": "15.537919",
+        "rank": "1",
+        "new_score": "17.358927",
+        "new_rank": "260"
+    },
+    {
+        "triple_to_explain": [
+            "2016_Volta_a_Catalunya",
+            "competitor",
+            "2016_Lampre\u2013Merida_season"
+        ],
+        "rule": [
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_AG2R_La_Mondiale_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Astana_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_BMC_Racing_Team_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Cannondale\u2013Garmin_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Etixx\u2013Quick-Step_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_FDJ_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_IAM_Cycling_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Lampre\u2013Merida_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Lotto\u2013Soudal_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Movistar_Team_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Orica\u2013GreenEDGE_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Team_Giant\u2013Alpecin_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Team_Katusha_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Team_LottoNL\u2013Jumbo_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Team_Sky_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Team_Tinkoff\u2013Saxo_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2015_Trek_Factory_Racing_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2016_Dimension_Data_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2016_Etixx\u2013Quick-Step_season"
+            ],
+            [
+                "2016_Volta_a_Catalunya",
+                "competitor",
+                "2016_Team_Katusha_season"
+            ]
+        ],
+        "score": "16.463829",
+        "rank": "1",
+        "new_score": "16.401375",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Flavio_Lazzari",
+            "nationality",
+            "Italy"
+        ],
+        "rule": [
+            [
+                "%22FF.SS.%22_\u2013_Cio\u00e8:_%22...che_mi_hai_portato_a_fare_sopra_a_Posillipo_se_non_mi_vuoi_pi\u00f9_bene%3F%22",
+                "author",
+                "Flavio_Lazzari"
+            ],
+            [
+                "100_Years_of_Love",
+                "author",
+                "Flavio_Lazzari"
+            ]
+        ],
+        "score": "23.238977",
+        "rank": "1",
+        "new_score": "22.342215",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Arjun_Rampal",
+            "knowsLanguage",
+            "Hindi"
+        ],
+        "rule": [
+            [
+                "Arjun_Rampal",
+                "award",
+                "A._K._Hangal"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "A._R._Rahman"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Aanjjan_Srivastav"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Abbas_(actor)"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Abhay_Deol"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Abhi_Bhattacharya"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Abhimanyu_Singh"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Abhishek_Bachchan"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Adil_Hussain"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Aditi_Rao_Hydari"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Aditya_Chopra"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Aditya_Pancholi"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Aishwarya_Rai"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Ajay_Devgn"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Ajit_Khan"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Akkineni_Nagarjuna"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Akkineni_Nageswara_Rao"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Akshay_Kumar"
+            ],
+            [
+                "Arjun_Rampal",
+                "award",
+                "Akshaye_Khanna"
+            ]
+        ],
+        "score": "24.168467",
+        "rank": "1",
+        "new_score": "22.527363",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Isaac_Bashevis_Singer",
+            "knowsLanguage",
+            "Polish_language"
+        ],
+        "rule": [
+            [
+                "Counter-Strike:_Global_Offensive",
+                "musicBy",
+                "Isaac_Bashevis_Singer"
+            ],
+            [
+                "Counter-Strike:_Global_Offensive",
+                "producer",
+                "Isaac_Bashevis_Singer"
+            ]
+        ],
+        "score": "23.280481",
+        "rank": "1",
+        "new_score": "21.206978",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jumper_(2008_film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "101_Dalmatians_(1996_film)",
+                "isBasedOn",
+                "Jumper_(2008_film)"
+            ],
+            [
+                "20,000_Leagues_Under_the_Sea_(1954_film)",
+                "isBasedOn",
+                "Jumper_(2008_film)"
+            ]
+        ],
+        "score": "26.15023",
+        "rank": "1",
+        "new_score": "25.771572",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Marc_Levin",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Marc_Levin",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._B._Raj"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._C._Tirulokchandar"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._E._Coleby"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._Jagannathan"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._K._Lohithadas"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._Kodandarami_Reddy"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._L._Vijay"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._P._Nagarajan"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._S._A._Sami"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._V._Meiyappan"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._Venkatesh_(director)"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "A._Vincent"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "AR_Murugadoss"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "Aanand_L._Rai"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "Aarathi"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "Marc_Levin",
+                "award",
+                "Aaron_Norris"
+            ]
+        ],
+        "score": "27.70442",
+        "rank": "1",
+        "new_score": "24.272398",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "In_Harm's_Way",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "300:_Rise_of_an_Empire",
+                "isBasedOn",
+                "In_Harm's_Way"
+            ],
+            [
+                "101_Dalmatians_(1996_film)",
+                "isBasedOn",
+                "In_Harm's_Way"
+            ],
+            [
+                "20,000_Leagues_Under_the_Sea_(1954_film)",
+                "isBasedOn",
+                "In_Harm's_Way"
+            ]
+        ],
+        "score": "27.646214",
+        "rank": "1",
+        "new_score": "24.826159",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "All_the_President's_Men_(film)",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "300:_Rise_of_an_Empire",
+                "isBasedOn",
+                "All_the_President's_Men_(film)"
+            ]
+        ],
+        "score": "20.884283",
+        "rank": "1",
+        "new_score": "24.665503",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "G\u00e9rard_Philipe",
+            "nationality",
+            "France"
+        ],
+        "rule": [
+            [
+                "1492:_Conquest_of_Paradise",
+                "copyrightHolder",
+                "G\u00e9rard_Philipe"
+            ],
+            [
+                "'Allo_'Allo!",
+                "author",
+                "G\u00e9rard_Philipe"
+            ],
+            [
+                "11'09%2201_September_11",
+                "producer",
+                "G\u00e9rard_Philipe"
+            ],
+            [
+                "G\u00e9rard_Philipe",
+                "birthPlace",
+                "France"
+            ]
+        ],
+        "score": "20.288643",
+        "rank": "1",
+        "new_score": "17.475382",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sean_Pertwee",
+            "birthPlace",
+            "London"
+        ],
+        "rule": [
+            [
+                "10_Rillington_Place",
+                "creator",
+                "Sean_Pertwee"
+            ],
+            [
+                "101_Dalmatians_(1996_film)",
+                "character",
+                "Sean_Pertwee"
+            ],
+            [
+                "102_Dalmatians",
+                "character",
+                "Sean_Pertwee"
+            ]
+        ],
+        "score": "15.754512",
+        "rank": "1",
+        "new_score": "21.382885",
+        "new_rank": "79"
+    },
+    {
+        "triple_to_explain": [
+            "Gulshan_Grover",
+            "knowsLanguage",
+            "Hindi"
+        ],
+        "rule": [
+            [
+                "Gulshan_Grover",
+                "award",
+                "A._K._Hangal"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "A._R._Rahman"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Aanjjan_Srivastav"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Abbas_(actor)"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Abhay_Deol"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Abhi_Bhattacharya"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Abhimanyu_Singh"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Abhishek_Bachchan"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Adil_Hussain"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Aditi_Rao_Hydari"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Aditya_Chopra"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Aditya_Pancholi"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Aishwarya_Rai"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Ajay_Devgn"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Ajit_Khan"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Akkineni_Nagarjuna"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Akkineni_Nageswara_Rao"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Akshay_Kumar"
+            ],
+            [
+                "Gulshan_Grover",
+                "award",
+                "Akshaye_Khanna"
+            ]
+        ],
+        "score": "21.65356",
+        "rank": "1",
+        "new_score": "18.75007",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "A._R._Rahman",
+            "hasOccupation",
+            "Music_director"
+        ],
+        "rule": [
+            [
+                "A._R._Rahman",
+                "award",
+                "Music_director"
+            ]
+        ],
+        "score": "24.666765",
+        "rank": "1",
+        "new_score": "28.261723",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "David_Mich\u00f4d",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._B._Raj"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._C._Tirulokchandar"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._E._Coleby"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._Edward_Sutherland"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._Jagannathan"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._K._Lohithadas"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._Kodandarami_Reddy"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._L._Vijay"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._P._Nagarajan"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._S._A._Sami"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._V._Meiyappan"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._Venkatesh_(director)"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "A._Vincent"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "AR_Murugadoss"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "Aamir_Khan"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "Aanand_L._Rai"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "Aarathi"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "Aaron_Lipstadt"
+            ],
+            [
+                "David_Mich\u00f4d",
+                "award",
+                "Aaron_Norris"
+            ]
+        ],
+        "score": "27.277596",
+        "rank": "1",
+        "new_score": "25.320868",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jean_Dast\u00e9",
+            "knowsLanguage",
+            "French_language"
+        ],
+        "rule": [
+            [
+                "Around_the_World_in_Eighty_Days",
+                "contributor",
+                "Jean_Dast\u00e9"
+            ],
+            [
+                "Carmen_(novella)",
+                "contributor",
+                "Jean_Dast\u00e9"
+            ],
+            [
+                "Counter-Strike:_Global_Offensive",
+                "musicBy",
+                "Jean_Dast\u00e9"
+            ],
+            [
+                "Counter-Strike:_Global_Offensive",
+                "character",
+                "Jean_Dast\u00e9"
+            ],
+            [
+                "Alexandra_Paul",
+                "spouse",
+                "Jean_Dast\u00e9"
+            ]
+        ],
+        "score": "23.823982",
+        "rank": "1",
+        "new_score": "21.586689",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Josef_Bierbichler",
+            "nationality",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "08%2F15_(film)",
+                "musicBy",
+                "Josef_Bierbichler"
+            ]
+        ],
+        "score": "22.683636",
+        "rank": "1",
+        "new_score": "19.400831",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "This_Is_My_Affair",
+            "countryOfOrigin",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "101_Dalmatians_(1996_film)",
+                "isBasedOn",
+                "This_Is_My_Affair"
+            ],
+            [
+                "20,000_Leagues_Under_the_Sea_(1954_film)",
+                "isBasedOn",
+                "This_Is_My_Affair"
+            ]
+        ],
+        "score": "27.909824",
+        "rank": "1",
+        "new_score": "29.41093",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "J._V._Somayajulu",
+            "nationality",
+            "India"
+        ],
+        "rule": [
+            [
+                "2012_(film)",
+                "author",
+                "J._V._Somayajulu"
+            ],
+            [
+                "3_Idiots",
+                "author",
+                "J._V._Somayajulu"
+            ]
+        ],
+        "score": "20.140575",
+        "rank": "1",
+        "new_score": "19.65202",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hearts_of_the_World",
+            "director",
+            "D._W._Griffith"
+        ],
+        "rule": [
+            [
+                "Hearts_of_the_World",
+                "about",
+                "Executive_producer"
+            ],
+            [
+                "Hearts_of_the_World",
+                "about",
+                "Film_producer"
+            ],
+            [
+                "Hearts_of_the_World",
+                "about",
+                "Screenwriter"
+            ]
+        ],
+        "score": "15.960816",
+        "rank": "1",
+        "new_score": "19.292788",
+        "new_rank": "15"
+    },
+    {
+        "triple_to_explain": [
+            "Olga_Chekhova",
+            "knowsLanguage",
+            "Russian_language"
+        ],
+        "rule": [
+            [
+                "Crime_and_Punishment",
+                "author",
+                "Olga_Chekhova"
+            ]
+        ],
+        "score": "24.92932",
+        "rank": "1",
+        "new_score": "26.68421",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mateja_Ke\u017eman",
+            "hasOccupation",
+            "Football_player"
+        ],
+        "rule": [
+            [
+                "Mateja_Ke\u017eman",
+                "award",
+                "Football_player"
+            ]
+        ],
+        "score": "25.877111",
+        "rank": "1",
+        "new_score": "22.898298",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Borys_Paton",
+            "memberOf",
+            "Russian_Academy_of_Sciences"
+        ],
+        "rule": [
+            [
+                "Borys_Paton",
+                "affiliation",
+                "Siberian_Branch_of_the_Russian_Academy_of_Sciences"
+            ]
+        ],
+        "score": "17.03283",
+        "rank": "1",
+        "new_score": "16.521114",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Franco_Fabrizi",
+            "nationality",
+            "Kingdom_of_Italy"
+        ],
+        "rule": [
+            [
+                "Franco_Fabrizi",
+                "homeLocation",
+                "Kingdom_of_Italy"
+            ],
+            [
+                "Franco_Fabrizi",
+                "birthPlace",
+                "Kingdom_of_Italy"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Achille_Majeroni"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Achille_Manzotti"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Ada_Colangeli"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Ada_Dondini"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Adele_Garavaglia"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Adolfo_Celi"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Adriana_Benetti"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Agostino_Salvietti"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Alan_Steel"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Alba_Arnova"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Alberto_Bonucci"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Alberto_De_Martino"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Alberto_Farnese"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Alberto_Lattuada"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Alberto_Lionello"
+            ],
+            [
+                "Franco_Fabrizi",
+                "award",
+                "Alberto_Lupo"
+            ]
+        ],
+        "score": "20.292637",
+        "rank": "1",
+        "new_score": "16.925034",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Glipostenoda",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Aa_(plant)",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Aaptos",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Abacetus",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Abantis",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Abarema",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Abisara",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Abralia",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Abronia_(lizard)",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Abutilon",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acacia",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acalolepta",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acalypha",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acalyptris",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acanthemblemaria",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acanthodactylus",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acanthodelta",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acanthodica",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acanthodoris",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acanthogonatus",
+                "parentTaxon",
+                "Glipostenoda"
+            ],
+            [
+                "Acantholipes",
+                "parentTaxon",
+                "Glipostenoda"
+            ]
+        ],
+        "score": "35.607437",
+        "rank": "1",
+        "new_score": "33.764317",
+        "new_rank": "15"
+    },
+    {
+        "triple_to_explain": [
+            "Don_S._Davis",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "City_of_God_\u2013_10_Years_Later",
+                "copyrightHolder",
+                "Don_S._Davis"
+            ],
+            [
+                "City_of_God_\u2013_10_Years_Later",
+                "producer",
+                "Don_S._Davis"
+            ]
+        ],
+        "score": "28.682974",
+        "rank": "1",
+        "new_score": "30.060854",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Uwe_Timm",
+            "memberOf",
+            "Deutsche_Akademie_f\u00fcr_Sprache_und_Dichtung"
+        ],
+        "rule": [
+            [
+                "Uwe_Timm",
+                "award",
+                "Adolf_Muschg"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Alexander_Kluge"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Alfred_Brendel"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Arnold_Stadler"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Carl_Amery"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Carl_Zuckmayer"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Christa_Wolf"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Claudio_Magris"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Elfriede_Jelinek"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Erich_K\u00e4stner"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Erich_Maria_Remarque"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Ernst_Jandl"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Friederike_Mayr\u00f6cker"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Friedrich_D\u00fcrrenmatt"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "G\u00fcnther_Anders"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Hannah_Arendt"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Hans-Georg_Gadamer"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Hans_Werner_Henze"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Heinrich_B\u00f6ll"
+            ],
+            [
+                "Uwe_Timm",
+                "award",
+                "Herta_M\u00fcller"
+            ]
+        ],
+        "score": "13.270308",
+        "rank": "1",
+        "new_score": "19.668362",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Das_Boot",
+            "productionCompany",
+            "Bavaria_Film"
+        ],
+        "rule": [
+            [
+                "Das_Boot",
+                "award",
+                "European_Film_Award_for_Best_Film"
+            ]
+        ],
+        "score": "24.220541",
+        "rank": "1",
+        "new_score": "24.971432",
+        "new_rank": "90"
+    },
+    {
+        "triple_to_explain": [
+            "Gottfried_Schatz",
+            "memberOf",
+            "Academy_of_Sciences_Leopoldina"
+        ],
+        "rule": [
+            [
+                "Gottfried_Schatz",
+                "alumniOf",
+                "Informationsdienst_Wissenschaft"
+            ],
+            [
+                "Germany",
+                "founder",
+                "Gottfried_Schatz"
+            ]
+        ],
+        "score": "15.592539",
+        "rank": "1",
+        "new_score": "19.259157",
+        "new_rank": "5"
+    }
+]

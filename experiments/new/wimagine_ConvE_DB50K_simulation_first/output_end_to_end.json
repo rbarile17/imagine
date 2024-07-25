@@ -1,0 +1,4262 @@
+[
+    {
+        "triple_to_explain": [
+            "Obvious_(Westlife_song)",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "All_Time_Low_(song)",
+                "previousWork",
+                "Obvious_(Westlife_song)"
+            ]
+        ],
+        "score": "0.5645167231559753",
+        "rank": "1",
+        "new_score": "0.3940404951572418",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Willard_Hill",
+            "genre",
+            "Jazz"
+        ],
+        "rule": [
+            [
+                "12_Songs_of_Christmas_(Etta_James_album)",
+                "artist",
+                "Willard_Hill"
+            ],
+            [
+                "4,_5_and_6",
+                "artist",
+                "Willard_Hill"
+            ],
+            [
+                "A.R.C._(album)",
+                "artist",
+                "Willard_Hill"
+            ],
+            [
+                "A_Dreamers_Christmas",
+                "artist",
+                "Willard_Hill"
+            ],
+            [
+                "A_Night_at_Birdland_Vol._3",
+                "artist",
+                "Willard_Hill"
+            ],
+            [
+                "All_That_Moody",
+                "artist",
+                "Willard_Hill"
+            ],
+            [
+                "Amy_Winehouse_at_the_BBC",
+                "artist",
+                "Willard_Hill"
+            ]
+        ],
+        "score": "0.10771817713975906",
+        "rank": "1",
+        "new_score": "0.17781972885131836",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Lampranthus",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Aa_erosa",
+                "genus",
+                "Lampranthus"
+            ],
+            [
+                "Acmispon_brachycarpus",
+                "genus",
+                "Lampranthus"
+            ],
+            [
+                "Acrocomia_hassleri",
+                "genus",
+                "Lampranthus"
+            ],
+            [
+                "Adrorhizinae",
+                "genus",
+                "Lampranthus"
+            ],
+            [
+                "Aechmea_cylindrata",
+                "genus",
+                "Lampranthus"
+            ],
+            [
+                "Aechmea_haltonii",
+                "genus",
+                "Lampranthus"
+            ],
+            [
+                "Aiphanes_leiostachys",
+                "genus",
+                "Lampranthus"
+            ],
+            [
+                "Allopterigeron",
+                "genus",
+                "Lampranthus"
+            ],
+            [
+                "Anise",
+                "genus",
+                "Lampranthus"
+            ]
+        ],
+        "score": "0.9932115077972412",
+        "rank": "1",
+        "new_score": "0.9832700490951538",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Megasis",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Cicindela_chinensis_japonica",
+                "species",
+                "Megasis"
+            ],
+            [
+                "Insect",
+                "species",
+                "Megasis"
+            ]
+        ],
+        "score": "0.7439872026443481",
+        "rank": "1",
+        "new_score": "0.7935494184494019",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "7th_Infantry_Regiment_(United_States)",
+            "battle",
+            "Gulf_War"
+        ],
+        "rule": [
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "101st_Airborne_Division"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "1st_Division_(Iraq)"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "1st_Foreign_Regiment"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "1st_Infantry_Division_(United_States)"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "1st_Infantry_Division_Artillery_(United_States)"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "2nd_Battalion_24th_Marines"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "2nd_Light_Armored_Reconnaissance_Battalion"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "2nd_Marine_Aircraft_Wing"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_9th_Marines"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "3rd_Marine_Aircraft_Wing"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "519th_Military_Intelligence_Battalion_(United_States)"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "6th_Marine_Regiment_(United_States)"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "920th_Rescue_Wing"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "Air_National_Guard"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "Carrier_Air_Wing_Eleven"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "Carrier_Air_Wing_Three"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "Coldstream_Guards"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "Combat_Logistics_Regiment_1"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "HMH-462"
+            ],
+            [
+                "7th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "Marine_Air_Control_Group_28"
+            ]
+        ],
+        "score": "0.1257299780845642",
+        "rank": "1",
+        "new_score": "0.11907823383808136",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "MC_900_Ft._Jesus",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "AlphaBat",
+                "relative",
+                "MC_900_Ft._Jesus"
+            ],
+            [
+                "AlphaBat",
+                "associatedMusicalArtist",
+                "MC_900_Ft._Jesus"
+            ]
+        ],
+        "score": "0.3189485967159271",
+        "rank": "1",
+        "new_score": "0.34986138343811035",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Trinity_Christian_School_(Sharpsburg,_Georgia)",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Faiz_Mohammad_Katib_Hazara",
+                "almaMater",
+                "Trinity_Christian_School_(Sharpsburg,_Georgia)"
+            ],
+            [
+                "Janice_Acoose",
+                "almaMater",
+                "Trinity_Christian_School_(Sharpsburg,_Georgia)"
+            ]
+        ],
+        "score": "0.49979445338249207",
+        "rank": "1",
+        "new_score": "0.8132534623146057",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Canobbio",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Canobbio",
+                "borough",
+                "Aadorf"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Adliswil"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Aesch,_Lucerne"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Affeltrangen"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Agiez"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Andwil"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Arlesheim"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Astano"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Auboranges"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Ausserberg"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Avegno_Gordevio"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Basse-Allaine"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Baulmes"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Bedano"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Beggingen"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Belprahon"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Bergdietikon"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Berlingen,_Switzerland"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Bettlach,_Switzerland"
+            ],
+            [
+                "Canobbio",
+                "borough",
+                "Bichelsee-Balterswil"
+            ]
+        ],
+        "score": "0.5512160062789917",
+        "rank": "1",
+        "new_score": "0.08218204230070114",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Banksia_sessilis",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Achariaceae",
+                "order",
+                "Banksia_sessilis"
+            ],
+            [
+                "Anacamptis",
+                "order",
+                "Banksia_sessilis"
+            ],
+            [
+                "Aralioideae",
+                "order",
+                "Banksia_sessilis"
+            ],
+            [
+                "Artocarpus",
+                "order",
+                "Banksia_sessilis"
+            ],
+            [
+                "Asparagaceae",
+                "order",
+                "Banksia_sessilis"
+            ],
+            [
+                "Atripliceae",
+                "order",
+                "Banksia_sessilis"
+            ],
+            [
+                "Banksia_sessilis",
+                "binomial",
+                "Aa_erosa"
+            ],
+            [
+                "Banksia_sessilis",
+                "binomial",
+                "Acacia_coriacea"
+            ],
+            [
+                "Banksia_sessilis",
+                "binomial",
+                "Acmispon_brachycarpus"
+            ],
+            [
+                "Banksia_sessilis",
+                "binomial",
+                "Acrocomia_hassleri"
+            ],
+            [
+                "Banksia_sessilis",
+                "binomial",
+                "Adrorhizinae"
+            ],
+            [
+                "Banksia_sessilis",
+                "binomial",
+                "Aechmea_cylindrata"
+            ],
+            [
+                "Banksia_sessilis",
+                "binomial",
+                "Aechmea_haltonii"
+            ]
+        ],
+        "score": "0.9922371506690979",
+        "rank": "1",
+        "new_score": "0.9624209403991699",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gland,_Switzerland",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Aadorf"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Adliswil"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Aesch,_Lucerne"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Affeltrangen"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Agiez"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Andwil"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Arlesheim"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Astano"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Auboranges"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Ausserberg"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Avegno_Gordevio"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Basse-Allaine"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Baulmes"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Bedano"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Beggingen"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Belprahon"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Bergdietikon"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Berlingen,_Switzerland"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Bettlach,_Switzerland"
+            ],
+            [
+                "Gland,_Switzerland",
+                "borough",
+                "Bichelsee-Balterswil"
+            ]
+        ],
+        "score": "0.6871844530105591",
+        "rank": "1",
+        "new_score": "0.15579524636268616",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mundell_Lowe",
+            "recordLabel",
+            "RCA_Records"
+        ],
+        "rule": [
+            [
+                "Before_You_Exit",
+                "formerBandMember",
+                "Mundell_Lowe"
+            ]
+        ],
+        "score": "0.21475550532341003",
+        "rank": "1",
+        "new_score": "0.12688010931015015",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Steven_Lee_(music_producer)",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "99_Problems",
+                "writer",
+                "Steven_Lee_(music_producer)"
+            ],
+            [
+                "2-4_Family",
+                "formerBandMember",
+                "Steven_Lee_(music_producer)"
+            ]
+        ],
+        "score": "0.17204761505126953",
+        "rank": "1",
+        "new_score": "0.41328465938568115",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Phragmipedium_vittatum",
+            "family",
+            "Orchidaceae"
+        ],
+        "rule": [
+            [
+                "Acineta",
+                "family",
+                "Phragmipedium_vittatum"
+            ],
+            [
+                "Anacamptis",
+                "family",
+                "Phragmipedium_vittatum"
+            ],
+            [
+                "Calopogon",
+                "family",
+                "Phragmipedium_vittatum"
+            ],
+            [
+                "Cycnoches",
+                "family",
+                "Phragmipedium_vittatum"
+            ],
+            [
+                "Dendrobium",
+                "family",
+                "Phragmipedium_vittatum"
+            ],
+            [
+                "Orchidaceae",
+                "family",
+                "Phragmipedium_vittatum"
+            ],
+            [
+                "Phaius",
+                "family",
+                "Phragmipedium_vittatum"
+            ]
+        ],
+        "score": "0.30647924542427063",
+        "rank": "1",
+        "new_score": "0.3507903814315796",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Trichopilia_tortilis",
+            "family",
+            "Epidendroideae"
+        ],
+        "rule": [
+            [
+                "Acineta",
+                "order",
+                "Trichopilia_tortilis"
+            ],
+            [
+                "Calopogon",
+                "order",
+                "Trichopilia_tortilis"
+            ],
+            [
+                "Cycnoches",
+                "order",
+                "Trichopilia_tortilis"
+            ],
+            [
+                "Houlletia",
+                "order",
+                "Trichopilia_tortilis"
+            ],
+            [
+                "Phaius",
+                "order",
+                "Trichopilia_tortilis"
+            ],
+            [
+                "Stanhopea",
+                "order",
+                "Trichopilia_tortilis"
+            ]
+        ],
+        "score": "0.14455103874206543",
+        "rank": "1",
+        "new_score": "0.22947946190834045",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Copromorphidae",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Cicindela_chinensis_japonica",
+                "species",
+                "Copromorphidae"
+            ],
+            [
+                "Insect",
+                "species",
+                "Copromorphidae"
+            ]
+        ],
+        "score": "0.8347324728965759",
+        "rank": "1",
+        "new_score": "0.7704108953475952",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Agrimoniinae",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Agrimoniinae",
+                "division",
+                "Lycopodiophyta"
+            ]
+        ],
+        "score": "0.9950670003890991",
+        "rank": "1",
+        "new_score": "0.991771399974823",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rhynchostylis",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Achnatherum",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Acidocroton",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Adesmia",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Agrimoniinae",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Agropyron",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Ananas",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Aniba",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Aphanactis",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Arctotis",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Argyranthemum",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Arundinarieae",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Asarum",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Asplundia",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Ateleia",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Baikiaea",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Barleria",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Beaufortia_(plant)",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Berlandiera",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Bhesa",
+                "family",
+                "Rhynchostylis"
+            ],
+            [
+                "Rhynchostylis",
+                "family",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.986331582069397",
+        "rank": "1",
+        "new_score": "0.9741538166999817",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hip_hop_music",
+            "musicSubgenre",
+            "Gangsta_rap"
+        ],
+        "rule": [
+            [
+                "187_He_Wrote",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "1990-Sick",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "2002_(Tha_Dogg_Pound_album)",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "AmeriKKKa's_Nightmare",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "Back_2_da_Basics",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "Big_Syke_Daddy",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "Creepin_on_ah_Come_Up",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "Follow_Me_Home_(album)",
+                "genre",
+                "Hip_hop_music"
+            ],
+            [
+                "Cold_187um",
+                "religion",
+                "Hip_hop_music"
+            ]
+        ],
+        "score": "0.0011478803353384137",
+        "rank": "1",
+        "new_score": "0.022947244346141815",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Reviews_on_the_Run",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "A.k.a._Pablo",
+                "previousWork",
+                "Reviews_on_the_Run"
+            ],
+            [
+                "Air_City",
+                "previousWork",
+                "Reviews_on_the_Run"
+            ],
+            [
+                "American_Journal",
+                "previousWork",
+                "Reviews_on_the_Run"
+            ],
+            [
+                "At_the_Movies_(1982\u201390_TV_series)",
+                "previousWork",
+                "Reviews_on_the_Run"
+            ],
+            [
+                "Broken_Badges",
+                "previousWork",
+                "Reviews_on_the_Run"
+            ],
+            [
+                "Buena_Familia",
+                "previousWork",
+                "Reviews_on_the_Run"
+            ],
+            [
+                "Bustin'_Loose_(TV_series)",
+                "previousWork",
+                "Reviews_on_the_Run"
+            ],
+            [
+                "Bookatable",
+                "product",
+                "Reviews_on_the_Run"
+            ]
+        ],
+        "score": "0.4820527732372284",
+        "rank": "1",
+        "new_score": "0.8681965470314026",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sadat_X",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Alive_(The_Black_Eyed_Peas_song)",
+                "writer",
+                "Sadat_X"
+            ],
+            [
+                "2-4_Family",
+                "bandMember",
+                "Sadat_X"
+            ],
+            [
+                "AlphaBat",
+                "relative",
+                "Sadat_X"
+            ]
+        ],
+        "score": "0.3780249357223511",
+        "rank": "1",
+        "new_score": "0.27726617455482483",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Music_for_Large_&_Small_Ensembles",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "(I_Don't_Need_You_To)_Set_Me_Free",
+                "album",
+                "Music_for_Large_&_Small_Ensembles"
+            ],
+            [
+                "1984_(song)",
+                "album",
+                "Music_for_Large_&_Small_Ensembles"
+            ],
+            [
+                "Alan's_Psychedelic_Breakfast",
+                "album",
+                "Music_for_Large_&_Small_Ensembles"
+            ],
+            [
+                "Alive_(S_Club_song)",
+                "album",
+                "Music_for_Large_&_Small_Ensembles"
+            ],
+            [
+                "Am_I_Going_Insane_(Radio)",
+                "album",
+                "Music_for_Large_&_Small_Ensembles"
+            ],
+            [
+                "Be_There_(Unkle_song)",
+                "album",
+                "Music_for_Large_&_Small_Ensembles"
+            ],
+            [
+                "Bitter_Sweet_Symphony",
+                "album",
+                "Music_for_Large_&_Small_Ensembles"
+            ],
+            [
+                "Blackberry_Way",
+                "album",
+                "Music_for_Large_&_Small_Ensembles"
+            ]
+        ],
+        "score": "0.4527719020843506",
+        "rank": "1",
+        "new_score": "0.14436949789524078",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Oncidium_altissimum",
+            "family",
+            "Epidendroideae"
+        ],
+        "rule": [
+            [
+                "Acineta",
+                "family",
+                "Oncidium_altissimum"
+            ],
+            [
+                "Calopogon",
+                "family",
+                "Oncidium_altissimum"
+            ],
+            [
+                "Cycnoches",
+                "family",
+                "Oncidium_altissimum"
+            ],
+            [
+                "Houlletia",
+                "family",
+                "Oncidium_altissimum"
+            ]
+        ],
+        "score": "0.15934787690639496",
+        "rank": "1",
+        "new_score": "0.3260689079761505",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Eurosport_2",
+            "locationCountry",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Adolphus_Busch",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Alexander_Engel",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Andreas_Dresen",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Andreas_Schnaas",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Annemarie_Schimmel",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Barbara_Kwiatkowska-Lass",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Bernhard_Kellermann",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Bruno_Kastner",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Cl\u00e4re_Lotto",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Cornelius_Gurlitt_(art_collector)",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Eberhard_Junkersdorf",
+                "employer",
+                "Eurosport_2"
+            ],
+            [
+                "Eberhard_von_Kuenheim",
+                "employer",
+                "Eurosport_2"
+            ]
+        ],
+        "score": "0.4131885766983032",
+        "rank": "1",
+        "new_score": "0.25793811678886414",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Codariocalyx",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Anaphalis_margaritacea",
+                "genus",
+                "Codariocalyx"
+            ]
+        ],
+        "score": "0.990767776966095",
+        "rank": "1",
+        "new_score": "0.9851427674293518",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jalilabad_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Ali_Motahari",
+                "deathPlace",
+                "Jalilabad_Rural_District"
+            ]
+        ],
+        "score": "0.31393861770629883",
+        "rank": "1",
+        "new_score": "0.2828262448310852",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Heliothis",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Cicindela_chinensis_japonica",
+                "species",
+                "Heliothis"
+            ],
+            [
+                "Insect",
+                "species",
+                "Heliothis"
+            ]
+        ],
+        "score": "0.8247595429420471",
+        "rank": "1",
+        "new_score": "0.7817761301994324",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "My_Girlfriend_(Relient_K_song)",
+            "format",
+            "Compact_disc"
+        ],
+        "rule": [
+            [
+                "A_Gunshot_to_the_Head_of_Trepidation",
+                "previousWork",
+                "My_Girlfriend_(Relient_K_song)"
+            ],
+            [
+                "Better_Than_Me_(Terry_Dexter_song)",
+                "previousWork",
+                "My_Girlfriend_(Relient_K_song)"
+            ],
+            [
+                "Everything_Is_Broken",
+                "previousWork",
+                "My_Girlfriend_(Relient_K_song)"
+            ]
+        ],
+        "score": "0.5560024976730347",
+        "rank": "1",
+        "new_score": "0.5736967325210571",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Glyphodes",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Glyphodes",
+                "order",
+                "Insect"
+            ]
+        ],
+        "score": "0.8658998012542725",
+        "rank": "1",
+        "new_score": "0.7861640453338623",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Brian_Charlesworth",
+            "almaMater",
+            "University_of_Cambridge"
+        ],
+        "rule": [
+            [
+                "Brian_Charlesworth",
+                "employer",
+                "University_of_Cambridge"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Adam_Sedgwick"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Alan_Lindsay_Mackay"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Albert_Howard"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Brian_S._Hartley"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "C\u00e9sar_Milstein"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "David_Harvey"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Elizabeth_Blackburn"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Franz_W._Seidler"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Graham_Allan"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Isaac_Barrow"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Jake_Hancock"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "John_Kendrew"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Jonathan_Spence"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Joseph_Gillis"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Ketan_J._Patel"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Malcolm_Dixon"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Nevill_Francis_Mott"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Nigel_Gilbert"
+            ],
+            [
+                "Brian_Charlesworth",
+                "academicAdvisor",
+                "Owen_Willans_Richardson"
+            ]
+        ],
+        "score": "0.08176988363265991",
+        "rank": "1",
+        "new_score": "0.2012123167514801",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sagina",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Achnatherum",
+                "genus",
+                "Sagina"
+            ],
+            [
+                "Acidocroton",
+                "genus",
+                "Sagina"
+            ],
+            [
+                "Adesmia",
+                "genus",
+                "Sagina"
+            ]
+        ],
+        "score": "0.9933225512504578",
+        "rank": "1",
+        "new_score": "0.9828006029129028",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Robyn_Is_Here",
+            "recordLabel",
+            "RCA_Records"
+        ],
+        "rule": [
+            [
+                "Behind_These_Hazel_Eyes",
+                "album",
+                "Robyn_Is_Here"
+            ]
+        ],
+        "score": "0.20634399354457855",
+        "rank": "1",
+        "new_score": "0.10050249844789505",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Udara",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Cicindela_chinensis_japonica",
+                "species",
+                "Udara"
+            ],
+            [
+                "Insect",
+                "species",
+                "Udara"
+            ]
+        ],
+        "score": "0.8176712393760681",
+        "rank": "1",
+        "new_score": "0.7702250480651855",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Chalcidinae",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Insect",
+                "genus",
+                "Chalcidinae"
+            ]
+        ],
+        "score": "0.7559378743171692",
+        "rank": "1",
+        "new_score": "0.74151211977005",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Eddie_Mazur",
+            "formerTeam",
+            "Montreal_Canadiens"
+        ],
+        "rule": [
+            [
+                "Eddie_Mazur",
+                "birthPlace",
+                "Saskatoon"
+            ],
+            [
+                "Eddie_Mazur",
+                "formerTeam",
+                "Erie_Blades"
+            ]
+        ],
+        "score": "0.11662779003381729",
+        "rank": "1",
+        "new_score": "0.16658280789852142",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Obtusipalpis",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Obtusipalpis",
+                "order",
+                "Insect"
+            ]
+        ],
+        "score": "0.7820028066635132",
+        "rank": "1",
+        "new_score": "0.6062332391738892",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Little_Ferry,_New_Jersey",
+            "governmentType",
+            "Borough_(New_Jersey)"
+        ],
+        "rule": [
+            [
+                "Little_Ferry,_New_Jersey",
+                "councilArea",
+                "Belmar,_New_Jersey"
+            ],
+            [
+                "Little_Ferry,_New_Jersey",
+                "councilArea",
+                "Ho-Ho-Kus,_New_Jersey"
+            ],
+            [
+                "Little_Ferry,_New_Jersey",
+                "councilArea",
+                "Little_Ferry,_New_Jersey"
+            ],
+            [
+                "Little_Ferry,_New_Jersey",
+                "councilArea",
+                "Milltown,_New_Jersey"
+            ]
+        ],
+        "score": "0.6033382415771484",
+        "rank": "1",
+        "new_score": "0.06521247327327728",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Behind_Crimson_Eyes",
+            "formerBandMember",
+            "Drum_kit"
+        ],
+        "rule": [
+            [
+                "Alex_Van_Halen",
+                "associatedBand",
+                "Behind_Crimson_Eyes"
+            ],
+            [
+                "Andy_DeMize",
+                "associatedBand",
+                "Behind_Crimson_Eyes"
+            ],
+            [
+                "Angus_MacLise",
+                "associatedBand",
+                "Behind_Crimson_Eyes"
+            ],
+            [
+                "Artie_Butler",
+                "associatedBand",
+                "Behind_Crimson_Eyes"
+            ],
+            [
+                "Aya_(Japanese_singer)",
+                "associatedBand",
+                "Behind_Crimson_Eyes"
+            ]
+        ],
+        "score": "0.011049607768654823",
+        "rank": "1",
+        "new_score": "0.004967003595083952",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Savosa",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Grindelwald",
+                "isPartOf",
+                "Savosa"
+            ],
+            [
+                "Sachseln",
+                "isPartOf",
+                "Savosa"
+            ],
+            [
+                "Grindelwald",
+                "principalArea",
+                "Savosa"
+            ],
+            [
+                "Sachseln",
+                "principalArea",
+                "Savosa"
+            ]
+        ],
+        "score": "0.6101155281066895",
+        "rank": "1",
+        "new_score": "0.5017263889312744",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Packera_bolanderi",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Achariaceae",
+                "order",
+                "Packera_bolanderi"
+            ],
+            [
+                "Anacamptis",
+                "order",
+                "Packera_bolanderi"
+            ],
+            [
+                "Aralioideae",
+                "order",
+                "Packera_bolanderi"
+            ],
+            [
+                "Artocarpus",
+                "order",
+                "Packera_bolanderi"
+            ],
+            [
+                "Asparagaceae",
+                "order",
+                "Packera_bolanderi"
+            ],
+            [
+                "Atripliceae",
+                "order",
+                "Packera_bolanderi"
+            ],
+            [
+                "Bombax",
+                "order",
+                "Packera_bolanderi"
+            ],
+            [
+                "Calamoideae",
+                "order",
+                "Packera_bolanderi"
+            ],
+            [
+                "Calandrinia",
+                "order",
+                "Packera_bolanderi"
+            ],
+            [
+                "Packera_bolanderi",
+                "family",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.9825636744499207",
+        "rank": "1",
+        "new_score": "0.9624847173690796",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dimocarpus",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Achnatherum",
+                "genus",
+                "Dimocarpus"
+            ],
+            [
+                "Acidocroton",
+                "genus",
+                "Dimocarpus"
+            ],
+            [
+                "Adesmia",
+                "genus",
+                "Dimocarpus"
+            ]
+        ],
+        "score": "0.9933444261550903",
+        "rank": "1",
+        "new_score": "0.9842055439949036",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Best_of_You",
+            "recordLabel",
+            "RCA_Records"
+        ],
+        "rule": [
+            [
+                "Behind_These_Hazel_Eyes",
+                "previousWork",
+                "Best_of_You"
+            ]
+        ],
+        "score": "0.2822727560997009",
+        "rank": "1",
+        "new_score": "0.18187743425369263",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Thelymitra_cyanea",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Achariaceae",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Anacamptis",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Aralioideae",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Artocarpus",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Asparagaceae",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Atripliceae",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Bombax",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Calamoideae",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Calandrinia",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Calophyllaceae",
+                "family",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Achariaceae",
+                "order",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Anacamptis",
+                "order",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Aralioideae",
+                "order",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Artocarpus",
+                "order",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Asparagaceae",
+                "order",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Atripliceae",
+                "order",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Bombax",
+                "order",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Calamoideae",
+                "order",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Calandrinia",
+                "order",
+                "Thelymitra_cyanea"
+            ],
+            [
+                "Thelymitra_cyanea",
+                "family",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.9959614872932434",
+        "rank": "1",
+        "new_score": "0.9122396111488342",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Azochis",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Azochis",
+                "family",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "0.754324734210968",
+        "rank": "1",
+        "new_score": "0.509494423866272",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dacryotrichia",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Achariaceae",
+                "family",
+                "Dacryotrichia"
+            ],
+            [
+                "Achariaceae",
+                "order",
+                "Dacryotrichia"
+            ],
+            [
+                "Aa_erosa",
+                "division",
+                "Dacryotrichia"
+            ],
+            [
+                "Acacia_coriacea",
+                "division",
+                "Dacryotrichia"
+            ],
+            [
+                "Acmispon_brachycarpus",
+                "division",
+                "Dacryotrichia"
+            ],
+            [
+                "Acrocomia_hassleri",
+                "division",
+                "Dacryotrichia"
+            ],
+            [
+                "Adrorhizinae",
+                "division",
+                "Dacryotrichia"
+            ]
+        ],
+        "score": "0.9808456897735596",
+        "rank": "1",
+        "new_score": "0.9595420956611633",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Astictopterus",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Astictopterus",
+                "class",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "0.7366253137588501",
+        "rank": "1",
+        "new_score": "0.5956410765647888",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Obtusipalpis",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Obtusipalpis",
+                "class",
+                "Acrolepia"
+            ],
+            [
+                "Obtusipalpis",
+                "class",
+                "Actias"
+            ],
+            [
+                "Obtusipalpis",
+                "class",
+                "Acylita"
+            ],
+            [
+                "Butterfly",
+                "family",
+                "Obtusipalpis"
+            ],
+            [
+                "Many-plumed_moth",
+                "family",
+                "Obtusipalpis"
+            ],
+            [
+                "Noctuoidea",
+                "family",
+                "Obtusipalpis"
+            ]
+        ],
+        "score": "0.6852642297744751",
+        "rank": "1",
+        "new_score": "0.23542656004428864",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "She's_Like_the_Wind",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Alive_(The_Black_Eyed_Peas_song)",
+                "subsequentWork",
+                "She's_Like_the_Wind"
+            ]
+        ],
+        "score": "0.3874339461326599",
+        "rank": "1",
+        "new_score": "0.3316391110420227",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "FSN_Chicago",
+            "pictureFormat",
+            "480i"
+        ],
+        "rule": [
+            [
+                "FSN_Chicago",
+                "pictureFormat",
+                "Ohh_Nooo!_Mr._Bill_Presents"
+            ]
+        ],
+        "score": "0.3071689009666443",
+        "rank": "1",
+        "new_score": "0.565262496471405",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Helmut_Haugk",
+            "deathPlace",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "26th_Airborne_Brigade_(Bundeswehr)",
+                "notableCommander",
+                "Helmut_Haugk"
+            ],
+            [
+                "Fernsp\u00e4hlehrkompanie_200",
+                "notableCommander",
+                "Helmut_Haugk"
+            ]
+        ],
+        "score": "0.36196210980415344",
+        "rank": "1",
+        "new_score": "0.24974146485328674",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Acyclania",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Acyclania",
+                "class",
+                "Acrolepia"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Actias"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Acylita"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Aedia"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Afrotheora"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Aididae"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Alaena"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Amaloxestis"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Amblyptilia"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Amblyscirtes"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Amphicallia"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Amselina"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Anapisa"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Anetia"
+            ],
+            [
+                "Acyclania",
+                "class",
+                "Antimimistis"
+            ]
+        ],
+        "score": "0.7650547623634338",
+        "rank": "1",
+        "new_score": "0.10470864921808243",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Cartoon_Network_(Philippines)",
+            "pictureFormat",
+            "480i"
+        ],
+        "rule": [
+            [
+                "Alyna_(TV_series)",
+                "creator",
+                "Cartoon_Network_(Philippines)"
+            ]
+        ],
+        "score": "0.3017626106739044",
+        "rank": "1",
+        "new_score": "0.4141431152820587",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Live_at_the_Marquee_(Dream_Theater_album)",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "Albert_Foan",
+                "position",
+                "Live_at_the_Marquee_(Dream_Theater_album)"
+            ],
+            [
+                "Andy_Impey",
+                "position",
+                "Live_at_the_Marquee_(Dream_Theater_album)"
+            ],
+            [
+                "Bert_Badger",
+                "position",
+                "Live_at_the_Marquee_(Dream_Theater_album)"
+            ]
+        ],
+        "score": "0.5602968335151672",
+        "rank": "1",
+        "new_score": "0.32546886801719666",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Keith_Carlock",
+            "instrument",
+            "Drum_kit"
+        ],
+        "rule": [
+            [
+                "Acacia_(band)",
+                "associatedMusicalArtist",
+                "Keith_Carlock"
+            ],
+            [
+                "A\u00efyb_Dieng",
+                "associatedMusicalArtist",
+                "Keith_Carlock"
+            ],
+            [
+                "Daddy_Yankee",
+                "associatedMusicalArtist",
+                "Keith_Carlock"
+            ]
+        ],
+        "score": "0.7571043968200684",
+        "rank": "1",
+        "new_score": "0.5182831883430481",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "From_I_Extreme_II_Another",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Alive_(The_Black_Eyed_Peas_song)",
+                "previousWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "99_Problems",
+                "subsequentWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "All_I_Do_Is_Win",
+                "subsequentWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "All_I_Want_(702_song)",
+                "subsequentWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "All_Nite_(Don't_Stop)",
+                "subsequentWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "All_the_Way_Turnt_Up",
+                "subsequentWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "Amazin'_(LL_Cool_J_song)",
+                "subsequentWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "Another_Round_(Fat_Joe_song)",
+                "subsequentWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "Area_Codes_(song)",
+                "subsequentWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "Back_on_the_Road_(Madcon_song)",
+                "subsequentWork",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "99_Problems",
+                "album",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "All_I_Do_Is_Win",
+                "album",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "All_I_Want_(702_song)",
+                "album",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "All_Nite_(Don't_Stop)",
+                "album",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "All_the_Way_Turnt_Up",
+                "album",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "Amazin'_(LL_Cool_J_song)",
+                "album",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "Another_Round_(Fat_Joe_song)",
+                "album",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "Area_Codes_(song)",
+                "album",
+                "From_I_Extreme_II_Another"
+            ],
+            [
+                "Back_on_the_Road_(Madcon_song)",
+                "album",
+                "From_I_Extreme_II_Another"
+            ]
+        ],
+        "score": "0.1435849368572235",
+        "rank": "1",
+        "new_score": "0.3261737525463104",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Flava_(song)",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "12_Disc\u00edpulos",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "20/20_(Dilated_Peoples_album)",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "25_to_Life_(album)",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "40_Dayz_&_40_Nightz",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "A_Million_Words,_a_Million_Dollars",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "A_Profecia",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "A_Tribute_to_Bad_Santa_Starring_Mike_Epps",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "A_for\u00e7a_est\u00e1_em_n\u00f3s",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "About_Time_(Angel_album)",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "Absolute_Value_(album)",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "Acid_Rap",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "Afrodisiac_(Brandy_album)",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "Alive_at_Home",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "Amplified_(Q-Tip_album)",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "Animal_Ambition",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "Apollo_Kids_(album)",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "Armed_to_the_Teeth_(Swollen_Members_album)",
+                "previousWork",
+                "Flava_(song)"
+            ],
+            [
+                "Arms_&_Hammers",
+                "previousWork",
+                "Flava_(song)"
+            ]
+        ],
+        "score": "0.34230610728263855",
+        "rank": "1",
+        "new_score": "0.589691162109375",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Spodoptera",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Spodoptera",
+                "class",
+                "Acrolepia"
+            ],
+            [
+                "Spodoptera",
+                "class",
+                "Actias"
+            ],
+            [
+                "Spodoptera",
+                "class",
+                "Acylita"
+            ]
+        ],
+        "score": "0.7464262843132019",
+        "rank": "1",
+        "new_score": "0.43816283345222473",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Carthamus",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Aa_erosa",
+                "family",
+                "Carthamus"
+            ],
+            [
+                "Acmispon_brachycarpus",
+                "family",
+                "Carthamus"
+            ],
+            [
+                "Acrocomia_hassleri",
+                "family",
+                "Carthamus"
+            ],
+            [
+                "Adrorhizinae",
+                "family",
+                "Carthamus"
+            ],
+            [
+                "Aechmea_cylindrata",
+                "family",
+                "Carthamus"
+            ],
+            [
+                "Aechmea_haltonii",
+                "family",
+                "Carthamus"
+            ]
+        ],
+        "score": "0.993901252746582",
+        "rank": "1",
+        "new_score": "0.9893577694892883",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Andriy_Donets'",
+            "birthPlace",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "Andriy_Donets'",
+                "deathPlace",
+                "Soviet_Union"
+            ]
+        ],
+        "score": "0.08892083168029785",
+        "rank": "1",
+        "new_score": "0.0656418651342392",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Stagmatoptera",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Cicindela_chinensis_japonica",
+                "species",
+                "Stagmatoptera"
+            ],
+            [
+                "Insect",
+                "species",
+                "Stagmatoptera"
+            ]
+        ],
+        "score": "0.7541961073875427",
+        "rank": "1",
+        "new_score": "0.7421658039093018",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Myrmecophila_humboldtii",
+            "family",
+            "Epidendroideae"
+        ],
+        "rule": [
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Adrorhizinae"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Cattleya_hoehnei"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Dendrobium_macrophyllum"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Dendrobium_mutabile"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Dendrobium_revolutum"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Dracula_benedictii"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Dracula_diabola"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Epidendrum_campestre"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Eria_ferruginea"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Eria_floribunda"
+            ],
+            [
+                "Myrmecophila_humboldtii",
+                "binomial",
+                "Gongora_maculata"
+            ]
+        ],
+        "score": "0.16491638123989105",
+        "rank": "1",
+        "new_score": "0.3645856976509094",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hoplomorpha",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Hoplomorpha",
+                "class",
+                "Acrolepia"
+            ],
+            [
+                "Hoplomorpha",
+                "class",
+                "Actias"
+            ],
+            [
+                "Hoplomorpha",
+                "class",
+                "Acylita"
+            ],
+            [
+                "Hoplomorpha",
+                "class",
+                "Aedia"
+            ],
+            [
+                "Hoplomorpha",
+                "class",
+                "Afrotheora"
+            ],
+            [
+                "Hoplomorpha",
+                "class",
+                "Aididae"
+            ],
+            [
+                "Hoplomorpha",
+                "class",
+                "Alaena"
+            ],
+            [
+                "Hoplomorpha",
+                "class",
+                "Amaloxestis"
+            ],
+            [
+                "Hoplomorpha",
+                "class",
+                "Amblyptilia"
+            ]
+        ],
+        "score": "0.7581173181533813",
+        "rank": "1",
+        "new_score": "0.08665765076875687",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "A_Ship_Comes_In",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "&ME"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "10_to_Midnight"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "27_Missing_Kisses"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "500_Years_Later"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "A_Bay_of_Blood"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "A_Boy,_a_Girl_and_a_Bike"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "A_Dangerous_Life"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "A_Day's_Pleasure"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "Ace_Ventura:_Pet_Detective"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "Across_the_Line_(film)"
+            ],
+            [
+                "A_Ship_Comes_In",
+                "basedOn",
+                "Apartment_Hunting"
+            ]
+        ],
+        "score": "0.5667232275009155",
+        "rank": "1",
+        "new_score": "0.8868942856788635",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gamia",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Butterfly",
+                "family",
+                "Gamia"
+            ]
+        ],
+        "score": "0.7507079243659973",
+        "rank": "1",
+        "new_score": "0.6054223775863647",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Venom_(Bullet_for_My_Valentine_album)",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "Albert_Foan",
+                "position",
+                "Venom_(Bullet_for_My_Valentine_album)"
+            ],
+            [
+                "Andy_Impey",
+                "position",
+                "Venom_(Bullet_for_My_Valentine_album)"
+            ],
+            [
+                "Bert_Badger",
+                "position",
+                "Venom_(Bullet_for_My_Valentine_album)"
+            ]
+        ],
+        "score": "0.7317187786102295",
+        "rank": "1",
+        "new_score": "0.22193188965320587",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Always_(Switchfoot_song)",
+            "format",
+            "Compact_disc"
+        ],
+        "rule": [
+            [
+                "All_Over_You_(Level_42_song)",
+                "previousWork",
+                "Always_(Switchfoot_song)"
+            ]
+        ],
+        "score": "0.5706638693809509",
+        "rank": "1",
+        "new_score": "0.5953981876373291",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Clancy_of_the_Mounted",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "2_Different_Tears",
+                "subsequentWork",
+                "Clancy_of_the_Mounted"
+            ],
+            [
+                "At_Folsom_Prison",
+                "subsequentWork",
+                "Clancy_of_the_Mounted"
+            ],
+            [
+                "CK5",
+                "subsequentWork",
+                "Clancy_of_the_Mounted"
+            ],
+            [
+                "Circus_(Chiaki_Kuriyama_album)",
+                "subsequentWork",
+                "Clancy_of_the_Mounted"
+            ],
+            [
+                "Charles_K._Eastman",
+                "notableWork",
+                "Clancy_of_the_Mounted"
+            ],
+            [
+                "Clancy_of_the_Mounted",
+                "author",
+                "Charles_K._Eastman"
+            ],
+            [
+                "Clancy_of_the_Mounted",
+                "author",
+                "Li_Yeguang"
+            ]
+        ],
+        "score": "0.5465842485427856",
+        "rank": "1",
+        "new_score": "0.8501641750335693",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Trichaea",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Euptychiina",
+                "family",
+                "Trichaea"
+            ],
+            [
+                "Lepidoptera",
+                "family",
+                "Trichaea"
+            ]
+        ],
+        "score": "0.8245819211006165",
+        "rank": "1",
+        "new_score": "0.7184926271438599",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Micropera_utriculosa",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Acineta",
+                "family",
+                "Micropera_utriculosa"
+            ],
+            [
+                "Adiantum",
+                "family",
+                "Micropera_utriculosa"
+            ],
+            [
+                "Anacamptis",
+                "family",
+                "Micropera_utriculosa"
+            ],
+            [
+                "Aralioideae",
+                "family",
+                "Micropera_utriculosa"
+            ],
+            [
+                "Artocarpus",
+                "family",
+                "Micropera_utriculosa"
+            ],
+            [
+                "Asparagaceae",
+                "family",
+                "Micropera_utriculosa"
+            ],
+            [
+                "Atripliceae",
+                "family",
+                "Micropera_utriculosa"
+            ],
+            [
+                "Bombax",
+                "family",
+                "Micropera_utriculosa"
+            ],
+            [
+                "Boronia",
+                "family",
+                "Micropera_utriculosa"
+            ],
+            [
+                "Calamoideae",
+                "family",
+                "Micropera_utriculosa"
+            ]
+        ],
+        "score": "0.9884828925132751",
+        "rank": "1",
+        "new_score": "0.9899791479110718",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "James_C._Gardner",
+            "religion",
+            "United_Methodist_Church"
+        ],
+        "rule": [
+            [
+                "James_C._Gardner",
+                "board",
+                "Hendrix_College"
+            ],
+            [
+                "James_C._Gardner",
+                "board",
+                "Young_Harris_College"
+            ]
+        ],
+        "score": "0.13627204298973083",
+        "rank": "1",
+        "new_score": "0.08991888910531998",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Harvey_Locke_Carey",
+            "religion",
+            "United_Methodist_Church"
+        ],
+        "rule": [
+            [
+                "Dave_Treen",
+                "governor",
+                "Harvey_Locke_Carey"
+            ],
+            [
+                "Gregory_Tucker",
+                "governor",
+                "Harvey_Locke_Carey"
+            ]
+        ],
+        "score": "0.1065463200211525",
+        "rank": "1",
+        "new_score": "0.053142376244068146",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Desmobathrinae",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Desmobathrinae",
+                "class",
+                "Acrolepia"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Actias"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Acylita"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Aedia"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Afrotheora"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Aididae"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Alaena"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Amaloxestis"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Amblyptilia"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Amblyscirtes"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Amphicallia"
+            ],
+            [
+                "Desmobathrinae",
+                "class",
+                "Amselina"
+            ]
+        ],
+        "score": "0.7270259857177734",
+        "rank": "1",
+        "new_score": "0.08060462027788162",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Karl-Richard_Ko\u00dfmann",
+            "deathPlace",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "26th_Airborne_Brigade_(Bundeswehr)",
+                "notableCommander",
+                "Karl-Richard_Ko\u00dfmann"
+            ],
+            [
+                "Fernsp\u00e4hlehrkompanie_200",
+                "notableCommander",
+                "Karl-Richard_Ko\u00dfmann"
+            ],
+            [
+                "Joint_Support_Service_(Germany)",
+                "notableCommander",
+                "Karl-Richard_Ko\u00dfmann"
+            ],
+            [
+                "Kampfgeschwader_6",
+                "notableCommander",
+                "Karl-Richard_Ko\u00dfmann"
+            ],
+            [
+                "Kampfgeschwader_77",
+                "notableCommander",
+                "Karl-Richard_Ko\u00dfmann"
+            ]
+        ],
+        "score": "0.17871850728988647",
+        "rank": "1",
+        "new_score": "0.2023853063583374",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ranunculaceae",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Ranunculaceae",
+                "family",
+                "Flowering_plant"
+            ]
+        ],
+        "score": "0.9926717281341553",
+        "rank": "1",
+        "new_score": "0.9852955341339111",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hofstetten_bei_Brienz",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Grindelwald",
+                "neighboringMunicipality",
+                "Hofstetten_bei_Brienz"
+            ]
+        ],
+        "score": "0.667910635471344",
+        "rank": "1",
+        "new_score": "0.4836600720882416",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sclerocactus_polyancistrus",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Acineta",
+                "class",
+                "Sclerocactus_polyancistrus"
+            ],
+            [
+                "Adiantum",
+                "class",
+                "Sclerocactus_polyancistrus"
+            ],
+            [
+                "Anacamptis",
+                "class",
+                "Sclerocactus_polyancistrus"
+            ]
+        ],
+        "score": "0.9869957566261292",
+        "rank": "1",
+        "new_score": "0.9844824075698853",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Stanhopea_oculata",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Acineta",
+                "order",
+                "Stanhopea_oculata"
+            ],
+            [
+                "Adiantum",
+                "order",
+                "Stanhopea_oculata"
+            ],
+            [
+                "Anacamptis",
+                "order",
+                "Stanhopea_oculata"
+            ],
+            [
+                "Aralioideae",
+                "order",
+                "Stanhopea_oculata"
+            ],
+            [
+                "Artocarpus",
+                "order",
+                "Stanhopea_oculata"
+            ],
+            [
+                "Asparagaceae",
+                "order",
+                "Stanhopea_oculata"
+            ],
+            [
+                "Atripliceae",
+                "order",
+                "Stanhopea_oculata"
+            ],
+            [
+                "Bombax",
+                "order",
+                "Stanhopea_oculata"
+            ],
+            [
+                "Boronia",
+                "order",
+                "Stanhopea_oculata"
+            ]
+        ],
+        "score": "0.9936285614967346",
+        "rank": "1",
+        "new_score": "0.9879321455955505",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sessa,_Ticino",
+            "type",
+            "Municipalities_of_Switzerland"
+        ],
+        "rule": [
+            [
+                "Grindelwald",
+                "isPartOf",
+                "Sessa,_Ticino"
+            ],
+            [
+                "Sachseln",
+                "isPartOf",
+                "Sessa,_Ticino"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Aadorf"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Adliswil"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Aesch,_Lucerne"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Affeltrangen"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Agiez"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Andwil"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Arlesheim"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Astano"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Auboranges"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Ausserberg"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Avegno_Gordevio"
+            ],
+            [
+                "Sessa,_Ticino",
+                "borough",
+                "Basse-Allaine"
+            ]
+        ],
+        "score": "0.5796000957489014",
+        "rank": "1",
+        "new_score": "0.07561047375202179",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hallway_Productionz",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "12_Disc\u00edpulos",
+                "artist",
+                "Hallway_Productionz"
+            ],
+            [
+                "20/20_(Dilated_Peoples_album)",
+                "artist",
+                "Hallway_Productionz"
+            ],
+            [
+                "25_to_Life_(album)",
+                "artist",
+                "Hallway_Productionz"
+            ],
+            [
+                "40_Dayz_&_40_Nightz",
+                "artist",
+                "Hallway_Productionz"
+            ],
+            [
+                "A_Million_Words,_a_Million_Dollars",
+                "artist",
+                "Hallway_Productionz"
+            ],
+            [
+                "2-4_Family",
+                "bandMember",
+                "Hallway_Productionz"
+            ],
+            [
+                "2-4_Family",
+                "formerBandMember",
+                "Hallway_Productionz"
+            ]
+        ],
+        "score": "0.34883952140808105",
+        "rank": "1",
+        "new_score": "0.37255042791366577",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Calopogon",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Calopogon",
+                "order",
+                "Flowering_plant"
+            ],
+            [
+                "Flowering_plant",
+                "family",
+                "Calopogon"
+            ],
+            [
+                "Achnatherum",
+                "genus",
+                "Calopogon"
+            ],
+            [
+                "Acidocroton",
+                "genus",
+                "Calopogon"
+            ],
+            [
+                "Adesmia",
+                "genus",
+                "Calopogon"
+            ],
+            [
+                "Aa_erosa",
+                "genus",
+                "Calopogon"
+            ],
+            [
+                "Acacia_coriacea",
+                "genus",
+                "Calopogon"
+            ],
+            [
+                "Acmispon_brachycarpus",
+                "genus",
+                "Calopogon"
+            ],
+            [
+                "Acrocomia_hassleri",
+                "genus",
+                "Calopogon"
+            ]
+        ],
+        "score": "0.9867056012153625",
+        "rank": "1",
+        "new_score": "0.9906721115112305",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "California_Split",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "2_Different_Tears",
+                "subsequentWork",
+                "California_Split"
+            ],
+            [
+                "At_Folsom_Prison",
+                "subsequentWork",
+                "California_Split"
+            ],
+            [
+                "CK5",
+                "subsequentWork",
+                "California_Split"
+            ],
+            [
+                "A.k.a._Pablo",
+                "previousWork",
+                "California_Split"
+            ],
+            [
+                "Air_City",
+                "previousWork",
+                "California_Split"
+            ],
+            [
+                "American_Journal",
+                "previousWork",
+                "California_Split"
+            ],
+            [
+                "At_the_Movies_(1982\u201390_TV_series)",
+                "previousWork",
+                "California_Split"
+            ],
+            [
+                "Broken_Badges",
+                "previousWork",
+                "California_Split"
+            ],
+            [
+                "Buena_Familia",
+                "previousWork",
+                "California_Split"
+            ],
+            [
+                "Bustin'_Loose_(TV_series)",
+                "previousWork",
+                "California_Split"
+            ],
+            [
+                "Bookatable",
+                "product",
+                "California_Split"
+            ]
+        ],
+        "score": "0.5613447427749634",
+        "rank": "1",
+        "new_score": "0.8085120916366577",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Augustus_George_Vernon_Harcourt",
+            "birthPlace",
+            "London"
+        ],
+        "rule": [
+            [
+                "Alfred_William_Bennett",
+                "doctoralAdvisor",
+                "Augustus_George_Vernon_Harcourt"
+            ]
+        ],
+        "score": "0.07459647208452225",
+        "rank": "1",
+        "new_score": "0.03115273080766201",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Why_Do_Fools_Fall_in_Love_(album)",
+            "recordLabel",
+            "Capitol_Records"
+        ],
+        "rule": [
+            [
+                "All_I_Want_(702_song)",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ],
+            [
+                "All_You_Need_Is_Love",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ],
+            [
+                "An_Open_Letter_to_NYC",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ],
+            [
+                "Barcelona_(BWO_song)",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ],
+            [
+                "Be_My_Escape",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ],
+            [
+                "By_the_Time_I_Get_to_Phoenix",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ],
+            [
+                "California_Dreamin'",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ],
+            [
+                "Can't_Buy_Me_Love",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ],
+            [
+                "Careless_Memories",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ],
+            [
+                "Catholic_School_Girls_Rule",
+                "subsequentWork",
+                "Why_Do_Fools_Fall_in_Love_(album)"
+            ]
+        ],
+        "score": "0.31617873907089233",
+        "rank": "1",
+        "new_score": "0.3087354004383087",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Remapping_the_Human_Soul",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Alive_(The_Black_Eyed_Peas_song)",
+                "album",
+                "Remapping_the_Human_Soul"
+            ],
+            [
+                "99_Problems",
+                "subsequentWork",
+                "Remapping_the_Human_Soul"
+            ],
+            [
+                "All_I_Do_Is_Win",
+                "subsequentWork",
+                "Remapping_the_Human_Soul"
+            ],
+            [
+                "All_I_Want_(702_song)",
+                "subsequentWork",
+                "Remapping_the_Human_Soul"
+            ],
+            [
+                "All_Nite_(Don't_Stop)",
+                "subsequentWork",
+                "Remapping_the_Human_Soul"
+            ],
+            [
+                "All_the_Way_Turnt_Up",
+                "subsequentWork",
+                "Remapping_the_Human_Soul"
+            ],
+            [
+                "Amazin'_(LL_Cool_J_song)",
+                "subsequentWork",
+                "Remapping_the_Human_Soul"
+            ],
+            [
+                "Another_Round_(Fat_Joe_song)",
+                "subsequentWork",
+                "Remapping_the_Human_Soul"
+            ],
+            [
+                "Area_Codes_(song)",
+                "subsequentWork",
+                "Remapping_the_Human_Soul"
+            ],
+            [
+                "Back_on_the_Road_(Madcon_song)",
+                "subsequentWork",
+                "Remapping_the_Human_Soul"
+            ]
+        ],
+        "score": "0.16394108533859253",
+        "rank": "1",
+        "new_score": "0.5571701526641846",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dracula_benedictii",
+            "family",
+            "Orchidaceae"
+        ],
+        "rule": [
+            [
+                "Dracula_benedictii",
+                "binomial",
+                "Aa_erosa"
+            ],
+            [
+                "Dracula_benedictii",
+                "binomial",
+                "Adrorhizinae"
+            ],
+            [
+                "Dracula_benedictii",
+                "binomial",
+                "Bromheadia_brevifolia"
+            ],
+            [
+                "Dracula_benedictii",
+                "binomial",
+                "Cattleya_hoehnei"
+            ],
+            [
+                "Dracula_benedictii",
+                "binomial",
+                "Dendrobium_macrophyllum"
+            ],
+            [
+                "Dracula_benedictii",
+                "binomial",
+                "Dendrobium_mutabile"
+            ],
+            [
+                "Dracula_benedictii",
+                "binomial",
+                "Dracula_diabola"
+            ]
+        ],
+        "score": "0.311340868473053",
+        "rank": "1",
+        "new_score": "0.3323413133621216",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ilse_Bing",
+            "nationality",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "1999\u20132000_Hertha_BSC_season",
+                "chairman",
+                "Ilse_Bing"
+            ],
+            [
+                "2013\u201314_Hertha_BSC_season",
+                "chairman",
+                "Ilse_Bing"
+            ],
+            [
+                "2014\u201315_Hertha_BSC_season",
+                "chairman",
+                "Ilse_Bing"
+            ]
+        ],
+        "score": "0.7353926301002502",
+        "rank": "1",
+        "new_score": "0.33175402879714966",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Trichosalpinx_ciliaris",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Trichosalpinx_ciliaris",
+                "binomialAuthority",
+                "Plant"
+            ]
+        ],
+        "score": "0.9941260814666748",
+        "rank": "1",
+        "new_score": "0.9915115237236023",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Arundinarieae",
+            "kingdom",
+            "Plant"
+        ],
+        "rule": [
+            [
+                "Aa_erosa",
+                "family",
+                "Arundinarieae"
+            ],
+            [
+                "Acmispon_brachycarpus",
+                "family",
+                "Arundinarieae"
+            ],
+            [
+                "Acrocomia_hassleri",
+                "family",
+                "Arundinarieae"
+            ],
+            [
+                "Adrorhizinae",
+                "family",
+                "Arundinarieae"
+            ],
+            [
+                "Aechmea_cylindrata",
+                "family",
+                "Arundinarieae"
+            ],
+            [
+                "Aechmea_haltonii",
+                "family",
+                "Arundinarieae"
+            ],
+            [
+                "Aiphanes_leiostachys",
+                "family",
+                "Arundinarieae"
+            ],
+            [
+                "Allopterigeron",
+                "family",
+                "Arundinarieae"
+            ],
+            [
+                "Anise",
+                "family",
+                "Arundinarieae"
+            ]
+        ],
+        "score": "0.9959410429000854",
+        "rank": "1",
+        "new_score": "0.9888762831687927",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "BMW_3/20",
+            "assembly",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "BMW_3/20",
+                "assembly",
+                "Altenglan"
+            ],
+            [
+                "BMW_3/20",
+                "assembly",
+                "Bad_Homburg_vor_der_H\u00f6he"
+            ],
+            [
+                "BMW_3/20",
+                "assembly",
+                "Calv\u00f6rde"
+            ]
+        ],
+        "score": "0.08851990103721619",
+        "rank": "1",
+        "new_score": "0.05922892689704895",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Thayer_Melvin",
+            "party",
+            "Whig_Party_(United_States)"
+        ],
+        "rule": [
+            [
+                "Aaron_Harlan",
+                "successor",
+                "Thayer_Melvin"
+            ],
+            [
+                "Arnold_Naudain",
+                "successor",
+                "Thayer_Melvin"
+            ],
+            [
+                "Caleb_Blood_Smith",
+                "successor",
+                "Thayer_Melvin"
+            ],
+            [
+                "Cornelius_P._Comegys",
+                "successor",
+                "Thayer_Melvin"
+            ],
+            [
+                "Dudley_S._Gregory",
+                "successor",
+                "Thayer_Melvin"
+            ],
+            [
+                "Edward_Everett",
+                "successor",
+                "Thayer_Melvin"
+            ],
+            [
+                "Eliphalet_Trask",
+                "successor",
+                "Thayer_Melvin"
+            ],
+            [
+                "Isaac_C._Bates",
+                "successor",
+                "Thayer_Melvin"
+            ],
+            [
+                "John_Davis_(Massachusetts_governor)",
+                "successor",
+                "Thayer_Melvin"
+            ]
+        ],
+        "score": "0.15186090767383575",
+        "rank": "1",
+        "new_score": "0.2510673403739929",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Playtime_Is_Over_(Candyman_album)",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Alive_(The_Black_Eyed_Peas_song)",
+                "previousWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "99_Problems",
+                "subsequentWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "All_I_Do_Is_Win",
+                "subsequentWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "All_I_Want_(702_song)",
+                "subsequentWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "All_Nite_(Don't_Stop)",
+                "subsequentWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "All_the_Way_Turnt_Up",
+                "subsequentWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "Amazin'_(LL_Cool_J_song)",
+                "subsequentWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "Another_Round_(Fat_Joe_song)",
+                "subsequentWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "Area_Codes_(song)",
+                "subsequentWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "Back_on_the_Road_(Madcon_song)",
+                "subsequentWork",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "99_Problems",
+                "album",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "All_I_Do_Is_Win",
+                "album",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "All_I_Want_(702_song)",
+                "album",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "All_Nite_(Don't_Stop)",
+                "album",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "All_the_Way_Turnt_Up",
+                "album",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "Amazin'_(LL_Cool_J_song)",
+                "album",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "Another_Round_(Fat_Joe_song)",
+                "album",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "Area_Codes_(song)",
+                "album",
+                "Playtime_Is_Over_(Candyman_album)"
+            ],
+            [
+                "Back_on_the_Road_(Madcon_song)",
+                "album",
+                "Playtime_Is_Over_(Candyman_album)"
+            ]
+        ],
+        "score": "0.3649519085884094",
+        "rank": "1",
+        "new_score": "0.4053342640399933",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Psaphida",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Butterfly",
+                "order",
+                "Psaphida"
+            ],
+            [
+                "Many-plumed_moth",
+                "order",
+                "Psaphida"
+            ],
+            [
+                "Noctuoidea",
+                "order",
+                "Psaphida"
+            ]
+        ],
+        "score": "0.7770950794219971",
+        "rank": "1",
+        "new_score": "0.44297635555267334",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Zekelita",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Cicindela_chinensis_japonica",
+                "species",
+                "Zekelita"
+            ],
+            [
+                "Insect",
+                "species",
+                "Zekelita"
+            ]
+        ],
+        "score": "0.8086897730827332",
+        "rank": "1",
+        "new_score": "0.7792890667915344",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "This_Ain't_Love",
+            "recordedIn",
+            "London"
+        ],
+        "rule": [
+            [
+                "All_Time_Low_(song)",
+                "subsequentWork",
+                "This_Ain't_Love"
+            ]
+        ],
+        "score": "0.44548651576042175",
+        "rank": "1",
+        "new_score": "0.4109065532684326",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Linaria",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Achnatherum",
+                "genus",
+                "Linaria"
+            ],
+            [
+                "Acidocroton",
+                "genus",
+                "Linaria"
+            ],
+            [
+                "Adesmia",
+                "genus",
+                "Linaria"
+            ]
+        ],
+        "score": "0.9884570240974426",
+        "rank": "1",
+        "new_score": "0.9713674783706665",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hamlet_(1990_film)",
+            "musicComposer",
+            "Ennio_Morricone"
+        ],
+        "rule": [
+            [
+                "Hamlet_(1990_film)",
+                "musicComposer",
+                "Hayley_Westenra"
+            ],
+            [
+                "Hamlet_(1990_film)",
+                "musicComposer",
+                "Alessandro_Alessandroni"
+            ],
+            [
+                "Hamlet_(1990_film)",
+                "musicComposer",
+                "Bruno_Nicolai"
+            ],
+            [
+                "Hamlet_(1990_film)",
+                "musicComposer",
+                "Dalida"
+            ],
+            [
+                "Hamlet_(1990_film)",
+                "musicComposer",
+                "Gianni_Morandi"
+            ]
+        ],
+        "score": "0.06992565095424652",
+        "rank": "1",
+        "new_score": "0.019207386299967766",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "The_1982_Annual_World's_Best_SF",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Bookatable",
+                "product",
+                "The_1982_Annual_World's_Best_SF"
+            ]
+        ],
+        "score": "0.5782948732376099",
+        "rank": "1",
+        "new_score": "0.8556650280952454",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Macaranga",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule": [
+            [
+                "Achnatherum",
+                "genus",
+                "Macaranga"
+            ],
+            [
+                "Acidocroton",
+                "genus",
+                "Macaranga"
+            ],
+            [
+                "Adesmia",
+                "genus",
+                "Macaranga"
+            ],
+            [
+                "Aa_erosa",
+                "family",
+                "Macaranga"
+            ],
+            [
+                "Acacia_coriacea",
+                "family",
+                "Macaranga"
+            ],
+            [
+                "Acmispon_brachycarpus",
+                "family",
+                "Macaranga"
+            ],
+            [
+                "Acrocomia_hassleri",
+                "family",
+                "Macaranga"
+            ],
+            [
+                "Adrorhizinae",
+                "family",
+                "Macaranga"
+            ],
+            [
+                "Aa_erosa",
+                "genus",
+                "Macaranga"
+            ],
+            [
+                "Acacia_coriacea",
+                "genus",
+                "Macaranga"
+            ],
+            [
+                "Acmispon_brachycarpus",
+                "genus",
+                "Macaranga"
+            ],
+            [
+                "Acrocomia_hassleri",
+                "genus",
+                "Macaranga"
+            ]
+        ],
+        "score": "0.9917492866516113",
+        "rank": "1",
+        "new_score": "0.962314248085022",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Princess_Sarah_(TV_series)",
+            "network",
+            "ABS-CBN"
+        ],
+        "rule": [
+            [
+                "Princess_Sarah_(TV_series)",
+                "previousWork",
+                "Iisa_Pa_Lamang"
+            ]
+        ],
+        "score": "0.045338451862335205",
+        "rank": "1",
+        "new_score": "0.17547553777694702",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Romeo_Miller",
+            "occupation",
+            "Model_(people)"
+        ],
+        "rule": [
+            [
+                "Adrian_Pradhan",
+                "associatedBand",
+                "Romeo_Miller"
+            ],
+            [
+                "DJ_Heavygrinder",
+                "associatedBand",
+                "Romeo_Miller"
+            ],
+            [
+                "Erica_Packer",
+                "associatedBand",
+                "Romeo_Miller"
+            ],
+            [
+                "Haruna_Kojima",
+                "associatedBand",
+                "Romeo_Miller"
+            ],
+            [
+                "Mawi",
+                "associatedBand",
+                "Romeo_Miller"
+            ],
+            [
+                "Park_Ji-yeon",
+                "associatedBand",
+                "Romeo_Miller"
+            ]
+        ],
+        "score": "0.11214494705200195",
+        "rank": "1",
+        "new_score": "0.07858756184577942",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Candalides",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Candalides",
+                "family",
+                "Lepidoptera"
+            ]
+        ],
+        "score": "0.635353147983551",
+        "rank": "1",
+        "new_score": "0.7200936079025269",
+        "new_rank": "1"
+    }
+]

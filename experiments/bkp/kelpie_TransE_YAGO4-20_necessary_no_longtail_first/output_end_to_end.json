@@ -1,0 +1,1842 @@
+[
+    {
+        "triple_to_explain": [
+            "Ephysteris",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Ephysteris",
+                "parentTaxon",
+                "Gelechiidae"
+            ]
+        ],
+        "score": "34.690166",
+        "rank": "1",
+        "new_score": "40.899208",
+        "new_rank": "54"
+    },
+    {
+        "triple_to_explain": [
+            "Gravitcornutia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Gravitcornutia",
+                "parentTaxon",
+                "Tortricinae"
+            ]
+        ],
+        "score": "31.903261",
+        "rank": "1",
+        "new_score": "41.58522",
+        "new_rank": "17"
+    },
+    {
+        "triple_to_explain": [
+            "Hypercompe",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Hypercompe",
+                "parentTaxon",
+                "Arctiidae"
+            ]
+        ],
+        "score": "33.888847",
+        "rank": "1",
+        "new_score": "45.7908",
+        "new_rank": "19"
+    },
+    {
+        "triple_to_explain": [
+            "Lebia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Lebia",
+                "parentTaxon",
+                "Ground_beetle"
+            ]
+        ],
+        "score": "33.005768",
+        "rank": "1",
+        "new_score": "39.777225",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Buccinum",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Buccinum",
+                "parentTaxon",
+                "Buccinidae"
+            ]
+        ],
+        "score": "33.722992",
+        "rank": "1",
+        "new_score": "38.384552",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Machimia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Machimia",
+                "parentTaxon",
+                "Oecophoridae"
+            ]
+        ],
+        "score": "32.52043",
+        "rank": "1",
+        "new_score": "42.08664",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Bactra_(moth)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Bactra_(moth)",
+                "parentTaxon",
+                "Tortricidae"
+            ]
+        ],
+        "score": "31.703074",
+        "rank": "1",
+        "new_score": "42.264027",
+        "new_rank": "15"
+    },
+    {
+        "triple_to_explain": [
+            "Cicurina",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cicurina",
+                "parentTaxon",
+                "Dictynidae"
+            ]
+        ],
+        "score": "30.204273",
+        "rank": "1",
+        "new_score": "41.637573",
+        "new_rank": "350"
+    },
+    {
+        "triple_to_explain": [
+            "Lithobates",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Lithobates",
+                "parentTaxon",
+                "True_frog"
+            ]
+        ],
+        "score": "33.817017",
+        "rank": "1",
+        "new_score": "39.472664",
+        "new_rank": "21"
+    },
+    {
+        "triple_to_explain": [
+            "Platyptilia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Platyptilia",
+                "parentTaxon",
+                "Pterophorinae"
+            ]
+        ],
+        "score": "30.83451",
+        "rank": "1",
+        "new_score": "44.904995",
+        "new_rank": "24"
+    },
+    {
+        "triple_to_explain": [
+            "Trismelasmos",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Trismelasmos",
+                "parentTaxon",
+                "Cossidae"
+            ]
+        ],
+        "score": "29.628933",
+        "rank": "1",
+        "new_score": "41.03315",
+        "new_rank": "40"
+    },
+    {
+        "triple_to_explain": [
+            "Bill_Le_Sage",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "Bill_Le_Sage",
+                "birthPlace",
+                "London"
+            ]
+        ],
+        "score": "24.106133",
+        "rank": "1",
+        "new_score": "32.943695",
+        "new_rank": "4419"
+    },
+    {
+        "triple_to_explain": [
+            "Cuproxena",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cuproxena",
+                "parentTaxon",
+                "Tortricidae"
+            ]
+        ],
+        "score": "33.05276",
+        "rank": "1",
+        "new_score": "41.05465",
+        "new_rank": "171"
+    },
+    {
+        "triple_to_explain": [
+            "Cris_Velasco",
+            "nationality",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Cris_Velasco",
+                "birthPlace",
+                "United_States"
+            ]
+        ],
+        "score": "24.973333",
+        "rank": "1",
+        "new_score": "36.511013",
+        "new_rank": "3633"
+    },
+    {
+        "triple_to_explain": [
+            "Gardiner,_Maine",
+            "location",
+            "Kennebec_County,_Maine"
+        ],
+        "rule": [
+            [
+                "Kennebec_County,_Maine",
+                "containsPlace",
+                "Gardiner,_Maine"
+            ]
+        ],
+        "score": "11.636659",
+        "rank": "1",
+        "new_score": "12.561056",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Tyspanodes",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Tyspanodes",
+                "parentTaxon",
+                "Crambidae"
+            ]
+        ],
+        "score": "37.24421",
+        "rank": "1",
+        "new_score": "37.697323",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Bolbitiaceae",
+            "taxonRank",
+            "Family_(biology)"
+        ],
+        "rule": [
+            [
+                "Bolbitiaceae",
+                "parentTaxon",
+                "Agaricales"
+            ],
+            [
+                "Panaeolus",
+                "parentTaxon",
+                "Bolbitiaceae"
+            ]
+        ],
+        "score": "29.411133",
+        "rank": "1",
+        "new_score": "39.61796",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Huntsville,_Ontario",
+            "location",
+            "District_Municipality_of_Muskoka"
+        ],
+        "rule": [
+            [
+                "Huntsville,_Ontario",
+                "containedInPlace",
+                "District_Municipality_of_Muskoka"
+            ]
+        ],
+        "score": "10.92847",
+        "rank": "1",
+        "new_score": "32.770798",
+        "new_rank": "40699"
+    },
+    {
+        "triple_to_explain": [
+            "Whitesnake",
+            "genre",
+            "Rock_music"
+        ],
+        "rule": [
+            [
+                "Whitesnake",
+                "genre",
+                "Glam_metal"
+            ],
+            [
+                "Whitesnake",
+                "foundingLocation",
+                "Middlesbrough"
+            ]
+        ],
+        "score": "24.475927",
+        "rank": "1",
+        "new_score": "39.51196",
+        "new_rank": "208"
+    },
+    {
+        "triple_to_explain": [
+            "Phaedropsis",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Phaedropsis",
+                "parentTaxon",
+                "Crambidae"
+            ]
+        ],
+        "score": "35.326622",
+        "rank": "1",
+        "new_score": "37.30123",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Abagrotis",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Abagrotis",
+                "parentTaxon",
+                "Noctuidae"
+            ]
+        ],
+        "score": "29.142069",
+        "rank": "1",
+        "new_score": "42.513977",
+        "new_rank": "736"
+    },
+    {
+        "triple_to_explain": [
+            "Hyposmocoma",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Hyposmocoma",
+                "parentTaxon",
+                "Cosmopterigidae"
+            ]
+        ],
+        "score": "32.194843",
+        "rank": "1",
+        "new_score": "40.293682",
+        "new_rank": "86"
+    },
+    {
+        "triple_to_explain": [
+            "Orocrambus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Orocrambus",
+                "parentTaxon",
+                "Crambidae"
+            ]
+        ],
+        "score": "36.504616",
+        "rank": "1",
+        "new_score": "45.998062",
+        "new_rank": "362"
+    },
+    {
+        "triple_to_explain": [
+            "Eresina",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Eresina",
+                "parentTaxon",
+                "Lycaenidae"
+            ]
+        ],
+        "score": "28.935589",
+        "rank": "1",
+        "new_score": "39.90453",
+        "new_rank": "847"
+    },
+    {
+        "triple_to_explain": [
+            "Oligoryzomys",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Oligoryzomys",
+                "parentTaxon",
+                "Sigmodontinae"
+            ]
+        ],
+        "score": "34.46624",
+        "rank": "1",
+        "new_score": "43.482037",
+        "new_rank": "505"
+    },
+    {
+        "triple_to_explain": [
+            "Goniotorna",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Goniotorna",
+                "parentTaxon",
+                "Tortricidae"
+            ]
+        ],
+        "score": "33.962112",
+        "rank": "1",
+        "new_score": "41.24582",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Agaraea",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Agaraea",
+                "parentTaxon",
+                "Arctiidae"
+            ]
+        ],
+        "score": "35.870644",
+        "rank": "1",
+        "new_score": "44.299297",
+        "new_rank": "40"
+    },
+    {
+        "triple_to_explain": [
+            "Catoptria",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Catoptria",
+                "parentTaxon",
+                "Crambidae"
+            ]
+        ],
+        "score": "37.61395",
+        "rank": "1",
+        "new_score": "39.739304",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Cernobbio",
+            "location",
+            "Province_of_Como"
+        ],
+        "rule": [
+            [
+                "Cernobbio",
+                "containedInPlace",
+                "Province_of_Como"
+            ]
+        ],
+        "score": "11.189118",
+        "rank": "1",
+        "new_score": "24.651865",
+        "new_rank": "974"
+    },
+    {
+        "triple_to_explain": [
+            "Kimberley,_British_Columbia",
+            "location",
+            "Regional_District_of_East_Kootenay"
+        ],
+        "rule": [
+            [
+                "Kimberley,_British_Columbia",
+                "containedInPlace",
+                "Regional_District_of_East_Kootenay"
+            ]
+        ],
+        "score": "11.332987",
+        "rank": "1",
+        "new_score": "25.922325",
+        "new_rank": "9845"
+    },
+    {
+        "triple_to_explain": [
+            "Zophodia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Zophodia",
+                "parentTaxon",
+                "Pyralidae"
+            ]
+        ],
+        "score": "36.444233",
+        "rank": "1",
+        "new_score": "36.99368",
+        "new_rank": "13"
+    },
+    {
+        "triple_to_explain": [
+            "Sideroxylon",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Sideroxylon",
+                "parentTaxon",
+                "Sapotaceae"
+            ]
+        ],
+        "score": "28.558292",
+        "rank": "1",
+        "new_score": "43.923298",
+        "new_rank": "42"
+    },
+    {
+        "triple_to_explain": [
+            "Millettia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Millettia",
+                "parentTaxon",
+                "Millettieae"
+            ]
+        ],
+        "score": "32.436382",
+        "rank": "1",
+        "new_score": "36.647644",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Oidaematophorus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Oidaematophorus",
+                "parentTaxon",
+                "Pterophoridae"
+            ]
+        ],
+        "score": "32.2417",
+        "rank": "1",
+        "new_score": "41.678883",
+        "new_rank": "21"
+    },
+    {
+        "triple_to_explain": [
+            "Massepha",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Massepha",
+                "parentTaxon",
+                "Crambidae"
+            ]
+        ],
+        "score": "30.937693",
+        "rank": "1",
+        "new_score": "44.109924",
+        "new_rank": "86"
+    },
+    {
+        "triple_to_explain": [
+            "Syllitus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Syllitus",
+                "parentTaxon",
+                "Longhorn_beetle"
+            ]
+        ],
+        "score": "30.876785",
+        "rank": "1",
+        "new_score": "41.86454",
+        "new_rank": "416"
+    },
+    {
+        "triple_to_explain": [
+            "Leptadrillia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Leptadrillia",
+                "parentTaxon",
+                "Drilliidae"
+            ]
+        ],
+        "score": "32.796",
+        "rank": "1",
+        "new_score": "46.48656",
+        "new_rank": "246"
+    },
+    {
+        "triple_to_explain": [
+            "Cyrtodactylus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cyrtodactylus",
+                "parentTaxon",
+                "Gekkonidae"
+            ]
+        ],
+        "score": "32.84505",
+        "rank": "1",
+        "new_score": "38.942337",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Mimudea",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Mimudea",
+                "parentTaxon",
+                "Crambidae"
+            ]
+        ],
+        "score": "30.152645",
+        "rank": "1",
+        "new_score": "44.039715",
+        "new_rank": "26"
+    },
+    {
+        "triple_to_explain": [
+            "Valeriana",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Valeriana",
+                "parentTaxon",
+                "Caprifoliaceae"
+            ]
+        ],
+        "score": "32.870388",
+        "rank": "1",
+        "new_score": "41.316574",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Nedre_Eiker",
+            "location",
+            "Buskerud"
+        ],
+        "rule": [
+            [
+                "Buskerud",
+                "containsPlace",
+                "Nedre_Eiker"
+            ]
+        ],
+        "score": "10.358214",
+        "rank": "1",
+        "new_score": "17.137407",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Choeromorpha",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Choeromorpha",
+                "parentTaxon",
+                "Mesosini"
+            ]
+        ],
+        "score": "30.903715",
+        "rank": "1",
+        "new_score": "40.24937",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "2017_BWF_World_Championships_\u2013_Women's_doubles",
+            "sport",
+            "Badminton"
+        ],
+        "rule": [
+            [
+                "2017_BWF_World_Championships_\u2013_Women's_doubles",
+                "location",
+                "Glasgow"
+            ]
+        ],
+        "score": "36.24888",
+        "rank": "1",
+        "new_score": "40.49687",
+        "new_rank": "27"
+    },
+    {
+        "triple_to_explain": [
+            "Tarucus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Tarucus",
+                "parentTaxon",
+                "Polyommatini"
+            ]
+        ],
+        "score": "32.795788",
+        "rank": "1",
+        "new_score": "44.74779",
+        "new_rank": "34"
+    },
+    {
+        "triple_to_explain": [
+            "Sai_Prakash",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule": [
+            [
+                "Sai_Prakash",
+                "hasOccupation",
+                "Film_director"
+            ],
+            [
+                "Sai_Prakash",
+                "nationality",
+                "India"
+            ]
+        ],
+        "score": "30.31455",
+        "rank": "1",
+        "new_score": "37.885723",
+        "new_rank": "31"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_\u0141apan\u00f3w",
+            "location",
+            "Bochnia_County"
+        ],
+        "rule": [
+            [
+                "Gmina_\u0141apan\u00f3w",
+                "containedInPlace",
+                "Bochnia_County"
+            ]
+        ],
+        "score": "9.398671",
+        "rank": "1",
+        "new_score": "30.71738",
+        "new_rank": "8484"
+    },
+    {
+        "triple_to_explain": [
+            "Tintoretto",
+            "nationality",
+            "Republic_of_Venice"
+        ],
+        "rule": [
+            [
+                "Tintoretto",
+                "birthPlace",
+                "Venice"
+            ]
+        ],
+        "score": "24.595926",
+        "rank": "1",
+        "new_score": "22.170252",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Buck-Tick",
+            "genre",
+            "Rock_music"
+        ],
+        "rule": [
+            [
+                "Buck-Tick",
+                "genre",
+                "Alternative_rock"
+            ]
+        ],
+        "score": "19.088947",
+        "rank": "1",
+        "new_score": "37.32031",
+        "new_rank": "175"
+    },
+    {
+        "triple_to_explain": [
+            "Plagiobothrys",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Plagiobothrys",
+                "parentTaxon",
+                "Boraginaceae"
+            ]
+        ],
+        "score": "37.9133",
+        "rank": "1",
+        "new_score": "40.873013",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Micropterix",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Micropterix",
+                "parentTaxon",
+                "Micropterigidae"
+            ]
+        ],
+        "score": "32.509888",
+        "rank": "1",
+        "new_score": "42.36963",
+        "new_rank": "199"
+    },
+    {
+        "triple_to_explain": [
+            "Psapharochrus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Psapharochrus",
+                "parentTaxon",
+                "Acanthoderini"
+            ]
+        ],
+        "score": "35.859695",
+        "rank": "1",
+        "new_score": "42.14541",
+        "new_rank": "31"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Siemkowice",
+            "location",
+            "Paj\u0119czno_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Siemkowice",
+                "containedInPlace",
+                "Paj\u0119czno_County"
+            ]
+        ],
+        "score": "11.666679",
+        "rank": "1",
+        "new_score": "26.080164",
+        "new_rank": "12692"
+    },
+    {
+        "triple_to_explain": [
+            "Bignoniaceae",
+            "taxonRank",
+            "Family_(biology)"
+        ],
+        "rule": [
+            [
+                "Bignoniaceae",
+                "parentTaxon",
+                "Lamiales"
+            ],
+            [
+                "Tabebuia",
+                "parentTaxon",
+                "Bignoniaceae"
+            ]
+        ],
+        "score": "30.77437",
+        "rank": "1",
+        "new_score": "39.43569",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rumex",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Rumex",
+                "parentTaxon",
+                "Polygonaceae"
+            ]
+        ],
+        "score": "33.879395",
+        "rank": "1",
+        "new_score": "42.35117",
+        "new_rank": "88"
+    },
+    {
+        "triple_to_explain": [
+            "Barilius",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Barilius",
+                "parentTaxon",
+                "Cyprinidae"
+            ]
+        ],
+        "score": "32.22649",
+        "rank": "1",
+        "new_score": "40.92109",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Celastrina",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Celastrina",
+                "parentTaxon",
+                "Polyommatini"
+            ]
+        ],
+        "score": "33.7158",
+        "rank": "1",
+        "new_score": "38.110397",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Nosophora",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Nosophora",
+                "parentTaxon",
+                "Crambidae"
+            ]
+        ],
+        "score": "26.803171",
+        "rank": "1",
+        "new_score": "44.083908",
+        "new_rank": "224"
+    },
+    {
+        "triple_to_explain": [
+            "Eurybia_(plant)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Eurybia_(plant)",
+                "parentTaxon",
+                "Astereae"
+            ]
+        ],
+        "score": "35.480373",
+        "rank": "1",
+        "new_score": "43.001766",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Sainte-Ad\u00e8le,_Quebec",
+            "location",
+            "Les_Pays-d'en-Haut_Regional_County_Municipality"
+        ],
+        "rule": [
+            [
+                "Sainte-Ad\u00e8le,_Quebec",
+                "containedInPlace",
+                "Les_Pays-d'en-Haut_Regional_County_Municipality"
+            ]
+        ],
+        "score": "11.766482",
+        "rank": "1",
+        "new_score": "26.189718",
+        "new_rank": "23123"
+    },
+    {
+        "triple_to_explain": [
+            "No_Line_on_the_Horizon",
+            "inLanguage",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "No_Line_on_the_Horizon",
+                "producer",
+                "Brian_Eno"
+            ],
+            [
+                "No_Line_on_the_Horizon",
+                "byArtist",
+                "U2"
+            ]
+        ],
+        "score": "32.677097",
+        "rank": "1",
+        "new_score": "44.82567",
+        "new_rank": "20"
+    },
+    {
+        "triple_to_explain": [
+            "Alternaria",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Alternaria",
+                "parentTaxon",
+                "Pleosporaceae"
+            ]
+        ],
+        "score": "34.07132",
+        "rank": "1",
+        "new_score": "37.55765",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Animal_(Kesha_album)",
+            "inLanguage",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Animal_(Kesha_album)",
+                "producer",
+                "Dr._Luke"
+            ],
+            [
+                "Animal_(Kesha_album)",
+                "genre",
+                "Dance-pop"
+            ]
+        ],
+        "score": "37.192898",
+        "rank": "1",
+        "new_score": "41.291027",
+        "new_rank": "170"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Kobylin-Borzymy",
+            "location",
+            "Wysokie_Mazowieckie_County"
+        ],
+        "rule": [
+            [
+                "Wysokie_Mazowieckie_County",
+                "containsPlace",
+                "Gmina_Kobylin-Borzymy"
+            ]
+        ],
+        "score": "11.274757",
+        "rank": "1",
+        "new_score": "15.816601",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Avatha",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Avatha",
+                "parentTaxon",
+                "Noctuidae"
+            ]
+        ],
+        "score": "35.62",
+        "rank": "1",
+        "new_score": "39.701786",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Periploca_(moth)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Periploca_(moth)",
+                "parentTaxon",
+                "Cosmopterigidae"
+            ]
+        ],
+        "score": "32.963387",
+        "rank": "1",
+        "new_score": "40.903362",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Tegula_(gastropod)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Tegula_(gastropod)",
+                "parentTaxon",
+                "Trochidae"
+            ]
+        ],
+        "score": "34.634937",
+        "rank": "1",
+        "new_score": "37.94873",
+        "new_rank": "18"
+    },
+    {
+        "triple_to_explain": [
+            "Mesophleps",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Mesophleps",
+                "parentTaxon",
+                "Gelechiidae"
+            ]
+        ],
+        "score": "33.569553",
+        "rank": "1",
+        "new_score": "37.492905",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Rhopobota",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Rhopobota",
+                "parentTaxon",
+                "Eucosmini"
+            ]
+        ],
+        "score": "35.872417",
+        "rank": "1",
+        "new_score": "36.989075",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pusiola",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Pusiola",
+                "parentTaxon",
+                "Arctiidae"
+            ]
+        ],
+        "score": "31.206423",
+        "rank": "1",
+        "new_score": "41.399624",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Sundeep_Kishan",
+            "knowsLanguage",
+            "Tamil_language"
+        ],
+        "rule": [
+            [
+                "Sundeep_Kishan",
+                "alumniOf",
+                "Osmania_University"
+            ],
+            [
+                "Sundeep_Kishan",
+                "nationality",
+                "India"
+            ]
+        ],
+        "score": "24.65937",
+        "rank": "1",
+        "new_score": "31.622026",
+        "new_rank": "45"
+    },
+    {
+        "triple_to_explain": [
+            "Jamides",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Jamides",
+                "parentTaxon",
+                "Polyommatini"
+            ]
+        ],
+        "score": "36.86526",
+        "rank": "1",
+        "new_score": "39.501797",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Luise_Fleck",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Luise_Fleck",
+                "hasOccupation",
+                "Film_director"
+            ]
+        ],
+        "score": "31.324228",
+        "rank": "1",
+        "new_score": "38.21228",
+        "new_rank": "346"
+    },
+    {
+        "triple_to_explain": [
+            "Abraxas_(moth)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Abraxas_(moth)",
+                "parentTaxon",
+                "Geometer_moth"
+            ]
+        ],
+        "score": "35.397655",
+        "rank": "1",
+        "new_score": "43.738758",
+        "new_rank": "32"
+    },
+    {
+        "triple_to_explain": [
+            "Niviventer",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Niviventer",
+                "parentTaxon",
+                "Murinae"
+            ]
+        ],
+        "score": "32.290836",
+        "rank": "1",
+        "new_score": "42.51622",
+        "new_rank": "27"
+    },
+    {
+        "triple_to_explain": [
+            "Waterbury,_Vermont",
+            "location",
+            "Washington_County,_Vermont"
+        ],
+        "rule": [
+            [
+                "Washington_County,_Vermont",
+                "containsPlace",
+                "Waterbury,_Vermont"
+            ]
+        ],
+        "score": "10.902149",
+        "rank": "1",
+        "new_score": "12.622775",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Hylarana",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Hylarana",
+                "parentTaxon",
+                "True_frog"
+            ]
+        ],
+        "score": "34.660187",
+        "rank": "1",
+        "new_score": "42.66055",
+        "new_rank": "84"
+    },
+    {
+        "triple_to_explain": [
+            "University_of_the_West_of_England,_Bristol",
+            "location",
+            "South_Gloucestershire"
+        ],
+        "rule": [
+            [
+                "University_of_the_West_of_England,_Bristol",
+                "containedInPlace",
+                "South_Gloucestershire"
+            ]
+        ],
+        "score": "11.491948",
+        "rank": "1",
+        "new_score": "28.739634",
+        "new_rank": "36265"
+    },
+    {
+        "triple_to_explain": [
+            "Agyneta",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Agyneta",
+                "parentTaxon",
+                "Linyphiidae"
+            ]
+        ],
+        "score": "33.85485",
+        "rank": "1",
+        "new_score": "38.313015",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Cheilosia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cheilosia",
+                "parentTaxon",
+                "Hoverfly"
+            ]
+        ],
+        "score": "32.546238",
+        "rank": "1",
+        "new_score": "47.081783",
+        "new_rank": "203"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Radzi\u0142\u00f3w",
+            "location",
+            "Grajewo_County"
+        ],
+        "rule": [
+            [
+                "Grajewo_County",
+                "containsPlace",
+                "Gmina_Radzi\u0142\u00f3w"
+            ]
+        ],
+        "score": "10.427688",
+        "rank": "1",
+        "new_score": "12.607463",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Cyanopepla",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cyanopepla",
+                "parentTaxon",
+                "Arctiidae"
+            ]
+        ],
+        "score": "35.75984",
+        "rank": "1",
+        "new_score": "38.557392",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Badminton_at_the_2004_Summer_Olympics_\u2013_Men's_doubles",
+            "sport",
+            "Badminton"
+        ],
+        "rule": [
+            [
+                "Badminton_at_the_2004_Summer_Olympics_\u2013_Men's_doubles",
+                "competitor",
+                "Jens_Eriksen"
+            ],
+            [
+                "Badminton_at_the_2004_Summer_Olympics_\u2013_Men's_doubles",
+                "location",
+                "Athens"
+            ]
+        ],
+        "score": "30.890032",
+        "rank": "1",
+        "new_score": "43.261215",
+        "new_rank": "37"
+    },
+    {
+        "triple_to_explain": [
+            "Jorunna",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Jorunna",
+                "parentTaxon",
+                "Discodorididae"
+            ]
+        ],
+        "score": "32.329536",
+        "rank": "1",
+        "new_score": "43.64109",
+        "new_rank": "36"
+    },
+    {
+        "triple_to_explain": [
+            "Paraleprodera",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Paraleprodera",
+                "parentTaxon",
+                "Longhorn_beetle"
+            ]
+        ],
+        "score": "33.48323",
+        "rank": "1",
+        "new_score": "41.942684",
+        "new_rank": "34"
+    },
+    {
+        "triple_to_explain": [
+            "Badminton_at_the_1996_Summer_Olympics_\u2013_Men's_doubles",
+            "sport",
+            "Badminton"
+        ],
+        "rule": [
+            [
+                "Badminton_at_the_1996_Summer_Olympics_\u2013_Men's_doubles",
+                "location",
+                "Atlanta"
+            ]
+        ],
+        "score": "29.358961",
+        "rank": "1",
+        "new_score": "34.888878",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Drohiczyn",
+            "location",
+            "Siemiatycze_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Drohiczyn",
+                "containedInPlace",
+                "Siemiatycze_County"
+            ]
+        ],
+        "score": "11.473728",
+        "rank": "1",
+        "new_score": "24.91132",
+        "new_rank": "10239"
+    },
+    {
+        "triple_to_explain": [
+            "Enrique_Fava",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Enrique_Fava",
+                "givenName",
+                "Enrique"
+            ]
+        ],
+        "score": "33.546032",
+        "rank": "1",
+        "new_score": "34.834305",
+        "new_rank": "295"
+    },
+    {
+        "triple_to_explain": [
+            "Governors_State_University",
+            "location",
+            "Illinois"
+        ],
+        "rule": [
+            [
+                "Governors_State_University",
+                "containedInPlace",
+                "Illinois"
+            ]
+        ],
+        "score": "10.382896",
+        "rank": "1",
+        "new_score": "24.013128",
+        "new_rank": "4121"
+    },
+    {
+        "triple_to_explain": [
+            "Anacrusis_(genus)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anacrusis_(genus)",
+                "parentTaxon",
+                "Tortricidae"
+            ]
+        ],
+        "score": "37.91239",
+        "rank": "1",
+        "new_score": "37.09771",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Helenium",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Helenium",
+                "parentTaxon",
+                "Asteraceae"
+            ]
+        ],
+        "score": "31.224049",
+        "rank": "1",
+        "new_score": "44.652287",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Smyrna,_Tennessee",
+            "location",
+            "Rutherford_County,_Tennessee"
+        ],
+        "rule": [
+            [
+                "Smyrna,_Tennessee",
+                "containedInPlace",
+                "Rutherford_County,_Tennessee"
+            ]
+        ],
+        "score": "11.133203",
+        "rank": "1",
+        "new_score": "33.169296",
+        "new_rank": "87761"
+    },
+    {
+        "triple_to_explain": [
+            "California_Community_Colleges_System",
+            "subOrganization",
+            "Mt._San_Antonio_College"
+        ],
+        "rule": [
+            [
+                "Mt._San_Antonio_College",
+                "parentOrganization",
+                "California_Community_Colleges_System"
+            ]
+        ],
+        "score": "13.5454645",
+        "rank": "1",
+        "new_score": "32.02816",
+        "new_rank": "92311"
+    },
+    {
+        "triple_to_explain": [
+            "Pseudorhaphitoma",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Pseudorhaphitoma",
+                "parentTaxon",
+                "Mangeliidae"
+            ]
+        ],
+        "score": "33.39724",
+        "rank": "1",
+        "new_score": "42.03258",
+        "new_rank": "57"
+    },
+    {
+        "triple_to_explain": [
+            "Mitromorpha",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Mitromorpha",
+                "parentTaxon",
+                "Conidae"
+            ]
+        ],
+        "score": "30.192675",
+        "rank": "1",
+        "new_score": "36.551056",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Pilsbryspira",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Pilsbryspira",
+                "parentTaxon",
+                "Turridae"
+            ]
+        ],
+        "score": "31.325785",
+        "rank": "1",
+        "new_score": "38.664246",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Ipatinga",
+            "location",
+            "Minas_Gerais"
+        ],
+        "rule": [
+            [
+                "Ipatinga",
+                "containedInPlace",
+                "Minas_Gerais"
+            ]
+        ],
+        "score": "10.6873455",
+        "rank": "1",
+        "new_score": "26.651514",
+        "new_rank": "3754"
+    },
+    {
+        "triple_to_explain": [
+            "Drillia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Drillia",
+                "parentTaxon",
+                "Drilliidae"
+            ]
+        ],
+        "score": "29.685404",
+        "rank": "1",
+        "new_score": "40.975044",
+        "new_rank": "35"
+    },
+    {
+        "triple_to_explain": [
+            "Palaquium",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Palaquium",
+                "parentTaxon",
+                "Sapotaceae"
+            ]
+        ],
+        "score": "35.457462",
+        "rank": "1",
+        "new_score": "47.962914",
+        "new_rank": "305"
+    },
+    {
+        "triple_to_explain": [
+            "Bradycellus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Bradycellus",
+                "parentTaxon",
+                "Ground_beetle"
+            ]
+        ],
+        "score": "31.826422",
+        "rank": "1",
+        "new_score": "38.81858",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Pyramidella",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Pyramidella",
+                "parentTaxon",
+                "Pyramidellidae"
+            ]
+        ],
+        "score": "36.11868",
+        "rank": "1",
+        "new_score": "41.75752",
+        "new_rank": "22"
+    }
+]

@@ -1,0 +1,2702 @@
+[
+    {
+        "triple": [
+            "Ch\u00e2teauguay",
+            "location",
+            "Roussillon_Regional_County_Municipality"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Roussillon_Regional_County_Municipality",
+                        "containsPlace",
+                        "Ch\u00e2teauguay"
+                    ]
+                ],
+                22813.5
+            ],
+            [
+                [
+                    [
+                        "Ch\u00e2teauguay",
+                        "containedInPlace",
+                        "Roussillon_Regional_County_Municipality"
+                    ]
+                ],
+                1534.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 16.03341269493103
+    },
+    {
+        "triple": [
+            "Canton_of_Bellegarde-sur-Valserine",
+            "containedInPlace",
+            "Arrondissement_of_Gex"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Canton_of_Bellegarde-sur-Valserine",
+                        "containedInPlace",
+                        "Arrondissement_of_Nantua"
+                    ]
+                ],
+                1377.5
+            ],
+            [
+                [
+                    [
+                        "Canton_of_Bellegarde-sur-Valserine",
+                        "containedInPlace",
+                        "Arrondissement_of_Belley"
+                    ]
+                ],
+                -37.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.384861469268799
+    },
+    {
+        "triple": [
+            "Ritwick_Chakraborty",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ritwick_Chakraborty",
+                        "birthPlace",
+                        "Barrackpore"
+                    ]
+                ],
+                777.5
+            ],
+            [
+                [
+                    [
+                        "Ritwick_Chakraborty",
+                        "familyName",
+                        "Chakraborty"
+                    ]
+                ],
+                601.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.373796939849854
+    },
+    {
+        "triple": [
+            "Sterling_Heights,_Michigan",
+            "location",
+            "Macomb_County,_Michigan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sterling_Heights,_Michigan",
+                        "containedInPlace",
+                        "Macomb_County,_Michigan"
+                    ]
+                ],
+                6528.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.65031123161316
+    },
+    {
+        "triple": [
+            "University_of_Chicago_Graduate_Library_School",
+            "location",
+            "Illinois"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_Chicago_Graduate_Library_School",
+                        "containedInPlace",
+                        "Illinois"
+                    ]
+                ],
+                -861.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.97931957244873
+    },
+    {
+        "triple": [
+            "Gotham_(season_3)",
+            "partOfSeries",
+            "Gotham_(TV_series)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gotham_(TV_series)",
+                        "hasPart",
+                        "Gotham_(season_3)"
+                    ]
+                ],
+                1889.5
+            ],
+            [
+                [
+                    [
+                        "Gotham_(season_3)",
+                        "countryOfOrigin",
+                        "United_States"
+                    ]
+                ],
+                -14960.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.40618348121643
+    },
+    {
+        "triple": [
+            "Bethune\u2013Cookman_University",
+            "location",
+            "Daytona_Beach,_Florida"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bethune\u2013Cookman_University",
+                        "containedInPlace",
+                        "Daytona_Beach,_Florida"
+                    ]
+                ],
+                628.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.744451761245728
+    },
+    {
+        "triple": [
+            "Gmina_S\u0142upno",
+            "location",
+            "P\u0142ock_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_S\u0142upno",
+                        "containedInPlace",
+                        "P\u0142ock_County"
+                    ]
+                ],
+                -45.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.757139444351196
+    },
+    {
+        "triple": [
+            "Machimia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Machimia",
+                        "parentTaxon",
+                        "Oecophoridae"
+                    ]
+                ],
+                22.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.746277809143066
+    },
+    {
+        "triple": [
+            "Kobe_University",
+            "location",
+            "Kobe"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Shinya_Yamanaka",
+                        "alumniOf",
+                        "Kobe_University"
+                    ]
+                ],
+                55647.5
+            ],
+            [
+                [
+                    [
+                        "Kobe_University",
+                        "containedInPlace",
+                        "Kobe"
+                    ]
+                ],
+                -167.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.551718473434448
+    },
+    {
+        "triple": [
+            "PLA_National_Defence_University",
+            "location",
+            "Beijing"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "PLA_National_Defence_University",
+                        "containedInPlace",
+                        "Beijing"
+                    ]
+                ],
+                13395.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.169049501419067
+    },
+    {
+        "triple": [
+            "Sundar_C._Babu",
+            "nationality",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sundar_C._Babu",
+                        "birthPlace",
+                        "Chennai"
+                    ]
+                ],
+                -1250.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.52265214920044
+    },
+    {
+        "triple": [
+            "No_Line_on_the_Horizon",
+            "genre",
+            "Alternative_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "No_Line_on_the_Horizon",
+                        "producer",
+                        "Brian_Eno"
+                    ]
+                ],
+                806.5
+            ],
+            [
+                [
+                    [
+                        "No_Line_on_the_Horizon",
+                        "byArtist",
+                        "U2"
+                    ]
+                ],
+                114.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.00446891784668
+    },
+    {
+        "triple": [
+            "Aberdeen,_Maryland",
+            "location",
+            "Harford_County,_Maryland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Aberdeen,_Maryland",
+                        "containedInPlace",
+                        "Harford_County,_Maryland"
+                    ]
+                ],
+                15190.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.146277666091919
+    },
+    {
+        "triple": [
+            "Imizu,_Toyama",
+            "location",
+            "Toyama_Prefecture"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Toyama_Prefecture",
+                        "containsPlace",
+                        "Imizu,_Toyama"
+                    ]
+                ],
+                9117.5
+            ],
+            [
+                [
+                    [
+                        "Imizu,_Toyama",
+                        "containedInPlace",
+                        "Toyama_Prefecture"
+                    ]
+                ],
+                973.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.779632091522217
+    },
+    {
+        "triple": [
+            "Port_Hope,_Ontario",
+            "location",
+            "Northumberland_County,_Ontario"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Port_Hope,_Ontario",
+                        "containedInPlace",
+                        "Northumberland_County,_Ontario"
+                    ]
+                ],
+                5948.5
+            ],
+            [
+                [
+                    [
+                        "Northumberland_County,_Ontario",
+                        "containsPlace",
+                        "Port_Hope,_Ontario"
+                    ]
+                ],
+                795.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.517759323120117
+    },
+    {
+        "triple": [
+            "Harutaeographa",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Harutaeographa",
+                        "parentTaxon",
+                        "Noctuidae"
+                    ]
+                ],
+                8.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.707643032073975
+    },
+    {
+        "triple": [
+            "Pleasanton,_California",
+            "location",
+            "Alameda_County,_California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pleasanton,_California",
+                        "containedInPlace",
+                        "Alameda_County,_California"
+                    ]
+                ],
+                2193.5
+            ],
+            [
+                [
+                    [
+                        "Debbie_Lee_Carrington",
+                        "deathPlace",
+                        "Pleasanton,_California"
+                    ]
+                ],
+                -3648.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.444956302642822
+    },
+    {
+        "triple": [
+            "Taylor,_Texas",
+            "location",
+            "Williamson_County,_Texas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Taylor,_Texas",
+                        "containedInPlace",
+                        "Williamson_County,_Texas"
+                    ]
+                ],
+                440.5
+            ],
+            [
+                [
+                    [
+                        "Tex_Avery",
+                        "birthPlace",
+                        "Taylor,_Texas"
+                    ]
+                ],
+                -8717.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.340895652770996
+    },
+    {
+        "triple": [
+            "Gmina_Wo\u0142omin",
+            "location",
+            "Wo\u0142omin_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Wo\u0142omin_County",
+                        "containsPlace",
+                        "Gmina_Wo\u0142omin"
+                    ]
+                ],
+                496.5
+            ],
+            [
+                [
+                    [
+                        "Gmina_Wo\u0142omin",
+                        "containedInPlace",
+                        "Wo\u0142omin_County"
+                    ]
+                ],
+                -24.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.219708442687988
+    },
+    {
+        "triple": [
+            "Canton_of_Gamaches",
+            "containedInPlace",
+            "Arrondissement_of_Amiens"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Arrondissement_of_Abbeville",
+                        "containsPlace",
+                        "Canton_of_Gamaches"
+                    ]
+                ],
+                95.5
+            ],
+            [
+                [
+                    [
+                        "Canton_of_Gamaches",
+                        "containedInPlace",
+                        "Arrondissement_of_Abbeville"
+                    ]
+                ],
+                -102.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.828553199768066
+    },
+    {
+        "triple": [
+            "Gmina_Liniewo",
+            "location",
+            "Ko\u015bcierzyna_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ko\u015bcierzyna_County",
+                        "containsPlace",
+                        "Gmina_Liniewo"
+                    ]
+                ],
+                43.5
+            ],
+            [
+                [
+                    [
+                        "Gmina_Liniewo",
+                        "containedInPlace",
+                        "Ko\u015bcierzyna_County"
+                    ]
+                ],
+                2.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.894937992095947
+    },
+    {
+        "triple": [
+            "Ilida_(municipality)",
+            "location",
+            "Western_Greece"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ilida_(municipality)",
+                        "containedInPlace",
+                        "Western_Greece"
+                    ]
+                ],
+                13680.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.891793489456177
+    },
+    {
+        "triple": [
+            "Martin_Birch",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Martin_Birch",
+                        "familyName",
+                        "Birch_(surname)"
+                    ]
+                ],
+                4602.5
+            ],
+            [
+                [
+                    [
+                        "Martin_Birch",
+                        "birthPlace",
+                        "United_Kingdom"
+                    ]
+                ],
+                128.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.292962551116943
+    },
+    {
+        "triple": [
+            "Gmina_Lubawa",
+            "location",
+            "I\u0142awa_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "I\u0142awa_County",
+                        "containsPlace",
+                        "Gmina_Lubawa"
+                    ]
+                ],
+                1115.5
+            ],
+            [
+                [
+                    [
+                        "Gmina_Lubawa",
+                        "containedInPlace",
+                        "I\u0142awa_County"
+                    ]
+                ],
+                -26.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.352149724960327
+    },
+    {
+        "triple": [
+            "Scirpophaga",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Scirpophaga",
+                        "parentTaxon",
+                        "Crambidae"
+                    ]
+                ],
+                10.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.723069429397583
+    },
+    {
+        "triple": [
+            "Glipostenoda",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Glipostenoda",
+                        "parentTaxon",
+                        "Mordellidae"
+                    ]
+                ],
+                6.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.977803468704224
+    },
+    {
+        "triple": [
+            "An\u00e1polis",
+            "location",
+            "Goi\u00e1s"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Goi\u00e1s",
+                        "containsPlace",
+                        "An\u00e1polis"
+                    ]
+                ],
+                3328.5
+            ],
+            [
+                [
+                    [
+                        "An\u00e1polis",
+                        "containedInPlace",
+                        "Goi\u00e1s"
+                    ]
+                ],
+                411.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.940680265426636
+    },
+    {
+        "triple": [
+            "Gmina_Rybno,_Warmian-Masurian_Voivodeship",
+            "location",
+            "Dzia\u0142dowo_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Rybno,_Warmian-Masurian_Voivodeship",
+                        "containedInPlace",
+                        "Dzia\u0142dowo_County"
+                    ]
+                ],
+                3549.5
+            ],
+            [
+                [
+                    [
+                        "Dzia\u0142dowo_County",
+                        "containsPlace",
+                        "Gmina_Rybno,_Warmian-Masurian_Voivodeship"
+                    ]
+                ],
+                544.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.93552851676941
+    },
+    {
+        "triple": [
+            "Mdina",
+            "location",
+            "Malta"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mdina",
+                        "containedInPlace",
+                        "Malta"
+                    ]
+                ],
+                19575.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.621955394744873
+    },
+    {
+        "triple": [
+            "Ephysteris",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ephysteris",
+                        "parentTaxon",
+                        "Gelechiidae"
+                    ]
+                ],
+                1.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.214985370635986
+    },
+    {
+        "triple": [
+            "Woodinville,_Washington",
+            "location",
+            "King_County,_Washington"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Woodinville,_Washington",
+                        "containedInPlace",
+                        "King_County,_Washington"
+                    ]
+                ],
+                -2651.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.687030792236328
+    },
+    {
+        "triple": [
+            "Charles_Willson_Peale",
+            "nationality",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Charles_Willson_Peale",
+                        "deathPlace",
+                        "Philadelphia"
+                    ]
+                ],
+                20.5002384185791
+            ],
+            [
+                [
+                    [
+                        "Charles_Willson_Peale",
+                        "givenName",
+                        "Charles"
+                    ]
+                ],
+                -10.499234199523926
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.30668020248413
+    },
+    {
+        "triple": [
+            "Deinandra",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Deinandra",
+                        "parentTaxon",
+                        "Asteraceae"
+                    ]
+                ],
+                16.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.719909906387329
+    },
+    {
+        "triple": [
+            "Stone_Mountain,_Georgia",
+            "location",
+            "Georgia_(U.S._state)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Stone_Mountain,_Georgia",
+                        "containedInPlace",
+                        "Georgia_(U.S._state)"
+                    ]
+                ],
+                26465.5
+            ],
+            [
+                [
+                    [
+                        "Stone_Mountain,_Georgia",
+                        "containedInPlace",
+                        "DeKalb_County,_Georgia"
+                    ]
+                ],
+                22281.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.771559000015259
+    },
+    {
+        "triple": [
+            "Munich_University_of_Applied_Sciences",
+            "location",
+            "Munich"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Munich_University_of_Applied_Sciences",
+                        "containedInPlace",
+                        "Munich"
+                    ]
+                ],
+                99.5
+            ],
+            [
+                [
+                    [
+                        "Munich_University_of_Applied_Sciences",
+                        "memberOf",
+                        "European_University_Association"
+                    ]
+                ],
+                -839.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.620464324951172
+    },
+    {
+        "triple": [
+            "Queens_County,_New_Brunswick",
+            "location",
+            "New_Brunswick"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Queens_County,_New_Brunswick",
+                        "containedInPlace",
+                        "New_Brunswick"
+                    ]
+                ],
+                808.5
+            ],
+            [
+                [
+                    [
+                        "Eldon_Rathburn",
+                        "birthPlace",
+                        "Queens_County,_New_Brunswick"
+                    ]
+                ],
+                -18433.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.561250448226929
+    },
+    {
+        "triple": [
+            "Esposende",
+            "location",
+            "Braga_District"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Esposende",
+                        "containedInPlace",
+                        "Braga_District"
+                    ]
+                ],
+                660.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.55028223991394
+    },
+    {
+        "triple": [
+            "Nobuhiko_Obayashi",
+            "nationality",
+            "Japan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nobuhiko_Obayashi",
+                        "hasOccupation",
+                        "Film_producer"
+                    ]
+                ],
+                4783.5
+            ],
+            [
+                [
+                    [
+                        "Nobuhiko_Obayashi",
+                        "alumniOf",
+                        "Seijo_University"
+                    ]
+                ],
+                1248.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.30737566947937
+    },
+    {
+        "triple": [
+            "Palaquium",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Palaquium",
+                        "parentTaxon",
+                        "Sapotaceae"
+                    ]
+                ],
+                4.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.070757389068604
+    },
+    {
+        "triple": [
+            "Yuji_Naka",
+            "nationality",
+            "Japan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yuji_Naka",
+                        "givenName",
+                        "Y\u016bji"
+                    ]
+                ],
+                35211.5
+            ],
+            [
+                [
+                    [
+                        "Yuji_Naka",
+                        "birthPlace",
+                        "Osaka"
+                    ]
+                ],
+                10012.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.456115961074829
+    },
+    {
+        "triple": [
+            "Acronicta",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Acronicta",
+                        "parentTaxon",
+                        "Noctuidae"
+                    ]
+                ],
+                18.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.871402978897095
+    },
+    {
+        "triple": [
+            "Sebastes",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sebastes",
+                        "parentTaxon",
+                        "Scorpaenidae"
+                    ]
+                ],
+                0.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.969849586486816
+    },
+    {
+        "triple": [
+            "Agriphila",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Agriphila",
+                        "parentTaxon",
+                        "Crambidae"
+                    ]
+                ],
+                17.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.043454647064209
+    },
+    {
+        "triple": [
+            "Mitra_(gastropod)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mitra_(gastropod)",
+                        "parentTaxon",
+                        "Mitridae"
+                    ]
+                ],
+                24.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.999029159545898
+    },
+    {
+        "triple": [
+            "Sever_do_Vouga",
+            "containedInPlace",
+            "Regi\u00e3o_de_Aveiro"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sever_do_Vouga",
+                        "containedInPlace",
+                        "Aveiro_District"
+                    ]
+                ],
+                711.5
+            ],
+            [
+                [
+                    [
+                        "Sever_do_Vouga",
+                        "location",
+                        "Regi\u00e3o_de_Aveiro"
+                    ]
+                ],
+                503.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.86908745765686
+    },
+    {
+        "triple": [
+            "University_of_Belgrade_Faculty_of_Philology",
+            "location",
+            "Belgrade"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Danilo_Ki\u0161",
+                        "alumniOf",
+                        "University_of_Belgrade_Faculty_of_Philology"
+                    ]
+                ],
+                254.5
+            ],
+            [
+                [
+                    [
+                        "University_of_Belgrade_Faculty_of_Philology",
+                        "containedInPlace",
+                        "Belgrade"
+                    ]
+                ],
+                -15.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.170974493026733
+    },
+    {
+        "triple": [
+            "FC_Zvezda_Irkutsk",
+            "sport",
+            "Association_football"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FC_Zvezda_Irkutsk",
+                        "location",
+                        "Irkutsk"
+                    ]
+                ],
+                7917.5
+            ],
+            [
+                [
+                    [
+                        "Vladimir_Shishelov",
+                        "memberOf",
+                        "FC_Zvezda_Irkutsk"
+                    ]
+                ],
+                -530.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.997034549713135
+    },
+    {
+        "triple": [
+            "General_Electric",
+            "founder",
+            "Thomas_Edison"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "General_Electric",
+                        "foundingLocation",
+                        "Schenectady,_New_York"
+                    ]
+                ],
+                773.5
+            ],
+            [
+                [
+                    [
+                        "General_Electric",
+                        "founder",
+                        "Elihu_Thomson"
+                    ]
+                ],
+                53.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.340824127197266
+    },
+    {
+        "triple": [
+            "Tyspanodes",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tyspanodes",
+                        "parentTaxon",
+                        "Crambidae"
+                    ]
+                ],
+                4.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.530474185943604
+    },
+    {
+        "triple": [
+            "Paraleprodera",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Paraleprodera",
+                        "parentTaxon",
+                        "Longhorn_beetle"
+                    ]
+                ],
+                10.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.87106728553772
+    },
+    {
+        "triple": [
+            "Canton_of_Saint-Aignan",
+            "containedInPlace",
+            "Arrondissement_of_Romorantin-Lanthenay"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Canton_of_Saint-Aignan",
+                        "containedInPlace",
+                        "Arrondissement_of_Blois"
+                    ]
+                ],
+                21722.5
+            ],
+            [
+                [
+                    [
+                        "Arrondissement_of_Romorantin-Lanthenay",
+                        "containsPlace",
+                        "Canton_of_Saint-Aignan"
+                    ]
+                ],
+                11828.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.765712261199951
+    },
+    {
+        "triple": [
+            "Zatrephes",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Zatrephes",
+                        "parentTaxon",
+                        "Phaegopterina"
+                    ]
+                ],
+                13.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.282680749893188
+    },
+    {
+        "triple": [
+            "Gmina_Gniezno",
+            "location",
+            "Gniezno_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Gniezno",
+                        "containedInPlace",
+                        "Gniezno_County"
+                    ]
+                ],
+                12.5
+            ],
+            [
+                [
+                    [
+                        "Gniezno_County",
+                        "containsPlace",
+                        "Gmina_Gniezno"
+                    ]
+                ],
+                -1524.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.608785152435303
+    },
+    {
+        "triple": [
+            "Abagrotis",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Abagrotis",
+                        "parentTaxon",
+                        "Noctuidae"
+                    ]
+                ],
+                28.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.042316913604736
+    },
+    {
+        "triple": [
+            "Trophon",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Trophon",
+                        "parentTaxon",
+                        "Muricidae"
+                    ]
+                ],
+                7.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.682202100753784
+    },
+    {
+        "triple": [
+            "Horta,_Azores",
+            "location",
+            "Azores"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Horta,_Azores",
+                        "containedInPlace",
+                        "Azores"
+                    ]
+                ],
+                -516.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.604013681411743
+    },
+    {
+        "triple": [
+            "Stad,_Norway",
+            "location",
+            "Vestland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Vestland",
+                        "containsPlace",
+                        "Stad,_Norway"
+                    ]
+                ],
+                8731.5
+            ],
+            [
+                [
+                    [
+                        "Stad,_Norway",
+                        "containedInPlace",
+                        "Vestland"
+                    ]
+                ],
+                -1385.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.618036270141602
+    },
+    {
+        "triple": [
+            "Gmina_Stawiszyn",
+            "location",
+            "Kalisz_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Stawiszyn",
+                        "containedInPlace",
+                        "Kalisz_County"
+                    ]
+                ],
+                25.5
+            ],
+            [
+                [
+                    [
+                        "Kalisz_County",
+                        "containsPlace",
+                        "Gmina_Stawiszyn"
+                    ]
+                ],
+                -125.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.898279905319214
+    },
+    {
+        "triple": [
+            "Seticosta",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Seticosta",
+                        "parentTaxon",
+                        "Tortricidae"
+                    ]
+                ],
+                9.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.05619764328003
+    },
+    {
+        "triple": [
+            "University_of_Louisville_School_of_Law",
+            "location",
+            "Louisville,_Kentucky"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_Louisville_School_of_Law",
+                        "containedInPlace",
+                        "Louisville,_Kentucky"
+                    ]
+                ],
+                138.5
+            ],
+            [
+                [
+                    [
+                        "University_of_Louisville_School_of_Law",
+                        "parentOrganization",
+                        "University_of_Louisville"
+                    ]
+                ],
+                -20076.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.509143352508545
+    },
+    {
+        "triple": [
+            "Pont-Aven",
+            "containedInPlace",
+            "Finist\u00e8re"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pont-Aven",
+                        "location",
+                        "Finist\u00e8re"
+                    ]
+                ],
+                16802.5
+            ],
+            [
+                [
+                    [
+                        "Pont-Aven",
+                        "containedInPlace",
+                        "Arrondissement_of_Quimper"
+                    ]
+                ],
+                10643.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.711502075195312
+    },
+    {
+        "triple": [
+            "Gmina_Suchowola",
+            "location",
+            "Sok\u00f3\u0142ka_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Suchowola",
+                        "containedInPlace",
+                        "Sok\u00f3\u0142ka_County"
+                    ],
+                    [
+                        "Sok\u00f3\u0142ka_County",
+                        "containsPlace",
+                        "Gmina_Suchowola"
+                    ]
+                ],
+                142.5
+            ],
+            [
+                [
+                    [
+                        "Gmina_Suchowola",
+                        "containedInPlace",
+                        "Sok\u00f3\u0142ka_County"
+                    ]
+                ],
+                -26.5
+            ],
+            [
+                [
+                    [
+                        "Sok\u00f3\u0142ka_County",
+                        "containsPlace",
+                        "Gmina_Suchowola"
+                    ]
+                ],
+                -37.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.377034425735474
+    },
+    {
+        "triple": [
+            "Gmina_Drobin",
+            "location",
+            "P\u0142ock_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Drobin",
+                        "containedInPlace",
+                        "P\u0142ock_County"
+                    ]
+                ],
+                4.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.028958797454834
+    },
+    {
+        "triple": [
+            "Helwan_University",
+            "location",
+            "Cairo_Governorate"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Helwan_University",
+                        "containedInPlace",
+                        "Cairo_Governorate"
+                    ]
+                ],
+                4278.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.743613004684448
+    },
+    {
+        "triple": [
+            "PopCap_Games",
+            "parentOrganization",
+            "Electronic_Arts"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Electronic_Arts",
+                        "subOrganization",
+                        "PopCap_Games"
+                    ]
+                ],
+                4804.5
+            ],
+            [
+                [
+                    [
+                        "PopCap_Games",
+                        "foundingLocation",
+                        "Seattle"
+                    ]
+                ],
+                -9901.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.76470685005188
+    },
+    {
+        "triple": [
+            "Rheine",
+            "location",
+            "Steinfurt_(district)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rheine",
+                        "containedInPlace",
+                        "Steinfurt_(district)"
+                    ]
+                ],
+                304.5
+            ],
+            [
+                [
+                    [
+                        "Rheine",
+                        "memberOf",
+                        "Climate_Alliance"
+                    ]
+                ],
+                -13200.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.832319498062134
+    },
+    {
+        "triple": [
+            "S\u00f8gne",
+            "location",
+            "Vest-Agder"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "S\u00f8gne",
+                        "containedInPlace",
+                        "Vest-Agder"
+                    ]
+                ],
+                -1117.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.904542922973633
+    },
+    {
+        "triple": [
+            "Gmina_Mi\u0119dzylesie",
+            "location",
+            "K\u0142odzko_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Mi\u0119dzylesie",
+                        "containedInPlace",
+                        "K\u0142odzko_County"
+                    ],
+                    [
+                        "K\u0142odzko_County",
+                        "containsPlace",
+                        "Gmina_Mi\u0119dzylesie"
+                    ]
+                ],
+                1339.5
+            ],
+            [
+                [
+                    [
+                        "Gmina_Mi\u0119dzylesie",
+                        "containedInPlace",
+                        "K\u0142odzko_County"
+                    ]
+                ],
+                -719.5
+            ],
+            [
+                [
+                    [
+                        "K\u0142odzko_County",
+                        "containsPlace",
+                        "Gmina_Mi\u0119dzylesie"
+                    ]
+                ],
+                -13143.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.826992511749268
+    },
+    {
+        "triple": [
+            "Carol_Dempster",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Carol_Dempster",
+                        "birthPlace",
+                        "Duluth,_Minnesota"
+                    ]
+                ],
+                329.5
+            ],
+            [
+                [
+                    [
+                        "Intolerance_(film)",
+                        "actor",
+                        "Carol_Dempster"
+                    ]
+                ],
+                -354.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.637592792510986
+    },
+    {
+        "triple": [
+            "Tubar\u00e3o",
+            "location",
+            "Santa_Catarina_(state)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tubar\u00e3o",
+                        "containedInPlace",
+                        "Santa_Catarina_(state)"
+                    ]
+                ],
+                30827.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.69574785232544
+    },
+    {
+        "triple": [
+            "Streator,_Illinois",
+            "location",
+            "Illinois"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Streator,_Illinois",
+                        "containedInPlace",
+                        "Illinois"
+                    ]
+                ],
+                6293.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.053929567337036
+    },
+    {
+        "triple": [
+            "Rinteln",
+            "location",
+            "Schaumburg"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rinteln",
+                        "containedInPlace",
+                        "Schaumburg"
+                    ]
+                ],
+                5371.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.631422519683838
+    },
+    {
+        "triple": [
+            "Pyramidella",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pyramidella",
+                        "parentTaxon",
+                        "Pyramidellidae"
+                    ]
+                ],
+                10.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.822880744934082
+    },
+    {
+        "triple": [
+            "Midden-Groningen",
+            "location",
+            "Groningen_(province)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Midden-Groningen",
+                        "containedInPlace",
+                        "Groningen_(province)"
+                    ]
+                ],
+                21985.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.018439531326294
+    },
+    {
+        "triple": [
+            "Gmina_Barciany",
+            "location",
+            "K\u0119trzyn_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Barciany",
+                        "containedInPlace",
+                        "K\u0119trzyn_County"
+                    ]
+                ],
+                213.5
+            ],
+            [
+                [
+                    [
+                        "K\u0119trzyn_County",
+                        "containsPlace",
+                        "Gmina_Barciany"
+                    ]
+                ],
+                -1161.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.878864526748657
+    },
+    {
+        "triple": [
+            "Pilsbryspira",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pilsbryspira",
+                        "parentTaxon",
+                        "Turridae"
+                    ]
+                ],
+                9.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.912797927856445
+    },
+    {
+        "triple": [
+            "Ueda,_Nagano",
+            "location",
+            "Nagano_Prefecture"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ueda,_Nagano",
+                        "containedInPlace",
+                        "Nagano_Prefecture"
+                    ]
+                ],
+                35278.5
+            ],
+            [
+                [
+                    [
+                        "Nagano_Prefecture",
+                        "containsPlace",
+                        "Ueda,_Nagano"
+                    ]
+                ],
+                3155.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.285655736923218
+    },
+    {
+        "triple": [
+            "University_of_Salerno",
+            "location",
+            "Salerno"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_Salerno",
+                        "containedInPlace",
+                        "Salerno"
+                    ]
+                ],
+                -1667.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.249542951583862
+    },
+    {
+        "triple": [
+            "Acad\u00e9mie_Colarossi",
+            "location",
+            "6th_arrondissement_of_Paris"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Acad\u00e9mie_Colarossi",
+                        "containedInPlace",
+                        "6th_arrondissement_of_Paris"
+                    ]
+                ],
+                1146.5
+            ],
+            [
+                [
+                    [
+                        "Lyonel_Feininger",
+                        "alumniOf",
+                        "Acad\u00e9mie_Colarossi"
+                    ]
+                ],
+                -30893.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.079042196273804
+    },
+    {
+        "triple": [
+            "St._Mary's_University,_Texas",
+            "location",
+            "San_Antonio"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "St._Mary's_University,_Texas",
+                        "containedInPlace",
+                        "San_Antonio"
+                    ]
+                ],
+                73.5
+            ],
+            [
+                [
+                    [
+                        "Frank_Tejeda",
+                        "alumniOf",
+                        "St._Mary's_University,_Texas"
+                    ]
+                ],
+                -2272.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.328442096710205
+    },
+    {
+        "triple": [
+            "Heusden-Zolder",
+            "location",
+            "Limburg_(Belgium)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Heusden-Zolder",
+                        "containedInPlace",
+                        "Arrondissement_of_Hasselt"
+                    ]
+                ],
+                2379.5
+            ],
+            [
+                [
+                    [
+                        "Arrondissement_of_Hasselt",
+                        "containsPlace",
+                        "Heusden-Zolder"
+                    ]
+                ],
+                782.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.166930675506592
+    },
+    {
+        "triple": [
+            "B'Day_(Beyonc\u00e9_album)",
+            "inLanguage",
+            "English_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "B'Day_(Beyonc\u00e9_album)",
+                        "producer",
+                        "Swizz_Beatz"
+                    ]
+                ],
+                1362.5
+            ],
+            [
+                [
+                    [
+                        "B'Day_(Beyonc\u00e9_album)",
+                        "genre",
+                        "Rhythm_and_blues"
+                    ]
+                ],
+                -64.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.186478853225708
+    },
+    {
+        "triple": [
+            "Pseudotropheus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pseudotropheus",
+                        "parentTaxon",
+                        "Cichlid"
+                    ]
+                ],
+                14.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.971771478652954
+    },
+    {
+        "triple": [
+            "Papanasam_Sivan",
+            "nationality",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Papanasam_Sivan",
+                        "birthPlace",
+                        "Thanjavur_district"
+                    ]
+                ],
+                -599.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.013126611709595
+    },
+    {
+        "triple": [
+            "Universidad_CEU_San_Pablo",
+            "location",
+            "Madrid"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Universidad_CEU_San_Pablo",
+                        "containedInPlace",
+                        "Madrid"
+                    ],
+                    [
+                        "Elsa_Pataky",
+                        "alumniOf",
+                        "Universidad_CEU_San_Pablo"
+                    ]
+                ],
+                216.5
+            ],
+            [
+                [
+                    [
+                        "Universidad_CEU_San_Pablo",
+                        "containedInPlace",
+                        "Madrid"
+                    ]
+                ],
+                1.5
+            ],
+            [
+                [
+                    [
+                        "Elsa_Pataky",
+                        "alumniOf",
+                        "Universidad_CEU_San_Pablo"
+                    ]
+                ],
+                -677.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.786146640777588
+    },
+    {
+        "triple": [
+            "Proteuxoa",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Proteuxoa",
+                        "parentTaxon",
+                        "Noctuidae"
+                    ]
+                ],
+                34.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.92586088180542
+    },
+    {
+        "triple": [
+            "Colle_di_Val_d'Elsa",
+            "location",
+            "Province_of_Siena"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Colle_di_Val_d'Elsa",
+                        "containedInPlace",
+                        "Province_of_Siena"
+                    ]
+                ],
+                11719.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.809200763702393
+    },
+    {
+        "triple": [
+            "North_Tonawanda,_New_York",
+            "location",
+            "Niagara_County,_New_York"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "North_Tonawanda,_New_York",
+                        "containedInPlace",
+                        "Niagara_County,_New_York"
+                    ]
+                ],
+                9528.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.761805534362793
+    },
+    {
+        "triple": [
+            "Xiangxiang",
+            "location",
+            "Xiangtan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Xiangxiang",
+                        "containedInPlace",
+                        "Xiangtan"
+                    ]
+                ],
+                2758.5
+            ],
+            [
+                [
+                    [
+                        "Xiangtan",
+                        "containsPlace",
+                        "Xiangxiang"
+                    ]
+                ],
+                2122.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.166907548904419
+    },
+    {
+        "triple": [
+            "Phitsanulok",
+            "location",
+            "Mueang_Phitsanulok_District"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Phitsanulok",
+                        "containedInPlace",
+                        "Mueang_Phitsanulok_District"
+                    ]
+                ],
+                -926.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.161171436309814
+    },
+    {
+        "triple": [
+            "Bill_Le_Sage",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bill_Le_Sage",
+                        "birthPlace",
+                        "London"
+                    ],
+                    [
+                        "Bill_Le_Sage",
+                        "hasOccupation",
+                        "Pianist"
+                    ]
+                ],
+                5995.5
+            ],
+            [
+                [
+                    [
+                        "Bill_Le_Sage",
+                        "hasOccupation",
+                        "Pianist"
+                    ]
+                ],
+                -2193.5
+            ],
+            [
+                [
+                    [
+                        "Bill_Le_Sage",
+                        "birthPlace",
+                        "London"
+                    ]
+                ],
+                -2195.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.922220468521118
+    },
+    {
+        "triple": [
+            "ASEAN_Football_Federation",
+            "parentOrganization",
+            "Asian_Football_Confederation"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "ASEAN_Football_Federation",
+                        "memberOf",
+                        "Asian_Football_Confederation"
+                    ]
+                ],
+                4971.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.232158422470093
+    },
+    {
+        "triple": [
+            "Gmina_Mi\u0144sk_Mazowiecki",
+            "location",
+            "Mi\u0144sk_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Mi\u0144sk_Mazowiecki",
+                        "containedInPlace",
+                        "Mi\u0144sk_County"
+                    ]
+                ],
+                4.5
+            ],
+            [
+                [
+                    [
+                        "Gmina_Mi\u0144sk_Mazowiecki",
+                        "containedInPlace",
+                        "Mi\u0144sk_County"
+                    ],
+                    [
+                        "Mi\u0144sk_County",
+                        "containsPlace",
+                        "Gmina_Mi\u0144sk_Mazowiecki"
+                    ]
+                ],
+                -89.5
+            ],
+            [
+                [
+                    [
+                        "Mi\u0144sk_County",
+                        "containsPlace",
+                        "Gmina_Mi\u0144sk_Mazowiecki"
+                    ]
+                ],
+                -119.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.145797491073608
+    },
+    {
+        "triple": [
+            "Anoka,_Minnesota",
+            "location",
+            "Anoka_County,_Minnesota"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Anoka,_Minnesota",
+                        "containedInPlace",
+                        "Anoka_County,_Minnesota"
+                    ]
+                ],
+                -19.5
+            ],
+            [
+                [
+                    [
+                        "Anoka,_Minnesota",
+                        "containedInPlace",
+                        "Anoka_County,_Minnesota"
+                    ],
+                    [
+                        "Garrison_Keillor",
+                        "birthPlace",
+                        "Anoka,_Minnesota"
+                    ]
+                ],
+                -10314.5
+            ],
+            [
+                [
+                    [
+                        "Garrison_Keillor",
+                        "birthPlace",
+                        "Anoka,_Minnesota"
+                    ]
+                ],
+                -15123.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.73733925819397
+    },
+    {
+        "triple": [
+            "Gmina_Wyrzysk",
+            "location",
+            "Pi\u0142a_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Wyrzysk",
+                        "containedInPlace",
+                        "Pi\u0142a_County"
+                    ]
+                ],
+                16480.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.875787258148193
+    },
+    {
+        "triple": [
+            "Gmina_Czerniewice",
+            "location",
+            "Tomasz\u00f3w_Mazowiecki_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Czerniewice",
+                        "containedInPlace",
+                        "Tomasz\u00f3w_Mazowiecki_County"
+                    ]
+                ],
+                15650.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.168647527694702
+    },
+    {
+        "triple": [
+            "Grevenbroich",
+            "memberOf",
+            "Climate_Alliance"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Grevenbroich",
+                        "location",
+                        "Rhein-Kreis_Neuss"
+                    ]
+                ],
+                10286.5
+            ],
+            [
+                [
+                    [
+                        "Grevenbroich",
+                        "containedInPlace",
+                        "Rhein-Kreis_Neuss"
+                    ]
+                ],
+                1234.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.521326541900635
+    },
+    {
+        "triple": [
+            "University_of_Paris_8_Vincennes-Saint-Denis",
+            "location",
+            "Saint-Denis,_Seine-Saint-Denis"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_Paris_8_Vincennes-Saint-Denis",
+                        "containedInPlace",
+                        "Saint-Denis,_Seine-Saint-Denis"
+                    ]
+                ],
+                1931.5
+            ],
+            [
+                [
+                    [
+                        "Slavoj_\u017di\u017eek",
+                        "alumniOf",
+                        "University_of_Paris_8_Vincennes-Saint-Denis"
+                    ]
+                ],
+                -14356.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.024179935455322
+    },
+    {
+        "triple": [
+            "Palaio_Faliro",
+            "location",
+            "Attica_(region)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Palaio_Faliro",
+                        "containedInPlace",
+                        "Attica_(region)"
+                    ]
+                ],
+                14650.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.511287450790405
+    }
+]

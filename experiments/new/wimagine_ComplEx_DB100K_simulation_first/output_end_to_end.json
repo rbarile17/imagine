@@ -1,0 +1,4242 @@
+[
+    {
+        "triple_to_explain": [
+            "Payette,_Idaho",
+            "timeZone",
+            "Mountain_Time_Zone"
+        ],
+        "rule": [
+            [
+                "Payette,_Idaho",
+                "isPartOf",
+                "Mountain_Time_Zone"
+            ],
+            [
+                "Payette,_Idaho",
+                "daylightSavingTimeZone",
+                "Evergreen,_Colorado"
+            ],
+            [
+                "Payette,_Idaho",
+                "daylightSavingTimeZone",
+                "Grande_Cache"
+            ],
+            [
+                "Payette,_Idaho",
+                "daylightSavingTimeZone",
+                "Highlands_Ranch,_Colorado"
+            ],
+            [
+                "Payette,_Idaho",
+                "daylightSavingTimeZone",
+                "Los_Alamos,_New_Mexico"
+            ],
+            [
+                "Payette,_Idaho",
+                "daylightSavingTimeZone",
+                "Ouray,_Colorado"
+            ],
+            [
+                "Payette,_Idaho",
+                "daylightSavingTimeZone",
+                "Phoenix_metropolitan_area"
+            ]
+        ],
+        "score": "15.963733",
+        "rank": "1",
+        "new_score": "20.000916",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Billy_Cox",
+            "genre",
+            "Blues_rock"
+        ],
+        "rule": [
+            [
+                "22-20s",
+                "formerBandMember",
+                "Billy_Cox"
+            ],
+            [
+                "(I_Know)_I%27m_Losing_You",
+                "musicalArtist",
+                "Billy_Cox"
+            ],
+            [
+                "(I_Know)_I%27m_Losing_You",
+                "writer",
+                "Billy_Cox"
+            ]
+        ],
+        "score": "14.938699",
+        "rank": "1",
+        "new_score": "14.668054",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sonam_Kapoor",
+            "parent",
+            "Anil_Kapoor"
+        ],
+        "rule": [
+            [
+                "Anil_Kapoor",
+                "parent",
+                "Sonam_Kapoor"
+            ],
+            [
+                "24_(Indian_TV_series)",
+                "executiveProducer",
+                "Sonam_Kapoor"
+            ],
+            [
+                "24_(Indian_TV_series)",
+                "composer",
+                "Sonam_Kapoor"
+            ],
+            [
+                "Sonam_Kapoor",
+                "child",
+                "Anil_Kapoor"
+            ]
+        ],
+        "score": "29.318317",
+        "rank": "1",
+        "new_score": "28.376858",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Firewind",
+            "associatedMusicalArtist",
+            "Meridian_Dawn"
+        ],
+        "rule": [
+            [
+                "Antony_H%C3%A4m%C3%A4l%C3%A4inen",
+                "associatedBand",
+                "Firewind"
+            ],
+            [
+                "Daniel_Antonsson",
+                "associatedBand",
+                "Firewind"
+            ],
+            [
+                "Antony_H%C3%A4m%C3%A4l%C3%A4inen",
+                "influencedBy",
+                "Firewind"
+            ],
+            [
+                "Daniel_Antonsson",
+                "influencedBy",
+                "Firewind"
+            ],
+            [
+                "Firewind",
+                "associatedBand",
+                "Armageddon_(Swedish_band)"
+            ],
+            [
+                "Firewind",
+                "associatedBand",
+                "Firewind"
+            ],
+            [
+                "Firewind",
+                "parent",
+                "Meridian_Dawn"
+            ]
+        ],
+        "score": "14.172023",
+        "rank": "1",
+        "new_score": "14.06515",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Andr%C3%A9_Morell",
+            "birthPlace",
+            "London"
+        ],
+        "rule": [
+            [
+                "5th_Story",
+                "religion",
+                "Andr%C3%A9_Morell"
+            ],
+            [
+                "2waytraffic",
+                "service",
+                "Andr%C3%A9_Morell"
+            ],
+            [
+                "2waytraffic",
+                "product",
+                "Andr%C3%A9_Morell"
+            ]
+        ],
+        "score": "17.92691",
+        "rank": "1",
+        "new_score": "17.77443",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gary_Wallis",
+            "associatedBand",
+            "The_Style_Council"
+        ],
+        "rule": [
+            [
+                "Gary_Wallis",
+                "associatedBand",
+                "Alison_Limerick"
+            ]
+        ],
+        "score": "14.210812",
+        "rank": "1",
+        "new_score": "14.813098",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Orange_line_(Kaohsiung_Metro)",
+            "type",
+            "Rapid_transit"
+        ],
+        "rule": [
+            [
+                "BTS_Skytrain",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Baku_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Bilbao_metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Bucharest_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Chicago_%22L%22",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Delhi_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Dnipro_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Guangzhou_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Helsinki_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Jacksonville_Transportation_Authority",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Kazan_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Kyiv_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Los_Angeles_County_Metropolitan_Transportation_Authority",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Lucknow_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Madrid_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Manila_Light_Rail_Transit_System",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Massachusetts_Bay_Transportation_Authority",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Metrorail_(Miami-Dade_County)",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Mexico_City_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ],
+            [
+                "Minsk_Metro",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ]
+        ],
+        "score": "15.821857",
+        "rank": "1",
+        "new_score": "0.8584521",
+        "new_rank": "570"
+    },
+    {
+        "triple_to_explain": [
+            "Bee_Gees%27_1st",
+            "recordLabel",
+            "Polydor_Records"
+        ],
+        "rule": [
+            [
+                "Bee_Gees%27_1st",
+                "artist",
+                "ABBA"
+            ],
+            [
+                "Bee_Gees%27_1st",
+                "artist",
+                "Aftermath_Entertainment"
+            ],
+            [
+                "All_Along_the_Watchtower",
+                "format",
+                "Bee_Gees%27_1st"
+            ],
+            [
+                "Baby_Can_I_Hold_You",
+                "format",
+                "Bee_Gees%27_1st"
+            ]
+        ],
+        "score": "17.159824",
+        "rank": "1",
+        "new_score": "12.117563",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Teeth_of_Lions_Rule_the_Divine",
+            "associatedBand",
+            "Goatsnake"
+        ],
+        "rule": [
+            [
+                "Joey_Castillo",
+                "associatedMusicalArtist",
+                "Teeth_of_Lions_Rule_the_Divine"
+            ],
+            [
+                "Teeth_of_Lions_Rule_the_Divine",
+                "relation",
+                "Goatsnake"
+            ],
+            [
+                "Greg_Anderson_(guitarist)",
+                "spouse",
+                "Teeth_of_Lions_Rule_the_Divine"
+            ],
+            [
+                "Hydra_Head_Records",
+                "keyPerson",
+                "Teeth_of_Lions_Rule_the_Divine"
+            ]
+        ],
+        "score": "14.160677",
+        "rank": "1",
+        "new_score": "12.902258",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Njombe_Region",
+            "type",
+            "Regions_of_Tanzania"
+        ],
+        "rule": [
+            [
+                "Regions_of_Tanzania",
+                "part",
+                "Njombe_Region"
+            ],
+            [
+                "Njombe_Region",
+                "part",
+                "Regions_of_Tanzania"
+            ]
+        ],
+        "score": "19.233793",
+        "rank": "1",
+        "new_score": "11.254483",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Tony_Yayo",
+            "genre",
+            "Hip_hop_music"
+        ],
+        "rule": [
+            [
+                "Tony_Yayo",
+                "occupation",
+                "Hip_hop_music"
+            ],
+            [
+                "2Baba",
+                "associatedBand",
+                "Tony_Yayo"
+            ],
+            [
+                "2Baba",
+                "parent",
+                "Tony_Yayo"
+            ]
+        ],
+        "score": "14.6842",
+        "rank": "1",
+        "new_score": "15.071263",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "St._Xavier%27s_College,_Kolkata",
+            "sport",
+            "Volleyball"
+        ],
+        "rule": [
+            [
+                "Bergen_Catholic_High_School",
+                "head",
+                "St._Xavier%27s_College,_Kolkata"
+            ],
+            [
+                "Cheltenham_High_School",
+                "head",
+                "St._Xavier%27s_College,_Kolkata"
+            ],
+            [
+                "Kennebunk_High_School",
+                "head",
+                "St._Xavier%27s_College,_Kolkata"
+            ],
+            [
+                "Springfield_Southeast_High_School",
+                "head",
+                "St._Xavier%27s_College,_Kolkata"
+            ],
+            [
+                "St._Agnes_Academy-St._Dominic_School",
+                "head",
+                "St._Xavier%27s_College,_Kolkata"
+            ],
+            [
+                "Benedict_College",
+                "campus",
+                "St._Xavier%27s_College,_Kolkata"
+            ],
+            [
+                "Eastern_Nazarene_College",
+                "campus",
+                "St._Xavier%27s_College,_Kolkata"
+            ],
+            [
+                "Johnson_C._Smith_University",
+                "campus",
+                "St._Xavier%27s_College,_Kolkata"
+            ],
+            [
+                "Park_University",
+                "campus",
+                "St._Xavier%27s_College,_Kolkata"
+            ]
+        ],
+        "score": "17.023966",
+        "rank": "1",
+        "new_score": "12.446915",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Patsy_Cline",
+            "associatedMusicalArtist",
+            "Skeeter_Davis"
+        ],
+        "rule": [
+            [
+                "Patsy_Cline",
+                "bandMember",
+                "Skeeter_Davis"
+            ],
+            [
+                "Bobby_Bare",
+                "associatedBand",
+                "Patsy_Cline"
+            ],
+            [
+                "Brenda_Lee",
+                "associatedBand",
+                "Patsy_Cline"
+            ],
+            [
+                "Skeeter_Davis",
+                "associatedBand",
+                "Patsy_Cline"
+            ]
+        ],
+        "score": "14.239984",
+        "rank": "1",
+        "new_score": "14.686097",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bletiinae",
+            "order",
+            "Asparagales"
+        ],
+        "rule": [
+            [
+                "Bletiinae",
+                "family",
+                "Acianthera"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Aeridinae"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Angraecinae"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Caladeniinae"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Catasetum"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Aa_(plant)"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Aerangidinae"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Angraecum"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Asparagaceae"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Bulbophyllum"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Cattleya"
+            ],
+            [
+                "Bletiinae",
+                "family",
+                "Coelogyne"
+            ]
+        ],
+        "score": "24.315725",
+        "rank": "1",
+        "new_score": "23.453272",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Santa_Maria,_California",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "1017_Records",
+                "birthPlace",
+                "Santa_Maria,_California"
+            ],
+            [
+                "%2B/-_(band)",
+                "hometown",
+                "Santa_Maria,_California"
+            ],
+            [
+                "%2B44_(band)",
+                "hometown",
+                "Santa_Maria,_California"
+            ],
+            [
+                "101st_Indiana_Infantry_Regiment",
+                "garrison",
+                "Santa_Maria,_California"
+            ],
+            [
+                "101st_Infantry_Regiment_(United_States)",
+                "garrison",
+                "Santa_Maria,_California"
+            ],
+            [
+                "102nd_New_York_Infantry_Regiment",
+                "garrison",
+                "Santa_Maria,_California"
+            ],
+            [
+                "102nd_Pennsylvania_Infantry_Regiment",
+                "garrison",
+                "Santa_Maria,_California"
+            ],
+            [
+                "104th_Illinois_Infantry_Regiment",
+                "garrison",
+                "Santa_Maria,_California"
+            ],
+            [
+                "104th_New_York_Infantry_Regiment",
+                "garrison",
+                "Santa_Maria,_California"
+            ],
+            [
+                "10th_Cavalry_Regiment_(United_States)",
+                "garrison",
+                "Santa_Maria,_California"
+            ]
+        ],
+        "score": "20.28957",
+        "rank": "1",
+        "new_score": "18.961718",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "The_Libertines",
+            "associatedMusicalArtist",
+            "Dirty_Pretty_Things_(band)"
+        ],
+        "rule": [
+            [
+                "Didz_Hammond",
+                "associatedBand",
+                "The_Libertines"
+            ],
+            [
+                "The_Libertines",
+                "formerBandMember",
+                "Dirty_Pretty_Things_(band)"
+            ],
+            [
+                "The_Libertines",
+                "spouse",
+                "Dirty_Pretty_Things_(band)"
+            ]
+        ],
+        "score": "14.6241665",
+        "rank": "1",
+        "new_score": "15.417433",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Al_Hurricane_Jr.",
+            "instrument",
+            "Guitar"
+        ],
+        "rule": [
+            [
+                "%C3%81lex_Ubago",
+                "associatedBand",
+                "Al_Hurricane_Jr."
+            ],
+            [
+                "Aaron_Johnson_(musician)",
+                "associatedBand",
+                "Al_Hurricane_Jr."
+            ],
+            [
+                "Ad-Rock",
+                "associatedBand",
+                "Al_Hurricane_Jr."
+            ]
+        ],
+        "score": "14.005371",
+        "rank": "1",
+        "new_score": "14.957549",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sushma_Swaraj",
+            "successor",
+            "Sheila_Dikshit"
+        ],
+        "rule": [
+            [
+                "Delhi_University",
+                "president",
+                "Sushma_Swaraj"
+            ],
+            [
+                "Sushma_Swaraj",
+                "spouse",
+                "Sheila_Dikshit"
+            ],
+            [
+                "Sushma_Swaraj",
+                "child",
+                "Sheila_Dikshit"
+            ]
+        ],
+        "score": "27.083733",
+        "rank": "1",
+        "new_score": "25.096302",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Don_Airey",
+            "associatedBand",
+            "Deep_Purple"
+        ],
+        "rule": [
+            [
+                "Coverdale%E2%80%93Page",
+                "associatedMusicalArtist",
+                "Don_Airey"
+            ],
+            [
+                "Don_Airey",
+                "associatedBand",
+                "Avantasia"
+            ],
+            [
+                "Don_Airey",
+                "associatedBand",
+                "Black_Country_Communion"
+            ],
+            [
+                "Don_Airey",
+                "associatedBand",
+                "Blackmore%27s_Night"
+            ]
+        ],
+        "score": "15.188864",
+        "rank": "1",
+        "new_score": "14.896713",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Aftermath_(Rolling_Stones_album)",
+            "artist",
+            "The_Rolling_Stones"
+        ],
+        "rule": [
+            [
+                "Aftermath_(Rolling_Stones_album)",
+                "artist",
+                "Bernard_Fowler"
+            ],
+            [
+                "Aftermath_(Rolling_Stones_album)",
+                "artist",
+                "Bernard_Purdie"
+            ],
+            [
+                "Aftermath_(Rolling_Stones_album)",
+                "artist",
+                "Bill_Wyman"
+            ],
+            [
+                "Aftermath_(Rolling_Stones_album)",
+                "artist",
+                "Billy_Preston"
+            ],
+            [
+                "Aftermath_(Rolling_Stones_album)",
+                "artist",
+                "Brian_Jones"
+            ],
+            [
+                "Aftermath_(Rolling_Stones_album)",
+                "artist",
+                "Chris_Farlowe"
+            ],
+            [
+                "Aftermath_(Rolling_Stones_album)",
+                "artist",
+                "Jack_Nitzsche"
+            ]
+        ],
+        "score": "20.805513",
+        "rank": "1",
+        "new_score": "15.528277",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "3rd_Light_Horse_Brigade",
+            "battle",
+            "Battle_of_Mughar_Ridge"
+        ],
+        "rule": [
+            [
+                "3rd_Light_Horse_Brigade",
+                "commander",
+                "Cevat_%C3%87obanl%C4%B1"
+            ],
+            [
+                "3rd_Light_Horse_Brigade",
+                "commander",
+                "Edward_Bulfin"
+            ],
+            [
+                "3rd_Light_Horse_Brigade",
+                "commander",
+                "Philip_Chetwode,_1st_Baron_Chetwode"
+            ],
+            [
+                "3rd_Light_Horse_Brigade",
+                "militaryBranch",
+                "1st_Light_Horse_Brigade"
+            ],
+            [
+                "3rd_Light_Horse_Brigade",
+                "militaryBranch",
+                "4th_Light_Horse_Brigade"
+            ],
+            [
+                "3rd_Light_Horse_Brigade",
+                "militaryBranch",
+                "2nd_Light_Horse_Brigade"
+            ],
+            [
+                "3rd_Light_Horse_Brigade",
+                "militaryBranch",
+                "Desert_Mounted_Corps"
+            ],
+            [
+                "3rd_Light_Horse_Brigade",
+                "militaryBranch",
+                "Leicestershire_Royal_Horse_Artillery"
+            ],
+            [
+                "3rd_Light_Horse_Brigade",
+                "commander",
+                "Fevzi_%C3%87akmak"
+            ]
+        ],
+        "score": "19.117926",
+        "rank": "1",
+        "new_score": "15.430186",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Spiritual_Beggars",
+            "associatedBand",
+            "Grand_Magus"
+        ],
+        "rule": [
+            [
+                "Spiritual_Beggars",
+                "associatedBand",
+                "Spiritual_Beggars"
+            ],
+            [
+                "Spiritual_Beggars",
+                "formerBandMember",
+                "Grand_Magus"
+            ],
+            [
+                "Spiritual_Beggars",
+                "formerBandMember",
+                "Spiritual_Beggars"
+            ],
+            [
+                "Spiritual_Beggars",
+                "associatedMusicalArtist",
+                "Spiritual_Beggars"
+            ],
+            [
+                "Nuclear_Blast",
+                "keyPerson",
+                "Spiritual_Beggars"
+            ],
+            [
+                "Rise_Above_Records",
+                "keyPerson",
+                "Spiritual_Beggars"
+            ],
+            [
+                "Roadrunner_Records",
+                "keyPerson",
+                "Spiritual_Beggars"
+            ]
+        ],
+        "score": "14.630718",
+        "rank": "1",
+        "new_score": "14.150515",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gerrit_Zalm",
+            "successor",
+            "Andr%C3%A9_Rouvoet"
+        ],
+        "rule": [
+            [
+                "Gerrit_Zalm",
+                "spouse",
+                "Andr%C3%A9_Rouvoet"
+            ]
+        ],
+        "score": "22.029453",
+        "rank": "1",
+        "new_score": "22.829401",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Copromorphidae",
+            "order",
+            "Glossata"
+        ],
+        "rule": [
+            [
+                "Copromorphidae",
+                "division",
+                "Glossata"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Adelidae"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Agriphila"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Batrachedridae"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Carodista"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Carposinidae"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Cecidosidae"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Cophomantella"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Elachistidae"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Epermeniidae"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Eriocraniidae"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Frisilia"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Homaloxestis"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Hygroplasta"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Lecithoceridae"
+            ],
+            [
+                "Copromorphidae",
+                "class",
+                "Limacodidae"
+            ]
+        ],
+        "score": "21.194157",
+        "rank": "1",
+        "new_score": "15.767185",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "University_of_Tulsa",
+            "affiliation",
+            "National_Association_of_Independent_Colleges_and_Universities"
+        ],
+        "rule": [
+            [
+                "Barnard_College",
+                "type",
+                "University_of_Tulsa"
+            ],
+            [
+                "University_of_Tulsa",
+                "type",
+                "National_Association_of_Independent_Colleges_and_Universities"
+            ]
+        ],
+        "score": "20.657337",
+        "rank": "1",
+        "new_score": "14.622717",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Dwikozy",
+            "isPartOf",
+            "%C5%9Awi%C4%99tokrzyskie_Voivodeship"
+        ],
+        "rule": [
+            [
+                "Gmina_Dwikozy",
+                "part",
+                "%C5%9Awi%C4%99tokrzyskie_Voivodeship"
+            ]
+        ],
+        "score": "22.866768",
+        "rank": "1",
+        "new_score": "17.546549",
+        "new_rank": "70"
+    },
+    {
+        "triple_to_explain": [
+            "Qormi",
+            "type",
+            "Local_councils_of_Malta"
+        ],
+        "rule": [
+            [
+                "Local_councils_of_Malta",
+                "part",
+                "Qormi"
+            ],
+            [
+                "Qormi",
+                "isPartOf",
+                "Local_councils_of_Malta"
+            ],
+            [
+                "%C5%BBurrieq",
+                "type",
+                "Qormi"
+            ],
+            [
+                "%C5%BBurrieq",
+                "city",
+                "Qormi"
+            ],
+            [
+                "Attard",
+                "city",
+                "Qormi"
+            ]
+        ],
+        "score": "21.604704",
+        "rank": "1",
+        "new_score": "20.537836",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Law_%26_Order:_Special_Victims_Unit",
+            "creator",
+            "Dick_Wolf"
+        ],
+        "rule": [
+            [
+                "Exiled:_A_Law_%26_Order_Movie",
+                "subsequentWork",
+                "Law_%26_Order:_Special_Victims_Unit"
+            ],
+            [
+                "Exiled:_A_Law_%26_Order_Movie",
+                "related",
+                "Law_%26_Order:_Special_Victims_Unit"
+            ],
+            [
+                "Law_%26_Order",
+                "related",
+                "Law_%26_Order:_Special_Victims_Unit"
+            ],
+            [
+                "Chicago_Fire_(TV_series)",
+                "previousWork",
+                "Law_%26_Order:_Special_Victims_Unit"
+            ],
+            [
+                "Chicago_Med",
+                "previousWork",
+                "Law_%26_Order:_Special_Victims_Unit"
+            ],
+            [
+                "Chicago_P.D._(TV_series)",
+                "previousWork",
+                "Law_%26_Order:_Special_Victims_Unit"
+            ],
+            [
+                "Chicago_Fire_(TV_series)",
+                "subsequentWork",
+                "Law_%26_Order:_Special_Victims_Unit"
+            ],
+            [
+                "Chicago_Med",
+                "subsequentWork",
+                "Law_%26_Order:_Special_Victims_Unit"
+            ],
+            [
+                "Chicago_P.D._(TV_series)",
+                "subsequentWork",
+                "Law_%26_Order:_Special_Victims_Unit"
+            ]
+        ],
+        "score": "20.465626",
+        "rank": "1",
+        "new_score": "23.826477",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "3rd_Battalion,_Royal_Australian_Regiment",
+            "battle",
+            "Iraq_War"
+        ],
+        "rule": [
+            [
+                "10th_Cavalry_Regiment_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "10th_Mountain_Division_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "15th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "16th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "1st_Armored_Division_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "1st_Infantry_Division_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "1st_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "25th_Infantry_Division_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "27th_Infantry_Regiment_(United_States)",
+                "commandStructure",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "10th_Cavalry_Regiment_(United_States)",
+                "type",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "10th_Mountain_Division_(United_States)",
+                "type",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "15th_Infantry_Regiment_(United_States)",
+                "type",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "16th_Infantry_Regiment_(United_States)",
+                "type",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "1st_Armored_Division_(United_States)",
+                "type",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "1st_Infantry_Division_(United_States)",
+                "type",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "1st_Infantry_Regiment_(United_States)",
+                "type",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "25th_Infantry_Division_(United_States)",
+                "type",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ],
+            [
+                "27th_Infantry_Regiment_(United_States)",
+                "type",
+                "3rd_Battalion,_Royal_Australian_Regiment"
+            ]
+        ],
+        "score": "17.799738",
+        "rank": "1",
+        "new_score": "17.567326",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Franz_Brentano",
+            "influenced",
+            "Martin_Heidegger"
+        ],
+        "rule": [
+            [
+                "Franco_Basaglia",
+                "doctoralStudent",
+                "Franz_Brentano"
+            ],
+            [
+                "Ale%C5%A1_Debeljak",
+                "influenced",
+                "Franz_Brentano"
+            ],
+            [
+                "Ale%C5%A1_Debeljak",
+                "influencedBy",
+                "Franz_Brentano"
+            ],
+            [
+                "Franz_Brentano",
+                "birthPlace",
+                "Baden-W%C3%BCrttemberg"
+            ]
+        ],
+        "score": "19.252249",
+        "rank": "1",
+        "new_score": "18.455538",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Garifuna",
+            "language",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Ashkenazi_Jews",
+                "related",
+                "Garifuna"
+            ]
+        ],
+        "score": "13.884609",
+        "rank": "1",
+        "new_score": "15.145368",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lone_Justice",
+            "associatedMusicalArtist",
+            "Maria_McKee"
+        ],
+        "rule": [
+            [
+                "Lone_Justice",
+                "spouse",
+                "Maria_McKee"
+            ],
+            [
+                "Lone_Justice",
+                "associatedMusicalArtist",
+                "Lone_Justice"
+            ],
+            [
+                "Lone_Justice",
+                "deathPlace",
+                "Los_Angeles"
+            ]
+        ],
+        "score": "17.304625",
+        "rank": "1",
+        "new_score": "16.200247",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ferdinand_I_of_Austria",
+            "successor",
+            "Franz_Joseph_I_of_Austria"
+        ],
+        "rule": [
+            [
+                "Eduard_Taaffe,_11th_Viscount_Taaffe",
+                "successor",
+                "Ferdinand_I_of_Austria"
+            ],
+            [
+                "Ferdinand_I_of_Austria",
+                "deathPlace",
+                "Austrian_Empire"
+            ],
+            [
+                "Ferdinand_I_of_Austria",
+                "predecessor",
+                "Eduard_Taaffe,_11th_Viscount_Taaffe"
+            ],
+            [
+                "Ferdinand_I_of_Austria",
+                "predecessor",
+                "Istv%C3%A1n_Tisza"
+            ],
+            [
+                "Ferdinand_I_of_Austria",
+                "predecessor",
+                "K%C3%A1roly_Khuen-H%C3%A9derv%C3%A1ry"
+            ],
+            [
+                "Ferdinand_I_of_Austria",
+                "predecessor",
+                "S%C3%A1ndor_Wekerle"
+            ],
+            [
+                "Ferdinand_I_of_Austria",
+                "predecessor",
+                "Ferdinand_I_of_Austria"
+            ],
+            [
+                "Ferdinand_I_of_Austria",
+                "predecessor",
+                "Franz_Joseph_I_of_Austria"
+            ]
+        ],
+        "score": "32.17925",
+        "rank": "1",
+        "new_score": "26.266756",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Meek_Mill",
+            "associatedBand",
+            "Rick_Ross"
+        ],
+        "rule": [
+            [
+                "Rick_Ross",
+                "partner",
+                "Meek_Mill"
+            ],
+            [
+                "Rick_Ross",
+                "relation",
+                "Meek_Mill"
+            ],
+            [
+                "Meek_Mill",
+                "partner",
+                "Rick_Ross"
+            ],
+            [
+                "Meek_Mill",
+                "relative",
+                "Rick_Ross"
+            ]
+        ],
+        "score": "14.011768",
+        "rank": "1",
+        "new_score": "13.72647",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Micro_Power",
+            "type",
+            "Video_game_developer"
+        ],
+        "rule": [
+            [
+                "Micro_Power",
+                "product",
+                "Video_game_developer"
+            ],
+            [
+                "Micro_Power",
+                "division",
+                "Agetec"
+            ],
+            [
+                "Micro_Power",
+                "division",
+                "Beam_Software"
+            ],
+            [
+                "Micro_Power",
+                "division",
+                "Cavia_(company)"
+            ],
+            [
+                "Micro_Power",
+                "division",
+                "Eurocom"
+            ],
+            [
+                "Micro_Power",
+                "division",
+                "Firebrand_Games"
+            ],
+            [
+                "Micro_Power",
+                "division",
+                "Nexon"
+            ],
+            [
+                "Micro_Power",
+                "division",
+                "Perfect_World_(company)"
+            ],
+            [
+                "Micro_Power",
+                "division",
+                "Ultimate_Play_the_Game"
+            ],
+            [
+                "Micro_Power",
+                "division",
+                "Zen_Studios"
+            ],
+            [
+                "Micro_Power",
+                "foundedBy",
+                "Agetec"
+            ],
+            [
+                "Micro_Power",
+                "foundedBy",
+                "Beam_Software"
+            ],
+            [
+                "Micro_Power",
+                "foundedBy",
+                "Cavia_(company)"
+            ],
+            [
+                "Micro_Power",
+                "foundedBy",
+                "Eurocom"
+            ],
+            [
+                "Micro_Power",
+                "foundedBy",
+                "Firebrand_Games"
+            ],
+            [
+                "Micro_Power",
+                "foundedBy",
+                "Nexon"
+            ],
+            [
+                "Micro_Power",
+                "foundedBy",
+                "Perfect_World_(company)"
+            ]
+        ],
+        "score": "19.917173",
+        "rank": "1",
+        "new_score": "13.208221",
+        "new_rank": "19"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Gniewkowo",
+            "isPartOf",
+            "Kuyavian-Pomeranian_Voivodeship"
+        ],
+        "rule": [
+            [
+                "Gmina_Gniewkowo",
+                "type",
+                "Kuyavian-Pomeranian_Voivodeship"
+            ],
+            [
+                "Gmina_Gniewkowo",
+                "metropolitanBorough",
+                "Kuyavian-Pomeranian_Voivodeship"
+            ],
+            [
+                "Gmina_Gniewkowo",
+                "timeZone",
+                "Kuyavian-Pomeranian_Voivodeship"
+            ],
+            [
+                "Gmina_Gniewkowo",
+                "part",
+                "Kuyavian-Pomeranian_Voivodeship"
+            ]
+        ],
+        "score": "23.46968",
+        "rank": "1",
+        "new_score": "15.995428",
+        "new_rank": "28"
+    },
+    {
+        "triple_to_explain": [
+            "Manitoulin_District",
+            "leaderName",
+            "Michael_Mantha"
+        ],
+        "rule": [
+            [
+                "Manitoulin_District",
+                "countySeat",
+                "Elliot_Lake"
+            ],
+            [
+                "Elliot_Lake",
+                "isPartOf",
+                "Manitoulin_District"
+            ]
+        ],
+        "score": "22.2994",
+        "rank": "1",
+        "new_score": "20.052126",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "3rd_Battalion,_1st_Marines",
+            "battle",
+            "Battle_of_Peleliu"
+        ],
+        "rule": [
+            [
+                "3rd_Battalion,_1st_Marines",
+                "commander",
+                "Chesty_Puller"
+            ],
+            [
+                "3rd_Battalion,_1st_Marines",
+                "commander",
+                "Oliver_P._Smith"
+            ],
+            [
+                "3rd_Battalion,_1st_Marines",
+                "militaryBranch",
+                "11th_Marine_Regiment"
+            ],
+            [
+                "3rd_Battalion,_1st_Marines",
+                "militaryBranch",
+                "1st_Battalion,_1st_Marines"
+            ],
+            [
+                "3rd_Battalion,_1st_Marines",
+                "militaryBranch",
+                "1st_Battalion,_5th_Marines"
+            ],
+            [
+                "2nd_Battalion,_1st_Marines",
+                "type",
+                "3rd_Battalion,_1st_Marines"
+            ]
+        ],
+        "score": "18.462723",
+        "rank": "1",
+        "new_score": "16.974686",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Darren_Middleton",
+            "associatedMusicalArtist",
+            "Powderfinger"
+        ],
+        "rule": [
+            [
+                "Darren_Middleton",
+                "associatedBand",
+                "Missy_Higgins"
+            ],
+            [
+                "Darren_Middleton",
+                "associatedBand",
+                "Far_Out_Corporation"
+            ],
+            [
+                "Darren_Middleton",
+                "associatedBand",
+                "Silverchair"
+            ],
+            [
+                "Darren_Middleton",
+                "associatedBand",
+                "The_Church_(band)"
+            ],
+            [
+                "Darren_Middleton",
+                "associatedBand",
+                "The_Predators_(Australian_band)"
+            ],
+            [
+                "Darren_Middleton",
+                "associatedBand",
+                "The_Wrights_(Australian_band)"
+            ]
+        ],
+        "score": "16.973463",
+        "rank": "1",
+        "new_score": "16.21939",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Yoakum,_Texas",
+            "type",
+            "City"
+        ],
+        "rule": [
+            [
+                "Albert_Lea,_Minnesota",
+                "isPartOf",
+                "Yoakum,_Texas"
+            ],
+            [
+                "Adana",
+                "isPartOf",
+                "Yoakum,_Texas"
+            ],
+            [
+                "Yoakum,_Texas",
+                "isPartOf",
+                "City"
+            ]
+        ],
+        "score": "21.067898",
+        "rank": "1",
+        "new_score": "19.228756",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Leyton_Orient_F.C.",
+            "ground",
+            "Brisbane_Road"
+        ],
+        "rule": [
+            [
+                "%C5%9Eevket_Sabanc%C4%B1",
+                "knownFor",
+                "Leyton_Orient_F.C."
+            ],
+            [
+                "Adrian_Biddle",
+                "knownFor",
+                "Leyton_Orient_F.C."
+            ],
+            [
+                "Alan_Dedicoat",
+                "knownFor",
+                "Leyton_Orient_F.C."
+            ],
+            [
+                "Alan_Hume",
+                "knownFor",
+                "Leyton_Orient_F.C."
+            ],
+            [
+                "Alan_Mowbray",
+                "knownFor",
+                "Leyton_Orient_F.C."
+            ],
+            [
+                "Alex_Winter",
+                "knownFor",
+                "Leyton_Orient_F.C."
+            ],
+            [
+                "Alfred_Roome",
+                "knownFor",
+                "Leyton_Orient_F.C."
+            ],
+            [
+                "Alison_Skipworth",
+                "knownFor",
+                "Leyton_Orient_F.C."
+            ],
+            [
+                "Andrew_Dunn_(cinematographer)",
+                "knownFor",
+                "Leyton_Orient_F.C."
+            ]
+        ],
+        "score": "20.186352",
+        "rank": "1",
+        "new_score": "18.641617",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Marga_Scheide",
+            "birthPlace",
+            "Amsterdam"
+        ],
+        "rule": [
+            [
+                "Beaver_(band)",
+                "associatedBand",
+                "Marga_Scheide"
+            ],
+            [
+                "Benny_Bailey",
+                "associatedBand",
+                "Marga_Scheide"
+            ]
+        ],
+        "score": "17.829548",
+        "rank": "1",
+        "new_score": "14.27667",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Ben_Shive",
+            "hometown",
+            "Tennessee"
+        ],
+        "rule": [
+            [
+                "A_Plea_for_Purging",
+                "bandMember",
+                "Ben_Shive"
+            ],
+            [
+                "Alberta_Hunter",
+                "bandMember",
+                "Ben_Shive"
+            ]
+        ],
+        "score": "14.302688",
+        "rank": "1",
+        "new_score": "15.943057",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dragoljub_%C4%90uri%C4%8Di%C4%87",
+            "associatedMusicalArtist",
+            "Zdravko_%C4%8Coli%C4%87"
+        ],
+        "rule": [
+            [
+                "Dragoljub_%C4%90uri%C4%8Di%C4%87",
+                "spouse",
+                "Zdravko_%C4%8Coli%C4%87"
+            ],
+            [
+                "Atlantic_Records",
+                "keyPerson",
+                "Dragoljub_%C4%90uri%C4%8Di%C4%87"
+            ]
+        ],
+        "score": "14.466419",
+        "rank": "1",
+        "new_score": "15.430154",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Fin_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule": [
+            [
+                "Abadan,_Iran",
+                "type",
+                "Fin_Rural_District"
+            ],
+            [
+                "Ab_Pakhsh_District",
+                "canton",
+                "Fin_Rural_District"
+            ],
+            [
+                "Ab_Pakhsh_District",
+                "state",
+                "Fin_Rural_District"
+            ],
+            [
+                "Ab_Pakhsh_District",
+                "region",
+                "Fin_Rural_District"
+            ]
+        ],
+        "score": "21.939716",
+        "rank": "1",
+        "new_score": "20.56406",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Al_Hurricane_Jr.",
+            "instrument",
+            "Piano"
+        ],
+        "rule": [
+            [
+                "%C3%81lex_Ubago",
+                "associatedBand",
+                "Al_Hurricane_Jr."
+            ],
+            [
+                "Adam_Granduciel",
+                "associatedBand",
+                "Al_Hurricane_Jr."
+            ],
+            [
+                "Adam_Wiltzie",
+                "associatedBand",
+                "Al_Hurricane_Jr."
+            ],
+            [
+                "Adnan_Sami",
+                "associatedBand",
+                "Al_Hurricane_Jr."
+            ],
+            [
+                "Akari_Kaida",
+                "associatedBand",
+                "Al_Hurricane_Jr."
+            ]
+        ],
+        "score": "13.528223",
+        "rank": "1",
+        "new_score": "11.871994",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Take_It_to_the_Limit_(Eagles_song)",
+            "musicalBand",
+            "Eagles_(band)"
+        ],
+        "rule": [
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "genre",
+                "Rock_music"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "genre",
+                "Country_rock"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "artist",
+                "Eagles_(band)"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "artist",
+                "Frankie_Miller"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "artist",
+                "Glenn_Frey"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "artist",
+                "Jackson_Browne"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "artist",
+                "Joe_Vitale_(musician)"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "artist",
+                "Paul_Carrack"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "artist",
+                "Poco"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "artist",
+                "The_Flying_Burrito_Brothers"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "artist",
+                "The_Party_Boys"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "format",
+                "Asylum_Records"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "format",
+                "Geffen_Records"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "format",
+                "Polydor_Records"
+            ],
+            [
+                "Take_It_to_the_Limit_(Eagles_song)",
+                "format",
+                "Universal_Music_Group_Nashville"
+            ]
+        ],
+        "score": "19.82801",
+        "rank": "1",
+        "new_score": "18.751862",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Tim_Presley",
+            "associatedBand",
+            "Darker_My_Love"
+        ],
+        "rule": [
+            [
+                "Grim_Tower",
+                "associatedBand",
+                "Tim_Presley"
+            ]
+        ],
+        "score": "14.878341",
+        "rank": "1",
+        "new_score": "14.338389",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Animal_Planet_(European_TV_channel)",
+            "broadcastArea",
+            "Ukraine"
+        ],
+        "rule": [
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Dnipro"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Bila_Tserkva"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Cherkasy"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Chernivtsi"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Drohobych"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Horlivka"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Ivano-Frankivsk"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Kamianets-Podilskyi"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Kherson"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Khmelnytskyi,_Ukraine"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Kremenchuk"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "%C3%9Csk%C3%BCdar"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Buchach_Raion"
+            ],
+            [
+                "Animal_Planet_(European_TV_channel)",
+                "broadcastArea",
+                "Horodok_Raion,_Lviv_Oblast"
+            ]
+        ],
+        "score": "16.275297",
+        "rank": "1",
+        "new_score": "16.302355",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Buddy_Rich",
+            "genre",
+            "Bebop"
+        ],
+        "rule": [
+            [
+                "Andrew_Hill_(jazz_musician)",
+                "formerBandMember",
+                "Buddy_Rich"
+            ],
+            [
+                "Benny_Golson",
+                "formerBandMember",
+                "Buddy_Rich"
+            ],
+            [
+                "Arnett_Cobb",
+                "associatedBand",
+                "Buddy_Rich"
+            ]
+        ],
+        "score": "15.472039",
+        "rank": "1",
+        "new_score": "14.681059",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Brian_Cox_(physicist)",
+            "citizenship",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "Alexander_McCall_Smith",
+                "influenced",
+                "Brian_Cox_(physicist)"
+            ]
+        ],
+        "score": "13.39694",
+        "rank": "1",
+        "new_score": "11.350393",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Nick_Raphael",
+            "hometown",
+            "London"
+        ],
+        "rule": [
+            [
+                "2waytraffic",
+                "foundedBy",
+                "Nick_Raphael"
+            ],
+            [
+                "19_Entertainment",
+                "keyPerson",
+                "Nick_Raphael"
+            ],
+            [
+                "%C5%9Eevket_Sabanc%C4%B1",
+                "child",
+                "Nick_Raphael"
+            ]
+        ],
+        "score": "16.629137",
+        "rank": "1",
+        "new_score": "16.181637",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Gd%C3%B3w",
+            "isPartOf",
+            "Wieliczka_County"
+        ],
+        "rule": [
+            [
+                "Wieliczka_County",
+                "isPartOf",
+                "Gmina_Gd%C3%B3w"
+            ]
+        ],
+        "score": "23.013615",
+        "rank": "1",
+        "new_score": "15.260914",
+        "new_rank": "73"
+    },
+    {
+        "triple_to_explain": [
+            "Elzhi",
+            "associatedMusicalArtist",
+            "Phat_Kat"
+        ],
+        "rule": [
+            [
+                "Elzhi",
+                "spouse",
+                "Phat_Kat"
+            ]
+        ],
+        "score": "15.903345",
+        "rank": "1",
+        "new_score": "15.494783",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sa%C3%B4ne-et-Loire",
+            "country",
+            "France"
+        ],
+        "rule": [
+            [
+                "%C3%89lie_Cartan",
+                "birthPlace",
+                "Sa%C3%B4ne-et-Loire"
+            ],
+            [
+                "%C3%89mile_Picard",
+                "birthPlace",
+                "Sa%C3%B4ne-et-Loire"
+            ],
+            [
+                "%C3%89douard_Daladier",
+                "deathPlace",
+                "Sa%C3%B4ne-et-Loire"
+            ],
+            [
+                "%C3%89mile_Louis_Ragonot",
+                "deathPlace",
+                "Sa%C3%B4ne-et-Loire"
+            ],
+            [
+                "%C3%89ric_Rohmer",
+                "deathPlace",
+                "Sa%C3%B4ne-et-Loire"
+            ],
+            [
+                "%C3%89mile_Louis_Ragonot",
+                "restingPlace",
+                "Sa%C3%B4ne-et-Loire"
+            ]
+        ],
+        "score": "17.956114",
+        "rank": "1",
+        "new_score": "17.452398",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "3LAU",
+            "associatedBand",
+            "Estelle_(musician)"
+        ],
+        "rule": [
+            [
+                "3LAU",
+                "associatedMusicalArtist",
+                "3LAU"
+            ],
+            [
+                "3LAU",
+                "associatedMusicalArtist",
+                "Allan_Eshuijs"
+            ],
+            [
+                "3LAU",
+                "associatedMusicalArtist",
+                "Donnis"
+            ],
+            [
+                "3LAU",
+                "associatedMusicalArtist",
+                "Faithless"
+            ],
+            [
+                "3LAU",
+                "associatedMusicalArtist",
+                "Salaam_Remi"
+            ],
+            [
+                "3LAU",
+                "associatedMusicalArtist",
+                "Supa_Dups"
+            ],
+            [
+                "3LAU",
+                "associatedMusicalArtist",
+                "The_57th_Dynasty"
+            ]
+        ],
+        "score": "14.667849",
+        "rank": "1",
+        "new_score": "13.223588",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Pride_(In_the_Name_of_Love)",
+            "producer",
+            "Daniel_Lanois"
+        ],
+        "rule": [
+            [
+                "Achtung_Baby",
+                "picture",
+                "Pride_(In_the_Name_of_Love)"
+            ],
+            [
+                "All_That_You_Can%27t_Leave_Behind",
+                "picture",
+                "Pride_(In_the_Name_of_Love)"
+            ],
+            [
+                "Bob_Dylan:_The_Collection",
+                "picture",
+                "Pride_(In_the_Name_of_Love)"
+            ],
+            [
+                "Bob_Dylan:_The_Complete_Album_Collection_Vol._One",
+                "picture",
+                "Pride_(In_the_Name_of_Love)"
+            ],
+            [
+                "How_to_Dismantle_an_Atomic_Bomb",
+                "picture",
+                "Pride_(In_the_Name_of_Love)"
+            ]
+        ],
+        "score": "18.408913",
+        "rank": "1",
+        "new_score": "14.321403",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Amor_gitano_(TV_series)",
+            "distributor",
+            "Televisa"
+        ],
+        "rule": [
+            [
+                "%C2%A1Vivan_los_ni%C3%B1os!",
+                "previousWork",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "A_que_no_me_dejas",
+                "previousWork",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Abismo_de_pasi%C3%B3n",
+                "previousWork",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Alborada_(TV_series)",
+                "previousWork",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Alegrijes_y_Rebujos",
+                "previousWork",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Alguna_vez_tendremos_alas",
+                "previousWork",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Amada_enemiga",
+                "previousWork",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "%C2%A1Vivan_los_ni%C3%B1os!",
+                "related",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "A_que_no_me_dejas",
+                "related",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Abismo_de_pasi%C3%B3n",
+                "related",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Alborada_(TV_series)",
+                "related",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Alegrijes_y_Rebujos",
+                "related",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Alguna_vez_tendremos_alas",
+                "related",
+                "Amor_gitano_(TV_series)"
+            ],
+            [
+                "Amada_enemiga",
+                "related",
+                "Amor_gitano_(TV_series)"
+            ]
+        ],
+        "score": "23.737257",
+        "rank": "1",
+        "new_score": "22.35505",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Oscar_Niemeyer",
+            "deathPlace",
+            "Rio_de_Janeiro"
+        ],
+        "rule": [
+            [
+                "Oscar_Niemeyer",
+                "significantProject",
+                "Southeast_Region,_Brazil"
+            ],
+            [
+                "Oscar_Niemeyer",
+                "deathPlace",
+                "Colonial_Brazil"
+            ],
+            [
+                "Oscar_Niemeyer",
+                "deathPlace",
+                "First_Brazilian_Republic"
+            ],
+            [
+                "Oscar_Niemeyer",
+                "deathPlace",
+                "S%C3%A3o_Jo%C3%A3o_de_Meriti"
+            ],
+            [
+                "Est%C3%A1dio_Urbano_Caldeira",
+                "architect",
+                "Oscar_Niemeyer"
+            ]
+        ],
+        "score": "20.183407",
+        "rank": "1",
+        "new_score": "19.788948",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Macalla_(moth)",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule": [
+            [
+                "Lepidoptera",
+                "class",
+                "Macalla_(moth)"
+            ],
+            [
+                "Macalla_(moth)",
+                "kingdom",
+                "Lepidoptera"
+            ],
+            [
+                "Acraea_(butterfly)",
+                "family",
+                "Macalla_(moth)"
+            ],
+            [
+                "Acrolophinae",
+                "family",
+                "Macalla_(moth)"
+            ],
+            [
+                "Anacrusis_(moth)",
+                "family",
+                "Macalla_(moth)"
+            ],
+            [
+                "Anania_(moth)",
+                "family",
+                "Macalla_(moth)"
+            ],
+            [
+                "Apamea_(moth)",
+                "family",
+                "Macalla_(moth)"
+            ],
+            [
+                "Appias_(butterfly)",
+                "family",
+                "Macalla_(moth)"
+            ],
+            [
+                "Arrhenophaninae",
+                "family",
+                "Macalla_(moth)"
+            ]
+        ],
+        "score": "23.488186",
+        "rank": "1",
+        "new_score": "22.067968",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Angel_Witch",
+            "associatedBand",
+            "Heathen_(band)"
+        ],
+        "rule": [
+            [
+                "Angel_Witch",
+                "associatedBand",
+                "Angel_Witch"
+            ],
+            [
+                "Angel_Witch",
+                "associatedBand",
+                "Blind_Illusion"
+            ],
+            [
+                "Angel_Witch",
+                "associatedBand",
+                "Defiance_(metal_band)"
+            ],
+            [
+                "Angel_Witch",
+                "associatedBand",
+                "Die_Krupps"
+            ],
+            [
+                "Angel_Witch",
+                "associatedBand",
+                "Exodus_(band)"
+            ],
+            [
+                "Angel_Witch",
+                "associatedBand",
+                "Spastik_Children"
+            ],
+            [
+                "Angel_Witch",
+                "associatedBand",
+                "Vicious_Rumors"
+            ]
+        ],
+        "score": "11.820853",
+        "rank": "1",
+        "new_score": "11.536441",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Macquarie_River",
+            "country",
+            "Australia"
+        ],
+        "rule": [
+            [
+                "Albany,_Western_Australia",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Albury",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Ararat,_Victoria",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Armidale",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Ashfield,_New_South_Wales",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Barton,_Australian_Capital_Territory",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Brighton,_Victoria",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Brunswick,_Victoria",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Bundaberg",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Burnie",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Cairns",
+                "river",
+                "Macquarie_River"
+            ],
+            [
+                "Ayam_Brand",
+                "regionServed",
+                "Macquarie_River"
+            ],
+            [
+                "BHP",
+                "regionServed",
+                "Macquarie_River"
+            ],
+            [
+                "Beam_Software",
+                "regionServed",
+                "Macquarie_River"
+            ],
+            [
+                "Bondi,_New_South_Wales",
+                "river",
+                "Macquarie_River"
+            ]
+        ],
+        "score": "21.631903",
+        "rank": "1",
+        "new_score": "19.035471",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Roger_Poincelet",
+            "deathPlace",
+            "France"
+        ],
+        "rule": [
+            [
+                "Radio_France",
+                "keyPerson",
+                "Roger_Poincelet"
+            ],
+            [
+                "R%C3%A9seau_Ferr%C3%A9_de_France",
+                "keyPerson",
+                "Roger_Poincelet"
+            ],
+            [
+                "Bull_Dog_(horse)",
+                "jockey",
+                "Roger_Poincelet"
+            ],
+            [
+                "Herbager",
+                "jockey",
+                "Roger_Poincelet"
+            ],
+            [
+                "Irish_River",
+                "jockey",
+                "Roger_Poincelet"
+            ],
+            [
+                "Ksar_(horse)",
+                "jockey",
+                "Roger_Poincelet"
+            ],
+            [
+                "Relko",
+                "jockey",
+                "Roger_Poincelet"
+            ]
+        ],
+        "score": "19.604977",
+        "rank": "1",
+        "new_score": "18.767391",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Can%27t_Smile_Without_You",
+            "musicalArtist",
+            "The_Carpenters"
+        ],
+        "rule": [
+            [
+                "Can%27t_Smile_Without_You",
+                "musicalArtist",
+                "Jack_Daugherty_(musician)"
+            ],
+            [
+                "Can%27t_Smile_Without_You",
+                "musicalArtist",
+                "Paul_Williams_(songwriter)"
+            ],
+            [
+                "Can%27t_Smile_Without_You",
+                "musicalArtist",
+                "Richard_Carpenter_(musician)"
+            ],
+            [
+                "Can%27t_Smile_Without_You",
+                "musicalBand",
+                "Paul_Williams_(songwriter)"
+            ],
+            [
+                "Can%27t_Smile_Without_You",
+                "musicalBand",
+                "Richard_Carpenter_(musician)"
+            ],
+            [
+                "Can%27t_Smile_Without_You",
+                "genre",
+                "Easy_listening"
+            ]
+        ],
+        "score": "21.919231",
+        "rank": "1",
+        "new_score": "21.625496",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Peter_Baltes",
+            "genre",
+            "Hard_rock"
+        ],
+        "rule": [
+            [
+                "(I_Can%27t_Get_No)_Satisfaction",
+                "producer",
+                "Peter_Baltes"
+            ],
+            [
+                "(I_Know)_I%27m_Losing_You",
+                "producer",
+                "Peter_Baltes"
+            ],
+            [
+                "20th_Century_Boy",
+                "producer",
+                "Peter_Baltes"
+            ]
+        ],
+        "score": "15.053852",
+        "rank": "1",
+        "new_score": "15.428477",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Film4",
+            "pictureFormat",
+            "576i"
+        ],
+        "rule": [
+            [
+                "10_Bold",
+                "sisterStation",
+                "Film4"
+            ],
+            [
+                "10_Peach",
+                "sisterStation",
+                "Film4"
+            ],
+            [
+                "7two",
+                "sisterStation",
+                "Film4"
+            ],
+            [
+                "ABC_News_(Australian_TV_channel)",
+                "sisterStation",
+                "Film4"
+            ],
+            [
+                "ABC_TV_Plus",
+                "sisterStation",
+                "Film4"
+            ],
+            [
+                "ANT1",
+                "sisterStation",
+                "Film4"
+            ],
+            [
+                "ATV_Home",
+                "sisterStation",
+                "Film4"
+            ],
+            [
+                "10_Bold",
+                "successor",
+                "Film4"
+            ],
+            [
+                "10_Peach",
+                "successor",
+                "Film4"
+            ],
+            [
+                "7two",
+                "successor",
+                "Film4"
+            ],
+            [
+                "ABC_News_(Australian_TV_channel)",
+                "successor",
+                "Film4"
+            ],
+            [
+                "ABC_TV_Plus",
+                "successor",
+                "Film4"
+            ],
+            [
+                "ANT1",
+                "successor",
+                "Film4"
+            ],
+            [
+                "ATV_Home",
+                "successor",
+                "Film4"
+            ]
+        ],
+        "score": "17.867756",
+        "rank": "1",
+        "new_score": "17.027744",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pim_Fortuyn",
+            "occupation",
+            "Politician"
+        ],
+        "rule": [
+            [
+                "%C3%81lvaro_G%C3%B3mez_Hurtado",
+                "religion",
+                "Pim_Fortuyn"
+            ],
+            [
+                "%C3%81lvaro_G%C3%B3mez_Hurtado",
+                "monarch",
+                "Pim_Fortuyn"
+            ],
+            [
+                "%C3%81rp%C3%A1d_G%C3%B6ncz",
+                "monarch",
+                "Pim_Fortuyn"
+            ],
+            [
+                "Pim_Fortuyn",
+                "education",
+                "Politician"
+            ],
+            [
+                "Pim_Fortuyn",
+                "child",
+                "Politician"
+            ]
+        ],
+        "score": "15.726655",
+        "rank": "1",
+        "new_score": "15.573526",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "AFI_(band)",
+            "associatedBand",
+            "Blaqk_Audio"
+        ],
+        "rule": [
+            [
+                "AFI_(band)",
+                "associatedBand",
+                "AFI_(band)"
+            ],
+            [
+                "AFI_(band)",
+                "associatedBand",
+                "Son_of_Sam_(band)"
+            ],
+            [
+                "AFI_(band)",
+                "bandMember",
+                "AFI_(band)"
+            ],
+            [
+                "AFI_(band)",
+                "bandMember",
+                "Blaqk_Audio"
+            ],
+            [
+                "AFI_(band)",
+                "bandMember",
+                "Son_of_Sam_(band)"
+            ],
+            [
+                "AFI_(band)",
+                "bandMember",
+                "XTRMST"
+            ],
+            [
+                "AFI_(band)",
+                "child",
+                "AFI_(band)"
+            ],
+            [
+                "AFI_(band)",
+                "child",
+                "Blaqk_Audio"
+            ],
+            [
+                "AFI_(band)",
+                "child",
+                "Son_of_Sam_(band)"
+            ],
+            [
+                "AFI_(band)",
+                "child",
+                "XTRMST"
+            ]
+        ],
+        "score": "14.963178",
+        "rank": "1",
+        "new_score": "15.486113",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Rychliki",
+            "isPartOf",
+            "Warmian%E2%80%93Masurian_Voivodeship"
+        ],
+        "rule": [
+            [
+                "Warmian%E2%80%93Masurian_Voivodeship",
+                "isPartOf",
+                "Gmina_Rychliki"
+            ]
+        ],
+        "score": "22.262177",
+        "rank": "1",
+        "new_score": "13.4018",
+        "new_rank": "869"
+    },
+    {
+        "triple_to_explain": [
+            "Kozhikode_district",
+            "country",
+            "India"
+        ],
+        "rule": [
+            [
+                "A._P._J._Abdul_Kalam",
+                "restingPlace",
+                "Kozhikode_district"
+            ],
+            [
+                "A._K._Hangal",
+                "deathPlace",
+                "Kozhikode_district"
+            ],
+            [
+                "A._Sheriff",
+                "deathPlace",
+                "Kozhikode_district"
+            ],
+            [
+                "A._Vincent",
+                "deathPlace",
+                "Kozhikode_district"
+            ],
+            [
+                "A._K._Hangal",
+                "birthPlace",
+                "Kozhikode_district"
+            ],
+            [
+                "A._Sheriff",
+                "birthPlace",
+                "Kozhikode_district"
+            ],
+            [
+                "A._Vincent",
+                "birthPlace",
+                "Kozhikode_district"
+            ],
+            [
+                "A._K._Hangal",
+                "restingPlace",
+                "Kozhikode_district"
+            ],
+            [
+                "A._Sheriff",
+                "restingPlace",
+                "Kozhikode_district"
+            ],
+            [
+                "A._Vincent",
+                "restingPlace",
+                "Kozhikode_district"
+            ]
+        ],
+        "score": "22.938848",
+        "rank": "1",
+        "new_score": "18.32539",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Battle_of_Williamsburg",
+            "isPartOfMilitaryConflict",
+            "American_Civil_War"
+        ],
+        "rule": [
+            [
+                "101st_Field_Artillery_Regiment",
+                "battle",
+                "Battle_of_Williamsburg"
+            ],
+            [
+                "12th_Infantry_Regiment_(United_States)",
+                "battle",
+                "Battle_of_Williamsburg"
+            ],
+            [
+                "14th_Infantry_Regiment_(United_States)",
+                "battle",
+                "Battle_of_Williamsburg"
+            ],
+            [
+                "15th_Georgia_Infantry_Regiment",
+                "battle",
+                "Battle_of_Williamsburg"
+            ],
+            [
+                "15th_Infantry_Regiment_(United_States)",
+                "battle",
+                "Battle_of_Williamsburg"
+            ],
+            [
+                "16th_Infantry_Regiment_(United_States)",
+                "battle",
+                "Battle_of_Williamsburg"
+            ],
+            [
+                "175th_Infantry_Regiment_(United_States)",
+                "battle",
+                "Battle_of_Williamsburg"
+            ],
+            [
+                "17th_Infantry_Regiment_(United_States)",
+                "battle",
+                "Battle_of_Williamsburg"
+            ],
+            [
+                "18th_Arkansas_Infantry_Regiment_(Marmaduke%27s)",
+                "battle",
+                "Battle_of_Williamsburg"
+            ],
+            [
+                "18th_Infantry_Regiment_(United_States)",
+                "battle",
+                "Battle_of_Williamsburg"
+            ]
+        ],
+        "score": "23.977434",
+        "rank": "1",
+        "new_score": "23.259602",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Rychliki",
+            "country",
+            "Poland"
+        ],
+        "rule": [
+            [
+                "%C5%81%C3%B3d%C5%BA_East_County",
+                "type",
+                "Gmina_Rychliki"
+            ],
+            [
+                "%C5%81a%C5%84cut_County",
+                "type",
+                "Gmina_Rychliki"
+            ],
+            [
+                "%C5%81%C3%B3d%C5%BA_East_County",
+                "timeZone",
+                "Gmina_Rychliki"
+            ],
+            [
+                "%C5%81a%C5%84cut_County",
+                "timeZone",
+                "Gmina_Rychliki"
+            ],
+            [
+                "%C5%81KS_1926_%C5%81om%C5%BCa",
+                "ground",
+                "Gmina_Rychliki"
+            ]
+        ],
+        "score": "24.729181",
+        "rank": "1",
+        "new_score": "23.727077",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "William_McKinley",
+            "profession",
+            "Lawyer"
+        ],
+        "rule": [
+            [
+                "%C3%81lvaro_de_Castro",
+                "child",
+                "William_McKinley"
+            ],
+            [
+                "%C3%81lvaro_G%C3%B3mez_Hurtado",
+                "vicePresident",
+                "William_McKinley"
+            ],
+            [
+                "%C3%81lvaro_G%C3%B3mez_Hurtado",
+                "deputy",
+                "William_McKinley"
+            ]
+        ],
+        "score": "17.371622",
+        "rank": "1",
+        "new_score": "15.826103",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Eddie_Romero",
+            "deathPlace",
+            "Philippines"
+        ],
+        "rule": [
+            [
+                "1DOL",
+                "author",
+                "Eddie_Romero"
+            ],
+            [
+                "1DOL",
+                "creativeDirector",
+                "Eddie_Romero"
+            ],
+            [
+                "1DOL",
+                "showJudge",
+                "Eddie_Romero"
+            ],
+            [
+                "11Eleven_Project",
+                "cinematography",
+                "Eddie_Romero"
+            ]
+        ],
+        "score": "18.439058",
+        "rank": "1",
+        "new_score": "13.84126",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Jon_Connor",
+            "occupation",
+            "Rapping"
+        ],
+        "rule": [
+            [
+                "AZ_(rapper)",
+                "formerBandMember",
+                "Jon_Connor"
+            ],
+            [
+                "Abra_(rapper)",
+                "formerBandMember",
+                "Jon_Connor"
+            ],
+            [
+                "AZ_(rapper)",
+                "bandMember",
+                "Jon_Connor"
+            ],
+            [
+                "Abra_(rapper)",
+                "bandMember",
+                "Jon_Connor"
+            ],
+            [
+                "Jon_Connor",
+                "genre",
+                "Rapping"
+            ]
+        ],
+        "score": "15.275074",
+        "rank": "1",
+        "new_score": "14.961404",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Manal",
+            "associatedMusicalArtist",
+            "Los_Shakers"
+        ],
+        "rule": [
+            [
+                "Manal",
+                "partner",
+                "Los_Shakers"
+            ],
+            [
+                "Manal",
+                "associatedBand",
+                "Manal"
+            ],
+            [
+                "Manal",
+                "bandMember",
+                "Los_Shakers"
+            ]
+        ],
+        "score": "15.971086",
+        "rank": "1",
+        "new_score": "15.293113",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Hirmand_County",
+            "type",
+            "Counties_of_Iran"
+        ],
+        "rule": [
+            [
+                "Hirmand_County",
+                "part",
+                "Counties_of_Iran"
+            ],
+            [
+                "Buin_Miandasht_County",
+                "state",
+                "Hirmand_County"
+            ],
+            [
+                "Counties_of_Iran",
+                "state",
+                "Hirmand_County"
+            ],
+            [
+                "Ghorveh_County",
+                "state",
+                "Hirmand_County"
+            ],
+            [
+                "Buin_Miandasht_County",
+                "isPartOf",
+                "Hirmand_County"
+            ],
+            [
+                "Counties_of_Iran",
+                "isPartOf",
+                "Hirmand_County"
+            ],
+            [
+                "Ghorveh_County",
+                "isPartOf",
+                "Hirmand_County"
+            ]
+        ],
+        "score": "19.825024",
+        "rank": "1",
+        "new_score": "19.088875",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hazard,_Kentucky",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "1017_Records",
+                "birthPlace",
+                "Hazard,_Kentucky"
+            ],
+            [
+                "101st_Indiana_Infantry_Regiment",
+                "garrison",
+                "Hazard,_Kentucky"
+            ],
+            [
+                "101st_Infantry_Regiment_(United_States)",
+                "garrison",
+                "Hazard,_Kentucky"
+            ],
+            [
+                "102nd_New_York_Infantry_Regiment",
+                "garrison",
+                "Hazard,_Kentucky"
+            ],
+            [
+                "102nd_Pennsylvania_Infantry_Regiment",
+                "garrison",
+                "Hazard,_Kentucky"
+            ],
+            [
+                "104th_Illinois_Infantry_Regiment",
+                "garrison",
+                "Hazard,_Kentucky"
+            ],
+            [
+                "104th_New_York_Infantry_Regiment",
+                "garrison",
+                "Hazard,_Kentucky"
+            ],
+            [
+                "10th_Cavalry_Regiment_(United_States)",
+                "garrison",
+                "Hazard,_Kentucky"
+            ]
+        ],
+        "score": "22.28451",
+        "rank": "1",
+        "new_score": "20.747654",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "K._S._L._Swamy",
+            "nationality",
+            "Indian_people"
+        ],
+        "rule": [
+            [
+                "Dhirubhai_Ambani",
+                "knownFor",
+                "K._S._L._Swamy"
+            ],
+            [
+                "B._V._Karanth",
+                "writer",
+                "K._S._L._Swamy"
+            ],
+            [
+                "B._V._Karanth",
+                "director",
+                "K._S._L._Swamy"
+            ],
+            [
+                "Bichu_Thirumala",
+                "spouse",
+                "K._S._L._Swamy"
+            ]
+        ],
+        "score": "21.692577",
+        "rank": "1",
+        "new_score": "20.679104",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gary_Peacock",
+            "associatedMusicalArtist",
+            "Art_Pepper"
+        ],
+        "rule": [
+            [
+                "Chet_Baker",
+                "bandMember",
+                "Gary_Peacock"
+            ],
+            [
+                "Elvin_Jones",
+                "bandMember",
+                "Gary_Peacock"
+            ]
+        ],
+        "score": "15.2837105",
+        "rank": "1",
+        "new_score": "15.133026",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Quincy,_Florida",
+            "type",
+            "City"
+        ],
+        "rule": [
+            [
+                "Albert_Lea,_Minnesota",
+                "isPartOf",
+                "Quincy,_Florida"
+            ]
+        ],
+        "score": "17.260015",
+        "rank": "1",
+        "new_score": "17.879162",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Michael_Collins_(Irish_leader)",
+            "battle",
+            "Irish_War_of_Independence"
+        ],
+        "rule": [
+            [
+                "Eoin_O%27Duffy",
+                "associate",
+                "Michael_Collins_(Irish_leader)"
+            ],
+            [
+                "Eoin_O%27Duffy",
+                "spouse",
+                "Michael_Collins_(Irish_leader)"
+            ],
+            [
+                "Eoin_O%27Duffy",
+                "governorGeneral",
+                "Michael_Collins_(Irish_leader)"
+            ],
+            [
+                "Michael_Collins_(Irish_leader)",
+                "successor",
+                "Irish_War_of_Independence"
+            ]
+        ],
+        "score": "19.030125",
+        "rank": "1",
+        "new_score": "20.095705",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Enterprise,_Alabama",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "%2B/-_(band)",
+                "hometown",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "%2B44_(band)",
+                "hometown",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "%2B/-_(band)",
+                "restingPlace",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "%2B44_(band)",
+                "restingPlace",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "101st_Indiana_Infantry_Regiment",
+                "garrison",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "101st_Infantry_Regiment_(United_States)",
+                "garrison",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "102nd_New_York_Infantry_Regiment",
+                "garrison",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "102nd_Pennsylvania_Infantry_Regiment",
+                "garrison",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "104th_Illinois_Infantry_Regiment",
+                "garrison",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "104th_New_York_Infantry_Regiment",
+                "garrison",
+                "Enterprise,_Alabama"
+            ],
+            [
+                "10th_Cavalry_Regiment_(United_States)",
+                "garrison",
+                "Enterprise,_Alabama"
+            ]
+        ],
+        "score": "22.134905",
+        "rank": "1",
+        "new_score": "22.930265",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Viking_Skull",
+            "genre",
+            "Hard_rock"
+        ],
+        "rule": [
+            [
+                "12012",
+                "formerBandMember",
+                "Viking_Skull"
+            ]
+        ],
+        "score": "14.927754",
+        "rank": "1",
+        "new_score": "14.525042",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Euchloe",
+            "family",
+            "Pierinae"
+        ],
+        "rule": [
+            [
+                "Euchloe",
+                "class",
+                "Colotis"
+            ],
+            [
+                "Euchloe",
+                "class",
+                "Pieridae"
+            ],
+            [
+                "Euchloe",
+                "class",
+                "Pierinae"
+            ],
+            [
+                "Euchloe",
+                "class",
+                "Pierini"
+            ],
+            [
+                "Euchloe",
+                "class",
+                "Pieris_(butterfly)"
+            ]
+        ],
+        "score": "29.974854",
+        "rank": "1",
+        "new_score": "28.953856",
+        "new_rank": "29"
+    },
+    {
+        "triple_to_explain": [
+            "George_Lambton",
+            "award",
+            "British_flat_racing_Champion_Trainer"
+        ],
+        "rule": [
+            [
+                "Alhaarth",
+                "breeder",
+                "George_Lambton"
+            ],
+            [
+                "Ardan_(horse)",
+                "breeder",
+                "George_Lambton"
+            ],
+            [
+                "Ardross_(horse)",
+                "breeder",
+                "George_Lambton"
+            ],
+            [
+                "Aureole_(horse)",
+                "breeder",
+                "George_Lambton"
+            ],
+            [
+                "Bald_Eagle_(horse)",
+                "breeder",
+                "George_Lambton"
+            ],
+            [
+                "Brigadier_Gerard_(horse)",
+                "breeder",
+                "George_Lambton"
+            ],
+            [
+                "Bustino",
+                "breeder",
+                "George_Lambton"
+            ],
+            [
+                "Diesis_(horse)",
+                "breeder",
+                "George_Lambton"
+            ],
+            [
+                "Djebel",
+                "breeder",
+                "George_Lambton"
+            ],
+            [
+                "Ela-Mana-Mou",
+                "breeder",
+                "George_Lambton"
+            ]
+        ],
+        "score": "19.24609",
+        "rank": "1",
+        "new_score": "20.792898",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Nero_(band)",
+            "associatedBand",
+            "Muse_(band)"
+        ],
+        "rule": [
+            [
+                "Dominic_Howard",
+                "associatedBand",
+                "Nero_(band)"
+            ],
+            [
+                "Matt_Bellamy",
+                "associatedBand",
+                "Nero_(band)"
+            ],
+            [
+                "Morgan_Nicholls",
+                "associatedBand",
+                "Nero_(band)"
+            ],
+            [
+                "Dominic_Howard",
+                "associatedMusicalArtist",
+                "Nero_(band)"
+            ],
+            [
+                "Matt_Bellamy",
+                "associatedMusicalArtist",
+                "Nero_(band)"
+            ],
+            [
+                "Morgan_Nicholls",
+                "associatedMusicalArtist",
+                "Nero_(band)"
+            ]
+        ],
+        "score": "14.572845",
+        "rank": "1",
+        "new_score": "14.8626375",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Eresiomera",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule": [
+            [
+                "Acrolophus",
+                "order",
+                "Eresiomera"
+            ],
+            [
+                "Eresiomera",
+                "order",
+                "Arthropod"
+            ],
+            [
+                "Eresiomera",
+                "family",
+                "Arthropod"
+            ],
+            [
+                "Acraea_(butterfly)",
+                "order",
+                "Eresiomera"
+            ],
+            [
+                "Acrolophinae",
+                "order",
+                "Eresiomera"
+            ],
+            [
+                "Actia_(fly)",
+                "order",
+                "Eresiomera"
+            ]
+        ],
+        "score": "20.786175",
+        "rank": "1",
+        "new_score": "21.495256",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Crane_fly",
+            "order",
+            "Fly"
+        ],
+        "rule": [
+            [
+                "Acrosticta",
+                "kingdom",
+                "Crane_fly"
+            ],
+            [
+                "Aedes",
+                "kingdom",
+                "Crane_fly"
+            ],
+            [
+                "Asilidae",
+                "kingdom",
+                "Crane_fly"
+            ],
+            [
+                "Acrosticta",
+                "phylum",
+                "Crane_fly"
+            ],
+            [
+                "Aedes",
+                "phylum",
+                "Crane_fly"
+            ],
+            [
+                "Asilidae",
+                "phylum",
+                "Crane_fly"
+            ],
+            [
+                "Acrosticta",
+                "class",
+                "Crane_fly"
+            ],
+            [
+                "Aedes",
+                "class",
+                "Crane_fly"
+            ],
+            [
+                "Asilidae",
+                "class",
+                "Crane_fly"
+            ],
+            [
+                "Asiloidea",
+                "class",
+                "Crane_fly"
+            ]
+        ],
+        "score": "22.655163",
+        "rank": "1",
+        "new_score": "16.89156",
+        "new_rank": "37"
+    },
+    {
+        "triple_to_explain": [
+            "Pirangoclytus",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule": [
+            [
+                "Agaonidae",
+                "class",
+                "Pirangoclytus"
+            ],
+            [
+                "Aleocharinae",
+                "class",
+                "Pirangoclytus"
+            ],
+            [
+                "Pirangoclytus",
+                "class",
+                "Arthropod"
+            ],
+            [
+                "Pirangoclytus",
+                "family",
+                "Arthropod"
+            ]
+        ],
+        "score": "21.028164",
+        "rank": "1",
+        "new_score": "21.62383",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ranularia",
+            "phylum",
+            "Mollusca"
+        ],
+        "rule": [
+            [
+                "Abyssochrysoidea",
+                "order",
+                "Ranularia"
+            ],
+            [
+                "Achatinoidea",
+                "order",
+                "Ranularia"
+            ],
+            [
+                "Acochlidiacea",
+                "order",
+                "Ranularia"
+            ],
+            [
+                "Acteonidae",
+                "order",
+                "Ranularia"
+            ],
+            [
+                "Acteonoidea",
+                "order",
+                "Ranularia"
+            ],
+            [
+                "Aeolidiidae",
+                "order",
+                "Ranularia"
+            ],
+            [
+                "Aglajidae",
+                "order",
+                "Ranularia"
+            ],
+            [
+                "Amastridae",
+                "order",
+                "Ranularia"
+            ],
+            [
+                "Amnicolidae",
+                "order",
+                "Ranularia"
+            ]
+        ],
+        "score": "18.603203",
+        "rank": "1",
+        "new_score": "19.310007",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hardline_(band)",
+            "associatedMusicalArtist",
+            "Axel_Rudi_Pell"
+        ],
+        "rule": [
+            [
+                "Hardline_(band)",
+                "associatedBand",
+                "Jeff_Scott_Soto"
+            ],
+            [
+                "Hardline_(band)",
+                "associatedBand",
+                "Mike_Terrana"
+            ],
+            [
+                "Hardline_(band)",
+                "associatedBand",
+                "Rob_Rock"
+            ],
+            [
+                "Hardline_(band)",
+                "associatedMusicalArtist",
+                "Jeff_Scott_Soto"
+            ],
+            [
+                "Hardline_(band)",
+                "associatedMusicalArtist",
+                "Mike_Terrana"
+            ],
+            [
+                "Hardline_(band)",
+                "associatedMusicalArtist",
+                "Rob_Rock"
+            ]
+        ],
+        "score": "15.197172",
+        "rank": "1",
+        "new_score": "14.879777",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Tony!_Toni!_Ton%C3%A9!",
+            "genre",
+            "Soul_music"
+        ],
+        "rule": [
+            [
+                "1st_Born_Second",
+                "compiler",
+                "Tony!_Toni!_Ton%C3%A9!"
+            ],
+            [
+                "21_(Adele_album)",
+                "compiler",
+                "Tony!_Toni!_Ton%C3%A9!"
+            ],
+            [
+                "(I_Know)_I%27m_Losing_You",
+                "musicalArtist",
+                "Tony!_Toni!_Ton%C3%A9!"
+            ],
+            [
+                "(Sittin%27_On)_The_Dock_of_the_Bay",
+                "musicalArtist",
+                "Tony!_Toni!_Ton%C3%A9!"
+            ]
+        ],
+        "score": "15.69001",
+        "rank": "1",
+        "new_score": "13.767101",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "X2_(film)",
+            "starring",
+            "Ian_McKellen"
+        ],
+        "rule": [
+            [
+                "Alan_Badel",
+                "knownFor",
+                "X2_(film)"
+            ],
+            [
+                "Andrew_Lesnie",
+                "knownFor",
+                "X2_(film)"
+            ],
+            [
+                "Barry_Ackroyd",
+                "knownFor",
+                "X2_(film)"
+            ],
+            [
+                "Ben_Davis_(cinematographer)",
+                "knownFor",
+                "X2_(film)"
+            ],
+            [
+                "Anthony_Burgess",
+                "notableWork",
+                "X2_(film)"
+            ],
+            [
+                "Anthony_Shaffer_(writer)",
+                "notableWork",
+                "X2_(film)"
+            ],
+            [
+                "Beatrix_Potter",
+                "notableWork",
+                "X2_(film)"
+            ]
+        ],
+        "score": "17.13348",
+        "rank": "1",
+        "new_score": "20.206575",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "3LW",
+            "associatedMusicalArtist",
+            "The_Cheetah_Girls_(group)"
+        ],
+        "rule": [
+            [
+                "3LW",
+                "associatedMusicalArtist",
+                "Contemporary_R%26B"
+            ]
+        ],
+        "score": "14.504833",
+        "rank": "1",
+        "new_score": "14.210442",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Richard_Yates_(novelist)",
+            "influenced",
+            "Raymond_Carver"
+        ],
+        "rule": [
+            [
+                "Amy_Hempel",
+                "influencedBy",
+                "Richard_Yates_(novelist)"
+            ],
+            [
+                "Anton_Chekhov",
+                "influencedBy",
+                "Richard_Yates_(novelist)"
+            ],
+            [
+                "Ernest_Hemingway",
+                "influencedBy",
+                "Richard_Yates_(novelist)"
+            ],
+            [
+                "Flannery_O%27Connor",
+                "influencedBy",
+                "Richard_Yates_(novelist)"
+            ]
+        ],
+        "score": "21.19557",
+        "rank": "1",
+        "new_score": "19.031292",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Spinipogon",
+            "class",
+            "Insect"
+        ],
+        "rule": [
+            [
+                "Spinipogon",
+                "kingdom",
+                "Insect"
+            ],
+            [
+                "Spinipogon",
+                "family",
+                "Insect"
+            ],
+            [
+                "Acraea_(butterfly)",
+                "order",
+                "Spinipogon"
+            ],
+            [
+                "Acrolophinae",
+                "order",
+                "Spinipogon"
+            ],
+            [
+                "Actia_(fly)",
+                "order",
+                "Spinipogon"
+            ],
+            [
+                "Amara_(beetle)",
+                "order",
+                "Spinipogon"
+            ],
+            [
+                "Amorphoscelidae",
+                "order",
+                "Spinipogon"
+            ]
+        ],
+        "score": "19.876873",
+        "rank": "1",
+        "new_score": "18.360594",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gymnosoma",
+            "kingdom",
+            "Animal"
+        ],
+        "rule": [
+            [
+                "Animal",
+                "order",
+                "Gymnosoma"
+            ],
+            [
+                "Animal",
+                "family",
+                "Gymnosoma"
+            ],
+            [
+                "Abralia",
+                "class",
+                "Gymnosoma"
+            ],
+            [
+                "Abyssotrophon",
+                "class",
+                "Gymnosoma"
+            ],
+            [
+                "Acanthodoris",
+                "class",
+                "Gymnosoma"
+            ],
+            [
+                "Gymnosoma",
+                "order",
+                "Animal"
+            ]
+        ],
+        "score": "21.36414",
+        "rank": "1",
+        "new_score": "16.644321",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Deniro_Farrar",
+            "associatedBand",
+            "Denzel_Curry"
+        ],
+        "rule": [
+            [
+                "Deniro_Farrar",
+                "associatedBand",
+                "Deniro_Farrar"
+            ],
+            [
+                "Deniro_Farrar",
+                "associatedBand",
+                "Mick_Jenkins_(rapper)"
+            ],
+            [
+                "Deniro_Farrar",
+                "associatedBand",
+                "SpaceGhostPurrp"
+            ],
+            [
+                "Deniro_Farrar",
+                "associatedBand",
+                "The_Underachievers"
+            ]
+        ],
+        "score": "12.673041",
+        "rank": "1",
+        "new_score": "13.332542",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Buck_65",
+            "occupation",
+            "Rapping"
+        ],
+        "rule": [
+            [
+                "213_(group)",
+                "formerBandMember",
+                "Buck_65"
+            ],
+            [
+                "21_Savage",
+                "formerBandMember",
+                "Buck_65"
+            ],
+            [
+                "213_(group)",
+                "bandMember",
+                "Buck_65"
+            ],
+            [
+                "21_Savage",
+                "bandMember",
+                "Buck_65"
+            ],
+            [
+                "2_Chainz",
+                "bandMember",
+                "Buck_65"
+            ]
+        ],
+        "score": "14.219225",
+        "rank": "1",
+        "new_score": "8.448546",
+        "new_rank": "10"
+    }
+]

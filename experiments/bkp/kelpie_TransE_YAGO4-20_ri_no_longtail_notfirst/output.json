@@ -1,0 +1,3827 @@
+[
+    {
+        "triple": [
+            "Northeastern_University_(China)",
+            "location",
+            "Shenyang"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "George_Wang_(actor)",
+                        "alumniOf",
+                        "Northeastern_University_(China)"
+                    ]
+                ],
+                0.45057882474163385
+            ],
+            [
+                [
+                    [
+                        "Northeastern_University_(China)",
+                        "containedInPlace",
+                        "Shenyang"
+                    ],
+                    [
+                        "George_Wang_(actor)",
+                        "alumniOf",
+                        "Northeastern_University_(China)"
+                    ]
+                ],
+                0.07810824794361643
+            ],
+            [
+                [
+                    [
+                        "Northeastern_University_(China)",
+                        "containedInPlace",
+                        "Shenyang"
+                    ]
+                ],
+                0.04216895516463152
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.441513061523438
+    },
+    {
+        "triple": [
+            "Little_Feat",
+            "genre",
+            "Hard_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Little_Feat",
+                        "foundingLocation",
+                        "Los_Angeles"
+                    ]
+                ],
+                -0.16497173516646677
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.869681119918823
+    },
+    {
+        "triple": [
+            "James_A._Contner",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "James_A._Contner",
+                        "givenName",
+                        "James_(name)"
+                    ]
+                ],
+                0.5401337487357003
+            ],
+            [
+                [
+                    [
+                        "James_A._Contner",
+                        "givenName",
+                        "James_(name)"
+                    ],
+                    [
+                        "James_A._Contner",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                0.03368755749293736
+            ],
+            [
+                [
+                    [
+                        "James_A._Contner",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                0.0296076557465962
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.030715703964233
+    },
+    {
+        "triple": [
+            "Camel_(band)",
+            "genre",
+            "Space_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Camel_(band)",
+                        "foundingLocation",
+                        "Guildford"
+                    ]
+                ],
+                -0.04451176675699525
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.841674327850342
+    },
+    {
+        "triple": [
+            "B\u00f8,_Telemark",
+            "location",
+            "Telemark"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Telemark",
+                        "containsPlace",
+                        "B\u00f8,_Telemark"
+                    ]
+                ],
+                0.005680129594615475
+            ],
+            [
+                [
+                    [
+                        "B\u00f8,_Telemark",
+                        "containedInPlace",
+                        "Telemark"
+                    ]
+                ],
+                -0.33871377907469946
+            ],
+            [
+                [
+                    [
+                        "B\u00f8,_Telemark",
+                        "containedInPlace",
+                        "Telemark"
+                    ],
+                    [
+                        "Telemark",
+                        "containsPlace",
+                        "B\u00f8,_Telemark"
+                    ]
+                ],
+                -1.1723777984019519
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 8.969703674316406
+    },
+    {
+        "triple": [
+            "La_Chaux-de-Fonds",
+            "location",
+            "Canton_of_Neuch\u00e2tel"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "La_Chaux-de-Fonds",
+                        "containedInPlace",
+                        "Canton_of_Neuch\u00e2tel"
+                    ]
+                ],
+                -0.12605554781386025
+            ],
+            [
+                [
+                    [
+                        "Le_Corbusier",
+                        "birthPlace",
+                        "La_Chaux-de-Fonds"
+                    ]
+                ],
+                -0.29789469370239163
+            ],
+            [
+                [
+                    [
+                        "La_Chaux-de-Fonds",
+                        "containedInPlace",
+                        "Canton_of_Neuch\u00e2tel"
+                    ],
+                    [
+                        "Le_Corbusier",
+                        "birthPlace",
+                        "La_Chaux-de-Fonds"
+                    ]
+                ],
+                -1.9657293835162755
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.84792685508728
+    },
+    {
+        "triple": [
+            "Chablais_Alps",
+            "containedInPlace",
+            "Canton_of_Valais"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chablais_Alps",
+                        "containedInPlace",
+                        "Alps"
+                    ]
+                ],
+                -0.0018922070449198186
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.76192855834961
+    },
+    {
+        "triple": [
+            "Jack_Wouterse",
+            "nationality",
+            "Kingdom_of_the_Netherlands"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jack_Wouterse",
+                        "birthPlace",
+                        "Soest,_Netherlands"
+                    ]
+                ],
+                0.09645328633269372
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.818086624145508
+    },
+    {
+        "triple": [
+            "Kurt_Farquhar",
+            "givenName",
+            "Kurt"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kurt_Farquhar",
+                        "birthPlace",
+                        "Illinois"
+                    ]
+                ],
+                0.001398927884943345
+            ],
+            [
+                [
+                    [
+                        "Kurt_Farquhar",
+                        "birthPlace",
+                        "Illinois"
+                    ],
+                    [
+                        "Kurt_Farquhar",
+                        "familyName",
+                        "Farquhar"
+                    ]
+                ],
+                -0.050839071834788606
+            ],
+            [
+                [
+                    [
+                        "Kurt_Farquhar",
+                        "familyName",
+                        "Farquhar"
+                    ]
+                ],
+                -0.11445567411534927
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.913509607315063
+    },
+    {
+        "triple": [
+            "Narrandera",
+            "containedInPlace",
+            "Electoral_district_of_Cootamundra"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Narrandera",
+                        "containedInPlace",
+                        "Division_of_Farrer"
+                    ]
+                ],
+                0.038490084467579004
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.797448873519897
+    },
+    {
+        "triple": [
+            "UC_Berkeley_College_of_Engineering",
+            "location",
+            "Berkeley,_California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "UC_Berkeley_College_of_Engineering",
+                        "parentOrganization",
+                        "University_of_California,_Berkeley"
+                    ]
+                ],
+                -0.1802788766107876
+            ],
+            [
+                [
+                    [
+                        "UC_Berkeley_College_of_Engineering",
+                        "containedInPlace",
+                        "Berkeley,_California"
+                    ]
+                ],
+                -0.277419762417839
+            ],
+            [
+                [
+                    [
+                        "UC_Berkeley_College_of_Engineering",
+                        "containedInPlace",
+                        "Berkeley,_California"
+                    ],
+                    [
+                        "UC_Berkeley_College_of_Engineering",
+                        "parentOrganization",
+                        "University_of_California,_Berkeley"
+                    ]
+                ],
+                -3.0797105627306274
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.646463871002197
+    },
+    {
+        "triple": [
+            "Turlock,_California",
+            "location",
+            "Stanislaus_County,_California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Turlock,_California",
+                        "containedInPlace",
+                        "Stanislaus_County,_California"
+                    ]
+                ],
+                -1.4558316074464996
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.002968788146973
+    },
+    {
+        "triple": [
+            "Alexandria_University",
+            "location",
+            "Alexandria"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ahmed_Zewail",
+                        "alumniOf",
+                        "Alexandria_University"
+                    ]
+                ],
+                0.08574817621595807
+            ],
+            [
+                [
+                    [
+                        "Alexandria_University",
+                        "containedInPlace",
+                        "Alexandria"
+                    ],
+                    [
+                        "Ahmed_Zewail",
+                        "alumniOf",
+                        "Alexandria_University"
+                    ]
+                ],
+                -0.6983121387637148
+            ],
+            [
+                [
+                    [
+                        "Alexandria_University",
+                        "containedInPlace",
+                        "Alexandria"
+                    ]
+                ],
+                -1.0735656929614028
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.507632970809937
+    },
+    {
+        "triple": [
+            "Sebastopol,_California",
+            "location",
+            "Sonoma_County,_California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sebastopol,_California",
+                        "containedInPlace",
+                        "Sonoma_County,_California"
+                    ]
+                ],
+                -0.9654442417542571
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.785450220108032
+    },
+    {
+        "triple": [
+            "Smithfield,_Virginia",
+            "location",
+            "Isle_of_Wight_County,_Virginia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Smithfield,_Virginia",
+                        "containedInPlace",
+                        "Isle_of_Wight_County,_Virginia"
+                    ]
+                ],
+                -0.5562831769542571
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.772236824035645
+    },
+    {
+        "triple": [
+            "Hankuk_University_of_Foreign_Studies",
+            "location",
+            "Seoul"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ahn_Sung-ki",
+                        "alumniOf",
+                        "Hankuk_University_of_Foreign_Studies"
+                    ]
+                ],
+                -0.08041066846412247
+            ],
+            [
+                [
+                    [
+                        "Hankuk_University_of_Foreign_Studies",
+                        "containedInPlace",
+                        "Seoul"
+                    ]
+                ],
+                -1.3482234210888875
+            ],
+            [
+                [
+                    [
+                        "Hankuk_University_of_Foreign_Studies",
+                        "containedInPlace",
+                        "Seoul"
+                    ],
+                    [
+                        "Ahn_Sung-ki",
+                        "alumniOf",
+                        "Hankuk_University_of_Foreign_Studies"
+                    ]
+                ],
+                -1.889743155958247
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.825483798980713
+    },
+    {
+        "triple": [
+            "Mr._Porter",
+            "nationality",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mr._Porter",
+                        "hasOccupation",
+                        "Songwriter"
+                    ]
+                ],
+                0.23158160551094714
+            ],
+            [
+                [
+                    [
+                        "Mr._Porter",
+                        "birthPlace",
+                        "Detroit"
+                    ]
+                ],
+                -0.05278380123185523
+            ],
+            [
+                [
+                    [
+                        "Mr._Porter",
+                        "birthPlace",
+                        "Detroit"
+                    ],
+                    [
+                        "Mr._Porter",
+                        "hasOccupation",
+                        "Songwriter"
+                    ]
+                ],
+                -0.2137282100724585
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 8.936595916748047
+    },
+    {
+        "triple": [
+            "North_Slope_Borough,_Alaska",
+            "location",
+            "Alaska"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "North_Slope_Borough,_Alaska",
+                        "containedInPlace",
+                        "Alaska"
+                    ]
+                ],
+                0.2406149300915456
+            ],
+            [
+                [
+                    [
+                        "Alaska",
+                        "containsPlace",
+                        "North_Slope_Borough,_Alaska"
+                    ]
+                ],
+                -0.8708111500879477
+            ],
+            [
+                [
+                    [
+                        "Alaska",
+                        "containsPlace",
+                        "North_Slope_Borough,_Alaska"
+                    ],
+                    [
+                        "North_Slope_Borough,_Alaska",
+                        "containedInPlace",
+                        "Alaska"
+                    ]
+                ],
+                -3.6926754957054095
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 8.991648197174072
+    },
+    {
+        "triple": [
+            "Fallon,_Nevada",
+            "location",
+            "Nevada"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fallon,_Nevada",
+                        "containedInPlace",
+                        "Nevada"
+                    ]
+                ],
+                -0.437888030754479
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.743326187133789
+    },
+    {
+        "triple": [
+            "Gy\u00f6ngy\u00f6s",
+            "location",
+            "Gy\u00f6ngy\u00f6s_District"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gy\u00f6ngy\u00f6s",
+                        "containedInPlace",
+                        "Gy\u00f6ngy\u00f6s_District"
+                    ]
+                ],
+                -0.4825054455659075
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.862879753112793
+    },
+    {
+        "triple": [
+            "Mort_Glickman",
+            "deathPlace",
+            "Sherman_Oaks,_Los_Angeles"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mort_Glickman",
+                        "birthPlace",
+                        "Chicago"
+                    ]
+                ],
+                0.22508267204068927
+            ],
+            [
+                [
+                    [
+                        "Mort_Glickman",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                0.19658578514746344
+            ],
+            [
+                [
+                    [
+                        "Mort_Glickman",
+                        "birthPlace",
+                        "Chicago"
+                    ],
+                    [
+                        "Mort_Glickman",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                -0.2277945393461801
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 8.942776918411255
+    },
+    {
+        "triple": [
+            "Houston_Cougars",
+            "sport",
+            "Baseball"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Houston_Cougars",
+                        "sport",
+                        "Softball"
+                    ]
+                ],
+                0.4469466209411621
+            ],
+            [
+                [
+                    [
+                        "Houston_Cougars",
+                        "sport",
+                        "American_football"
+                    ]
+                ],
+                0.044416823983192445
+            ],
+            [
+                [
+                    [
+                        "Houston_Cougars",
+                        "sport",
+                        "American_football"
+                    ],
+                    [
+                        "Houston_Cougars",
+                        "sport",
+                        "Softball"
+                    ]
+                ],
+                -0.16855432987213134
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.04271650314331
+    },
+    {
+        "triple": [
+            "Yellowstone_National_Park",
+            "containedInPlace",
+            "Montana"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yellowstone_National_Park",
+                        "containedInPlace",
+                        "Idaho"
+                    ]
+                ],
+                -0.24362844024774238
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.73779821395874
+    },
+    {
+        "triple": [
+            "Queens_County,_New_Brunswick",
+            "location",
+            "New_Brunswick"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Eldon_Rathburn",
+                        "birthPlace",
+                        "Queens_County,_New_Brunswick"
+                    ]
+                ],
+                0.6131765359596341
+            ],
+            [
+                [
+                    [
+                        "Queens_County,_New_Brunswick",
+                        "containedInPlace",
+                        "New_Brunswick"
+                    ]
+                ],
+                0.0007991668184806768
+            ],
+            [
+                [
+                    [
+                        "Queens_County,_New_Brunswick",
+                        "containedInPlace",
+                        "New_Brunswick"
+                    ],
+                    [
+                        "Eldon_Rathburn",
+                        "birthPlace",
+                        "Queens_County,_New_Brunswick"
+                    ]
+                ],
+                -0.30299375840274134
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.00553035736084
+    },
+    {
+        "triple": [
+            "Azua,_Dominican_Republic",
+            "location",
+            "Azua_Province"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Azua,_Dominican_Republic",
+                        "containedInPlace",
+                        "Azua_Province"
+                    ]
+                ],
+                -0.24371508799535524
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.748500108718872
+    },
+    {
+        "triple": [
+            "University_of_Chicago_Graduate_Library_School",
+            "location",
+            "Illinois"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_Chicago_Graduate_Library_School",
+                        "containedInPlace",
+                        "Illinois"
+                    ]
+                ],
+                -2.120794682469453
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.80640721321106
+    },
+    {
+        "triple": [
+            "Edwardes_College_Peshawar",
+            "location",
+            "Peshawar"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Prithviraj_Kapoor",
+                        "alumniOf",
+                        "Edwardes_College_Peshawar"
+                    ]
+                ],
+                -0.06420976661819652
+            ],
+            [
+                [
+                    [
+                        "Edwardes_College_Peshawar",
+                        "containedInPlace",
+                        "Peshawar"
+                    ]
+                ],
+                -0.4012427553177195
+            ],
+            [
+                [
+                    [
+                        "Edwardes_College_Peshawar",
+                        "containedInPlace",
+                        "Peshawar"
+                    ],
+                    [
+                        "Prithviraj_Kapoor",
+                        "alumniOf",
+                        "Edwardes_College_Peshawar"
+                    ]
+                ],
+                -1.115495513012651
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.925737619400024
+    },
+    {
+        "triple": [
+            "Marshfield,_Wisconsin",
+            "location",
+            "Marathon_County,_Wisconsin"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Marshfield,_Wisconsin",
+                        "containedInPlace",
+                        "Wood_County,_Wisconsin"
+                    ]
+                ],
+                0.09249000458231438
+            ],
+            [
+                [
+                    [
+                        "Marshfield,_Wisconsin",
+                        "containedInPlace",
+                        "Marathon_County,_Wisconsin"
+                    ]
+                ],
+                -0.573237674386698
+            ],
+            [
+                [
+                    [
+                        "Marshfield,_Wisconsin",
+                        "containedInPlace",
+                        "Marathon_County,_Wisconsin"
+                    ],
+                    [
+                        "Marshfield,_Wisconsin",
+                        "containedInPlace",
+                        "Wood_County,_Wisconsin"
+                    ]
+                ],
+                -0.8366999152738196
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.593536853790283
+    },
+    {
+        "triple": [
+            "Eastern_Connecticut_State_University",
+            "memberOf",
+            "Council_of_Public_Liberal_Arts_Colleges"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Eastern_Connecticut_State_University",
+                        "location",
+                        "Connecticut"
+                    ]
+                ],
+                0.1594445080151498
+            ],
+            [
+                [
+                    [
+                        "Eastern_Connecticut_State_University",
+                        "containedInPlace",
+                        "Connecticut"
+                    ]
+                ],
+                0.09288116072925984
+            ],
+            [
+                [
+                    [
+                        "Eastern_Connecticut_State_University",
+                        "containedInPlace",
+                        "Connecticut"
+                    ],
+                    [
+                        "Eastern_Connecticut_State_University",
+                        "location",
+                        "Connecticut"
+                    ]
+                ],
+                -0.09781530172112589
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.055188417434692
+    },
+    {
+        "triple": [
+            "Lucio_Demare",
+            "nationality",
+            "Argentina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lucio_Demare",
+                        "givenName",
+                        "Lucio"
+                    ],
+                    [
+                        "Lucio_Demare",
+                        "hasOccupation",
+                        "Pianist"
+                    ]
+                ],
+                0.40747304396195844
+            ],
+            [
+                [
+                    [
+                        "Lucio_Demare",
+                        "hasOccupation",
+                        "Pianist"
+                    ]
+                ],
+                0.17219924926757812
+            ],
+            [
+                [
+                    [
+                        "Lucio_Demare",
+                        "givenName",
+                        "Lucio"
+                    ]
+                ],
+                0.1685291203585538
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.00687861442566
+    },
+    {
+        "triple": [
+            "Oomph!",
+            "location",
+            "Wolfsburg"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Oomph!",
+                        "genre",
+                        "Crossover_music"
+                    ]
+                ],
+                0.23729920686567715
+            ],
+            [
+                [
+                    [
+                        "Oomph!",
+                        "foundingLocation",
+                        "Wolfsburg"
+                    ],
+                    [
+                        "Oomph!",
+                        "genre",
+                        "Crossover_music"
+                    ]
+                ],
+                -0.3039172545368114
+            ],
+            [
+                [
+                    [
+                        "Oomph!",
+                        "foundingLocation",
+                        "Wolfsburg"
+                    ]
+                ],
+                -0.3680902902774701
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.87394666671753
+    },
+    {
+        "triple": [
+            "Gmina_Filip\u00f3w",
+            "location",
+            "Suwa\u0142ki_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Filip\u00f3w",
+                        "containedInPlace",
+                        "Suwa\u0142ki_County"
+                    ]
+                ],
+                -0.19550457046472197
+            ],
+            [
+                [
+                    [
+                        "Suwa\u0142ki_County",
+                        "containsPlace",
+                        "Gmina_Filip\u00f3w"
+                    ]
+                ],
+                -0.3793470106727118
+            ],
+            [
+                [
+                    [
+                        "Gmina_Filip\u00f3w",
+                        "containedInPlace",
+                        "Suwa\u0142ki_County"
+                    ],
+                    [
+                        "Suwa\u0142ki_County",
+                        "containsPlace",
+                        "Gmina_Filip\u00f3w"
+                    ]
+                ],
+                -1.332271487497502
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.000173330307007
+    },
+    {
+        "triple": [
+            "Satyen_Bose",
+            "nationality",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Satyen_Bose",
+                        "hasOccupation",
+                        "Screenwriter"
+                    ]
+                ],
+                -0.1869600084092882
+            ],
+            [
+                [
+                    [
+                        "Satyen_Bose",
+                        "birthPlace",
+                        "Kolkata"
+                    ],
+                    [
+                        "Satyen_Bose",
+                        "hasOccupation",
+                        "Screenwriter"
+                    ]
+                ],
+                -0.40918116555933937
+            ],
+            [
+                [
+                    [
+                        "Satyen_Bose",
+                        "birthPlace",
+                        "Kolkata"
+                    ]
+                ],
+                -0.5574046077891293
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.892736434936523
+    },
+    {
+        "triple": [
+            "Al_Cliver",
+            "nationality",
+            "Italy"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Al_Cliver",
+                        "birthPlace",
+                        "Alexandria"
+                    ]
+                ],
+                0.39128661610450016
+            ],
+            [
+                [
+                    [
+                        "Al_Cliver",
+                        "knowsLanguage",
+                        "Italian_language"
+                    ]
+                ],
+                -0.0860608540049041
+            ],
+            [
+                [
+                    [
+                        "Al_Cliver",
+                        "birthPlace",
+                        "Alexandria"
+                    ],
+                    [
+                        "Al_Cliver",
+                        "knowsLanguage",
+                        "Italian_language"
+                    ]
+                ],
+                -0.17348959400478436
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.23916244506836
+    },
+    {
+        "triple": [
+            "Neoguraleus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Neoguraleus",
+                        "parentTaxon",
+                        "Mangeliidae"
+                    ]
+                ],
+                0.09683580994606018
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.822768926620483
+    },
+    {
+        "triple": [
+            "Dimmu_Borgir",
+            "genre",
+            "Black_metal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dimmu_Borgir",
+                        "foundingLocation",
+                        "Oslo"
+                    ]
+                ],
+                0.23612836784549388
+            ],
+            [
+                [
+                    [
+                        "Dimmu_Borgir",
+                        "genre",
+                        "Symphonic_black_metal"
+                    ]
+                ],
+                0.023595982734556653
+            ],
+            [
+                [
+                    [
+                        "Dimmu_Borgir",
+                        "foundingLocation",
+                        "Oslo"
+                    ],
+                    [
+                        "Dimmu_Borgir",
+                        "genre",
+                        "Symphonic_black_metal"
+                    ]
+                ],
+                -0.23896251840095376
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 8.971695184707642
+    },
+    {
+        "triple": [
+            "Montfoort",
+            "location",
+            "Utrecht_(province)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Utrecht_(province)",
+                        "containsPlace",
+                        "Montfoort"
+                    ]
+                ],
+                0.03584591525417941
+            ],
+            [
+                [
+                    [
+                        "Montfoort",
+                        "containedInPlace",
+                        "Utrecht_(province)"
+                    ]
+                ],
+                -0.06242450100558621
+            ],
+            [
+                [
+                    [
+                        "Montfoort",
+                        "containedInPlace",
+                        "Utrecht_(province)"
+                    ],
+                    [
+                        "Utrecht_(province)",
+                        "containsPlace",
+                        "Montfoort"
+                    ]
+                ],
+                -1.4173799101289335
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.00740361213684
+    },
+    {
+        "triple": [
+            "Gmina_Z\u0142ocieniec",
+            "location",
+            "Drawsko_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Z\u0142ocieniec",
+                        "containedInPlace",
+                        "Drawsko_County"
+                    ]
+                ],
+                -0.9346928000450134
+            ],
+            [
+                [
+                    [
+                        "Drawsko_County",
+                        "containsPlace",
+                        "Gmina_Z\u0142ocieniec"
+                    ]
+                ],
+                -1.2374801635742188
+            ],
+            [
+                [
+                    [
+                        "Drawsko_County",
+                        "containsPlace",
+                        "Gmina_Z\u0142ocieniec"
+                    ],
+                    [
+                        "Gmina_Z\u0142ocieniec",
+                        "containedInPlace",
+                        "Drawsko_County"
+                    ]
+                ],
+                -5.792535781860352
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.927388906478882
+    },
+    {
+        "triple": [
+            "Dokkum",
+            "location",
+            "Noardeast-Frysl\u00e2n"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dokkum",
+                        "containedInPlace",
+                        "Noardeast-Frysl\u00e2n"
+                    ]
+                ],
+                -0.3904736973124075
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.655417442321777
+    },
+    {
+        "triple": [
+            "Myongji_University",
+            "location",
+            "Seoul"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Teddy_Park",
+                        "alumniOf",
+                        "Myongji_University"
+                    ]
+                ],
+                -0.8901026465676047
+            ],
+            [
+                [
+                    [
+                        "Myongji_University",
+                        "containedInPlace",
+                        "Seoul"
+                    ]
+                ],
+                -1.6003990173339844
+            ],
+            [
+                [
+                    [
+                        "Myongji_University",
+                        "containedInPlace",
+                        "Seoul"
+                    ],
+                    [
+                        "Teddy_Park",
+                        "alumniOf",
+                        "Myongji_University"
+                    ]
+                ],
+                -3.5494298067959873
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.028568744659424
+    },
+    {
+        "triple": [
+            "Guastalla",
+            "location",
+            "Province_of_Reggio_Emilia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Guastalla",
+                        "containedInPlace",
+                        "Province_of_Reggio_Emilia"
+                    ]
+                ],
+                -0.9142002962619632
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.818248271942139
+    },
+    {
+        "triple": [
+            "Cascina",
+            "location",
+            "Province_of_Pisa"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cascina",
+                        "containedInPlace",
+                        "Province_of_Pisa"
+                    ]
+                ],
+                -0.09851899220599031
+            ],
+            [
+                [
+                    [
+                        "Province_of_Pisa",
+                        "containsPlace",
+                        "Cascina"
+                    ]
+                ],
+                -0.39307595101847387
+            ],
+            [
+                [
+                    [
+                        "Cascina",
+                        "containedInPlace",
+                        "Province_of_Pisa"
+                    ],
+                    [
+                        "Province_of_Pisa",
+                        "containsPlace",
+                        "Cascina"
+                    ]
+                ],
+                -2.321716222990445
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.079810857772827
+    },
+    {
+        "triple": [
+            "Bad_T\u00f6lz",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bad_T\u00f6lz",
+                        "containedInPlace",
+                        "Bad_T\u00f6lz-Wolfratshausen"
+                    ]
+                ],
+                0.08419095936106212
+            ],
+            [
+                [
+                    [
+                        "Bad_T\u00f6lz-Wolfratshausen",
+                        "containsPlace",
+                        "Bad_T\u00f6lz"
+                    ]
+                ],
+                0.03612253559169484
+            ],
+            [
+                [
+                    [
+                        "Bad_T\u00f6lz",
+                        "containedInPlace",
+                        "Bad_T\u00f6lz-Wolfratshausen"
+                    ],
+                    [
+                        "Bad_T\u00f6lz-Wolfratshausen",
+                        "containsPlace",
+                        "Bad_T\u00f6lz"
+                    ]
+                ],
+                -0.13040558259878585
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.033349990844727
+    },
+    {
+        "triple": [
+            "Gmina_Ostr\u00f3w_Mazowiecka",
+            "location",
+            "Ostr\u00f3w_Mazowiecka_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ostr\u00f3w_Mazowiecka_County",
+                        "containsPlace",
+                        "Gmina_Ostr\u00f3w_Mazowiecka"
+                    ]
+                ],
+                0.36271475443025913
+            ],
+            [
+                [
+                    [
+                        "Gmina_Ostr\u00f3w_Mazowiecka",
+                        "containedInPlace",
+                        "Ostr\u00f3w_Mazowiecka_County"
+                    ]
+                ],
+                0.01535775626577982
+            ],
+            [
+                [
+                    [
+                        "Gmina_Ostr\u00f3w_Mazowiecka",
+                        "containedInPlace",
+                        "Ostr\u00f3w_Mazowiecka_County"
+                    ],
+                    [
+                        "Ostr\u00f3w_Mazowiecka_County",
+                        "containsPlace",
+                        "Gmina_Ostr\u00f3w_Mazowiecka"
+                    ]
+                ],
+                -0.5676280845083842
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.186381101608276
+    },
+    {
+        "triple": [
+            "Little_Falls,_Minnesota",
+            "location",
+            "Morrison_County,_Minnesota"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Louise_Erdrich",
+                        "birthPlace",
+                        "Little_Falls,_Minnesota"
+                    ]
+                ],
+                -0.37078068158378336
+            ],
+            [
+                [
+                    [
+                        "Little_Falls,_Minnesota",
+                        "containedInPlace",
+                        "Morrison_County,_Minnesota"
+                    ]
+                ],
+                -1.0533599258363335
+            ],
+            [
+                [
+                    [
+                        "Little_Falls,_Minnesota",
+                        "containedInPlace",
+                        "Morrison_County,_Minnesota"
+                    ],
+                    [
+                        "Louise_Erdrich",
+                        "birthPlace",
+                        "Little_Falls,_Minnesota"
+                    ]
+                ],
+                -2.263097305824332
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.033289909362793
+    },
+    {
+        "triple": [
+            "Orust_Municipality",
+            "location",
+            "Gothenburg_and_Bohus_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Orust_Municipality",
+                        "containedInPlace",
+                        "Gothenburg_and_Bohus_County"
+                    ]
+                ],
+                0.046985737363198644
+            ],
+            [
+                [
+                    [
+                        "V\u00e4stra_G\u00f6taland_County",
+                        "containsPlace",
+                        "Orust_Municipality"
+                    ]
+                ],
+                -0.5283255326120477
+            ],
+            [
+                [
+                    [
+                        "Orust_Municipality",
+                        "containedInPlace",
+                        "Gothenburg_and_Bohus_County"
+                    ],
+                    [
+                        "V\u00e4stra_G\u00f6taland_County",
+                        "containsPlace",
+                        "Orust_Municipality"
+                    ]
+                ],
+                -1.8371467303512687
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.93221378326416
+    },
+    {
+        "triple": [
+            "Varkaus",
+            "location",
+            "Northern_Savonia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Varkaus",
+                        "containedInPlace",
+                        "Northern_Savonia"
+                    ]
+                ],
+                -0.8619455403057188
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.839057683944702
+    },
+    {
+        "triple": [
+            "Yuyao",
+            "location",
+            "Ningbo"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yuyao",
+                        "containedInPlace",
+                        "Ningbo"
+                    ]
+                ],
+                0.14141382101506822
+            ],
+            [
+                [
+                    [
+                        "Ningbo",
+                        "containsPlace",
+                        "Yuyao"
+                    ]
+                ],
+                -0.08589097958083271
+            ],
+            [
+                [
+                    [
+                        "Ningbo",
+                        "containsPlace",
+                        "Yuyao"
+                    ],
+                    [
+                        "Yuyao",
+                        "containedInPlace",
+                        "Ningbo"
+                    ]
+                ],
+                -1.6456973740505438
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 8.979506731033325
+    },
+    {
+        "triple": [
+            "Ciudad_Real",
+            "location",
+            "Province_of_Ciudad_Real"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Javier_Botet",
+                        "birthPlace",
+                        "Ciudad_Real"
+                    ]
+                ],
+                -0.2582570560014428
+            ],
+            [
+                [
+                    [
+                        "Ciudad_Real",
+                        "containedInPlace",
+                        "Province_of_Ciudad_Real"
+                    ]
+                ],
+                -0.3713353602730449
+            ],
+            [
+                [
+                    [
+                        "Ciudad_Real",
+                        "containedInPlace",
+                        "Province_of_Ciudad_Real"
+                    ],
+                    [
+                        "Javier_Botet",
+                        "birthPlace",
+                        "Ciudad_Real"
+                    ]
+                ],
+                -0.7859616686950377
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.206119537353516
+    },
+    {
+        "triple": [
+            "Gmina_Paw\u0142owiczki",
+            "location",
+            "K\u0119dzierzyn-Ko\u017ale_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Paw\u0142owiczki",
+                        "containedInPlace",
+                        "K\u0119dzierzyn-Ko\u017ale_County"
+                    ]
+                ],
+                -0.3340906610830428
+            ],
+            [
+                [
+                    [
+                        "K\u0119dzierzyn-Ko\u017ale_County",
+                        "containsPlace",
+                        "Gmina_Paw\u0142owiczki"
+                    ]
+                ],
+                -0.7240592178891184
+            ],
+            [
+                [
+                    [
+                        "Gmina_Paw\u0142owiczki",
+                        "containedInPlace",
+                        "K\u0119dzierzyn-Ko\u017ale_County"
+                    ],
+                    [
+                        "K\u0119dzierzyn-Ko\u017ale_County",
+                        "containsPlace",
+                        "Gmina_Paw\u0142owiczki"
+                    ]
+                ],
+                -2.2682646444021177
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.339165925979614
+    },
+    {
+        "triple": [
+            "Gloria_Ferrandiz",
+            "nationality",
+            "Argentina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gloria_Ferrandiz",
+                        "givenName",
+                        "Gloria_(given_name)"
+                    ]
+                ],
+                -0.08979786766899957
+            ],
+            [
+                [
+                    [
+                        "Gloria_Ferrandiz",
+                        "hasOccupation",
+                        "Actor"
+                    ],
+                    [
+                        "Gloria_Ferrandiz",
+                        "givenName",
+                        "Gloria_(given_name)"
+                    ]
+                ],
+                -0.20750512017144096
+            ],
+            [
+                [
+                    [
+                        "Gloria_Ferrandiz",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -0.5533047428837529
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.200242519378662
+    },
+    {
+        "triple": [
+            "Inverurie",
+            "containedInPlace",
+            "Aberdeenshire_(historic)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Inverurie",
+                        "containedInPlace",
+                        "Aberdeenshire"
+                    ]
+                ],
+                -0.3465007728034049
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.94324779510498
+    },
+    {
+        "triple": [
+            "Baie-Mahault",
+            "location",
+            "Arrondissement_of_Basse-Terre"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Baie-Mahault",
+                        "location",
+                        "Guadeloupe"
+                    ]
+                ],
+                -0.22541888874572608
+            ],
+            [
+                [
+                    [
+                        "Baie-Mahault",
+                        "containedInPlace",
+                        "Arrondissement_of_Basse-Terre"
+                    ],
+                    [
+                        "Baie-Mahault",
+                        "location",
+                        "Guadeloupe"
+                    ]
+                ],
+                -1.8095298515436444
+            ],
+            [
+                [
+                    [
+                        "Baie-Mahault",
+                        "containedInPlace",
+                        "Arrondissement_of_Basse-Terre"
+                    ]
+                ],
+                -1.955963421200389
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.077150821685791
+    },
+    {
+        "triple": [
+            "Tricky_Stewart",
+            "nationality",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Loud_(Rihanna_album)",
+                        "producer",
+                        "Tricky_Stewart"
+                    ]
+                ],
+                -0.2479046147044112
+            ],
+            [
+                [
+                    [
+                        "Tricky_Stewart",
+                        "familyName",
+                        "Stewart_(name)"
+                    ]
+                ],
+                -0.49290900501778456
+            ],
+            [
+                [
+                    [
+                        "Tricky_Stewart",
+                        "familyName",
+                        "Stewart_(name)"
+                    ],
+                    [
+                        "Loud_(Rihanna_album)",
+                        "producer",
+                        "Tricky_Stewart"
+                    ]
+                ],
+                -0.850869341594417
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.116467952728271
+    },
+    {
+        "triple": [
+            "Bedford,_Virginia",
+            "location",
+            "Bedford_County,_Virginia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bedford,_Virginia",
+                        "containedInPlace",
+                        "Bedford_County,_Virginia"
+                    ]
+                ],
+                -0.763022357645307
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.904027700424194
+    },
+    {
+        "triple": [
+            "Krokus_(band)",
+            "genre",
+            "Hard_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Krokus_(band)",
+                        "foundingLocation",
+                        "Canton_of_Solothurn"
+                    ]
+                ],
+                0.27906935182336257
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.911680459976196
+    },
+    {
+        "triple": [
+            "Alfred_Rolfe_(director)",
+            "givenName",
+            "Alfred_(name)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alfred_Rolfe_(director)",
+                        "birthPlace",
+                        "Melbourne"
+                    ]
+                ],
+                -0.017153258226355727
+            ],
+            [
+                [
+                    [
+                        "Alfred_Rolfe_(director)",
+                        "birthPlace",
+                        "Melbourne"
+                    ],
+                    [
+                        "Alfred_Rolfe_(director)",
+                        "deathPlace",
+                        "Sydney"
+                    ]
+                ],
+                -0.18932887486049108
+            ],
+            [
+                [
+                    [
+                        "Alfred_Rolfe_(director)",
+                        "deathPlace",
+                        "Sydney"
+                    ]
+                ],
+                -0.24430471537064533
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.654008626937866
+    },
+    {
+        "triple": [
+            "Kemi",
+            "location",
+            "Lapland_(Finland)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sonata_Arctica",
+                        "foundingLocation",
+                        "Kemi"
+                    ]
+                ],
+                0.25752894584009095
+            ],
+            [
+                [
+                    [
+                        "Kemi",
+                        "containedInPlace",
+                        "Lapland_(Finland)"
+                    ]
+                ],
+                -1.4012326933558439
+            ],
+            [
+                [
+                    [
+                        "Kemi",
+                        "containedInPlace",
+                        "Lapland_(Finland)"
+                    ],
+                    [
+                        "Sonata_Arctica",
+                        "foundingLocation",
+                        "Kemi"
+                    ]
+                ],
+                -1.8080179696639371
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.123509883880615
+    },
+    {
+        "triple": [
+            "Footscray,_Victoria",
+            "containedInPlace",
+            "Melbourne"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "James_Wallace_Sandford",
+                        "birthPlace",
+                        "Footscray,_Victoria"
+                    ]
+                ],
+                0.18016826280474765
+            ],
+            [
+                [
+                    [
+                        "Footscray,_Victoria",
+                        "containedInPlace",
+                        "Division_of_Gellibrand"
+                    ],
+                    [
+                        "James_Wallace_Sandford",
+                        "birthPlace",
+                        "Footscray,_Victoria"
+                    ]
+                ],
+                0.00048535859680294444
+            ],
+            [
+                [
+                    [
+                        "Footscray,_Victoria",
+                        "containedInPlace",
+                        "Division_of_Gellibrand"
+                    ]
+                ],
+                -0.022106103906736042
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.10039496421814
+    },
+    {
+        "triple": [
+            "Lacombe,_Alberta",
+            "location",
+            "Alberta"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Roland_Michener",
+                        "birthPlace",
+                        "Lacombe,_Alberta"
+                    ]
+                ],
+                -0.349320799861122
+            ],
+            [
+                [
+                    [
+                        "Lacombe,_Alberta",
+                        "containedInPlace",
+                        "Alberta"
+                    ]
+                ],
+                -2.5209168093887406
+            ],
+            [
+                [
+                    [
+                        "Lacombe,_Alberta",
+                        "containedInPlace",
+                        "Alberta"
+                    ],
+                    [
+                        "Roland_Michener",
+                        "birthPlace",
+                        "Lacombe,_Alberta"
+                    ]
+                ],
+                -2.983281274536746
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.229511976242065
+    },
+    {
+        "triple": [
+            "Ilida_(municipality)",
+            "location",
+            "Western_Greece"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ilida_(municipality)",
+                        "containedInPlace",
+                        "Western_Greece"
+                    ]
+                ],
+                -1.9425617126283437
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.65199327468872
+    },
+    {
+        "triple": [
+            "Nowy_Dw\u00f3r_Mazowiecki",
+            "location",
+            "Nowy_Dw\u00f3r_Mazowiecki_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nowy_Dw\u00f3r_Mazowiecki",
+                        "containedInPlace",
+                        "Nowy_Dw\u00f3r_Mazowiecki_County"
+                    ]
+                ],
+                -2.2140334683884557
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.911008596420288
+    },
+    {
+        "triple": [
+            "Mitch_Easter",
+            "nationality",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mitch_Easter",
+                        "givenName",
+                        "Mitch"
+                    ]
+                ],
+                -0.16692594141741984
+            ],
+            [
+                [
+                    [
+                        "Mitch_Easter",
+                        "birthPlace",
+                        "Winston-Salem,_North_Carolina"
+                    ]
+                ],
+                -0.2384017495548024
+            ],
+            [
+                [
+                    [
+                        "Mitch_Easter",
+                        "birthPlace",
+                        "Winston-Salem,_North_Carolina"
+                    ],
+                    [
+                        "Mitch_Easter",
+                        "givenName",
+                        "Mitch"
+                    ]
+                ],
+                -0.35643985224705116
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.096233606338501
+    },
+    {
+        "triple": [
+            "Gmina_Brzeziny,_Greater_Poland_Voivodeship",
+            "location",
+            "Kalisz_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kalisz_County",
+                        "containsPlace",
+                        "Gmina_Brzeziny,_Greater_Poland_Voivodeship"
+                    ]
+                ],
+                -0.5658785255209914
+            ],
+            [
+                [
+                    [
+                        "Gmina_Brzeziny,_Greater_Poland_Voivodeship",
+                        "containedInPlace",
+                        "Kalisz_County"
+                    ]
+                ],
+                -0.7068121456405492
+            ],
+            [
+                [
+                    [
+                        "Gmina_Brzeziny,_Greater_Poland_Voivodeship",
+                        "containedInPlace",
+                        "Kalisz_County"
+                    ],
+                    [
+                        "Kalisz_County",
+                        "containsPlace",
+                        "Gmina_Brzeziny,_Greater_Poland_Voivodeship"
+                    ]
+                ],
+                -1.6973137716645177
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.028739213943481
+    },
+    {
+        "triple": [
+            "Gmina_Gr\u00f3jec",
+            "location",
+            "Gr\u00f3jec_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gr\u00f3jec_County",
+                        "containsPlace",
+                        "Gmina_Gr\u00f3jec"
+                    ]
+                ],
+                -0.4610555629537563
+            ],
+            [
+                [
+                    [
+                        "Gmina_Gr\u00f3jec",
+                        "containedInPlace",
+                        "Gr\u00f3jec_County"
+                    ]
+                ],
+                -1.6609366060507418
+            ],
+            [
+                [
+                    [
+                        "Gmina_Gr\u00f3jec",
+                        "containedInPlace",
+                        "Gr\u00f3jec_County"
+                    ],
+                    [
+                        "Gr\u00f3jec_County",
+                        "containsPlace",
+                        "Gmina_Gr\u00f3jec"
+                    ]
+                ],
+                -3.2089775933159723
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.108546495437622
+    },
+    {
+        "triple": [
+            "Cusco",
+            "containedInPlace",
+            "Department_of_Cuzco"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cusco",
+                        "containedInPlace",
+                        "Cusco_Province"
+                    ]
+                ],
+                0.19887422325146564
+            ],
+            [
+                [
+                    [
+                        "Cusco",
+                        "containedInPlace",
+                        "Peru"
+                    ]
+                ],
+                -0.12152471864856959
+            ],
+            [
+                [
+                    [
+                        "Cusco",
+                        "containedInPlace",
+                        "Cusco_Province"
+                    ],
+                    [
+                        "Cusco",
+                        "containedInPlace",
+                        "Peru"
+                    ]
+                ],
+                -1.231269774997484
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.105539798736572
+    },
+    {
+        "triple": [
+            "Gmina_K\u0119pno",
+            "location",
+            "K\u0119pno_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_K\u0119pno",
+                        "containedInPlace",
+                        "K\u0119pno_County"
+                    ]
+                ],
+                -0.513722111138521
+            ],
+            [
+                [
+                    [
+                        "K\u0119pno_County",
+                        "containsPlace",
+                        "Gmina_K\u0119pno"
+                    ]
+                ],
+                -0.6791857757249804
+            ],
+            [
+                [
+                    [
+                        "Gmina_K\u0119pno",
+                        "containedInPlace",
+                        "K\u0119pno_County"
+                    ],
+                    [
+                        "K\u0119pno_County",
+                        "containsPlace",
+                        "Gmina_K\u0119pno"
+                    ]
+                ],
+                -3.3360751158011483
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.072394847869873
+    },
+    {
+        "triple": [
+            "Gmina_Gozdowo",
+            "location",
+            "Sierpc_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Gozdowo",
+                        "containedInPlace",
+                        "Sierpc_County"
+                    ]
+                ],
+                -0.056005301162542986
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.153525352478027
+    },
+    {
+        "triple": [
+            "Hunan_University",
+            "location",
+            "Changsha"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hunan_University",
+                        "containedInPlace",
+                        "Changsha"
+                    ]
+                ],
+                -1.2973374235415887
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.942993640899658
+    },
+    {
+        "triple": [
+            "Gmina_Blizan\u00f3w",
+            "location",
+            "Kalisz_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Blizan\u00f3w",
+                        "containedInPlace",
+                        "Kalisz_County"
+                    ]
+                ],
+                -0.6303644575310882
+            ],
+            [
+                [
+                    [
+                        "Kalisz_County",
+                        "containsPlace",
+                        "Gmina_Blizan\u00f3w"
+                    ]
+                ],
+                -0.9383395945532083
+            ],
+            [
+                [
+                    [
+                        "Gmina_Blizan\u00f3w",
+                        "containedInPlace",
+                        "Kalisz_County"
+                    ],
+                    [
+                        "Kalisz_County",
+                        "containsPlace",
+                        "Gmina_Blizan\u00f3w"
+                    ]
+                ],
+                -2.3887637888891455
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.684675931930542
+    },
+    {
+        "triple": [
+            "Snellville,_Georgia",
+            "location",
+            "Georgia_(U.S._state)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Snellville,_Georgia",
+                        "location",
+                        "Gwinnett_County,_Georgia"
+                    ]
+                ],
+                0.11060255210818225
+            ],
+            [
+                [
+                    [
+                        "Snellville,_Georgia",
+                        "containedInPlace",
+                        "Georgia_(U.S._state)"
+                    ]
+                ],
+                -0.5775959509929628
+            ],
+            [
+                [
+                    [
+                        "Snellville,_Georgia",
+                        "containedInPlace",
+                        "Georgia_(U.S._state)"
+                    ],
+                    [
+                        "Snellville,_Georgia",
+                        "location",
+                        "Gwinnett_County,_Georgia"
+                    ]
+                ],
+                -1.754916172173187
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.496966361999512
+    },
+    {
+        "triple": [
+            "Hit-Boy",
+            "hasOccupation",
+            "Songwriter"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hit-Boy",
+                        "birthPlace",
+                        "Fontana,_California"
+                    ]
+                ],
+                0.04319446427481515
+            ],
+            [
+                [
+                    [
+                        "Hit-Boy",
+                        "nationality",
+                        "United_States"
+                    ],
+                    [
+                        "Hit-Boy",
+                        "birthPlace",
+                        "Fontana,_California"
+                    ]
+                ],
+                -0.3599902561732701
+            ],
+            [
+                [
+                    [
+                        "Hit-Boy",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                -0.6187411172049386
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.058088302612305
+    },
+    {
+        "triple": [
+            "Salesian_Pontifical_University",
+            "location",
+            "Rome"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Salesian_Pontifical_University",
+                        "containedInPlace",
+                        "Rome"
+                    ]
+                ],
+                -2.0328830158194795
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.894185066223145
+    },
+    {
+        "triple": [
+            "St_Kilda_East,_Victoria",
+            "containedInPlace",
+            "Division_of_Melbourne_Ports"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "City_of_Port_Phillip",
+                        "containsPlace",
+                        "St_Kilda_East,_Victoria"
+                    ]
+                ],
+                -0.27962546255074294
+            ],
+            [
+                [
+                    [
+                        "St_Kilda_East,_Victoria",
+                        "containedInPlace",
+                        "City_of_Port_Phillip"
+                    ]
+                ],
+                -0.3581080343209061
+            ],
+            [
+                [
+                    [
+                        "City_of_Port_Phillip",
+                        "containsPlace",
+                        "St_Kilda_East,_Victoria"
+                    ],
+                    [
+                        "St_Kilda_East,_Victoria",
+                        "containedInPlace",
+                        "City_of_Port_Phillip"
+                    ]
+                ],
+                -3.4380080279181984
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.082941770553589
+    },
+    {
+        "triple": [
+            "Paris,_Tennessee",
+            "location",
+            "Henry_County,_Tennessee"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Paris,_Tennessee",
+                        "containedInPlace",
+                        "Henry_County,_Tennessee"
+                    ]
+                ],
+                -1.283860225903255
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.792241096496582
+    },
+    {
+        "triple": [
+            "Forbes,_New_South_Wales",
+            "containedInPlace",
+            "Division_of_Riverina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Forbes,_New_South_Wales",
+                        "containedInPlace",
+                        "Division_of_Parkes"
+                    ]
+                ],
+                -0.5614721929660836
+            ],
+            [
+                [
+                    [
+                        "Forbes,_New_South_Wales",
+                        "containedInPlace",
+                        "Electoral_district_of_Orange"
+                    ],
+                    [
+                        "Forbes,_New_South_Wales",
+                        "containedInPlace",
+                        "Division_of_Parkes"
+                    ]
+                ],
+                -1.1328480795381826
+            ],
+            [
+                [
+                    [
+                        "Forbes,_New_South_Wales",
+                        "containedInPlace",
+                        "Electoral_district_of_Orange"
+                    ]
+                ],
+                -1.8844289942406143
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.08010458946228
+    },
+    {
+        "triple": [
+            "Maryville,_Tennessee",
+            "location",
+            "Blount_County,_Tennessee"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Maryville,_Tennessee",
+                        "containedInPlace",
+                        "Blount_County,_Tennessee"
+                    ]
+                ],
+                -0.5823049692007212
+            ],
+            [
+                [
+                    [
+                        "Blount_County,_Tennessee",
+                        "containsPlace",
+                        "Maryville,_Tennessee"
+                    ]
+                ],
+                -0.6774955162635217
+            ],
+            [
+                [
+                    [
+                        "Blount_County,_Tennessee",
+                        "containsPlace",
+                        "Maryville,_Tennessee"
+                    ],
+                    [
+                        "Maryville,_Tennessee",
+                        "containedInPlace",
+                        "Blount_County,_Tennessee"
+                    ]
+                ],
+                -3.1767066368689902
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.095983266830444
+    },
+    {
+        "triple": [
+            "Luis_Pescetti",
+            "hasOccupation",
+            "Writer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Luis_Pescetti",
+                        "givenName",
+                        "Luis"
+                    ],
+                    [
+                        "Luis_Pescetti",
+                        "nationality",
+                        "Argentina"
+                    ]
+                ],
+                0.44170541474313446
+            ],
+            [
+                [
+                    [
+                        "Luis_Pescetti",
+                        "nationality",
+                        "Argentina"
+                    ]
+                ],
+                0.19768316095525568
+            ],
+            [
+                [
+                    [
+                        "Luis_Pescetti",
+                        "givenName",
+                        "Luis"
+                    ]
+                ],
+                0.07389065713593454
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.11149263381958
+    },
+    {
+        "triple": [
+            "Enkhuizen",
+            "location",
+            "North_Holland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Enkhuizen",
+                        "containedInPlace",
+                        "North_Holland"
+                    ]
+                ],
+                -0.7523923780097336
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.05684494972229
+    },
+    {
+        "triple": [
+            "Wasps_RFC",
+            "sport",
+            "Rugby_union"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gareth_Rees_(rugby_union)",
+                        "memberOf",
+                        "Wasps_RFC"
+                    ]
+                ],
+                0.019566221670670944
+            ],
+            [
+                [
+                    [
+                        "Wasps_RFC",
+                        "location",
+                        "Coventry"
+                    ]
+                ],
+                -0.026755051179365677
+            ],
+            [
+                [
+                    [
+                        "Gareth_Rees_(rugby_union)",
+                        "memberOf",
+                        "Wasps_RFC"
+                    ],
+                    [
+                        "Wasps_RFC",
+                        "location",
+                        "Coventry"
+                    ]
+                ],
+                -0.1193851882761175
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.891695976257324
+    },
+    {
+        "triple": [
+            "Mdina",
+            "location",
+            "Malta"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mdina",
+                        "containedInPlace",
+                        "Malta"
+                    ]
+                ],
+                -1.4149885367084023
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.96876049041748
+    },
+    {
+        "triple": [
+            "Molly_Malone_(actress)",
+            "familyName",
+            "Malone"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Molly_Malone_(actress)",
+                        "givenName",
+                        "Molly_(name)"
+                    ]
+                ],
+                0.024711776565719438
+            ],
+            [
+                [
+                    [
+                        "Molly_Malone_(actress)",
+                        "birthPlace",
+                        "Wisconsin"
+                    ]
+                ],
+                -0.024075432429237972
+            ],
+            [
+                [
+                    [
+                        "Molly_Malone_(actress)",
+                        "birthPlace",
+                        "Wisconsin"
+                    ],
+                    [
+                        "Molly_Malone_(actress)",
+                        "givenName",
+                        "Molly_(name)"
+                    ]
+                ],
+                -0.09192176790901156
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.135276794433594
+    },
+    {
+        "triple": [
+            "Meriania",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Meriania",
+                        "parentTaxon",
+                        "Melastomataceae"
+                    ]
+                ],
+                0.10039253234863281
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.989724397659302
+    },
+    {
+        "triple": [
+            "FC_Volgograd",
+            "sport",
+            "Association_football"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Oleg_Veretennikov",
+                        "memberOf",
+                        "FC_Volgograd"
+                    ]
+                ],
+                0.16426980053936993
+            ],
+            [
+                [
+                    [
+                        "FC_Volgograd",
+                        "location",
+                        "Volgograd"
+                    ]
+                ],
+                0.09303377292774341
+            ],
+            [
+                [
+                    [
+                        "FC_Volgograd",
+                        "location",
+                        "Volgograd"
+                    ],
+                    [
+                        "Oleg_Veretennikov",
+                        "memberOf",
+                        "FC_Volgograd"
+                    ]
+                ],
+                0.09159457242047345
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.16346549987793
+    },
+    {
+        "triple": [
+            "John_of_Brienne",
+            "givenName",
+            "John_(given_name)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "John_of_Brienne",
+                        "deathPlace",
+                        "Constantinople"
+                    ]
+                ],
+                -0.13737322799558563
+            ],
+            [
+                [
+                    [
+                        "John_of_Brienne",
+                        "nationality",
+                        "Kingdom_of_Jerusalem"
+                    ]
+                ],
+                -0.2041089685951791
+            ],
+            [
+                [
+                    [
+                        "John_of_Brienne",
+                        "deathPlace",
+                        "Constantinople"
+                    ],
+                    [
+                        "John_of_Brienne",
+                        "nationality",
+                        "Kingdom_of_Jerusalem"
+                    ]
+                ],
+                -0.2821561983930386
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.11988615989685
+    },
+    {
+        "triple": [
+            "Libera_Universit\u00e0_Internazionale_degli_Studi_Sociali_Guido_Carli",
+            "memberOf",
+            "European_University_Association"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Libera_Universit\u00e0_Internazionale_degli_Studi_Sociali_Guido_Carli",
+                        "location",
+                        "Rome"
+                    ]
+                ],
+                -0.04868611080545775
+            ],
+            [
+                [
+                    [
+                        "Libera_Universit\u00e0_Internazionale_degli_Studi_Sociali_Guido_Carli",
+                        "containedInPlace",
+                        "Rome"
+                    ]
+                ],
+                -0.06770125375667088
+            ],
+            [
+                [
+                    [
+                        "Libera_Universit\u00e0_Internazionale_degli_Studi_Sociali_Guido_Carli",
+                        "containedInPlace",
+                        "Rome"
+                    ],
+                    [
+                        "Libera_Universit\u00e0_Internazionale_degli_Studi_Sociali_Guido_Carli",
+                        "location",
+                        "Rome"
+                    ]
+                ],
+                -0.10344114706549846
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.046314477920532
+    },
+    {
+        "triple": [
+            "University_of_Rennes",
+            "founder",
+            "Francis_II,_Duke_of_Brittany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Paul_Ric\u0153ur",
+                        "alumniOf",
+                        "University_of_Rennes"
+                    ]
+                ],
+                0.0049759237666099
+            ],
+            [
+                [
+                    [
+                        "University_of_Rennes",
+                        "containedInPlace",
+                        "Rennes"
+                    ]
+                ],
+                -0.17555828175901483
+            ],
+            [
+                [
+                    [
+                        "University_of_Rennes",
+                        "containedInPlace",
+                        "Rennes"
+                    ],
+                    [
+                        "Paul_Ric\u0153ur",
+                        "alumniOf",
+                        "University_of_Rennes"
+                    ]
+                ],
+                -0.20925477541475931
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.082700252532959
+    },
+    {
+        "triple": [
+            "Manat\u00ed,_Puerto_Rico",
+            "location",
+            "Puerto_Rico"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Manat\u00ed,_Puerto_Rico",
+                        "containedInPlace",
+                        "Puerto_Rico"
+                    ]
+                ],
+                -0.5024260168409533
+            ],
+            [
+                [
+                    [
+                        "Puerto_Rico",
+                        "containsPlace",
+                        "Manat\u00ed,_Puerto_Rico"
+                    ]
+                ],
+                -0.5966002705496108
+            ],
+            [
+                [
+                    [
+                        "Manat\u00ed,_Puerto_Rico",
+                        "containedInPlace",
+                        "Puerto_Rico"
+                    ],
+                    [
+                        "Puerto_Rico",
+                        "containsPlace",
+                        "Manat\u00ed,_Puerto_Rico"
+                    ]
+                ],
+                -2.7663735712548636
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.929083108901978
+    },
+    {
+        "triple": [
+            "Gmina_Ryma\u0144",
+            "location",
+            "Ko\u0142obrzeg_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Ryma\u0144",
+                        "containedInPlace",
+                        "Ko\u0142obrzeg_County"
+                    ]
+                ],
+                -0.18540658690894424
+            ],
+            [
+                [
+                    [
+                        "Ko\u0142obrzeg_County",
+                        "containsPlace",
+                        "Gmina_Ryma\u0144"
+                    ]
+                ],
+                -0.4959577324505372
+            ],
+            [
+                [
+                    [
+                        "Gmina_Ryma\u0144",
+                        "containedInPlace",
+                        "Ko\u0142obrzeg_County"
+                    ],
+                    [
+                        "Ko\u0142obrzeg_County",
+                        "containsPlace",
+                        "Gmina_Ryma\u0144"
+                    ]
+                ],
+                -1.8652438437663783
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.129876613616943
+    },
+    {
+        "triple": [
+            "M\u00fcnsterlingen",
+            "location",
+            "Canton_of_Thurgau"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "M\u00fcnsterlingen",
+                        "containedInPlace",
+                        "Canton_of_Thurgau"
+                    ]
+                ],
+                -0.044380418224447576
+            ],
+            [
+                [
+                    [
+                        "Kreuzlingen_District",
+                        "containsPlace",
+                        "M\u00fcnsterlingen"
+                    ]
+                ],
+                -0.19120510485045303
+            ],
+            [
+                [
+                    [
+                        "M\u00fcnsterlingen",
+                        "containedInPlace",
+                        "Canton_of_Thurgau"
+                    ],
+                    [
+                        "Kreuzlingen_District",
+                        "containsPlace",
+                        "M\u00fcnsterlingen"
+                    ]
+                ],
+                -0.48116126427283656
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.02301549911499
+    },
+    {
+        "triple": [
+            "Himara",
+            "location",
+            "Vlor\u00eb_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Himara",
+                        "location",
+                        "Vlor\u00eb_District"
+                    ]
+                ],
+                -0.1375919874159873
+            ],
+            [
+                [
+                    [
+                        "Himara",
+                        "containedInPlace",
+                        "Vlor\u00eb_County"
+                    ]
+                ],
+                -0.7991788524852764
+            ],
+            [
+                [
+                    [
+                        "Himara",
+                        "containedInPlace",
+                        "Vlor\u00eb_County"
+                    ],
+                    [
+                        "Himara",
+                        "location",
+                        "Vlor\u00eb_District"
+                    ]
+                ],
+                -1.3410140486966955
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.32701826095581
+    },
+    {
+        "triple": [
+            "Ruch_Radzionk\u00f3w",
+            "sport",
+            "Badminton"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ruch_Radzionk\u00f3w",
+                        "sport",
+                        "Association_football"
+                    ]
+                ],
+                0.07198370099067689
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.593088626861572
+    },
+    {
+        "triple": [
+            "Ritwick_Chakraborty",
+            "nationality",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ritwick_Chakraborty",
+                        "birthPlace",
+                        "Barrackpore"
+                    ]
+                ],
+                0.2616928562973485
+            ],
+            [
+                [
+                    [
+                        "Ritwick_Chakraborty",
+                        "familyName",
+                        "Chakraborty"
+                    ],
+                    [
+                        "Ritwick_Chakraborty",
+                        "birthPlace",
+                        "Barrackpore"
+                    ]
+                ],
+                -0.21945031676629578
+            ],
+            [
+                [
+                    [
+                        "Ritwick_Chakraborty",
+                        "familyName",
+                        "Chakraborty"
+                    ]
+                ],
+                -0.24975269972675979
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.038155794143677
+    },
+    {
+        "triple": [
+            "La_Porte,_Indiana",
+            "location",
+            "LaPorte_County,_Indiana"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "La_Porte,_Indiana",
+                        "containedInPlace",
+                        "LaPorte_County,_Indiana"
+                    ]
+                ],
+                -0.19114388271737834
+            ],
+            [
+                [
+                    [
+                        "LaPorte_County,_Indiana",
+                        "containsPlace",
+                        "La_Porte,_Indiana"
+                    ]
+                ],
+                -0.29738364781214827
+            ],
+            [
+                [
+                    [
+                        "LaPorte_County,_Indiana",
+                        "containsPlace",
+                        "La_Porte,_Indiana"
+                    ],
+                    [
+                        "La_Porte,_Indiana",
+                        "containedInPlace",
+                        "LaPorte_County,_Indiana"
+                    ]
+                ],
+                -1.2474638217915488
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.974996089935303
+    },
+    {
+        "triple": [
+            "Sweetbox",
+            "genre",
+            "Rhythm_and_blues"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sweetbox",
+                        "genre",
+                        "Hip_hop_music"
+                    ]
+                ],
+                0.13394948414393834
+            ],
+            [
+                [
+                    [
+                        "Sweetbox",
+                        "genre",
+                        "Hip_hop_music"
+                    ],
+                    [
+                        "Sweetbox",
+                        "foundingLocation",
+                        "Los_Angeles"
+                    ]
+                ],
+                0.06092725907053266
+            ],
+            [
+                [
+                    [
+                        "Sweetbox",
+                        "foundingLocation",
+                        "Los_Angeles"
+                    ]
+                ],
+                0.025801258427756175
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.090166330337524
+    },
+    {
+        "triple": [
+            "Wilton,_New_Hampshire",
+            "location",
+            "Hillsborough_County,_New_Hampshire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hillsborough_County,_New_Hampshire",
+                        "containsPlace",
+                        "Wilton,_New_Hampshire"
+                    ]
+                ],
+                -0.022860772907733917
+            ],
+            [
+                [
+                    [
+                        "Wilton,_New_Hampshire",
+                        "containedInPlace",
+                        "Hillsborough_County,_New_Hampshire"
+                    ]
+                ],
+                -0.27815447251001996
+            ],
+            [
+                [
+                    [
+                        "Hillsborough_County,_New_Hampshire",
+                        "containsPlace",
+                        "Wilton,_New_Hampshire"
+                    ],
+                    [
+                        "Wilton,_New_Hampshire",
+                        "containedInPlace",
+                        "Hillsborough_County,_New_Hampshire"
+                    ]
+                ],
+                -4.775831540425618
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.021738290786743
+    },
+    {
+        "triple": [
+            "Salaberry-de-Valleyfield",
+            "location",
+            "Beauharnois-Salaberry_Regional_County_Municipality"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Salaberry-de-Valleyfield",
+                        "containedInPlace",
+                        "Beauharnois-Salaberry_Regional_County_Municipality"
+                    ]
+                ],
+                -0.07735435123550159
+            ],
+            [
+                [
+                    [
+                        "Beauharnois-Salaberry_Regional_County_Municipality",
+                        "containsPlace",
+                        "Salaberry-de-Valleyfield"
+                    ]
+                ],
+                -0.346560643371923
+            ],
+            [
+                [
+                    [
+                        "Beauharnois-Salaberry_Regional_County_Municipality",
+                        "containsPlace",
+                        "Salaberry-de-Valleyfield"
+                    ],
+                    [
+                        "Salaberry-de-Valleyfield",
+                        "containedInPlace",
+                        "Beauharnois-Salaberry_Regional_County_Municipality"
+                    ]
+                ],
+                -2.2621569074065992
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.794683694839478
+    },
+    {
+        "triple": [
+            "Newtown,_Victoria",
+            "containedInPlace",
+            "Division_of_Corio"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Newtown,_Victoria",
+                        "containedInPlace",
+                        "City_of_Greater_Geelong"
+                    ]
+                ],
+                -3.3279925802479617
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 8.77961540222168
+    },
+    {
+        "triple": [
+            "Cornell\u00e0_de_Llobregat",
+            "location",
+            "Baix_Llobregat"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cornell\u00e0_de_Llobregat",
+                        "containedInPlace",
+                        "Baix_Llobregat"
+                    ]
+                ],
+                -0.5775920928470673
+            ],
+            [
+                [
+                    [
+                        "Baix_Llobregat",
+                        "containsPlace",
+                        "Cornell\u00e0_de_Llobregat"
+                    ]
+                ],
+                -1.0897479587131076
+            ],
+            [
+                [
+                    [
+                        "Baix_Llobregat",
+                        "containsPlace",
+                        "Cornell\u00e0_de_Llobregat"
+                    ],
+                    [
+                        "Cornell\u00e0_de_Llobregat",
+                        "containedInPlace",
+                        "Baix_Llobregat"
+                    ]
+                ],
+                -2.0979832240513394
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.004089593887329
+    },
+    {
+        "triple": [
+            "De_Ronde_Venen",
+            "location",
+            "Utrecht_(province)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Utrecht_(province)",
+                        "containsPlace",
+                        "De_Ronde_Venen"
+                    ]
+                ],
+                -1.240714458058957
+            ],
+            [
+                [
+                    [
+                        "De_Ronde_Venen",
+                        "containedInPlace",
+                        "Utrecht_(province)"
+                    ]
+                ],
+                -1.521698280094732
+            ],
+            [
+                [
+                    [
+                        "De_Ronde_Venen",
+                        "containedInPlace",
+                        "Utrecht_(province)"
+                    ],
+                    [
+                        "Utrecht_(province)",
+                        "containsPlace",
+                        "De_Ronde_Venen"
+                    ]
+                ],
+                -3.5870650897258165
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 8.96354365348816
+    }
+]

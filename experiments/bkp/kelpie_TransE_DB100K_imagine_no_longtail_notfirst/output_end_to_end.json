@@ -1,0 +1,1917 @@
+[
+    {
+        "triple_to_explain": [
+            "Xyridaceae",
+            "order",
+            "Poales"
+        ],
+        "rule": [
+            [
+                "Aechmea_chantinii",
+                "genus",
+                "Xyridaceae"
+            ]
+        ],
+        "score": "13.363891",
+        "rank": "2",
+        "new_score": "14.316136",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Beebe,_Arkansas",
+            "type",
+            "City"
+        ],
+        "rule": [
+            [
+                "Beebe,_Arkansas",
+                "governmentType",
+                "City"
+            ]
+        ],
+        "score": "20.024649",
+        "rank": "75",
+        "new_score": "18.103785",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "William_Smith_(actor)",
+            "birthPlace",
+            "Missouri"
+        ],
+        "rule": [
+            [
+                "William_Smith_(actor)",
+                "restingPlace",
+                "Missouri"
+            ]
+        ],
+        "score": "24.878653",
+        "rank": "5889",
+        "new_score": "17.447224",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Grafton,_New_South_Wales",
+            "country",
+            "Australia"
+        ],
+        "rule": [
+            [
+                "10_Peach",
+                "headquarter",
+                "Grafton,_New_South_Wales"
+            ]
+        ],
+        "score": "21.53883",
+        "rank": "103",
+        "new_score": "21.445107",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Eldoret",
+            "type",
+            "List_of_cities_and_towns_in_Kenya_by_population"
+        ],
+        "rule": [
+            [
+                "Eldoret",
+                "type",
+                "Nakuru"
+            ]
+        ],
+        "score": "22.771046",
+        "rank": "3428",
+        "new_score": "20.46471",
+        "new_rank": "263"
+    },
+    {
+        "triple_to_explain": [
+            "Rugby,_North_Dakota",
+            "type",
+            "Town"
+        ],
+        "rule": [
+            [
+                "%C4%8Cesk%C3%BD_T%C4%9B%C5%A1%C3%ADn",
+                "district",
+                "Rugby,_North_Dakota"
+            ]
+        ],
+        "score": "18.014885",
+        "rank": "77",
+        "new_score": "17.93309",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Victoria,_Texas",
+            "isPartOf",
+            "Texas"
+        ],
+        "rule": [
+            [
+                "Abilene,_Texas",
+                "capital",
+                "Victoria,_Texas"
+            ]
+        ],
+        "score": "17.777342",
+        "rank": "11",
+        "new_score": "19.32685",
+        "new_rank": "257"
+    },
+    {
+        "triple_to_explain": [
+            "Club_Destroyers",
+            "ground",
+            "Santa_Cruz_de_la_Sierra"
+        ],
+        "rule": [
+            [
+                "Club_Destroyers",
+                "ground",
+                "Santa_Cruz_Department_(Bolivia)"
+            ]
+        ],
+        "score": "17.785547",
+        "rank": "47",
+        "new_score": "16.141357",
+        "new_rank": "32"
+    },
+    {
+        "triple_to_explain": [
+            "Becamex_Binh_Duong",
+            "ground",
+            "B%C3%ACnh_D%C6%B0%C6%A1ng_province"
+        ],
+        "rule": [
+            [
+                "Becamex_Binh_Duong",
+                "isPartOf",
+                "B%C3%ACnh_D%C6%B0%C6%A1ng_province"
+            ],
+            [
+                "Southeast_(Vietnam)",
+                "timeZone",
+                "Becamex_Binh_Duong"
+            ]
+        ],
+        "score": "26.844498",
+        "rank": "42521",
+        "new_score": "21.891762",
+        "new_rank": "9518"
+    },
+    {
+        "triple_to_explain": [
+            "Indy_Eleven",
+            "ground",
+            "Indiana"
+        ],
+        "rule": [
+            [
+                "Aurora,_Indiana",
+                "isPartOf",
+                "Indy_Eleven"
+            ]
+        ],
+        "score": "24.201464",
+        "rank": "2866",
+        "new_score": "17.66048",
+        "new_rank": "75"
+    },
+    {
+        "triple_to_explain": [
+            "Memmingen",
+            "type",
+            "Town"
+        ],
+        "rule": [
+            [
+                "Blacksburg,_Virginia",
+                "twinTown",
+                "Memmingen"
+            ]
+        ],
+        "score": "22.772697",
+        "rank": "264",
+        "new_score": "21.10781",
+        "new_rank": "43"
+    },
+    {
+        "triple_to_explain": [
+            "Meitetsu_Seto_Line",
+            "owner",
+            "Meitetsu"
+        ],
+        "rule": [
+            [
+                "Meitetsu_Seto_Line",
+                "isPartOf",
+                "Meitetsu"
+            ]
+        ],
+        "score": "16.61242",
+        "rank": "1298",
+        "new_score": "17.280554",
+        "new_rank": "41"
+    },
+    {
+        "triple_to_explain": [
+            "Osceola_County,_Michigan",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "113th_Ohio_Infantry_Regiment",
+                "garrison",
+                "Osceola_County,_Michigan"
+            ]
+        ],
+        "score": "21.115871",
+        "rank": "338",
+        "new_score": "21.748528",
+        "new_rank": "15"
+    },
+    {
+        "triple_to_explain": [
+            "Craigieburn_line",
+            "railwayRollingStock",
+            "Comeng_(train)"
+        ],
+        "rule": [
+            [
+                "Mernda_line",
+                "typeOfElectrification",
+                "Craigieburn_line"
+            ]
+        ],
+        "score": "17.55217",
+        "rank": "1929",
+        "new_score": "15.912741",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Lincoln_County,_West_Virginia",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "11th_Maine_Infantry_Regiment",
+                "garrison",
+                "Lincoln_County,_West_Virginia"
+            ]
+        ],
+        "score": "21.6815",
+        "rank": "20",
+        "new_score": "21.758156",
+        "new_rank": "185"
+    },
+    {
+        "triple_to_explain": [
+            "Ashton-in-Makerfield",
+            "metropolitanBorough",
+            "Metropolitan_Borough_of_Wigan"
+        ],
+        "rule": [
+            [
+                "Ashton-in-Makerfield",
+                "arrondissement",
+                "North_West_England"
+            ]
+        ],
+        "score": "15.90014",
+        "rank": "5",
+        "new_score": "17.317713",
+        "new_rank": "180"
+    },
+    {
+        "triple_to_explain": [
+            "Tramelan",
+            "canton",
+            "Canton_of_Bern"
+        ],
+        "rule": [
+            [
+                "Tramelan",
+                "isPartOf",
+                "Canton_of_Bern"
+            ]
+        ],
+        "score": "14.745041",
+        "rank": "47",
+        "new_score": "13.987736",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Angoul%C3%AAme_Charente_FC",
+            "ground",
+            "Angoul%C3%AAme"
+        ],
+        "rule": [
+            [
+                "Angoul%C3%AAme_Charente_FC",
+                "chairman",
+                "%C3%89mile_Louis_Ragonot"
+            ],
+            [
+                "Angoul%C3%AAme_Charente_FC",
+                "chairman",
+                "Arlette_Langmann"
+            ]
+        ],
+        "score": "29.534023",
+        "rank": "48624",
+        "new_score": "26.07567",
+        "new_rank": "34022"
+    },
+    {
+        "triple_to_explain": [
+            "J._Warren_Kerrigan",
+            "occupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "J._Warren_Kerrigan",
+                "child",
+                "Actor"
+            ]
+        ],
+        "score": "27.70917",
+        "rank": "39",
+        "new_score": "23.576033",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Southern_Illinois_University_Edwardsville",
+            "state",
+            "Illinois"
+        ],
+        "rule": [
+            [
+                "Southern_Illinois_University_Edwardsville",
+                "city",
+                "Chester,_Illinois"
+            ]
+        ],
+        "score": "19.324453",
+        "rank": "1106",
+        "new_score": "19.265774",
+        "new_rank": "9602"
+    },
+    {
+        "triple_to_explain": [
+            "The_Casualties",
+            "recordLabel",
+            "SideOneDummy_Records"
+        ],
+        "rule": [
+            [
+                "7_Seconds_(band)",
+                "associatedBand",
+                "The_Casualties"
+            ]
+        ],
+        "score": "20.441858",
+        "rank": "17",
+        "new_score": "18.743103",
+        "new_rank": "36"
+    },
+    {
+        "triple_to_explain": [
+            "MFK_Skalica",
+            "ground",
+            "Skalica"
+        ],
+        "rule": [
+            [
+                "MFK_Skalica",
+                "city",
+                "Skalica"
+            ],
+            [
+                "%27s-Hertogenbosch",
+                "isPartOf",
+                "MFK_Skalica"
+            ],
+            [
+                "%C3%9Ast%C3%AD_nad_Labem",
+                "isPartOf",
+                "MFK_Skalica"
+            ],
+            [
+                "%C5%A0abac",
+                "isPartOf",
+                "MFK_Skalica"
+            ]
+        ],
+        "score": "22.10673",
+        "rank": "2149",
+        "new_score": "24.243717",
+        "new_rank": "4951"
+    },
+    {
+        "triple_to_explain": [
+            "Armenian_Soviet_Socialist_Republic",
+            "governmentType",
+            "Unitary_state"
+        ],
+        "rule": [
+            [
+                "Armenian_Soviet_Socialist_Republic",
+                "capital",
+                "Republic_of_Ireland"
+            ]
+        ],
+        "score": "21.731377",
+        "rank": "243",
+        "new_score": "17.015547",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Creston,_Iowa",
+            "type",
+            "City"
+        ],
+        "rule": [
+            [
+                "Abilene,_Texas",
+                "district",
+                "Creston,_Iowa"
+            ]
+        ],
+        "score": "19.240028",
+        "rank": "3",
+        "new_score": "19.071972",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Hebron,_Connecticut",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "101st_Infantry_Regiment_(United_States)",
+                "garrison",
+                "Hebron,_Connecticut"
+            ],
+            [
+                "102nd_Pennsylvania_Infantry_Regiment",
+                "garrison",
+                "Hebron,_Connecticut"
+            ]
+        ],
+        "score": "20.585453",
+        "rank": "3",
+        "new_score": "20.118015",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "David_Belasco",
+            "birthPlace",
+            "San_Francisco"
+        ],
+        "rule": [
+            [
+                "Alicia_Silverstone",
+                "relative",
+                "David_Belasco"
+            ]
+        ],
+        "score": "22.35322",
+        "rank": "448",
+        "new_score": "18.89621",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Werner_Herzog",
+            "birthPlace",
+            "Munich"
+        ],
+        "rule": [
+            [
+                "Werner_Herzog",
+                "residence",
+                "Munich"
+            ]
+        ],
+        "score": "21.40158",
+        "rank": "34",
+        "new_score": "17.666107",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Enrique_Carreras",
+            "occupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Alan_Ball_(screenwriter)",
+                "partner",
+                "Enrique_Carreras"
+            ]
+        ],
+        "score": "25.539108",
+        "rank": "11",
+        "new_score": "23.919107",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Enterbrain",
+            "country",
+            "Japan"
+        ],
+        "rule": [
+            [
+                "Enterbrain",
+                "location",
+                "Japan"
+            ]
+        ],
+        "score": "21.020107",
+        "rank": "3",
+        "new_score": "20.055561",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jayaram",
+            "residence",
+            "Tamil_Nadu"
+        ],
+        "rule": [
+            [
+                "A._P._J._Abdul_Kalam",
+                "deputy",
+                "Jayaram"
+            ]
+        ],
+        "score": "23.021238",
+        "rank": "411",
+        "new_score": "18.144108",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Hoseynabad_Rural_District_(Jiroft_County)",
+            "isPartOf",
+            "Anbarabad_County"
+        ],
+        "rule": [
+            [
+                "Amjaz_Rural_District",
+                "part",
+                "Hoseynabad_Rural_District_(Jiroft_County)"
+            ]
+        ],
+        "score": "15.061808",
+        "rank": "76",
+        "new_score": "14.395309",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Platycephalidae",
+            "class",
+            "Actinopterygii"
+        ],
+        "rule": [
+            [
+                "Actinopterygii",
+                "order",
+                "Platycephalidae"
+            ]
+        ],
+        "score": "18.188984",
+        "rank": "50",
+        "new_score": "17.191244",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Sukhothai_F.C.",
+            "ground",
+            "Thailand"
+        ],
+        "rule": [
+            [
+                "Sukhothai_F.C.",
+                "chairman",
+                "Nonzee_Nimibutr"
+            ]
+        ],
+        "score": "17.820614",
+        "rank": "36",
+        "new_score": "20.489159",
+        "new_rank": "1769"
+    },
+    {
+        "triple_to_explain": [
+            "Narendra_Singh_Tomar",
+            "primeMinister",
+            "Narendra_Modi"
+        ],
+        "rule": [
+            [
+                "Narendra_Singh_Tomar",
+                "taoiseach",
+                "Narendra_Modi"
+            ]
+        ],
+        "score": "14.851524",
+        "rank": "157",
+        "new_score": "11.879653",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Larry_Elmore",
+            "birthPlace",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Larry_Elmore",
+                "deathPlace",
+                "United_States"
+            ],
+            [
+                "Adam_Kaufman_(actor)",
+                "spouse",
+                "Larry_Elmore"
+            ]
+        ],
+        "score": "20.831438",
+        "rank": "152",
+        "new_score": "17.874548",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Lima_(village),_New_York",
+            "isPartOf",
+            "Livingston_County,_New_York"
+        ],
+        "rule": [
+            [
+                "Livingston_County,_New_York",
+                "largestCity",
+                "Lima_(village),_New_York"
+            ]
+        ],
+        "score": "23.703075",
+        "rank": "49629",
+        "new_score": "14.722129",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Naval_Air_Station_North_Island",
+            "operator",
+            "United_States_Navy"
+        ],
+        "rule": [
+            [
+                "Naval_Air_Station_North_Island",
+                "commander",
+                "Admiral_(United_States)"
+            ]
+        ],
+        "score": "19.39983",
+        "rank": "16763",
+        "new_score": "18.512848",
+        "new_rank": "816"
+    },
+    {
+        "triple_to_explain": [
+            "Claude_Lelouch",
+            "occupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Claude_Lelouch",
+                "child",
+                "Actor"
+            ]
+        ],
+        "score": "22.486618",
+        "rank": "29",
+        "new_score": "21.64232",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Kashima_Soccer_Stadium",
+            "tenant",
+            "Kashima_Antlers"
+        ],
+        "rule": [
+            [
+                "Al_Hilal_SFC",
+                "stadium",
+                "Kashima_Soccer_Stadium"
+            ],
+            [
+                "Albirex_Niigata",
+                "stadium",
+                "Kashima_Soccer_Stadium"
+            ]
+        ],
+        "score": "16.191185",
+        "rank": "4",
+        "new_score": "14.076141",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Woonsocket,_Rhode_Island",
+            "type",
+            "City"
+        ],
+        "rule": [
+            [
+                "Woonsocket,_Rhode_Island",
+                "isPartOf",
+                "City"
+            ]
+        ],
+        "score": "22.548286",
+        "rank": "207",
+        "new_score": "20.494629",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Nakhon_Pathom",
+            "isPartOf",
+            "Nakhon_Pathom_province"
+        ],
+        "rule": [
+            [
+                "Nakhon_Pathom_province",
+                "countySeat",
+                "Nakhon_Pathom"
+            ]
+        ],
+        "score": "19.343216",
+        "rank": "959",
+        "new_score": "16.341576",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Marjorie_Hume",
+            "birthPlace",
+            "Norfolk"
+        ],
+        "rule": [
+            [
+                "Brian_Aldiss",
+                "influenced",
+                "Marjorie_Hume"
+            ]
+        ],
+        "score": "21.14581",
+        "rank": "3179",
+        "new_score": "16.12405",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Yerevan_Metro",
+            "location",
+            "Armenia"
+        ],
+        "rule": [
+            [
+                "Yerevan_Metro",
+                "operator",
+                "Tavush_Province"
+            ]
+        ],
+        "score": "21.802685",
+        "rank": "2399",
+        "new_score": "20.883139",
+        "new_rank": "213"
+    },
+    {
+        "triple_to_explain": [
+            "Phellodon",
+            "family",
+            "Bankeraceae"
+        ],
+        "rule": [
+            [
+                "Phellodon",
+                "order",
+                "Bankeraceae"
+            ],
+            [
+                "Phellodon",
+                "family",
+                "Sarcodon"
+            ],
+            [
+                "Phellodon",
+                "family",
+                "Thelephorales"
+            ]
+        ],
+        "score": "17.567291",
+        "rank": "135",
+        "new_score": "10.82937",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "John_Coquillon",
+            "occupation",
+            "Cinematographer"
+        ],
+        "rule": [
+            [
+                "John_Coquillon",
+                "profession",
+                "Cinematographer"
+            ]
+        ],
+        "score": "27.088856",
+        "rank": "305",
+        "new_score": "23.771278",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Cramlington",
+            "region",
+            "North_East_England"
+        ],
+        "rule": [
+            [
+                "Cramlington",
+                "district",
+                "North_East_England"
+            ]
+        ],
+        "score": "22.92915",
+        "rank": "420",
+        "new_score": "17.746471",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Chery",
+            "industry",
+            "Automotive_industry"
+        ],
+        "rule": [
+            [
+                "Chery",
+                "division",
+                "Cooper_Motor_Corporation"
+            ]
+        ],
+        "score": "18.691502",
+        "rank": "35",
+        "new_score": "18.318226",
+        "new_rank": "63"
+    },
+    {
+        "triple_to_explain": [
+            "Dody_Dorn",
+            "birthPlace",
+            "Santa_Monica,_California"
+        ],
+        "rule": [
+            [
+                "Dody_Dorn",
+                "restingPlace",
+                "Santa_Monica,_California"
+            ]
+        ],
+        "score": "23.364105",
+        "rank": "234",
+        "new_score": "18.410767",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Georges_P%C3%A9rinal",
+            "birthPlace",
+            "Paris"
+        ],
+        "rule": [
+            [
+                "Georges_P%C3%A9rinal",
+                "residence",
+                "Paris"
+            ]
+        ],
+        "score": "23.70405",
+        "rank": "1959",
+        "new_score": "16.219921",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Castilleae",
+            "order",
+            "Rosales"
+        ],
+        "rule": [
+            [
+                "Castilleae",
+                "class",
+                "Rosales"
+            ]
+        ],
+        "score": "17.330818",
+        "rank": "362",
+        "new_score": "16.435656",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "Starke_County,_Indiana",
+            "isPartOf",
+            "Indiana"
+        ],
+        "rule": [
+            [
+                "Attica,_Indiana",
+                "type",
+                "Starke_County,_Indiana"
+            ]
+        ],
+        "score": "19.04787",
+        "rank": "611",
+        "new_score": "14.542089",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Croton-on-Hudson,_New_York",
+            "type",
+            "Administrative_divisions_of_New_York_(state)"
+        ],
+        "rule": [
+            [
+                "Clarence,_New_York",
+                "isPartOf",
+                "Croton-on-Hudson,_New_York"
+            ]
+        ],
+        "score": "22.067783",
+        "rank": "80",
+        "new_score": "19.64748",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "First_Opium_War",
+            "territory",
+            "Hong_Kong_Island"
+        ],
+        "rule": [
+            [
+                "First_Opium_War",
+                "place",
+                "United_States"
+            ]
+        ],
+        "score": "19.481134",
+        "rank": "199",
+        "new_score": "21.736647",
+        "new_rank": "14589"
+    },
+    {
+        "triple_to_explain": [
+            "Southern_Arkansas_University",
+            "city",
+            "Magnolia,_Arkansas"
+        ],
+        "rule": [
+            [
+                "Southern_Arkansas_University",
+                "state",
+                "Magnolia,_Arkansas"
+            ]
+        ],
+        "score": "22.427738",
+        "rank": "30546",
+        "new_score": "19.739292",
+        "new_rank": "1056"
+    },
+    {
+        "triple_to_explain": [
+            "Lyn_Fotball",
+            "season",
+            "2015_Norwegian_Second_Division"
+        ],
+        "rule": [
+            [
+                "Lyn_Fotball",
+                "position",
+                "Norwegian_First_Division"
+            ]
+        ],
+        "score": "18.927628",
+        "rank": "44",
+        "new_score": "19.488443",
+        "new_rank": "168"
+    },
+    {
+        "triple_to_explain": [
+            "Tanintharyi_Region",
+            "timeZone",
+            "Myanmar_Standard_Time"
+        ],
+        "rule": [
+            [
+                "Bahan_Township",
+                "part",
+                "Tanintharyi_Region"
+            ]
+        ],
+        "score": "21.303589",
+        "rank": "95",
+        "new_score": "18.72756",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Stompin%27_Tom_Connors",
+            "genre",
+            "Traditional_folk_music"
+        ],
+        "rule": [
+            [
+                "2_Plus_1",
+                "formerBandMember",
+                "Stompin%27_Tom_Connors"
+            ]
+        ],
+        "score": "22.328083",
+        "rank": "52",
+        "new_score": "22.050205",
+        "new_rank": "17"
+    },
+    {
+        "triple_to_explain": [
+            "VEU_Feldkirch",
+            "city",
+            "Feldkirch,_Vorarlberg"
+        ],
+        "rule": [
+            [
+                "Feldkirch,_Vorarlberg",
+                "isPartOf",
+                "VEU_Feldkirch"
+            ],
+            [
+                "Dornbirn",
+                "isPartOf",
+                "VEU_Feldkirch"
+            ],
+            [
+                "Friedrich_Feher",
+                "knownFor",
+                "VEU_Feldkirch"
+            ]
+        ],
+        "score": "21.938105",
+        "rank": "28139",
+        "new_score": "25.916822",
+        "new_rank": "65870"
+    },
+    {
+        "triple_to_explain": [
+            "Orange_line_(Kaohsiung_Metro)",
+            "type",
+            "Rapid_transit"
+        ],
+        "rule": [
+            [
+                "BTS_Skytrain",
+                "type",
+                "Orange_line_(Kaohsiung_Metro)"
+            ]
+        ],
+        "score": "19.416275",
+        "rank": "13",
+        "new_score": "22.811386",
+        "new_rank": "27"
+    },
+    {
+        "triple_to_explain": [
+            "Kohima",
+            "country",
+            "India"
+        ],
+        "rule": [
+            [
+                "Kohima",
+                "isPartOf",
+                "India"
+            ]
+        ],
+        "score": "23.020264",
+        "rank": "26",
+        "new_score": "19.06025",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "H%C3%A9ctor_Alterio",
+            "birthPlace",
+            "Buenos_Aires"
+        ],
+        "rule": [
+            [
+                "H%C3%A9ctor_Alterio",
+                "restingPlace",
+                "Buenos_Aires"
+            ]
+        ],
+        "score": "16.912891",
+        "rank": "2",
+        "new_score": "15.602389",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Apennine_Mountains",
+            "country",
+            "Italy"
+        ],
+        "rule": [
+            [
+                "Apennine_Mountains",
+                "state",
+                "Marche"
+            ]
+        ],
+        "score": "25.271797",
+        "rank": "42334",
+        "new_score": "23.087955",
+        "new_rank": "16904"
+    },
+    {
+        "triple_to_explain": [
+            "Linyi",
+            "type",
+            "Prefecture-level_city"
+        ],
+        "rule": [
+            [
+                "Changsha",
+                "district",
+                "Linyi"
+            ]
+        ],
+        "score": "18.959934",
+        "rank": "9",
+        "new_score": "18.389729",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Dinavar_Rural_District",
+            "isPartOf",
+            "Sahneh_County"
+        ],
+        "rule": [
+            [
+                "Dinavar_Rural_District",
+                "state",
+                "Sahneh_County"
+            ],
+            [
+                "Central_District_(Sahneh_County)",
+                "part",
+                "Dinavar_Rural_District"
+            ]
+        ],
+        "score": "14.127756",
+        "rank": "31",
+        "new_score": "14.34256",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Libourne",
+            "country",
+            "France"
+        ],
+        "rule": [
+            [
+                "%C3%89douard_Daladier",
+                "residence",
+                "Libourne"
+            ]
+        ],
+        "score": "24.166142",
+        "rank": "67",
+        "new_score": "19.604095",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Cranberry_Township,_Butler_County,_Pennsylvania",
+            "isPartOf",
+            "Butler_County,_Pennsylvania"
+        ],
+        "rule": [
+            [
+                "Cranberry_Township,_Butler_County,_Pennsylvania",
+                "municipality",
+                "Butler_County,_Pennsylvania"
+            ]
+        ],
+        "score": "22.50669",
+        "rank": "2170",
+        "new_score": "17.21484",
+        "new_rank": "17"
+    },
+    {
+        "triple_to_explain": [
+            "Ben_Holmes",
+            "birthPlace",
+            "Richmond,_Virginia"
+        ],
+        "rule": [
+            [
+                "Ben_Holmes",
+                "deathPlace",
+                "Richmond,_Virginia"
+            ],
+            [
+                "Ben_Holmes",
+                "residence",
+                "Richmond,_Virginia"
+            ],
+            [
+                "Ben_Holmes",
+                "restingPlace",
+                "Richmond,_Virginia"
+            ]
+        ],
+        "score": "23.206415",
+        "rank": "556",
+        "new_score": "15.491705",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_%C5%81ukta",
+            "type",
+            "Gmina"
+        ],
+        "rule": [
+            [
+                "Gmina_%C5%81ukta",
+                "arrondissement",
+                "Gmina_%C5%81%C4%99czyce"
+            ],
+            [
+                "Gmina_%C5%81ukta",
+                "arrondissement",
+                "Gmina_%C5%81ag%C3%B3w,_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
+            ],
+            [
+                "Gmina_%C5%81ukta",
+                "arrondissement",
+                "Gmina_%C5%81ani%C4%99ta"
+            ],
+            [
+                "Gmina_%C5%81ukta",
+                "arrondissement",
+                "Gmina_%C5%81asin"
+            ]
+        ],
+        "score": "19.323246",
+        "rank": "2",
+        "new_score": "12.697666",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kure,_Hiroshima",
+            "type",
+            "Core_cities_of_Japan"
+        ],
+        "rule": [
+            [
+                "Kure,_Hiroshima",
+                "timeZone",
+                "Core_cities_of_Japan"
+            ]
+        ],
+        "score": "21.917192",
+        "rank": "175",
+        "new_score": "19.404217",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kalkaska_County,_Michigan",
+            "country",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "4th_Marine_Aircraft_Wing",
+                "birthPlace",
+                "Kalkaska_County,_Michigan"
+            ]
+        ],
+        "score": "23.174295",
+        "rank": "11",
+        "new_score": "20.585016",
+        "new_rank": "17"
+    },
+    {
+        "triple_to_explain": [
+            "Futebol_Clube_Santa_Cruz",
+            "ground",
+            "Brazil"
+        ],
+        "rule": [
+            [
+                "Cau%C3%AA_(footballer,_born_1987)",
+                "team",
+                "Futebol_Clube_Santa_Cruz"
+            ]
+        ],
+        "score": "18.374657",
+        "rank": "46",
+        "new_score": "17.517403",
+        "new_rank": "30"
+    },
+    {
+        "triple_to_explain": [
+            "Camaenidae",
+            "family",
+            "Helicoidea"
+        ],
+        "rule": [
+            [
+                "Camaenidae",
+                "class",
+                "Polygyridae"
+            ]
+        ],
+        "score": "18.115849",
+        "rank": "46",
+        "new_score": "20.37164",
+        "new_rank": "5307"
+    },
+    {
+        "triple_to_explain": [
+            "Air_Force_Space_Command",
+            "militaryBranch",
+            "United_States_Air_Force"
+        ],
+        "rule": [
+            [
+                "Air_Force_Space_Command",
+                "aircraftElectronic",
+                "General_Dynamics_F-16_Fighting_Falcon"
+            ]
+        ],
+        "score": "16.758453",
+        "rank": "16",
+        "new_score": "19.87531",
+        "new_rank": "66"
+    },
+    {
+        "triple_to_explain": [
+            "Lewisburg,_Tennessee",
+            "isPartOf",
+            "Tennessee"
+        ],
+        "rule": [
+            [
+                "Alberta_Hunter",
+                "hometown",
+                "Lewisburg,_Tennessee"
+            ]
+        ],
+        "score": "18.871307",
+        "rank": "232",
+        "new_score": "15.825683",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Anthony_Bushell",
+            "deathPlace",
+            "Oxfordshire"
+        ],
+        "rule": [
+            [
+                "Anthony_Bushell",
+                "associatedBand",
+                "Chris_Leslie_(musician)"
+            ]
+        ],
+        "score": "18.12055",
+        "rank": "10",
+        "new_score": "18.878284",
+        "new_rank": "143"
+    },
+    {
+        "triple_to_explain": [
+            "Ordughesh_Rural_District",
+            "isPartOf",
+            "Zeberkhan_County"
+        ],
+        "rule": [
+            [
+                "Zeberkhan_County",
+                "part",
+                "Ordughesh_Rural_District"
+            ]
+        ],
+        "score": "17.301641",
+        "rank": "512",
+        "new_score": "14.03512",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Khawbung",
+            "country",
+            "India"
+        ],
+        "rule": [
+            [
+                "Ahmedabad",
+                "isPartOf",
+                "Khawbung"
+            ]
+        ],
+        "score": "20.623152",
+        "rank": "2",
+        "new_score": "20.815166",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Walter_Lang",
+            "deathPlace",
+            "Palm_Springs,_California"
+        ],
+        "rule": [
+            [
+                "Walter_Lang",
+                "bodyDiscovered",
+                "Palm_Springs,_California"
+            ]
+        ],
+        "score": "20.212898",
+        "rank": "173",
+        "new_score": "18.8466",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jerry_Spinelli",
+            "genre",
+            "Children%27s_literature"
+        ],
+        "rule": [
+            [
+                "Jerry_Spinelli",
+                "subject",
+                "Children%27s_literature"
+            ]
+        ],
+        "score": "25.74537",
+        "rank": "284",
+        "new_score": "22.133018",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Sacred_Heart_College,_Auckland",
+            "type",
+            "Day_school"
+        ],
+        "rule": [
+            [
+                "Sacred_Heart_College,_Auckland",
+                "type",
+                "Aquinas_College,_Perth"
+            ]
+        ],
+        "score": "23.140213",
+        "rank": "1950",
+        "new_score": "17.940014",
+        "new_rank": "25"
+    },
+    {
+        "triple_to_explain": [
+            "Carlos_A._Mannucci",
+            "ground",
+            "Trujillo,_Peru"
+        ],
+        "rule": [
+            [
+                "Carlos_A._Mannucci",
+                "position",
+                "Trujillo_Province,_Peru"
+            ],
+            [
+                "Carlos_A._Mannucci",
+                "city",
+                "Agartala"
+            ]
+        ],
+        "score": "21.047949",
+        "rank": "7485",
+        "new_score": "20.595642",
+        "new_rank": "3227"
+    },
+    {
+        "triple_to_explain": [
+            "G.D._Interclube",
+            "league",
+            "Girabola"
+        ],
+        "rule": [
+            [
+                "G.D._Interclube",
+                "honours",
+                "Girabola"
+            ]
+        ],
+        "score": "19.136158",
+        "rank": "41",
+        "new_score": "18.891949",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Habib_Wahid",
+            "birthPlace",
+            "Dhaka"
+        ],
+        "rule": [
+            [
+                "Habib_Wahid",
+                "deathPlace",
+                "Dhaka"
+            ],
+            [
+                "Habib_Wahid",
+                "restingPlace",
+                "Dhaka"
+            ]
+        ],
+        "score": "17.02389",
+        "rank": "2",
+        "new_score": "14.585495",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bertrand_Blier",
+            "birthPlace",
+            "Boulogne-Billancourt"
+        ],
+        "rule": [
+            [
+                "Bertrand_Blier",
+                "region",
+                "Boulogne-Billancourt"
+            ]
+        ],
+        "score": "20.447166",
+        "rank": "379",
+        "new_score": "17.077929",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Battle_of_the_Nile",
+            "isPartOfMilitaryConflict",
+            "French_Revolutionary_Wars"
+        ],
+        "rule": [
+            [
+                "Archduke_Charles,_Duke_of_Teschen",
+                "battle",
+                "Battle_of_the_Nile"
+            ]
+        ],
+        "score": "15.631975",
+        "rank": "32",
+        "new_score": "15.391119",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Clinton,_Maryland",
+            "isPartOf",
+            "Prince_George%27s_County,_Maryland"
+        ],
+        "rule": [
+            [
+                "Clinton,_Maryland",
+                "region",
+                "Prince_George%27s_County,_Maryland"
+            ]
+        ],
+        "score": "15.842744",
+        "rank": "86",
+        "new_score": "15.8418255",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Bayburt",
+            "country",
+            "Turkey"
+        ],
+        "rule": [
+            [
+                "%C3%87ay",
+                "twinTown",
+                "Bayburt"
+            ]
+        ],
+        "score": "20.318602",
+        "rank": "8",
+        "new_score": "19.333242",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "SV_Eintracht_Trier_05",
+            "league",
+            "Regionalliga_S%C3%BCdwest"
+        ],
+        "rule": [
+            [
+                "SV_Eintracht_Trier_05",
+                "season",
+                "Regionalliga_S%C3%BCdwest"
+            ]
+        ],
+        "score": "17.292612",
+        "rank": "16",
+        "new_score": "13.4844",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "George_Melford",
+            "birthPlace",
+            "Rochester,_New_York"
+        ],
+        "rule": [
+            [
+                "George_Melford",
+                "restingPlace",
+                "Rochester,_New_York"
+            ]
+        ],
+        "score": "21.720795",
+        "rank": "138",
+        "new_score": "20.105934",
+        "new_rank": "92"
+    },
+    {
+        "triple_to_explain": [
+            "El_Dorado_International_Airport",
+            "operator",
+            "S.A._(corporation)"
+        ],
+        "rule": [
+            [
+                "S.A._(corporation)",
+                "service",
+                "El_Dorado_International_Airport"
+            ],
+            [
+                "Avianca_Group",
+                "service",
+                "El_Dorado_International_Airport"
+            ]
+        ],
+        "score": "24.001034",
+        "rank": "80216",
+        "new_score": "17.469263",
+        "new_rank": "402"
+    },
+    {
+        "triple_to_explain": [
+            "BBCU_F.C.",
+            "ground",
+            "Thailand"
+        ],
+        "rule": [
+            [
+                "BBCU_F.C.",
+                "chairman",
+                "Seni_Pramoj"
+            ]
+        ],
+        "score": "19.548836",
+        "rank": "10",
+        "new_score": "16.87304",
+        "new_rank": "162"
+    },
+    {
+        "triple_to_explain": [
+            "Selborne_College",
+            "country",
+            "South_Africa"
+        ],
+        "rule": [
+            [
+                "Jamie_Uys",
+                "education",
+                "Selborne_College"
+            ]
+        ],
+        "score": "21.951164",
+        "rank": "45",
+        "new_score": "20.73316",
+        "new_rank": "61"
+    },
+    {
+        "triple_to_explain": [
+            "FC_Norchi_Dinamo_Tbilisi",
+            "ground",
+            "Georgia_(country)"
+        ],
+        "rule": [
+            [
+                "FC_Norchi_Dinamo_Tbilisi",
+                "city",
+                "Batumi"
+            ]
+        ],
+        "score": "17.685055",
+        "rank": "508",
+        "new_score": "16.595856",
+        "new_rank": "113"
+    },
+    {
+        "triple_to_explain": [
+            "Ruth_Prawer_Jhabvala",
+            "birthPlace",
+            "Cologne"
+        ],
+        "rule": [
+            [
+                "Carl_de_Vogt",
+                "influencedBy",
+                "Ruth_Prawer_Jhabvala"
+            ]
+        ],
+        "score": "27.897038",
+        "rank": "10175",
+        "new_score": "21.249092",
+        "new_rank": "346"
+    },
+    {
+        "triple_to_explain": [
+            "Thames_Ditton",
+            "country",
+            "Surrey"
+        ],
+        "rule": [
+            [
+                "Arthur_Balfour",
+                "region",
+                "Thames_Ditton"
+            ]
+        ],
+        "score": "18.044592",
+        "rank": "8",
+        "new_score": "19.050823",
+        "new_rank": "47"
+    },
+    {
+        "triple_to_explain": [
+            "Noel_Langley",
+            "birthPlace",
+            "Durban"
+        ],
+        "rule": [
+            [
+                "Noel_Langley",
+                "residence",
+                "Durban"
+            ]
+        ],
+        "score": "25.070557",
+        "rank": "8447",
+        "new_score": "19.407349",
+        "new_rank": "51"
+    },
+    {
+        "triple_to_explain": [
+            "Prescot_Cables_F.C.",
+            "ground",
+            "Prescot"
+        ],
+        "rule": [
+            [
+                "Prescot_Cables_F.C.",
+                "ground",
+                "England"
+            ],
+            [
+                "Abingdon-on-Thames",
+                "isPartOf",
+                "Prescot_Cables_F.C."
+            ],
+            [
+                "All3Media",
+                "product",
+                "Prescot_Cables_F.C."
+            ]
+        ],
+        "score": "27.180428",
+        "rank": "66594",
+        "new_score": "19.248842",
+        "new_rank": "1188"
+    },
+    {
+        "triple_to_explain": [
+            "Walter_Lassally",
+            "birthPlace",
+            "Berlin"
+        ],
+        "rule": [
+            [
+                "Walter_Lassally",
+                "deathPlace",
+                "Berlin"
+            ]
+        ],
+        "score": "18.482327",
+        "rank": "48",
+        "new_score": "17.07923",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Arthur_Cohn",
+            "birthPlace",
+            "Basel"
+        ],
+        "rule": [
+            [
+                "Arthur_Cohn",
+                "education",
+                "Basel"
+            ]
+        ],
+        "score": "26.61234",
+        "rank": "2192",
+        "new_score": "20.405567",
+        "new_rank": "41"
+    },
+    {
+        "triple_to_explain": [
+            "Buckingham_Township,_Bucks_County,_Pennsylvania",
+            "type",
+            "Township_(Pennsylvania)"
+        ],
+        "rule": [
+            [
+                "Buckingham_Township,_Bucks_County,_Pennsylvania",
+                "isPartOf",
+                "Amity_Township,_Berks_County,_Pennsylvania"
+            ]
+        ],
+        "score": "21.504631",
+        "rank": "27",
+        "new_score": "20.55864",
+        "new_rank": "176"
+    }
+]

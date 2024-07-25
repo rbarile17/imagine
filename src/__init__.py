@@ -1,0 +1,61 @@
+from pathlib import Path
+from typing import Any, Tuple
+
+CONFIGS_PATH = "configs"
+CONFIGS_PATH = Path(CONFIGS_PATH)
+
+MODELS_PATH = "models"
+MODELS_PATH = Path(MODELS_PATH)
+MAX_PROCESSES = 8
+
+RESULTS_PATH = "results"
+RESULTS_PATH = Path(RESULTS_PATH)
+
+DATA_PATH = "data"
+DB50K = "DB50K"
+DB100K = "DB100K"
+YAGO4_20 = "YAGO4-20"
+
+CONVE = "ConvE"
+COMPLEX = "ComplEx"
+TRANSE = "TransE"
+
+DATA_POISONING = "data_poisoning"
+CRIAGE = "criage"
+IMAGINE = "imagine"
+I_KELPIE = "ikelpie"
+I_KELPIEPP = "ikelpie++"
+KELPIE = "kelpie"
+KELPIEPP = "kelpie++"
+W_IMAGINE = "wimagine"
+
+NECESSARY = "necessary"
+SUFFICIENT = "sufficient"
+
+METHODS = [CRIAGE, DATA_POISONING, IMAGINE, I_KELPIE, I_KELPIEPP, KELPIE, KELPIEPP, W_IMAGINE]
+DATASETS = [DB50K, DB100K, YAGO4_20]
+MODELS = [CONVE, COMPLEX, TRANSE]
+
+ANY = "any"
+FIRST = "first"
+NOT_FIRST = "notfirst"
+PRED_RANKS = [ANY, FIRST, NOT_FIRST]
+
+DATA_PATH = Path(DATA_PATH)
+DB50K_PATH = DATA_PATH / DB50K
+DB50K_REASONED_PATH = DB50K_PATH / "reasoned"
+
+DB100K_PATH = DATA_PATH / DB100K
+DB100K_REASONED_PATH = DB100K_PATH / "reasoned"
+
+YAGO4_20_PATH = DATA_PATH / YAGO4_20
+YAGO4_20_REASONED_PATH = YAGO4_20_PATH / "reasoned"
+
+PREDICTIONS_PATH = Path("preds")
+SELECTED_PREDICTIONS_PATH = Path("selected_preds")
+
+EMBEDDINGS_PATH = Path("embeddings")
+
+key = lambda x: x[1]
+
+Triple = Tuple[Any, Any, Any]

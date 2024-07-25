@@ -1,0 +1,3572 @@
+[
+    {
+        "triple": [
+            "Gloucester_City_A.F.C.",
+            "ground",
+            "Cheltenham"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Don_O%27Riordan",
+                        "team",
+                        "Gloucester_City_A.F.C."
+                    ]
+                ],
+                -0.06686893060408136
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.553394556045532
+    },
+    {
+        "triple": [
+            "University_of_Minnesota_Law_School",
+            "state",
+            "Minnesota"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_Minnesota_Law_School",
+                        "type",
+                        "Public_university"
+                    ]
+                ],
+                0.48446794283592093
+            ],
+            [
+                [
+                    [
+                        "Walter_Mondale",
+                        "almaMater",
+                        "University_of_Minnesota_Law_School"
+                    ]
+                ],
+                -0.5308926792468055
+            ],
+            [
+                [
+                    [
+                        "Walter_Mondale",
+                        "almaMater",
+                        "University_of_Minnesota_Law_School"
+                    ],
+                    [
+                        "University_of_Minnesota_Law_School",
+                        "type",
+                        "Public_university"
+                    ]
+                ],
+                -835.228813559322
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.680774450302124
+    },
+    {
+        "triple": [
+            "M25_motorway",
+            "routeJunction",
+            "M4_motorway"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "M1_motorway",
+                        "routeJunction",
+                        "M25_motorway"
+                    ]
+                ],
+                0.37866870464306873
+            ],
+            [
+                [
+                    [
+                        "M25_motorway",
+                        "routeJunction",
+                        "M1_motorway"
+                    ]
+                ],
+                -2.0400469305390994
+            ],
+            [
+                [
+                    [
+                        "M1_motorway",
+                        "routeJunction",
+                        "M25_motorway"
+                    ],
+                    [
+                        "M25_motorway",
+                        "routeJunction",
+                        "M1_motorway"
+                    ]
+                ],
+                -2.5693114077310426
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.576057195663452
+    },
+    {
+        "triple": [
+            "Cliff_Eidelman",
+            "occupation",
+            "Conductor_(music)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cliff_Eidelman",
+                        "occupation",
+                        "Composer"
+                    ]
+                ],
+                0.5718534333365304
+            ],
+            [
+                [
+                    [
+                        "If_These_Walls_Could_Talk",
+                        "composer",
+                        "Cliff_Eidelman"
+                    ]
+                ],
+                -0.2269301244190761
+            ],
+            [
+                [
+                    [
+                        "Cliff_Eidelman",
+                        "occupation",
+                        "Composer"
+                    ],
+                    [
+                        "If_These_Walls_Could_Talk",
+                        "composer",
+                        "Cliff_Eidelman"
+                    ]
+                ],
+                -1208.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.63064455986023
+    },
+    {
+        "triple": [
+            "Neisseriaceae",
+            "class",
+            "Betaproteobacteria"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Neisseriaceae",
+                        "domain",
+                        "Bacteria"
+                    ]
+                ],
+                0.07943886518478394
+            ],
+            [
+                [
+                    [
+                        "Neisseriaceae",
+                        "phylum",
+                        "Pseudomonadota"
+                    ]
+                ],
+                -347.9996337890625
+            ],
+            [
+                [
+                    [
+                        "Neisseriaceae",
+                        "domain",
+                        "Bacteria"
+                    ],
+                    [
+                        "Neisseriaceae",
+                        "phylum",
+                        "Pseudomonadota"
+                    ]
+                ],
+                -49031.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 17.44590663909912
+    },
+    {
+        "triple": [
+            "Rolf_Harris",
+            "birthPlace",
+            "Australia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rick_Parfitt",
+                        "associatedMusicalArtist",
+                        "Rolf_Harris"
+                    ]
+                ],
+                0.10488844430574806
+            ],
+            [
+                [
+                    [
+                        "Rick_Parfitt",
+                        "associatedBand",
+                        "Rolf_Harris"
+                    ]
+                ],
+                -7.998757639238911
+            ],
+            [
+                [
+                    [
+                        "Rick_Parfitt",
+                        "associatedBand",
+                        "Rolf_Harris"
+                    ],
+                    [
+                        "Rick_Parfitt",
+                        "associatedMusicalArtist",
+                        "Rolf_Harris"
+                    ]
+                ],
+                -280.6664356518817
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.605921268463135
+    },
+    {
+        "triple": [
+            "Muttenz",
+            "neighboringMunicipality",
+            "Basel"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Muttenz",
+                        "type",
+                        "Municipalities_of_Switzerland"
+                    ]
+                ],
+                0.6762575956941382
+            ],
+            [
+                [
+                    [
+                        "Muttenz",
+                        "country",
+                        "Switzerland"
+                    ]
+                ],
+                -0.28370032281232027
+            ],
+            [
+                [
+                    [
+                        "Muttenz",
+                        "country",
+                        "Switzerland"
+                    ],
+                    [
+                        "Muttenz",
+                        "type",
+                        "Municipalities_of_Switzerland"
+                    ]
+                ],
+                -284.66868769171776
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.516185998916626
+    },
+    {
+        "triple": [
+            "Acanthemblemaria",
+            "family",
+            "Chaenopsidae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Acanthemblemaria",
+                        "order",
+                        "Perciformes"
+                    ]
+                ],
+                0.7063755285412262
+            ],
+            [
+                [
+                    [
+                        "Acanthemblemaria",
+                        "class",
+                        "Actinopterygii"
+                    ]
+                ],
+                -1.2810023495309197
+            ],
+            [
+                [
+                    [
+                        "Acanthemblemaria",
+                        "class",
+                        "Actinopterygii"
+                    ],
+                    [
+                        "Acanthemblemaria",
+                        "order",
+                        "Perciformes"
+                    ]
+                ],
+                -19.023255813953487
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.390950441360474
+    },
+    {
+        "triple": [
+            "NK_Solin",
+            "season",
+            "2015%E2%80%9316_Croatian_Third_Football_League"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "NK_Solin",
+                        "league",
+                        "First_Football_League_(Croatia)"
+                    ]
+                ],
+                -141.80774962742177
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.27258825302124
+    },
+    {
+        "triple": [
+            "1985%E2%80%9386_Middlesbrough_F.C._season",
+            "currentMember",
+            "Don_O%27Riordan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "1985%E2%80%9386_Middlesbrough_F.C._season",
+                        "currentMember",
+                        "Tony_Mowbray"
+                    ]
+                ],
+                0.7534567300375405
+            ],
+            [
+                [
+                    [
+                        "1985%E2%80%9386_Middlesbrough_F.C._season",
+                        "currentMember",
+                        "Brian_Laws"
+                    ]
+                ],
+                -3.3934319830560065
+            ],
+            [
+                [
+                    [
+                        "1985%E2%80%9386_Middlesbrough_F.C._season",
+                        "currentMember",
+                        "Brian_Laws"
+                    ],
+                    [
+                        "1985%E2%80%9386_Middlesbrough_F.C._season",
+                        "currentMember",
+                        "Tony_Mowbray"
+                    ]
+                ],
+                -56.68636363636364
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.452115535736084
+    },
+    {
+        "triple": [
+            "P._Kalaimani",
+            "deathPlace",
+            "Chennai"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "P._Kalaimani",
+                        "deathPlace",
+                        "India"
+                    ]
+                ],
+                -7257.333333333333
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.656601190567017
+    },
+    {
+        "triple": [
+            "Arua",
+            "isPartOf",
+            "Northern_Region,_Uganda"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Arua",
+                        "isPartOf",
+                        "West_Nile_sub-region"
+                    ]
+                ],
+                0.36363636363636365
+            ],
+            [
+                [
+                    [
+                        "Arua",
+                        "country",
+                        "Uganda"
+                    ]
+                ],
+                -13.426899303089488
+            ],
+            [
+                [
+                    [
+                        "Arua",
+                        "country",
+                        "Uganda"
+                    ],
+                    [
+                        "Arua",
+                        "isPartOf",
+                        "West_Nile_sub-region"
+                    ]
+                ],
+                -116.27272727272727
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.490854263305664
+    },
+    {
+        "triple": [
+            "Anthony_Bushell",
+            "deathPlace",
+            "Oxfordshire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Anthony_Bushell",
+                        "deathPlace",
+                        "Oxford"
+                    ]
+                ],
+                -0.4750986099243164
+            ],
+            [
+                [
+                    [
+                        "Anthony_Bushell",
+                        "birthPlace",
+                        "Kent"
+                    ]
+                ],
+                -4.236528669084821
+            ],
+            [
+                [
+                    [
+                        "Anthony_Bushell",
+                        "birthPlace",
+                        "Kent"
+                    ],
+                    [
+                        "Anthony_Bushell",
+                        "deathPlace",
+                        "Oxford"
+                    ]
+                ],
+                -4080.095238095238
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.505999565124512
+    },
+    {
+        "triple": [
+            "GKS_Be%C5%82chat%C3%B3w",
+            "ground",
+            "Be%C5%82chat%C3%B3w"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Piotr_Nowak",
+                        "team",
+                        "GKS_Be%C5%82chat%C3%B3w"
+                    ]
+                ],
+                0.09950297750286892
+            ],
+            [
+                [
+                    [
+                        "GKS_Be%C5%82chat%C3%B3w",
+                        "ground",
+                        "Poland"
+                    ]
+                ],
+                -0.9574009557760965
+            ],
+            [
+                [
+                    [
+                        "GKS_Be%C5%82chat%C3%B3w",
+                        "ground",
+                        "Poland"
+                    ],
+                    [
+                        "Piotr_Nowak",
+                        "team",
+                        "GKS_Be%C5%82chat%C3%B3w"
+                    ]
+                ],
+                -5.460244177150629
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.52706503868103
+    },
+    {
+        "triple": [
+            "Pearl_White",
+            "deathPlace",
+            "France"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "deathPlace",
+                        "Neuilly-sur-Seine"
+                    ]
+                ],
+                -48533.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.495802164077759
+    },
+    {
+        "triple": [
+            "Sunshine_Stars_F.C.",
+            "ground",
+            "Nigeria"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sunshine_Stars_F.C.",
+                        "ground",
+                        "Akure"
+                    ]
+                ],
+                0.026551138941144508
+            ],
+            [
+                [
+                    [
+                        "Sunshine_Stars_F.C.",
+                        "ground",
+                        "Ondo_State"
+                    ]
+                ],
+                -0.0050525848306076935
+            ],
+            [
+                [
+                    [
+                        "Sunshine_Stars_F.C.",
+                        "ground",
+                        "Akure"
+                    ],
+                    [
+                        "Sunshine_Stars_F.C.",
+                        "ground",
+                        "Ondo_State"
+                    ]
+                ],
+                -0.011174254134672558
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.882418155670166
+    },
+    {
+        "triple": [
+            "Maca%C3%A9_Esporte_Futebol_Clube",
+            "league",
+            "Campeonato_Brasileiro_S%C3%A9rie_C"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Maca%C3%A9_Esporte_Futebol_Clube",
+                        "position",
+                        "Campeonato_Brasileiro_S%C3%A9rie_B"
+                    ]
+                ],
+                -16876.2
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.632738590240479
+    },
+    {
+        "triple": [
+            "Dino_Verde",
+            "birthPlace",
+            "Naples"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dino_Verde",
+                        "deathPlace",
+                        "Rome"
+                    ]
+                ],
+                -5101.833333333333
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.293540477752686
+    },
+    {
+        "triple": [
+            "Stompin%27_Tom_Connors",
+            "genre",
+            "Traditional_folk_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Stompin%27_Tom_Connors",
+                        "recordLabel",
+                        "EMI"
+                    ]
+                ],
+                0.9578928513960405
+            ],
+            [
+                [
+                    [
+                        "Stompin%27_Tom_Connors",
+                        "genre",
+                        "Country_music"
+                    ]
+                ],
+                -15.636348377574574
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 16.464561462402344
+    },
+    {
+        "triple": [
+            "NK_Solin",
+            "position",
+            "Second_Football_League_(Croatia)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "NK_Solin",
+                        "league",
+                        "First_Football_League_(Croatia)"
+                    ]
+                ],
+                -69.0289226319595
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.780877113342285
+    },
+    {
+        "triple": [
+            "National_Railway_Company_of_Belgium",
+            "locationCity",
+            "Brussels"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Antwerp%E2%80%93Lage_Zwaluwe_railway",
+                        "operator",
+                        "National_Railway_Company_of_Belgium"
+                    ]
+                ],
+                0.04250020161271095
+            ],
+            [
+                [
+                    [
+                        "National_Railway_Company_of_Belgium",
+                        "locationCountry",
+                        "Belgium"
+                    ]
+                ],
+                -629.9957885742188
+            ],
+            [
+                [
+                    [
+                        "National_Railway_Company_of_Belgium",
+                        "locationCountry",
+                        "Belgium"
+                    ],
+                    [
+                        "Antwerp%E2%80%93Lage_Zwaluwe_railway",
+                        "operator",
+                        "National_Railway_Company_of_Belgium"
+                    ]
+                ],
+                -98185.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.069053411483765
+    },
+    {
+        "triple": [
+            "Whitby_Town_F.C.",
+            "ground",
+            "Whitby"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Whitby_Town_F.C.",
+                        "ground",
+                        "North_Yorkshire"
+                    ]
+                ],
+                -7.339867954083048
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.46793270111084
+    },
+    {
+        "triple": [
+            "Zonguldak",
+            "type",
+            "Municipality"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Zonguldak",
+                        "leaderParty",
+                        "Republican_People%27s_Party"
+                    ]
+                ],
+                -98544.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.54437804222107
+    },
+    {
+        "triple": [
+            "Eskelabad_Rural_District",
+            "isPartOf",
+            "Khash_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Eskelabad_Rural_District",
+                        "country",
+                        "Iran"
+                    ]
+                ],
+                0.5644263029098511
+            ],
+            [
+                [
+                    [
+                        "Eskelabad_Rural_District",
+                        "isPartOf",
+                        "Sistan_and_Baluchestan_province"
+                    ]
+                ],
+                -110.99994659423828
+            ],
+            [
+                [
+                    [
+                        "Eskelabad_Rural_District",
+                        "country",
+                        "Iran"
+                    ],
+                    [
+                        "Eskelabad_Rural_District",
+                        "isPartOf",
+                        "Sistan_and_Baluchestan_province"
+                    ]
+                ],
+                -98554.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.183197498321533
+    },
+    {
+        "triple": [
+            "Anauxesis",
+            "order",
+            "Polyphaga"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Anauxesis",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                0.5026091933250427
+            ],
+            [
+                [
+                    [
+                        "Anauxesis",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                0.2829788029193878
+            ],
+            [
+                [
+                    [
+                        "Anauxesis",
+                        "class",
+                        "Insect"
+                    ],
+                    [
+                        "Anauxesis",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                -45355.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.825623750686646
+    },
+    {
+        "triple": [
+            "Mbale",
+            "isPartOf",
+            "Eastern_Region,_Uganda"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mbale",
+                        "country",
+                        "Uganda"
+                    ]
+                ],
+                -3534.4
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.853549480438232
+    },
+    {
+        "triple": [
+            "Sierra_County,_New_Mexico",
+            "state",
+            "New_Mexico"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sierra_County,_New_Mexico",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -810.6858858471074
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.002348899841309
+    },
+    {
+        "triple": [
+            "Vivica_A._Fox",
+            "birthPlace",
+            "South_Bend,_Indiana"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kim_Possible:_A_Sitch_in_Time",
+                        "starring",
+                        "Vivica_A._Fox"
+                    ],
+                    [
+                        "Unstable_Fables",
+                        "creator",
+                        "Vivica_A._Fox"
+                    ]
+                ],
+                0.14683984488673785
+            ],
+            [
+                [
+                    [
+                        "Kim_Possible:_A_Sitch_in_Time",
+                        "starring",
+                        "Vivica_A._Fox"
+                    ]
+                ],
+                0.12667311356561395
+            ],
+            [
+                [
+                    [
+                        "Unstable_Fables",
+                        "creator",
+                        "Vivica_A._Fox"
+                    ]
+                ],
+                -0.20057508763650428
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.503125429153442
+    },
+    {
+        "triple": [
+            "FC_Kyzylzhar",
+            "league",
+            "Kazakhstan_First_League"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FC_Kyzylzhar",
+                        "ground",
+                        "Kazakhstan"
+                    ]
+                ],
+                -87489.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.805166244506836
+    },
+    {
+        "triple": [
+            "Clathrus",
+            "family",
+            "Phallaceae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Clathrus",
+                        "order",
+                        "Phallales"
+                    ]
+                ],
+                -0.3075937906901042
+            ],
+            [
+                [
+                    [
+                        "Clathrus",
+                        "class",
+                        "Agaricomycetes"
+                    ]
+                ],
+                -2.9996971130371093
+            ],
+            [
+                [
+                    [
+                        "Clathrus",
+                        "class",
+                        "Agaricomycetes"
+                    ],
+                    [
+                        "Clathrus",
+                        "order",
+                        "Phallales"
+                    ]
+                ],
+                -6393.4
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.448034048080444
+    },
+    {
+        "triple": [
+            "Scantraxx",
+            "country",
+            "Netherlands"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Scantraxx",
+                        "genre",
+                        "Hardstyle"
+                    ]
+                ],
+                -6.841866493225098
+            ],
+            [
+                [
+                    [
+                        "Headhunterz",
+                        "recordLabel",
+                        "Scantraxx"
+                    ]
+                ],
+                -51.88258361816406
+            ],
+            [
+                [
+                    [
+                        "Headhunterz",
+                        "recordLabel",
+                        "Scantraxx"
+                    ],
+                    [
+                        "Scantraxx",
+                        "genre",
+                        "Hardstyle"
+                    ]
+                ],
+                -98106.9921875
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.823467493057251
+    },
+    {
+        "triple": [
+            "El_Dorado_International_Airport",
+            "operator",
+            "S.A._(corporation)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Avianca",
+                        "hubAirport",
+                        "El_Dorado_International_Airport"
+                    ]
+                ],
+                0.4252787723192581
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.907911539077759
+    },
+    {
+        "triple": [
+            "Rickettsiaceae",
+            "order",
+            "Rickettsiales"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rickettsiaceae",
+                        "phylum",
+                        "Pseudomonadota"
+                    ]
+                ],
+                0.8235103468863588
+            ],
+            [
+                [
+                    [
+                        "Rickettsiaceae",
+                        "class",
+                        "Alphaproteobacteria"
+                    ],
+                    [
+                        "Rickettsiaceae",
+                        "phylum",
+                        "Pseudomonadota"
+                    ]
+                ],
+                0.4013940005050467
+            ],
+            [
+                [
+                    [
+                        "Rickettsiaceae",
+                        "class",
+                        "Alphaproteobacteria"
+                    ]
+                ],
+                -0.45152942084847847
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.011215925216675
+    },
+    {
+        "triple": [
+            "Balasore",
+            "isPartOf",
+            "Balasore_district"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Balasore",
+                        "timeZone",
+                        "Indian_Standard_Time"
+                    ]
+                ],
+                0.1418009171863115
+            ],
+            [
+                [
+                    [
+                        "Balasore",
+                        "country",
+                        "India"
+                    ]
+                ],
+                -0.4169342783836999
+            ],
+            [
+                [
+                    [
+                        "Balasore",
+                        "country",
+                        "India"
+                    ],
+                    [
+                        "Balasore",
+                        "timeZone",
+                        "Indian_Standard_Time"
+                    ]
+                ],
+                -7.992262277351673
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.466177225112915
+    },
+    {
+        "triple": [
+            "University_of_Alabama_at_Birmingham",
+            "affiliation",
+            "Southern_Association_of_Colleges_and_Schools"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_Alabama_at_Birmingham",
+                        "type",
+                        "Public_university"
+                    ]
+                ],
+                -0.23511179755715764
+            ],
+            [
+                [
+                    [
+                        "University_of_Alabama_at_Birmingham",
+                        "state",
+                        "Alabama"
+                    ]
+                ],
+                -0.8789579728070427
+            ],
+            [
+                [
+                    [
+                        "University_of_Alabama_at_Birmingham",
+                        "state",
+                        "Alabama"
+                    ],
+                    [
+                        "University_of_Alabama_at_Birmingham",
+                        "type",
+                        "Public_university"
+                    ]
+                ],
+                -5254.529411764706
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.406148433685303
+    },
+    {
+        "triple": [
+            "Natel-e_Restaq_Rural_District",
+            "isPartOf",
+            "Chamestan_District"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Natel-e_Restaq_Rural_District",
+                        "country",
+                        "Iran"
+                    ]
+                ],
+                0.604051431020101
+            ],
+            [
+                [
+                    [
+                        "Natel-e_Restaq_Rural_District",
+                        "isPartOf",
+                        "Nur_County"
+                    ]
+                ],
+                -175.33333333333334
+            ],
+            [
+                [
+                    [
+                        "Natel-e_Restaq_Rural_District",
+                        "isPartOf",
+                        "Nur_County"
+                    ],
+                    [
+                        "Natel-e_Restaq_Rural_District",
+                        "country",
+                        "Iran"
+                    ]
+                ],
+                -25936.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.24509596824646
+    },
+    {
+        "triple": [
+            "Paul_Freeman_(actor)",
+            "birthPlace",
+            "Chipping_Barnet"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Paul_Freeman_(actor)",
+                        "birthPlace",
+                        "England"
+                    ]
+                ],
+                -0.31388390280983663
+            ],
+            [
+                [
+                    [
+                        "Paul_Freeman_(actor)",
+                        "birthPlace",
+                        "Hertfordshire"
+                    ]
+                ],
+                -1.9453829678622159
+            ],
+            [
+                [
+                    [
+                        "Paul_Freeman_(actor)",
+                        "birthPlace",
+                        "England"
+                    ],
+                    [
+                        "Paul_Freeman_(actor)",
+                        "birthPlace",
+                        "Hertfordshire"
+                    ]
+                ],
+                -407.1939393939394
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.606755256652832
+    },
+    {
+        "triple": [
+            "Macedonian_Struggle",
+            "commander",
+            "Ion_Dragoumis"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Macedonian_Struggle",
+                        "place",
+                        "Macedonia_(region)"
+                    ]
+                ],
+                -41.19391634980989
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.426514863967896
+    },
+    {
+        "triple": [
+            "Bloomsbury",
+            "country",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Catherine_Tate",
+                        "birthPlace",
+                        "Bloomsbury"
+                    ]
+                ],
+                0.3582298159599304
+            ],
+            [
+                [
+                    [
+                        "Slade_School_of_Fine_Art",
+                        "city",
+                        "Bloomsbury"
+                    ]
+                ],
+                -18.99699592590332
+            ],
+            [
+                [
+                    [
+                        "Slade_School_of_Fine_Art",
+                        "city",
+                        "Bloomsbury"
+                    ],
+                    [
+                        "Catherine_Tate",
+                        "birthPlace",
+                        "Bloomsbury"
+                    ]
+                ],
+                -65494.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.510395765304565
+    },
+    {
+        "triple": [
+            "Great_Wall_Motor",
+            "locationCity",
+            "Baoding"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Great_Wall_Motor",
+                        "industry",
+                        "Automotive_industry"
+                    ]
+                ],
+                0.9775607585906982
+            ],
+            [
+                [
+                    [
+                        "Great_Wall_Motor",
+                        "locationCity",
+                        "Hebei"
+                    ]
+                ],
+                -451.875
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 16.862221479415894
+    },
+    {
+        "triple": [
+            "Diane_Ladd",
+            "spouse",
+            "Bruce_Dern"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Diane_Ladd",
+                        "birthPlace",
+                        "Meridian,_Mississippi"
+                    ]
+                ],
+                0.7921259169289862
+            ],
+            [
+                [
+                    [
+                        "Laura_Dern",
+                        "parent",
+                        "Diane_Ladd"
+                    ]
+                ],
+                -50.79538671059499
+            ],
+            [
+                [
+                    [
+                        "Laura_Dern",
+                        "parent",
+                        "Diane_Ladd"
+                    ],
+                    [
+                        "Diane_Ladd",
+                        "birthPlace",
+                        "Meridian,_Mississippi"
+                    ]
+                ],
+                -194.15866388308976
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.453574657440186
+    },
+    {
+        "triple": [
+            "Steve_Keirn",
+            "billed",
+            "Tampa,_Florida"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Steve_Keirn",
+                        "residence",
+                        "Jacksonville,_Florida"
+                    ]
+                ],
+                1.2620329856872559
+            ],
+            [
+                [
+                    [
+                        "Steve_Keirn",
+                        "birthPlace",
+                        "Tampa,_Florida"
+                    ]
+                ],
+                -878.9901733398438
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.396917581558228
+    },
+    {
+        "triple": [
+            "Camaenidae",
+            "family",
+            "Helicoidea"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Amphidromus",
+                        "family",
+                        "Camaenidae"
+                    ]
+                ],
+                0.47787559981894706
+            ],
+            [
+                [
+                    [
+                        "Camaenidae",
+                        "class",
+                        "Gastropoda"
+                    ]
+                ],
+                -4.73444575757052
+            ],
+            [
+                [
+                    [
+                        "Amphidromus",
+                        "family",
+                        "Camaenidae"
+                    ],
+                    [
+                        "Camaenidae",
+                        "class",
+                        "Gastropoda"
+                    ]
+                ],
+                -363.42916897123894
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.601236820220947
+    },
+    {
+        "triple": [
+            "Syrianska_IF_Kerburan",
+            "ground",
+            "V%C3%A4ster%C3%A5s"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Syrianska_IF_Kerburan",
+                        "ground",
+                        "Sweden"
+                    ]
+                ],
+                0.5729689280192057
+            ],
+            [
+                [
+                    [
+                        "Syrianska_IF_Kerburan",
+                        "league",
+                        "Division_2_(Swedish_football)"
+                    ]
+                ],
+                -0.34650885264078773
+            ],
+            [
+                [
+                    [
+                        "Syrianska_IF_Kerburan",
+                        "ground",
+                        "Sweden"
+                    ],
+                    [
+                        "Syrianska_IF_Kerburan",
+                        "league",
+                        "Division_2_(Swedish_football)"
+                    ]
+                ],
+                -1322.2
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.990175485610962
+    },
+    {
+        "triple": [
+            "Gorton",
+            "country",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gorton",
+                        "metropolitanBorough",
+                        "Manchester"
+                    ]
+                ],
+                0.19303400814533234
+            ],
+            [
+                [
+                    [
+                        "Gorton",
+                        "region",
+                        "North_West_England"
+                    ]
+                ],
+                -0.9993995428085327
+            ],
+            [
+                [
+                    [
+                        "Gorton",
+                        "metropolitanBorough",
+                        "Manchester"
+                    ],
+                    [
+                        "Gorton",
+                        "region",
+                        "North_West_England"
+                    ]
+                ],
+                -7106.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.472705364227295
+    },
+    {
+        "triple": [
+            "Townshend_Stith_Brandegee",
+            "birthPlace",
+            "Berlin,_Connecticut"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Townshend_Stith_Brandegee",
+                        "field",
+                        "Botany"
+                    ]
+                ],
+                -3.7558271854120266
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.433909893035889
+    },
+    {
+        "triple": [
+            "Beebe,_Arkansas",
+            "isPartOf",
+            "White_County,_Arkansas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Beebe,_Arkansas",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                0.5151014176626054
+            ],
+            [
+                [
+                    [
+                        "Beebe,_Arkansas",
+                        "isPartOf",
+                        "Arkansas"
+                    ]
+                ],
+                -4.603062705388145
+            ],
+            [
+                [
+                    [
+                        "Beebe,_Arkansas",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "Beebe,_Arkansas",
+                        "isPartOf",
+                        "Arkansas"
+                    ]
+                ],
+                -1385.063492063492
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.510077238082886
+    },
+    {
+        "triple": [
+            "Paul_Hirsch_(film_editor)",
+            "birthPlace",
+            "New_York_City"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mission:_Impossible_(film_series)",
+                        "editing",
+                        "Paul_Hirsch_(film_editor)"
+                    ]
+                ],
+                -2.9199702739715576
+            ],
+            [
+                [
+                    [
+                        "Paul_Hirsch_(film_editor)",
+                        "birthPlace",
+                        "United_States"
+                    ],
+                    [
+                        "Mission:_Impossible_(film_series)",
+                        "editing",
+                        "Paul_Hirsch_(film_editor)"
+                    ]
+                ],
+                -940.0
+            ],
+            [
+                [
+                    [
+                        "Paul_Hirsch_(film_editor)",
+                        "birthPlace",
+                        "United_States"
+                    ]
+                ],
+                -1396.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.019187211990356
+    },
+    {
+        "triple": [
+            "Croton-on-Hudson,_New_York",
+            "isPartOf",
+            "Westchester_County,_New_York"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Manny_Albam",
+                        "deathPlace",
+                        "Croton-on-Hudson,_New_York"
+                    ]
+                ],
+                0.4983897422676656
+            ],
+            [
+                [
+                    [
+                        "Croton-on-Hudson,_New_York",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -75.14176189365672
+            ],
+            [
+                [
+                    [
+                        "Croton-on-Hudson,_New_York",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "Manny_Albam",
+                        "deathPlace",
+                        "Croton-on-Hudson,_New_York"
+                    ]
+                ],
+                -186.70147796175374
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.031655073165894
+    },
+    {
+        "triple": [
+            "Portuguese_Empire",
+            "capital",
+            "Lisbon"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Portuguese_Empire",
+                        "language",
+                        "Portuguese_language"
+                    ]
+                ],
+                0.8401435718201754
+            ],
+            [
+                [
+                    [
+                        "Portuguese_Empire",
+                        "language",
+                        "Portuguese_language"
+                    ],
+                    [
+                        "Portuguese_Empire",
+                        "governmentType",
+                        "Colonialism"
+                    ]
+                ],
+                -18.89349501852692
+            ],
+            [
+                [
+                    [
+                        "Portuguese_Empire",
+                        "governmentType",
+                        "Colonialism"
+                    ]
+                ],
+                -31.446425533121598
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.429036855697632
+    },
+    {
+        "triple": [
+            "Dinophyceae",
+            "kingdom",
+            "SAR_supergroup"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gonyaulacales",
+                        "class",
+                        "Dinophyceae"
+                    ]
+                ],
+                -470.5039453125
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.468193292617798
+    },
+    {
+        "triple": [
+            "Richard_Roundtree",
+            "birthPlace",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Richard_Roundtree",
+                        "birthPlace",
+                        "New_Rochelle,_New_York"
+                    ]
+                ],
+                -2.092682293445955
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.393186330795288
+    },
+    {
+        "triple": [
+            "Warwick_Ward",
+            "occupation",
+            "Film_producer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Warwick_Ward",
+                        "birthPlace",
+                        "Cornwall"
+                    ]
+                ],
+                -41.90289966793169
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.420880317687988
+    },
+    {
+        "triple": [
+            "Culture_Beat",
+            "hometown",
+            "Frankfurt"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Culture_Beat",
+                        "hometown",
+                        "Germany"
+                    ]
+                ],
+                -186.11536583533655
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.502497434616089
+    },
+    {
+        "triple": [
+            "Saint-Marc",
+            "type",
+            "List_of_communes_of_Haiti"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Saint-Marc",
+                        "isPartOf",
+                        "Artibonite_(department)"
+                    ]
+                ],
+                0.6608746647834778
+            ],
+            [
+                [
+                    [
+                        "Saint-Marc",
+                        "country",
+                        "Haiti"
+                    ]
+                ],
+                -24.99962043762207
+            ],
+            [
+                [
+                    [
+                        "Saint-Marc",
+                        "country",
+                        "Haiti"
+                    ],
+                    [
+                        "Saint-Marc",
+                        "isPartOf",
+                        "Artibonite_(department)"
+                    ]
+                ],
+                -68676.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.492927074432373
+    },
+    {
+        "triple": [
+            "Handley_Page_Halifax",
+            "type",
+            "Heavy_bomber"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Handley_Page_Halifax",
+                        "manufacturer",
+                        "Handley_Page"
+                    ]
+                ],
+                -1.0000431537628174
+            ],
+            [
+                [
+                    [
+                        "RAF_Bomber_Command",
+                        "aircraftBomber",
+                        "Handley_Page_Halifax"
+                    ]
+                ],
+                -5.999991416931152
+            ],
+            [
+                [
+                    [
+                        "RAF_Bomber_Command",
+                        "aircraftBomber",
+                        "Handley_Page_Halifax"
+                    ],
+                    [
+                        "Handley_Page_Halifax",
+                        "manufacturer",
+                        "Handley_Page"
+                    ]
+                ],
+                -81143.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.19447636604309
+    },
+    {
+        "triple": [
+            "Nuwara_Eliya",
+            "type",
+            "City"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nuwara_Eliya",
+                        "isPartOf",
+                        "Central_Province,_Sri_Lanka"
+                    ]
+                ],
+                -14959.333333333334
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.58834981918335
+    },
+    {
+        "triple": [
+            "RATP_Group",
+            "industry",
+            "Public_transport"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "RATP_Group",
+                        "regionServed",
+                        "%C3%8Ele-de-France"
+                    ]
+                ],
+                -4.582151141767993
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.689417362213135
+    },
+    {
+        "triple": [
+            "Robert_Forster",
+            "birthPlace",
+            "Rochester,_New_York"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alcatraz_(TV_series)",
+                        "starring",
+                        "Robert_Forster"
+                    ],
+                    [
+                        "Our_Father_(Heroes)",
+                        "guest",
+                        "Robert_Forster"
+                    ]
+                ],
+                0.7561009064885497
+            ],
+            [
+                [
+                    [
+                        "Our_Father_(Heroes)",
+                        "guest",
+                        "Robert_Forster"
+                    ]
+                ],
+                0.05881836931456743
+            ],
+            [
+                [
+                    [
+                        "Alcatraz_(TV_series)",
+                        "starring",
+                        "Robert_Forster"
+                    ]
+                ],
+                0.017676785146310433
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.28661036491394
+    },
+    {
+        "triple": [
+            "Louis_Jourdan",
+            "deathPlace",
+            "California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Louis_Jourdan",
+                        "birthPlace",
+                        "Marseille"
+                    ]
+                ],
+                0.5091309443108565
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.596333742141724
+    },
+    {
+        "triple": [
+            "Lyndley_Craven",
+            "field",
+            "Botany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lyndley_Craven",
+                        "birthPlace",
+                        "Australia"
+                    ]
+                ],
+                0.8997177267974278
+            ],
+            [
+                [
+                    [
+                        "Lyndley_Craven",
+                        "deathPlace",
+                        "Canberra"
+                    ]
+                ],
+                -1.1787574336213886
+            ],
+            [
+                [
+                    [
+                        "Lyndley_Craven",
+                        "birthPlace",
+                        "Australia"
+                    ],
+                    [
+                        "Lyndley_Craven",
+                        "deathPlace",
+                        "Canberra"
+                    ]
+                ],
+                -464.8348319575472
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.786712646484375
+    },
+    {
+        "triple": [
+            "Charles_Lamont",
+            "birthPlace",
+            "San_Francisco"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Charles_Lamont",
+                        "deathPlace",
+                        "Woodland_Hills,_Los_Angeles"
+                    ]
+                ],
+                -181.23075671073718
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.968453645706177
+    },
+    {
+        "triple": [
+            "Janardhanan_(actor)",
+            "birthPlace",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Janardhanan_(actor)",
+                        "birthPlace",
+                        "Kottayam"
+                    ]
+                ],
+                0.9432745966418036
+            ],
+            [
+                [
+                    [
+                        "Janardhanan_(actor)",
+                        "birthPlace",
+                        "Kerala"
+                    ]
+                ],
+                -1891.2068965517242
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.58450984954834
+    },
+    {
+        "triple": [
+            "Ranjith_(actor)",
+            "birthPlace",
+            "Tamil_Nadu"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ranjith_(actor)",
+                        "birthPlace",
+                        "India"
+                    ]
+                ],
+                -4272.111111111111
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.382083892822266
+    },
+    {
+        "triple": [
+            "Dane_Cook",
+            "genre",
+            "Black_comedy"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pete_Holmes",
+                        "influencedBy",
+                        "Dane_Cook"
+                    ]
+                ],
+                -0.7162046432495117
+            ],
+            [
+                [
+                    [
+                        "Dane_Cook",
+                        "genre",
+                        "Observational_comedy"
+                    ]
+                ],
+                -1.9999597072601318
+            ],
+            [
+                [
+                    [
+                        "Dane_Cook",
+                        "genre",
+                        "Observational_comedy"
+                    ],
+                    [
+                        "Pete_Holmes",
+                        "influencedBy",
+                        "Dane_Cook"
+                    ]
+                ],
+                -94503.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.961876153945923
+    },
+    {
+        "triple": [
+            "Geshmiran_Rural_District",
+            "isPartOf",
+            "Kerman_province"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Geshmiran_Rural_District",
+                        "isPartOf",
+                        "Central_District_(Manujan_County)"
+                    ]
+                ],
+                -3.767545158424637
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.453584671020508
+    },
+    {
+        "triple": [
+            "Giovanni_Antonio_Scopoli",
+            "deathPlace",
+            "Pavia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Giovanni_Antonio_Scopoli",
+                        "residence",
+                        "Italy"
+                    ]
+                ],
+                -0.6922282505415187
+            ],
+            [
+                [
+                    [
+                        "Giovanni_Antonio_Scopoli",
+                        "field",
+                        "Natural_history"
+                    ]
+                ],
+                -2.8444712541034334
+            ],
+            [
+                [
+                    [
+                        "Giovanni_Antonio_Scopoli",
+                        "residence",
+                        "Italy"
+                    ],
+                    [
+                        "Giovanni_Antonio_Scopoli",
+                        "field",
+                        "Natural_history"
+                    ]
+                ],
+                -3.5576351610429446
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.345659017562866
+    },
+    {
+        "triple": [
+            "Long_Eaton",
+            "country",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Long_Eaton",
+                        "country",
+                        "Derbyshire"
+                    ]
+                ],
+                -185.84615384615384
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.000633239746094
+    },
+    {
+        "triple": [
+            "Microbotryomycetes",
+            "division",
+            "Pucciniomycotina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Microbotryomycetes",
+                        "kingdom",
+                        "Dikarya"
+                    ]
+                ],
+                0.7060230118887765
+            ],
+            [
+                [
+                    [
+                        "Microbotryomycetes",
+                        "division",
+                        "Basidiomycota"
+                    ]
+                ],
+                -2175.7141462053573
+            ],
+            [
+                [
+                    [
+                        "Microbotryomycetes",
+                        "division",
+                        "Basidiomycota"
+                    ],
+                    [
+                        "Microbotryomycetes",
+                        "kingdom",
+                        "Dikarya"
+                    ]
+                ],
+                -14108.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.957662105560303
+    },
+    {
+        "triple": [
+            "Shenzhen_F.C.",
+            "ground",
+            "Guangdong"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Shenzhen_F.C.",
+                        "league",
+                        "China_League_One"
+                    ]
+                ],
+                -9.360722916885573
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.667790651321411
+    },
+    {
+        "triple": [
+            "USM_Bel_Abb%C3%A8s",
+            "ground",
+            "Sidi_Bel_Abb%C3%A8s"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "USM_Bel_Abb%C3%A8s",
+                        "league",
+                        "Algerian_Ligue_Professionnelle_1"
+                    ]
+                ],
+                0.2319736329336015
+            ],
+            [
+                [
+                    [
+                        "USM_Bel_Abb%C3%A8s",
+                        "ground",
+                        "Algeria"
+                    ]
+                ],
+                -13.341102236793155
+            ],
+            [
+                [
+                    [
+                        "USM_Bel_Abb%C3%A8s",
+                        "ground",
+                        "Algeria"
+                    ],
+                    [
+                        "USM_Bel_Abb%C3%A8s",
+                        "league",
+                        "Algerian_Ligue_Professionnelle_1"
+                    ]
+                ],
+                -477.94444444444446
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.660613775253296
+    },
+    {
+        "triple": [
+            "Jerzy_Sebastian_Lubomirski",
+            "deathPlace",
+            "Holy_Roman_Empire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jerzy_Sebastian_Lubomirski",
+                        "deathPlace",
+                        "Wroc%C5%82aw"
+                    ]
+                ],
+                0.9937656806409841
+            ],
+            [
+                [
+                    [
+                        "Second_Northern_War",
+                        "commander",
+                        "Jerzy_Sebastian_Lubomirski"
+                    ]
+                ],
+                -0.43904280602008827
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 16.71197509765625
+    },
+    {
+        "triple": [
+            "Suave_House_Records",
+            "genre",
+            "Gangsta_rap"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Suave_House_Records",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                0.8628690083821614
+            ],
+            [
+                [
+                    [
+                        "8Ball_%26_MJG",
+                        "recordLabel",
+                        "Suave_House_Records"
+                    ]
+                ],
+                -720.6166666666667
+            ],
+            [
+                [
+                    [
+                        "8Ball_%26_MJG",
+                        "recordLabel",
+                        "Suave_House_Records"
+                    ],
+                    [
+                        "Suave_House_Records",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -821.2082682291667
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.464035511016846
+    },
+    {
+        "triple": [
+            "Karkheh_Rural_District",
+            "isPartOf",
+            "Hamidiyeh_District"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Karkheh_Rural_District",
+                        "isPartOf",
+                        "Khuzestan_province"
+                    ]
+                ],
+                0.6816633542378744
+            ],
+            [
+                [
+                    [
+                        "Karkheh_Rural_District",
+                        "isPartOf",
+                        "Ahvaz_County"
+                    ]
+                ],
+                -2.6665857632954917
+            ],
+            [
+                [
+                    [
+                        "Karkheh_Rural_District",
+                        "isPartOf",
+                        "Ahvaz_County"
+                    ],
+                    [
+                        "Karkheh_Rural_District",
+                        "isPartOf",
+                        "Khuzestan_province"
+                    ]
+                ],
+                -7481.333333333333
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.176942110061646
+    },
+    {
+        "triple": [
+            "Erythroxylum",
+            "family",
+            "Erythroxylaceae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Erythroxylum",
+                        "order",
+                        "Rosids"
+                    ]
+                ],
+                0.13352548070700773
+            ],
+            [
+                [
+                    [
+                        "Erythroxylum",
+                        "order",
+                        "Malpighiales"
+                    ]
+                ],
+                -0.33425282857504235
+            ],
+            [
+                [
+                    [
+                        "Erythroxylum",
+                        "order",
+                        "Malpighiales"
+                    ],
+                    [
+                        "Erythroxylum",
+                        "order",
+                        "Rosids"
+                    ]
+                ],
+                -422.5240963855422
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.117793560028076
+    },
+    {
+        "triple": [
+            "Club_Africain",
+            "league",
+            "Tunisian_Ligue_Professionnelle_1"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Claudio_Milar",
+                        "team",
+                        "Club_Africain"
+                    ]
+                ],
+                0.2795555390507342
+            ],
+            [
+                [
+                    [
+                        "Club_Africain",
+                        "ground",
+                        "Tunis"
+                    ]
+                ],
+                -14.915614116622741
+            ],
+            [
+                [
+                    [
+                        "Club_Africain",
+                        "ground",
+                        "Tunis"
+                    ],
+                    [
+                        "Claudio_Milar",
+                        "team",
+                        "Club_Africain"
+                    ]
+                ],
+                -1179.1927710843374
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.06192421913147
+    },
+    {
+        "triple": [
+            "Roanne",
+            "department",
+            "Loire_(department)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jean-Pierre_Jeunet",
+                        "birthPlace",
+                        "Roanne"
+                    ]
+                ],
+                0.7723007202148438
+            ],
+            [
+                [
+                    [
+                        "Jean-Pierre_Jeunet",
+                        "birthPlace",
+                        "Roanne"
+                    ],
+                    [
+                        "Roanne",
+                        "region",
+                        "Rh%C3%B4ne-Alpes"
+                    ]
+                ],
+                -6.657633721073972
+            ],
+            [
+                [
+                    [
+                        "Roanne",
+                        "region",
+                        "Rh%C3%B4ne-Alpes"
+                    ]
+                ],
+                -7.7019375185423256
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.49217414855957
+    },
+    {
+        "triple": [
+            "Assiminea",
+            "family",
+            "Rissooidea"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Assiminea",
+                        "family",
+                        "Assimineidae"
+                    ]
+                ],
+                0.7570499577387811
+            ],
+            [
+                [
+                    [
+                        "Assiminea",
+                        "class",
+                        "Gastropoda"
+                    ]
+                ],
+                -4.994642145980206
+            ],
+            [
+                [
+                    [
+                        "Assiminea",
+                        "class",
+                        "Gastropoda"
+                    ],
+                    [
+                        "Assiminea",
+                        "family",
+                        "Assimineidae"
+                    ]
+                ],
+                -202.7006507592191
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.408254146575928
+    },
+    {
+        "triple": [
+            "Sorsogon",
+            "leaderName",
+            "Independent_politician"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sorsogon",
+                        "timeZone",
+                        "Philippine_Standard_Time"
+                    ]
+                ],
+                0.22034932985963882
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.480720281600952
+    },
+    {
+        "triple": [
+            "Cameraria_(moth)",
+            "family",
+            "Gracillariidae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cameraria_(moth)",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                0.22747477463313512
+            ],
+            [
+                [
+                    [
+                        "Cameraria_(moth)",
+                        "order",
+                        "Lepidoptera"
+                    ]
+                ],
+                -0.13650872026171004
+            ],
+            [
+                [
+                    [
+                        "Cameraria_(moth)",
+                        "class",
+                        "Insect"
+                    ],
+                    [
+                        "Cameraria_(moth)",
+                        "order",
+                        "Lepidoptera"
+                    ]
+                ],
+                -662.9285714285714
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.473362445831299
+    },
+    {
+        "triple": [
+            "Judy_Blume",
+            "birthPlace",
+            "New_Jersey"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Judy_Blume",
+                        "genre",
+                        "Realism_(arts)"
+                    ]
+                ],
+                0.837064789698567
+            ],
+            [
+                [
+                    [
+                        "Judy_Blume",
+                        "birthPlace",
+                        "Elizabeth,_New_Jersey"
+                    ],
+                    [
+                        "Judy_Blume",
+                        "genre",
+                        "Realism_(arts)"
+                    ]
+                ],
+                0.7838855421686747
+            ],
+            [
+                [
+                    [
+                        "Judy_Blume",
+                        "birthPlace",
+                        "Elizabeth,_New_Jersey"
+                    ]
+                ],
+                -0.5071649791638143
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.49580979347229
+    },
+    {
+        "triple": [
+            "Bert_Gilroy",
+            "deathPlace",
+            "California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bert_Gilroy",
+                        "deathPlace",
+                        "San_Bernardino,_California"
+                    ]
+                ],
+                0.9524399893624442
+            ],
+            [
+                [
+                    [
+                        "Bert_Gilroy",
+                        "birthPlace",
+                        "Arizona"
+                    ]
+                ],
+                -465.3988095238095
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.513124465942383
+    },
+    {
+        "triple": [
+            "Mostaganem_Province",
+            "country",
+            "Algeria"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mostaganem",
+                        "isPartOf",
+                        "Mostaganem_Province"
+                    ]
+                ],
+                0.32380935549736023
+            ],
+            [
+                [
+                    [
+                        "Mostaganem_Province",
+                        "timeZone",
+                        "Central_European_Time"
+                    ]
+                ],
+                -0.12362460047006607
+            ],
+            [
+                [
+                    [
+                        "Mostaganem",
+                        "isPartOf",
+                        "Mostaganem_Province"
+                    ],
+                    [
+                        "Mostaganem_Province",
+                        "timeZone",
+                        "Central_European_Time"
+                    ]
+                ],
+                -12121.375
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.747729778289795
+    },
+    {
+        "triple": [
+            "Yoshiyuki_Tomino",
+            "almaMater",
+            "Nihon_University"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yoshiyuki_Tomino",
+                        "birthPlace",
+                        "Kanagawa_Prefecture"
+                    ]
+                ],
+                -58.357039052746565
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.97666335105896
+    },
+    {
+        "triple": [
+            "Charles_Burnett_(director)",
+            "birthPlace",
+            "Vicksburg,_Mississippi"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Blues_(film_series)",
+                        "director",
+                        "Charles_Burnett_(director)"
+                    ]
+                ],
+                -0.0633097631500792
+            ],
+            [
+                [
+                    [
+                        "The_Blues_(film_series)",
+                        "writer",
+                        "Charles_Burnett_(director)"
+                    ]
+                ],
+                -0.2220105577715263
+            ],
+            [
+                [
+                    [
+                        "The_Blues_(film_series)",
+                        "director",
+                        "Charles_Burnett_(director)"
+                    ],
+                    [
+                        "The_Blues_(film_series)",
+                        "writer",
+                        "Charles_Burnett_(director)"
+                    ]
+                ],
+                -33.48679767247448
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.331843614578247
+    },
+    {
+        "triple": [
+            "Hospitaller_Malta",
+            "capital",
+            "Birgu"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Girolamo_Cassar",
+                        "deathPlace",
+                        "Hospitaller_Malta"
+                    ]
+                ],
+                -0.7075883268900344
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.674601078033447
+    },
+    {
+        "triple": [
+            "Thoogudeepa_Srinivas",
+            "birthPlace",
+            "British_Raj"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Thoogudeepa_Srinivas",
+                        "child",
+                        "Darshan_(Kannada_actor)"
+                    ]
+                ],
+                0.4509471002026139
+            ],
+            [
+                [
+                    [
+                        "Darshan_(Kannada_actor)",
+                        "parent",
+                        "Thoogudeepa_Srinivas"
+                    ]
+                ],
+                -8.337341194509346
+            ],
+            [
+                [
+                    [
+                        "Darshan_(Kannada_actor)",
+                        "parent",
+                        "Thoogudeepa_Srinivas"
+                    ],
+                    [
+                        "Thoogudeepa_Srinivas",
+                        "child",
+                        "Darshan_(Kannada_actor)"
+                    ]
+                ],
+                -91.27943925233645
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.76343059539795
+    },
+    {
+        "triple": [
+            "Nina_Hoss",
+            "citizenship",
+            "Germany"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nina_Hoss",
+                        "birthPlace",
+                        "West_Germany"
+                    ]
+                ],
+                0.9979842533029912
+            ],
+            [
+                [
+                    [
+                        "Nina_Hoss",
+                        "birthPlace",
+                        "Stuttgart"
+                    ]
+                ],
+                -143.226251911315
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 20.121567487716675
+    },
+    {
+        "triple": [
+            "Ringwood,_Hampshire",
+            "country",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ringwood,_Hampshire",
+                        "country",
+                        "Hampshire"
+                    ]
+                ],
+                -28957.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.827576875686646
+    },
+    {
+        "triple": [
+            "New_Ireland_Province",
+            "timeZone",
+            "Time_in_Australia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "New_Ireland_Province",
+                        "part",
+                        "Namatanai_District"
+                    ]
+                ],
+                0.36242079734802246
+            ],
+            [
+                [
+                    [
+                        "Namatanai_District",
+                        "isPartOf",
+                        "New_Ireland_Province"
+                    ]
+                ],
+                -1.4433743953704834
+            ],
+            [
+                [
+                    [
+                        "Namatanai_District",
+                        "isPartOf",
+                        "New_Ireland_Province"
+                    ],
+                    [
+                        "New_Ireland_Province",
+                        "part",
+                        "Namatanai_District"
+                    ]
+                ],
+                -18693.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 19.45868444442749
+    },
+    {
+        "triple": [
+            "System_3_(company)",
+            "location",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "System_3_(company)",
+                        "type",
+                        "Public_company"
+                    ]
+                ],
+                -2.9056594371795654
+            ],
+            [
+                [
+                    [
+                        "System_3_(company)",
+                        "location",
+                        "London"
+                    ]
+                ],
+                -332.9999694824219
+            ],
+            [
+                [
+                    [
+                        "System_3_(company)",
+                        "location",
+                        "London"
+                    ],
+                    [
+                        "System_3_(company)",
+                        "type",
+                        "Public_company"
+                    ]
+                ],
+                -75437.0
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 19.64515519142151
+    },
+    {
+        "triple": [
+            "Renato_Rascel",
+            "deathPlace",
+            "Rome"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Last_Judgment_(1961_film)",
+                        "starring",
+                        "Renato_Rascel"
+                    ]
+                ],
+                -30206.666666666668
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.343197345733643
+    },
+    {
+        "triple": [
+            "Long_Eaton",
+            "district",
+            "Borough_of_Erewash"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Long_Eaton",
+                        "country",
+                        "Derbyshire"
+                    ]
+                ],
+                -5634.2
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.150329828262329
+    },
+    {
+        "triple": [
+            "Corynexochida",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Corynexochida",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                -97643.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.788319826126099
+    },
+    {
+        "triple": [
+            "Bert_Wheeler",
+            "occupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bert_Wheeler",
+                        "deathPlace",
+                        "New_York_City"
+                    ]
+                ],
+                0.2007490504871715
+            ],
+            [
+                [
+                    [
+                        "Bert_Wheeler",
+                        "birthPlace",
+                        "Paterson,_New_Jersey"
+                    ]
+                ],
+                -0.4408231648531827
+            ],
+            [
+                [
+                    [
+                        "Bert_Wheeler",
+                        "deathPlace",
+                        "New_York_City"
+                    ],
+                    [
+                        "Bert_Wheeler",
+                        "birthPlace",
+                        "Paterson,_New_Jersey"
+                    ]
+                ],
+                -8637.90909090909
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 20.01435899734497
+    },
+    {
+        "triple": [
+            "Robert_F._Simon",
+            "birthPlace",
+            "Mansfield,_Ohio"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Robert_F._Simon",
+                        "deathPlace",
+                        "San_Fernando_Valley"
+                    ]
+                ],
+                0.7378565561529271
+            ],
+            [
+                [
+                    [
+                        "Robert_F._Simon",
+                        "birthPlace",
+                        "Richland_County,_Ohio"
+                    ]
+                ],
+                -9.490292712066905
+            ],
+            [
+                [
+                    [
+                        "Robert_F._Simon",
+                        "birthPlace",
+                        "Richland_County,_Ohio"
+                    ],
+                    [
+                        "Robert_F._Simon",
+                        "deathPlace",
+                        "San_Fernando_Valley"
+                    ]
+                ],
+                -13.249850657108722
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 20.90068554878235
+    },
+    {
+        "triple": [
+            "Freeport,_Bahamas",
+            "timeZone",
+            "Eastern_Time_Zone"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sebastian_Bach",
+                        "birthPlace",
+                        "Freeport,_Bahamas"
+                    ]
+                ],
+                -4256.097265625
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.014286279678345
+    },
+    {
+        "triple": [
+            "Wonju",
+            "isPartOf",
+            "Gwandong"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Wonju",
+                        "type",
+                        "List_of_cities_of_South_Korea"
+                    ]
+                ],
+                -0.9529589414596558
+            ],
+            [
+                [
+                    [
+                        "Wonju",
+                        "country",
+                        "South_Korea"
+                    ]
+                ],
+                -0.9637903571128845
+            ],
+            [
+                [
+                    [
+                        "Wonju",
+                        "country",
+                        "South_Korea"
+                    ],
+                    [
+                        "Wonju",
+                        "type",
+                        "List_of_cities_of_South_Korea"
+                    ]
+                ],
+                -18509.25
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 20.344239234924316
+    },
+    {
+        "triple": [
+            "Wireless_Group",
+            "type",
+            "Subsidiary"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Wireless_Group",
+                        "location",
+                        "Belfast"
+                    ]
+                ],
+                -5.938049159825551
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.327690124511719
+    },
+    {
+        "triple": [
+            "Sydney_Box",
+            "birthPlace",
+            "Beckenham"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sydney_Box",
+                        "country",
+                        "England"
+                    ]
+                ],
+                -29.089744965657196
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.281910419464111
+    }
+]

@@ -1,0 +1,2952 @@
+[
+    {
+        "triple": [
+            "Rituparna_Sengupta",
+            "birthPlace",
+            "Kolkata"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rajkahini",
+                        "starring",
+                        "Rituparna_Sengupta"
+                    ]
+                ],
+                6432.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.40529751777649
+    },
+    {
+        "triple": [
+            "Diganth",
+            "residence",
+            "Karnataka"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Diganth",
+                        "ethnicity",
+                        "Kannada"
+                    ]
+                ],
+                3288.5
+            ],
+            [
+                [
+                    [
+                        "Diganth",
+                        "birthPlace",
+                        "Karnataka"
+                    ]
+                ],
+                -517.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.201047420501709
+    },
+    {
+        "triple": [
+            "Brod-Posavina_County",
+            "type",
+            "Counties_of_Croatia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nova_Gradi%C5%A1ka",
+                        "isPartOf",
+                        "Brod-Posavina_County"
+                    ]
+                ],
+                10386.5
+            ],
+            [
+                [
+                    [
+                        "Brod-Posavina_County",
+                        "country",
+                        "Croatia"
+                    ]
+                ],
+                2682.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.188288688659668
+    },
+    {
+        "triple": [
+            "B%C3%A9k%C3%A9scsaba",
+            "timeZone",
+            "Central_European_Time"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "B%C3%A9k%C3%A9scsaba",
+                        "type",
+                        "City"
+                    ]
+                ],
+                205.502685546875
+            ],
+            [
+                [
+                    [
+                        "B%C3%A9k%C3%A9scsaba",
+                        "country",
+                        "Hungary"
+                    ]
+                ],
+                128.502685546875
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.80689287185669
+    },
+    {
+        "triple": [
+            "Live_Oak,_Florida",
+            "country",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Live_Oak,_Florida",
+                        "isPartOf",
+                        "Florida"
+                    ]
+                ],
+                0.4998885691165924
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.055882930755615
+    },
+    {
+        "triple": [
+            "Bridgton,_Maine",
+            "isPartOf",
+            "Cumberland_County,_Maine"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bridgton,_Maine",
+                        "isPartOf",
+                        "Maine"
+                    ]
+                ],
+                8840.5
+            ],
+            [
+                [
+                    [
+                        "Bridgton,_Maine",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -1334.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.829734563827515
+    },
+    {
+        "triple": [
+            "Tando_Allahyar_District",
+            "country",
+            "Pakistan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tando_Allahyar_District",
+                        "type",
+                        "Districts_of_Pakistan"
+                    ]
+                ],
+                3480.5
+            ],
+            [
+                [
+                    [
+                        "Tando_Allahyar_District",
+                        "timeZone",
+                        "Time_in_Pakistan"
+                    ]
+                ],
+                604.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.147915840148926
+    },
+    {
+        "triple": [
+            "High_Voltage_Software",
+            "product",
+            "Video_game"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "High_Voltage_Software",
+                        "type",
+                        "Privately_held_company"
+                    ]
+                ],
+                501.5
+            ],
+            [
+                [
+                    [
+                        "High_Voltage_Software",
+                        "locationCountry",
+                        "United_States"
+                    ]
+                ],
+                -138.50001525878906
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.257535696029663
+    },
+    {
+        "triple": [
+            "Christoph_Waltz",
+            "birthPlace",
+            "Vienna"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Christoph_Waltz",
+                        "birthPlace",
+                        "Austria"
+                    ]
+                ],
+                -7432.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.634177923202515
+    },
+    {
+        "triple": [
+            "Pygopodidae",
+            "kingdom",
+            "Animal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pygopodidae",
+                        "phylum",
+                        "Chordate"
+                    ]
+                ],
+                110.50008392333984
+            ],
+            [
+                [
+                    [
+                        "Pygopodidae",
+                        "order",
+                        "Gekkota"
+                    ]
+                ],
+                16.500059127807617
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.93959379196167
+    },
+    {
+        "triple": [
+            "Urfa",
+            "country",
+            "Turkey"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Urfa",
+                        "leaderParty",
+                        "Justice_and_Development_Party_(Turkey)"
+                    ],
+                    [
+                        "%C5%9Eanl%C4%B1urfaspor",
+                        "ground",
+                        "Urfa"
+                    ]
+                ],
+                21023.5
+            ],
+            [
+                [
+                    [
+                        "Urfa",
+                        "leaderParty",
+                        "Justice_and_Development_Party_(Turkey)"
+                    ]
+                ],
+                -562.5
+            ],
+            [
+                [
+                    [
+                        "%C5%9Eanl%C4%B1urfaspor",
+                        "ground",
+                        "Urfa"
+                    ]
+                ],
+                -4108.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.578782558441162
+    },
+    {
+        "triple": [
+            "Chelav_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chelav_Rural_District",
+                        "isPartOf",
+                        "Amol_County"
+                    ]
+                ],
+                847.5
+            ],
+            [
+                [
+                    [
+                        "Chelav_Rural_District",
+                        "isPartOf",
+                        "Mazandaran_province"
+                    ]
+                ],
+                -8283.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 16.186391830444336
+    },
+    {
+        "triple": [
+            "Baotou",
+            "country",
+            "China"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Baotou",
+                        "isPartOf",
+                        "Inner_Mongolia"
+                    ],
+                    [
+                        "Baotou",
+                        "type",
+                        "Prefecture-level_city"
+                    ]
+                ],
+                5206.5
+            ],
+            [
+                [
+                    [
+                        "Baotou",
+                        "type",
+                        "Prefecture-level_city"
+                    ]
+                ],
+                -1167.5
+            ],
+            [
+                [
+                    [
+                        "Baotou",
+                        "isPartOf",
+                        "Inner_Mongolia"
+                    ]
+                ],
+                -1275.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.801033735275269
+    },
+    {
+        "triple": [
+            "Guy_Ferland",
+            "occupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mob_City",
+                        "director",
+                        "Guy_Ferland"
+                    ]
+                ],
+                65768.5
+            ],
+            [
+                [
+                    [
+                        "Mad_Dogs_(American_TV_series)",
+                        "director",
+                        "Guy_Ferland"
+                    ]
+                ],
+                22705.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.8909752368927
+    },
+    {
+        "triple": [
+            "Kuban_Stadium",
+            "tenant",
+            "FC_Kuban_Krasnodar"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FC_Kuban_Krasnodar",
+                        "ground",
+                        "Kuban_Stadium"
+                    ]
+                ],
+                9409.5
+            ],
+            [
+                [
+                    [
+                        "Kuban_Stadium",
+                        "tenant",
+                        "FC_Krasnodar"
+                    ]
+                ],
+                -9294.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.027339935302734
+    },
+    {
+        "triple": [
+            "Lincoln_County,_Oklahoma",
+            "country",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lincoln_County,_Oklahoma",
+                        "state",
+                        "Oklahoma"
+                    ]
+                ],
+                -12.523998260498047
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.22369909286499
+    },
+    {
+        "triple": [
+            "Fusolatirus",
+            "kingdom",
+            "Animal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fusolatirus",
+                        "family",
+                        "Fasciolariidae"
+                    ],
+                    [
+                        "Fusolatirus",
+                        "family",
+                        "Buccinoidea"
+                    ]
+                ],
+                15072.6376953125
+            ],
+            [
+                [
+                    [
+                        "Fusolatirus",
+                        "family",
+                        "Fasciolariidae"
+                    ]
+                ],
+                1.623612642288208
+            ],
+            [
+                [
+                    [
+                        "Fusolatirus",
+                        "family",
+                        "Buccinoidea"
+                    ]
+                ],
+                -0.38030868768692017
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.894101619720459
+    },
+    {
+        "triple": [
+            "Jayachitra",
+            "birthPlace",
+            "Chennai"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jayachitra",
+                        "birthPlace",
+                        "Tamil_Nadu"
+                    ]
+                ],
+                3120.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.29179859161377
+    },
+    {
+        "triple": [
+            "Gharda%C3%AFa_Province",
+            "country",
+            "Algeria"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gharda%C3%AFa_Province",
+                        "timeZone",
+                        "Central_European_Time"
+                    ]
+                ],
+                620.500244140625
+            ],
+            [
+                [
+                    [
+                        "Gharda%C3%AFa_Province",
+                        "leaderName",
+                        "National_Liberation_Front_(Algeria)"
+                    ]
+                ],
+                31.500234603881836
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.750765800476074
+    },
+    {
+        "triple": [
+            "Protea",
+            "class",
+            "Eudicots"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Protea",
+                        "family",
+                        "Proteaceae"
+                    ],
+                    [
+                        "Protea",
+                        "order",
+                        "Proteales"
+                    ]
+                ],
+                6548.5
+            ],
+            [
+                [
+                    [
+                        "Protea",
+                        "family",
+                        "Proteaceae"
+                    ]
+                ],
+                -4104.5
+            ],
+            [
+                [
+                    [
+                        "Protea",
+                        "order",
+                        "Proteales"
+                    ]
+                ],
+                -12500.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.049573183059692
+    },
+    {
+        "triple": [
+            "Jegenstorf",
+            "country",
+            "Switzerland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jegenstorf",
+                        "district",
+                        "Bern-Mittelland_(administrative_district)"
+                    ]
+                ],
+                20460.5
+            ],
+            [
+                [
+                    [
+                        "Jegenstorf",
+                        "type",
+                        "Municipalities_of_Switzerland"
+                    ]
+                ],
+                -50411.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.283711671829224
+    },
+    {
+        "triple": [
+            "Pichincha_Province",
+            "type",
+            "Provinces_of_Ecuador"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pichincha_Province",
+                        "country",
+                        "Ecuador"
+                    ]
+                ],
+                3802.5
+            ],
+            [
+                [
+                    [
+                        "Quito",
+                        "isPartOf",
+                        "Pichincha_Province"
+                    ]
+                ],
+                -19621.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.569276094436646
+    },
+    {
+        "triple": [
+            "NK_Mosor",
+            "position",
+            "Second_Football_League_(Croatia)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "NK_Mosor",
+                        "season",
+                        "2015%E2%80%9316_Croatian_Third_Football_League"
+                    ]
+                ],
+                9488.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.18808627128601
+    },
+    {
+        "triple": [
+            "FK_Srem_Jakovo",
+            "league",
+            "Serbian_League_Belgrade"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "%C5%BDeljko_%C4%90oki%C4%87",
+                        "team",
+                        "FK_Srem_Jakovo"
+                    ]
+                ],
+                104.5
+            ],
+            [
+                [
+                    [
+                        "FK_Srem_Jakovo",
+                        "position",
+                        "Serbian_League_Belgrade"
+                    ]
+                ],
+                -108.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.670596599578857
+    },
+    {
+        "triple": [
+            "FC_Elista",
+            "position",
+            "Russian_Amateur_Football_League"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FC_Elista",
+                        "ground",
+                        "Elista"
+                    ]
+                ],
+                53422.5
+            ],
+            [
+                [
+                    [
+                        "FC_Elista",
+                        "league",
+                        "Russian_Amateur_Football_League"
+                    ]
+                ],
+                11047.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.010647773742676
+    },
+    {
+        "triple": [
+            "Falkenberg_Municipality",
+            "type",
+            "Municipalities_of_Sweden"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Falkenberg_Municipality",
+                        "isPartOf",
+                        "Halland_County"
+                    ]
+                ],
+                506.5
+            ],
+            [
+                [
+                    [
+                        "Falkenberg",
+                        "isPartOf",
+                        "Falkenberg_Municipality"
+                    ]
+                ],
+                -7059.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 16.03433108329773
+    },
+    {
+        "triple": [
+            "Tarachodidae",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tarachodidae",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                0.45968976616859436
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.461747646331787
+    },
+    {
+        "triple": [
+            "Alfred_J._Goulding",
+            "birthPlace",
+            "Melbourne"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alfred_J._Goulding",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                12586.5
+            ],
+            [
+                [
+                    [
+                        "Alfred_J._Goulding",
+                        "birthPlace",
+                        "Australia"
+                    ]
+                ],
+                -3535.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.879910945892334
+    },
+    {
+        "triple": [
+            "Eric_Bana",
+            "residence",
+            "Victoria_(state)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Eric_Bana",
+                        "birthPlace",
+                        "Victoria_(state)"
+                    ]
+                ],
+                -2496.5
+            ],
+            [
+                [
+                    [
+                        "Eric_Bana",
+                        "birthPlace",
+                        "Victoria_(state)"
+                    ],
+                    [
+                        "Eric_Bana",
+                        "residence",
+                        "Melbourne"
+                    ]
+                ],
+                -8161.5
+            ],
+            [
+                [
+                    [
+                        "Eric_Bana",
+                        "residence",
+                        "Melbourne"
+                    ]
+                ],
+                -35880.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.970273971557617
+    },
+    {
+        "triple": [
+            "Lygropia",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lygropia",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                437.5002136230469
+            ],
+            [
+                [
+                    [
+                        "Lygropia",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                -101.50362396240234
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.701691389083862
+    },
+    {
+        "triple": [
+            "Palamuse_Parish",
+            "type",
+            "Municipalities_of_Estonia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Palamuse_Parish",
+                        "country",
+                        "Estonia"
+                    ]
+                ],
+                4424.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.63465690612793
+    },
+    {
+        "triple": [
+            "Pol-e_Doab_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pol-e_Doab_Rural_District",
+                        "isPartOf",
+                        "Markazi_province"
+                    ]
+                ],
+                11287.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.592965126037598
+    },
+    {
+        "triple": [
+            "America%27s_Best_Music",
+            "country",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "America%27s_Best_Music",
+                        "owningCompany",
+                        "Westwood_One"
+                    ]
+                ],
+                0.44726166129112244
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.626491069793701
+    },
+    {
+        "triple": [
+            "Abnama_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Abnama_Rural_District",
+                        "isPartOf",
+                        "Hormozgan_province"
+                    ],
+                    [
+                        "Abnama_Rural_District",
+                        "isPartOf",
+                        "Central_District_(Rudan_County)"
+                    ]
+                ],
+                24187.5
+            ],
+            [
+                [
+                    [
+                        "Abnama_Rural_District",
+                        "isPartOf",
+                        "Hormozgan_province"
+                    ]
+                ],
+                -296.5
+            ],
+            [
+                [
+                    [
+                        "Abnama_Rural_District",
+                        "isPartOf",
+                        "Central_District_(Rudan_County)"
+                    ]
+                ],
+                -10338.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.892526865005493
+    },
+    {
+        "triple": [
+            "L%C3%B8renskog_IF",
+            "season",
+            "2015_Norwegian_Second_Division"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "L%C3%B8renskog_IF",
+                        "league",
+                        "Norwegian_Second_Division"
+                    ]
+                ],
+                711.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.278269290924072
+    },
+    {
+        "triple": [
+            "Littorina",
+            "kingdom",
+            "Animal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Littorina",
+                        "family",
+                        "Littorinoidea"
+                    ]
+                ],
+                11990.501953125
+            ],
+            [
+                [
+                    [
+                        "Littorina",
+                        "family",
+                        "Littorinidae"
+                    ]
+                ],
+                14.501527786254883
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.712883710861206
+    },
+    {
+        "triple": [
+            "Khorram_Dasht_Rural_District_(Kashan_County)",
+            "country",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Khorram_Dasht_Rural_District_(Kashan_County)",
+                        "isPartOf",
+                        "Central_District_(Kashan_County)"
+                    ]
+                ],
+                92466.5
+            ],
+            [
+                [
+                    [
+                        "Khorram_Dasht_Rural_District_(Kashan_County)",
+                        "isPartOf",
+                        "Isfahan_province"
+                    ]
+                ],
+                7488.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.472053050994873
+    },
+    {
+        "triple": [
+            "Anees_Bazmee",
+            "nationality",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Anees_Bazmee",
+                        "stateOfOrigin",
+                        "India"
+                    ]
+                ],
+                72.72429656982422
+            ],
+            [
+                [
+                    [
+                        "Ready_(2011_film)",
+                        "director",
+                        "Anees_Bazmee"
+                    ]
+                ],
+                2.6781160831451416
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.827033042907715
+    },
+    {
+        "triple": [
+            "Clinton_County,_Ohio",
+            "largestCity",
+            "Wilmington,_Ohio"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Wilmington,_Ohio",
+                        "isPartOf",
+                        "Clinton_County,_Ohio"
+                    ]
+                ],
+                -422.5
+            ],
+            [
+                [
+                    [
+                        "Wilmington,_Ohio",
+                        "isPartOf",
+                        "Clinton_County,_Ohio"
+                    ],
+                    [
+                        "Clinton_County,_Ohio",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -572.5
+            ],
+            [
+                [
+                    [
+                        "Clinton_County,_Ohio",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -669.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.573870182037354
+    },
+    {
+        "triple": [
+            "James_Russo",
+            "occupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "James_Russo",
+                        "birthPlace",
+                        "United_States"
+                    ]
+                ],
+                10000.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.268345355987549
+    },
+    {
+        "triple": [
+            "Yobe_State",
+            "timeZone",
+            "West_Africa_Time"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yobe_State",
+                        "leaderParty",
+                        "All_Progressives_Congress"
+                    ]
+                ],
+                20964.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.166755676269531
+    },
+    {
+        "triple": [
+            "Howard_Ashman",
+            "birthPlace",
+            "Baltimore"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Howard_Ashman",
+                        "restingPlace",
+                        "Baltimore"
+                    ]
+                ],
+                8.608994483947754
+            ],
+            [
+                [
+                    [
+                        "Howard_Ashman",
+                        "occupation",
+                        "Librettist"
+                    ]
+                ],
+                0.4189123809337616
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.811862230300903
+    },
+    {
+        "triple": [
+            "Hot_Club_Records",
+            "country",
+            "Norway"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hot_Club_Records",
+                        "genre",
+                        "Jazz"
+                    ]
+                ],
+                49532.5
+            ],
+            [
+                [
+                    [
+                        "Hot_Club_Records",
+                        "location",
+                        "Oslo"
+                    ]
+                ],
+                3893.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.513160467147827
+    },
+    {
+        "triple": [
+            "KCBL",
+            "broadcastNetwork",
+            "Fox_Sports_Radio"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "KCBL",
+                        "broadcastArea",
+                        "Fresno,_California"
+                    ]
+                ],
+                -4981.5
+            ],
+            [
+                [
+                    [
+                        "KCBL",
+                        "broadcastArea",
+                        "Fresno,_California"
+                    ],
+                    [
+                        "KCBL",
+                        "city",
+                        "Fresno,_California"
+                    ]
+                ],
+                -8054.5
+            ],
+            [
+                [
+                    [
+                        "KCBL",
+                        "city",
+                        "Fresno,_California"
+                    ]
+                ],
+                -16533.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.087422847747803
+    },
+    {
+        "triple": [
+            "Fencing_at_the_1956_Summer_Olympics_%E2%80%93_Men%27s_team_foil",
+            "goldMedalist",
+            "Edoardo_Mangiarotti"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fencing_at_the_1952_Summer_Olympics_%E2%80%93_Men%27s_team_foil",
+                        "nextEvent",
+                        "Fencing_at_the_1956_Summer_Olympics_%E2%80%93_Men%27s_team_foil"
+                    ]
+                ],
+                36444.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.384643793106079
+    },
+    {
+        "triple": [
+            "Rollinia",
+            "kingdom",
+            "Plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rollinia",
+                        "order",
+                        "Magnoliales"
+                    ]
+                ],
+                21907.5
+            ],
+            [
+                [
+                    [
+                        "Rollinia",
+                        "family",
+                        "Annonaceae"
+                    ]
+                ],
+                -653.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.66876769065857
+    },
+    {
+        "triple": [
+            "Johan_Cruyff_Arena",
+            "location",
+            "Amsterdam"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Johan_Cruyff_Arena",
+                        "location",
+                        "Netherlands"
+                    ]
+                ],
+                722.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.257296323776245
+    },
+    {
+        "triple": [
+            "Peter_Haber",
+            "stateOfOrigin",
+            "Sweden"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Peter_Haber",
+                        "birthPlace",
+                        "Sweden"
+                    ]
+                ],
+                453.50054931640625
+            ],
+            [
+                [
+                    [
+                        "Peter_Haber",
+                        "birthPlace",
+                        "Stockholm"
+                    ]
+                ],
+                -8.500880241394043
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.68968152999878
+    },
+    {
+        "triple": [
+            "Ove_Sprog%C3%B8e",
+            "birthPlace",
+            "Denmark"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ove_Sprog%C3%B8e",
+                        "deathPlace",
+                        "Denmark"
+                    ]
+                ],
+                11506.5
+            ],
+            [
+                [
+                    [
+                        "Ove_Sprog%C3%B8e",
+                        "birthPlace",
+                        "Odense"
+                    ]
+                ],
+                -1474.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.766607761383057
+    },
+    {
+        "triple": [
+            "Brighouse",
+            "country",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "River_Calder,_West_Yorkshire",
+                        "city",
+                        "Brighouse"
+                    ]
+                ],
+                26041.5
+            ],
+            [
+                [
+                    [
+                        "Brighouse",
+                        "metropolitanBorough",
+                        "Calderdale"
+                    ]
+                ],
+                -323.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.776326417922974
+    },
+    {
+        "triple": [
+            "Infrabel",
+            "product",
+            "Rail_transport"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Infrabel",
+                        "industry",
+                        "Rail_transport"
+                    ]
+                ],
+                200.5
+            ],
+            [
+                [
+                    [
+                        "Infrabel",
+                        "locationCountry",
+                        "Belgium"
+                    ]
+                ],
+                -75258.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.992567777633667
+    },
+    {
+        "triple": [
+            "Ventura_County_Fusion",
+            "league",
+            "USL_League_Two"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ventura_County_Fusion",
+                        "season",
+                        "2016_PDL_season"
+                    ]
+                ],
+                7715.5
+            ],
+            [
+                [
+                    [
+                        "Ventura_County_Fusion",
+                        "ground",
+                        "Ventura,_California"
+                    ]
+                ],
+                -57075.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.641203880310059
+    },
+    {
+        "triple": [
+            "Gmina_Lipno,_Greater_Poland_Voivodeship",
+            "type",
+            "Gmina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Lipno,_Greater_Poland_Voivodeship",
+                        "country",
+                        "Poland"
+                    ]
+                ],
+                2859.5
+            ],
+            [
+                [
+                    [
+                        "Leszno_County",
+                        "part",
+                        "Gmina_Lipno,_Greater_Poland_Voivodeship"
+                    ]
+                ],
+                1658.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 16.53470778465271
+    },
+    {
+        "triple": [
+            "V%C3%A2lsan",
+            "district",
+            "Arge%C8%99_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "V%C3%A2lsan",
+                        "riverMouth",
+                        "Arge%C8%99_(river)"
+                    ]
+                ],
+                162.5
+            ],
+            [
+                [
+                    [
+                        "V%C3%A2lsan",
+                        "country",
+                        "Romania"
+                    ]
+                ],
+                -559.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.687726974487305
+    },
+    {
+        "triple": [
+            "Lichinaceae",
+            "division",
+            "Ascomycota"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lichinaceae",
+                        "class",
+                        "Lichinomycetes"
+                    ]
+                ],
+                14.50001049041748
+            ],
+            [
+                [
+                    [
+                        "Lichinaceae",
+                        "order",
+                        "Lichinales"
+                    ]
+                ],
+                -49.57676696777344
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 16.598830699920654
+    },
+    {
+        "triple": [
+            "Busia_County",
+            "timeZone",
+            "East_Africa_Time"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Busia_County",
+                        "type",
+                        "Counties_of_Kenya"
+                    ]
+                ],
+                8720.5
+            ],
+            [
+                [
+                    [
+                        "Busia_County",
+                        "country",
+                        "Kenya"
+                    ]
+                ],
+                3169.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.578637599945068
+    },
+    {
+        "triple": [
+            "Calanthe",
+            "order",
+            "Asparagales"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Calanthe",
+                        "family",
+                        "Orchid"
+                    ]
+                ],
+                71211.5
+            ],
+            [
+                [
+                    [
+                        "Calanthe",
+                        "family",
+                        "Collabieae"
+                    ]
+                ],
+                3890.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.380518198013306
+    },
+    {
+        "triple": [
+            "Navarretia",
+            "class",
+            "Eudicots"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Navarretia",
+                        "family",
+                        "Polemoniaceae"
+                    ]
+                ],
+                -2513.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.279527187347412
+    },
+    {
+        "triple": [
+            "Elysia_(gastropod)",
+            "class",
+            "Gastropoda"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Elysia_(gastropod)",
+                        "family",
+                        "Plakobranchidae"
+                    ]
+                ],
+                20.5
+            ],
+            [
+                [
+                    [
+                        "Elysia_(gastropod)",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                -67.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.9785795211792
+    },
+    {
+        "triple": [
+            "Gmina_%C5%81%C4%85ck",
+            "isPartOf",
+            "P%C5%82ock_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "P%C5%82ock_County",
+                        "part",
+                        "Gmina_%C5%81%C4%85ck"
+                    ]
+                ],
+                1482.5001220703125
+            ],
+            [
+                [
+                    [
+                        "Gmina_%C5%81%C4%85ck",
+                        "isPartOf",
+                        "Masovian_Voivodeship"
+                    ]
+                ],
+                1340.5001220703125
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.890100240707397
+    },
+    {
+        "triple": [
+            "Vanilloideae",
+            "family",
+            "Orchid"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Vanilloideae",
+                        "order",
+                        "Asparagales"
+                    ]
+                ],
+                39508.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.777078866958618
+    },
+    {
+        "triple": [
+            "Principality_of_Moscow",
+            "currency",
+            "Russian_ruble"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Principality_of_Moscow",
+                        "capital",
+                        "Moscow"
+                    ]
+                ],
+                283.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.082935571670532
+    },
+    {
+        "triple": [
+            "Verticordia_subg._Verticordia",
+            "genus",
+            "Verticordia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Verticordia_subg._Verticordia",
+                        "order",
+                        "Myrtales"
+                    ]
+                ],
+                3216.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.253057956695557
+    },
+    {
+        "triple": [
+            "Crystal_Palace_National_Sports_Centre",
+            "location",
+            "England"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Superstars_(British_TV_programme)",
+                        "location",
+                        "Crystal_Palace_National_Sports_Centre"
+                    ]
+                ],
+                -603.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.044257879257202
+    },
+    {
+        "triple": [
+            "Placosaris",
+            "phylum",
+            "Arthropod"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Placosaris",
+                        "kingdom",
+                        "Animal"
+                    ],
+                    [
+                        "Placosaris",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                0.5559424757957458
+            ],
+            [
+                [
+                    [
+                        "Placosaris",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                0.5014892220497131
+            ],
+            [
+                [
+                    [
+                        "Placosaris",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                0.5003814101219177
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.980158805847168
+    },
+    {
+        "triple": [
+            "Stray_Cats",
+            "genre",
+            "Rockabilly"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Brian_Setzer",
+                        "associatedBand",
+                        "Stray_Cats"
+                    ]
+                ],
+                130.50001525878906
+            ],
+            [
+                [
+                    [
+                        "Brian_Setzer",
+                        "associatedMusicalArtist",
+                        "Stray_Cats"
+                    ]
+                ],
+                -104.5026626586914
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 16.686991214752197
+    },
+    {
+        "triple": [
+            "Linyi",
+            "type",
+            "Prefecture-level_city"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Linyi",
+                        "isPartOf",
+                        "Shandong"
+                    ]
+                ],
+                5520.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.212382078170776
+    },
+    {
+        "triple": [
+            "Gmina_Janowiec_Ko%C5%9Bcielny",
+            "country",
+            "Poland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nidzica_County",
+                        "part",
+                        "Gmina_Janowiec_Ko%C5%9Bcielny"
+                    ]
+                ],
+                2657.5
+            ],
+            [
+                [
+                    [
+                        "Gmina_Janowiec_Ko%C5%9Bcielny",
+                        "type",
+                        "Gmina"
+                    ]
+                ],
+                -727.5001831054688
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.817988395690918
+    },
+    {
+        "triple": [
+            "Ribera_d%27Ebre",
+            "isPartOf",
+            "Catalonia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ribera_d%27Ebre",
+                        "timeZone",
+                        "Central_European_Summer_Time"
+                    ]
+                ],
+                18387.5
+            ],
+            [
+                [
+                    [
+                        "Ribera_d%27Ebre",
+                        "type",
+                        "Comarques_of_Catalonia"
+                    ]
+                ],
+                -19570.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.996145963668823
+    },
+    {
+        "triple": [
+            "Justicia_(plant)",
+            "division",
+            "Flowering_plant"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Justicia_(plant)",
+                        "kingdom",
+                        "Plant"
+                    ]
+                ],
+                18035.5
+            ],
+            [
+                [
+                    [
+                        "Justicia_(plant)",
+                        "order",
+                        "Asterids"
+                    ]
+                ],
+                14043.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.61722207069397
+    },
+    {
+        "triple": [
+            "John_Lawrence_LeConte",
+            "nationality",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "John_Lawrence_LeConte",
+                        "field",
+                        "Entomology"
+                    ]
+                ],
+                -57.500694274902344
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.930350542068481
+    },
+    {
+        "triple": [
+            "Ambia_(moth)",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ambia_(moth)",
+                        "class",
+                        "Insect"
+                    ]
+                ],
+                4230.5
+            ],
+            [
+                [
+                    [
+                        "Ambia_(moth)",
+                        "phylum",
+                        "Arthropod"
+                    ]
+                ],
+                60.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.76418662071228
+    },
+    {
+        "triple": [
+            "Lewisburg,_Tennessee",
+            "isPartOf",
+            "Tennessee"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lewisburg,_Tennessee",
+                        "type",
+                        "City"
+                    ]
+                ],
+                11600.5
+            ],
+            [
+                [
+                    [
+                        "Grady_Martin",
+                        "deathPlace",
+                        "Lewisburg,_Tennessee"
+                    ]
+                ],
+                -847.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.882116794586182
+    },
+    {
+        "triple": [
+            "Pitcairnia_subg._Pepinia",
+            "family",
+            "Bromeliaceae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pitcairnia_subg._Pepinia",
+                        "family",
+                        "Pitcairnioideae"
+                    ]
+                ],
+                2590.5
+            ],
+            [
+                [
+                    [
+                        "Pitcairnia_subg._Pepinia",
+                        "order",
+                        "Poales"
+                    ]
+                ],
+                195.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.975658178329468
+    },
+    {
+        "triple": [
+            "Duque_de_Caxias,_Rio_de_Janeiro",
+            "isPartOf",
+            "Southeast_Region,_Brazil"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Duque_de_Caxias,_Rio_de_Janeiro",
+                        "country",
+                        "Brazil"
+                    ]
+                ],
+                19812.5
+            ],
+            [
+                [
+                    [
+                        "Duque_de_Caxias,_Rio_de_Janeiro",
+                        "isPartOf",
+                        "Rio_de_Janeiro_(state)"
+                    ]
+                ],
+                14001.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.677454471588135
+    },
+    {
+        "triple": [
+            "Quezon",
+            "timeZone",
+            "Philippine_Standard_Time"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lucena",
+                        "isPartOf",
+                        "Quezon"
+                    ]
+                ],
+                679.5
+            ],
+            [
+                [
+                    [
+                        "Quezon",
+                        "leaderName",
+                        "National_Unity_Party_(Philippines)"
+                    ]
+                ],
+                -1718.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.471239566802979
+    },
+    {
+        "triple": [
+            "Centre-Est_Region",
+            "country",
+            "Burkina_Faso"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Boulgou_Province",
+                        "isPartOf",
+                        "Centre-Est_Region"
+                    ]
+                ],
+                -337.5
+            ],
+            [
+                [
+                    [
+                        "Boussouma_Department,_Boulgou",
+                        "isPartOf",
+                        "Centre-Est_Region"
+                    ]
+                ],
+                -5341.5
+            ],
+            [
+                [
+                    [
+                        "Boulgou_Province",
+                        "isPartOf",
+                        "Centre-Est_Region"
+                    ],
+                    [
+                        "Boussouma_Department,_Boulgou",
+                        "isPartOf",
+                        "Centre-Est_Region"
+                    ]
+                ],
+                -13642.5
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.645770788192749
+    },
+    {
+        "triple": [
+            "Ophidiasteridae",
+            "order",
+            "Valvatida"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ophidiasteridae",
+                        "kingdom",
+                        "Eumetazoa"
+                    ]
+                ],
+                2652.5
+            ],
+            [
+                [
+                    [
+                        "Ophidiasteridae",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                145.50001525878906
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.291277170181274
+    },
+    {
+        "triple": [
+            "Kohistan_District,_Pakistan",
+            "isPartOf",
+            "Khyber_Pakhtunkhwa"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kohistan_District,_Pakistan",
+                        "type",
+                        "Districts_of_Pakistan"
+                    ]
+                ],
+                12394.5
+            ],
+            [
+                [
+                    [
+                        "Kohistan_District,_Pakistan",
+                        "timeZone",
+                        "Time_in_Pakistan"
+                    ]
+                ],
+                -597.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.824521780014038
+    },
+    {
+        "triple": [
+            "Glacier_County,_Montana",
+            "country",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Glacier_County,_Montana",
+                        "state",
+                        "Montana"
+                    ]
+                ],
+                0.4814763367176056
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.049903154373169
+    },
+    {
+        "triple": [
+            "Kenneth_V._Jones",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kenneth_V._Jones",
+                        "country",
+                        "United_Kingdom"
+                    ]
+                ],
+                33296.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.40575647354126
+    },
+    {
+        "triple": [
+            "Vilkij-e_Markazi_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Vilkij-e_Markazi_Rural_District",
+                        "isPartOf",
+                        "Ardabil_province"
+                    ]
+                ],
+                24409.5
+            ],
+            [
+                [
+                    [
+                        "Vilkij-e_Markazi_Rural_District",
+                        "isPartOf",
+                        "Vilkij_District"
+                    ]
+                ],
+                -1408.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.26182770729065
+    },
+    {
+        "triple": [
+            "FC_Dinamo-93_Minsk",
+            "ground",
+            "Minsk"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FC_Dinamo-93_Minsk",
+                        "ground",
+                        "Belarus"
+                    ]
+                ],
+                21061.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.812065839767456
+    },
+    {
+        "triple": [
+            "Webster_Parish,_Louisiana",
+            "largestCity",
+            "Minden,_Louisiana"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Webster_Parish,_Louisiana",
+                        "countySeat",
+                        "Minden,_Louisiana"
+                    ]
+                ],
+                2191.5
+            ],
+            [
+                [
+                    [
+                        "Webster_Parish,_Louisiana",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                1076.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.825352907180786
+    },
+    {
+        "triple": [
+            "Gonzales,_Texas",
+            "type",
+            "City"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gonzales,_Texas",
+                        "isPartOf",
+                        "Texas"
+                    ]
+                ],
+                636.5
+            ],
+            [
+                [
+                    [
+                        "Gonzales,_Texas",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                254.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.764788150787354
+    },
+    {
+        "triple": [
+            "Massawa",
+            "timeZone",
+            "East_Africa_Time"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Massawa",
+                        "isPartOf",
+                        "Northern_Red_Sea_Region"
+                    ]
+                ],
+                19080.5
+            ],
+            [
+                [
+                    [
+                        "Massawa",
+                        "country",
+                        "Eritrea"
+                    ]
+                ],
+                2810.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.284592628479004
+    },
+    {
+        "triple": [
+            "Mohsen_Makhmalbaf",
+            "stateOfOrigin",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mohsen_Makhmalbaf",
+                        "award",
+                        "Federico_Fellini"
+                    ]
+                ],
+                3272.5
+            ],
+            [
+                [
+                    [
+                        "Mohsen_Makhmalbaf",
+                        "nationality",
+                        "Iran"
+                    ]
+                ],
+                -1467.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.935137748718262
+    },
+    {
+        "triple": [
+            "Sukhothai_F.C.",
+            "ground",
+            "Thailand"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sukhothai_F.C.",
+                        "league",
+                        "Thai_League_1"
+                    ]
+                ],
+                -3112.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.73715615272522
+    },
+    {
+        "triple": [
+            "Kamfiruz-e_Shomali_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kamfiruz-e_Shomali_Rural_District",
+                        "isPartOf",
+                        "Fars_province"
+                    ]
+                ],
+                486.5
+            ],
+            [
+                [
+                    [
+                        "Kamfiruz-e_Shomali_Rural_District",
+                        "isPartOf",
+                        "Marvdasht_County"
+                    ]
+                ],
+                -420.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.987369537353516
+    },
+    {
+        "triple": [
+            "Nakasero",
+            "isPartOf",
+            "Central_Region,_Uganda"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nakasero",
+                        "isPartOf",
+                        "Uganda"
+                    ]
+                ],
+                264.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.367711782455444
+    },
+    {
+        "triple": [
+            "CS_Mioveni",
+            "league",
+            "Liga_II"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "CS_Mioveni",
+                        "position",
+                        "Liga_II"
+                    ]
+                ],
+                30204.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.11046838760376
+    },
+    {
+        "triple": [
+            "Foligno",
+            "region",
+            "Umbria"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Foligno",
+                        "province",
+                        "Province_of_Perugia"
+                    ]
+                ],
+                22170.5
+            ],
+            [
+                [
+                    [
+                        "Foligno",
+                        "country",
+                        "Italy"
+                    ]
+                ],
+                12537.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.928647518157959
+    },
+    {
+        "triple": [
+            "Lou_Breslow",
+            "occupation",
+            "Screenwriter"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lou_Breslow",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                -3691.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.873959064483643
+    },
+    {
+        "triple": [
+            "Ashford,_Surrey",
+            "country",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ashford,_Surrey",
+                        "district",
+                        "Borough_of_Spelthorne"
+                    ]
+                ],
+                16695.5
+            ],
+            [
+                [
+                    [
+                        "Mungo_Jerry",
+                        "hometown",
+                        "Ashford,_Surrey"
+                    ]
+                ],
+                -23614.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.761963844299316
+    },
+    {
+        "triple": [
+            "Selangor_F.C._II",
+            "league",
+            "Malaysia_Premier_League"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Selangor_F.C._II",
+                        "position",
+                        "Malaysia_Premier_League"
+                    ]
+                ],
+                -879.5
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.044938325881958
+    },
+    {
+        "triple": [
+            "Communist_Party_USA",
+            "ideology",
+            "Communism"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Communist_Party_USA",
+                        "internationalAffiliation",
+                        "International_Meeting_of_Communist_and_Workers%27_Parties"
+                    ]
+                ],
+                13865.5
+            ],
+            [
+                [
+                    [
+                        "Communist_Party_USA",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -10609.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.87021279335022
+    },
+    {
+        "triple": [
+            "Subiaco,_Western_Australia",
+            "country",
+            "Australia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ben_Glatzer",
+                        "birthPlace",
+                        "Subiaco,_Western_Australia"
+                    ]
+                ],
+                5961.5
+            ],
+            [
+                [
+                    [
+                        "George_Cash",
+                        "birthPlace",
+                        "Subiaco,_Western_Australia"
+                    ]
+                ],
+                -6195.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.414849758148193
+    },
+    {
+        "triple": [
+            "Balghelu_Rural_District",
+            "country",
+            "Iran"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Balghelu_Rural_District",
+                        "isPartOf",
+                        "Central_District_(Ardabil_County)"
+                    ]
+                ],
+                41394.5
+            ],
+            [
+                [
+                    [
+                        "Balghelu_Rural_District",
+                        "isPartOf",
+                        "Ardabil_province"
+                    ]
+                ],
+                9886.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.88768219947815
+    },
+    {
+        "triple": [
+            "Symmetrischema",
+            "order",
+            "Lepidoptera"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Symmetrischema",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                6965.5
+            ],
+            [
+                [
+                    [
+                        "Symmetrischema",
+                        "phylum",
+                        "Arthropod"
+                    ]
+                ],
+                -691.5
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 10.783230781555176
+    },
+    {
+        "triple": [
+            "Verde_River",
+            "state",
+            "Arizona"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Verde_River",
+                        "district",
+                        "Yavapai_County,_Arizona"
+                    ]
+                ],
+                3092.5
+            ],
+            [
+                [
+                    [
+                        "Verde_River",
+                        "district",
+                        "Gila_County,_Arizona"
+                    ]
+                ],
+                411.5000305175781
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.709334135055542
+    }
+]

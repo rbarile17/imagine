@@ -1,0 +1,2517 @@
+[
+    {
+        "triple_to_explain": [
+            "Halifax_R.L.F.C.",
+            "sport",
+            "Rugby_league"
+        ],
+        "rule": [
+            [
+                "Halifax_R.L.F.C.",
+                "location",
+                "West_Yorkshire"
+            ],
+            [
+                "Alan_Marshal_(actor)",
+                "memberOf",
+                "Halifax_R.L.F.C."
+            ]
+        ],
+        "score": "4.012781573692337e-05",
+        "rank": "91",
+        "new_score": "8.422981778721805e-08",
+        "new_rank": "11665"
+    },
+    {
+        "triple_to_explain": [
+            "Prince_Charles_of_Hesse-Kassel",
+            "givenName",
+            "Karel_(given_name)"
+        ],
+        "rule": [
+            [
+                "Prince_Charles_of_Hesse-Kassel",
+                "award",
+                "Karel_(given_name)"
+            ],
+            [
+                "Prince_Charles_of_Hesse-Kassel",
+                "award",
+                "Karel_Effa"
+            ],
+            [
+                "Prince_Charles_of_Hesse-Kassel",
+                "award",
+                "Karel_He\u0159m\u00e1nek"
+            ],
+            [
+                "Prince_Charles_of_Hesse-Kassel",
+                "award",
+                "Karel_Svoboda_(composer)"
+            ]
+        ],
+        "score": "3.4710730687947944e-05",
+        "rank": "508",
+        "new_score": "0.6673486828804016",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bandu_Samarasinghe",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Alexandra_Paul",
+                "children",
+                "Bandu_Samarasinghe"
+            ],
+            [
+                "Bandu_Samarasinghe",
+                "award",
+                "A._V._Bramble"
+            ]
+        ],
+        "score": "0.0036107017658650875",
+        "rank": "8",
+        "new_score": "0.08737777918577194",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Glay",
+            "genre",
+            "Rock_music"
+        ],
+        "rule": [
+            [
+                "Dangerous_(Michael_Jackson_album)",
+                "byArtist",
+                "Glay"
+            ],
+            [
+                "Glay",
+                "genre",
+                "Post-grunge"
+            ],
+            [
+                "Red_(Taylor_Swift_album)",
+                "byArtist",
+                "Glay"
+            ]
+        ],
+        "score": "0.0022338139824569225",
+        "rank": "105",
+        "new_score": "0.008664252236485481",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Luca_Signorelli",
+            "deathPlace",
+            "Cortona"
+        ],
+        "rule": [
+            [
+                "Luca_Signorelli",
+                "homeLocation",
+                "Cortona"
+            ],
+            [
+                "Luca_Signorelli",
+                "deathPlace",
+                "Montevarchi"
+            ],
+            [
+                "Luca_Signorelli",
+                "deathPlace",
+                "Poppi"
+            ],
+            [
+                "Luca_Signorelli",
+                "homeLocation",
+                "Montevarchi"
+            ]
+        ],
+        "score": "0.006864889990538359",
+        "rank": "5",
+        "new_score": "0.6113461256027222",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dielsdorf_District",
+            "containsPlace",
+            "Dielsdorf"
+        ],
+        "rule": [
+            [
+                "Dielsdorf_District",
+                "containedInPlace",
+                "Horgen_District"
+            ],
+            [
+                "Dielsdorf_District",
+                "containedInPlace",
+                "Switzerland"
+            ]
+        ],
+        "score": "0.0008366609690710902",
+        "rank": "23",
+        "new_score": "0.05685476213693619",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Casimir_I_of_Kuyavia",
+            "hasOccupation",
+            "Aristocracy_(class)"
+        ],
+        "rule": [
+            [
+                "Casimir_I_of_Kuyavia",
+                "award",
+                "Adolf,_Duke_of_Holstein-Gottorp"
+            ]
+        ],
+        "score": "6.493678483820986e-07",
+        "rank": "1352",
+        "new_score": "5.072814383311197e-05",
+        "new_rank": "176"
+    },
+    {
+        "triple_to_explain": [
+            "Conrad_Wiene",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule": [
+            [
+                "Conrad_Wiene",
+                "award",
+                "Aaron_Stanford"
+            ]
+        ],
+        "score": "0.00010678263788577169",
+        "rank": "24",
+        "new_score": "8.995821553980932e-05",
+        "new_rank": "31"
+    },
+    {
+        "triple_to_explain": [
+            "Eckernf\u00f6rde",
+            "location",
+            "Rendsburg-Eckernf\u00f6rde"
+        ],
+        "rule": [
+            [
+                "Eckernf\u00f6rde",
+                "containedInPlace",
+                "Schleswig-Flensburg"
+            ],
+            [
+                "Eckernf\u00f6rde",
+                "containedInPlace",
+                "Cloppenburg_(district)"
+            ],
+            [
+                "Eckernf\u00f6rde",
+                "containedInPlace",
+                "Harburg_(district)"
+            ]
+        ],
+        "score": "0.29992035031318665",
+        "rank": "2",
+        "new_score": "0.8362752199172974",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Harald_Hardrada",
+            "nationality",
+            "Byzantine_Empire"
+        ],
+        "rule": [
+            [
+                "Harald_Hardrada",
+                "award",
+                "John_II_Komnenos"
+            ],
+            [
+                "Harald_Hardrada",
+                "award",
+                "Manuel_I_of_Trebizond"
+            ],
+            [
+                "Harald_Hardrada",
+                "award",
+                "Theodora_of_Arta"
+            ]
+        ],
+        "score": "4.112967872060835e-06",
+        "rank": "736",
+        "new_score": "1.5422950809806935e-06",
+        "new_rank": "4060"
+    },
+    {
+        "triple_to_explain": [
+            "Caesalpinieae",
+            "taxonRank",
+            "Tribe_(biology)"
+        ],
+        "rule": [
+            [
+                "Caesalpinieae",
+                "parentTaxon",
+                "Areceae"
+            ],
+            [
+                "Caesalpinieae",
+                "parentTaxon",
+                "Astereae"
+            ],
+            [
+                "Caesalpinieae",
+                "parentTaxon",
+                "Bidessini"
+            ],
+            [
+                "Caesalpinieae",
+                "parentTaxon",
+                "Cacteae"
+            ]
+        ],
+        "score": "1.6983596751174446e-08",
+        "rank": "15433",
+        "new_score": "4.127841293666279e-06",
+        "new_rank": "730"
+    },
+    {
+        "triple_to_explain": [
+            "Lubin_Manufacturing_Company",
+            "foundingLocation",
+            "Philadelphia"
+        ],
+        "rule": [
+            [
+                "10th_&_Wolf",
+                "award",
+                "Lubin_Manufacturing_Company"
+            ],
+            [
+                "Alexander_Haig",
+                "award",
+                "Lubin_Manufacturing_Company"
+            ],
+            [
+                "Alexander_Haig",
+                "memberOf",
+                "Lubin_Manufacturing_Company"
+            ]
+        ],
+        "score": "4.97486053063767e-06",
+        "rank": "1617",
+        "new_score": "0.09842024743556976",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Swimming_at_the_1936_Summer_Olympics",
+            "superEvent",
+            "1936_Summer_Olympics"
+        ],
+        "rule": [
+            [
+                "A_Woman_in_Berlin_(film)",
+                "about",
+                "Swimming_at_the_1936_Summer_Olympics"
+            ],
+            [
+                "Adolf_G\u00e4rtner",
+                "award",
+                "Swimming_at_the_1936_Summer_Olympics"
+            ],
+            [
+                "Adolf_von_Baeyer",
+                "award",
+                "Swimming_at_the_1936_Summer_Olympics"
+            ],
+            [
+                "Alexandra_Maria_Lara",
+                "award",
+                "Swimming_at_the_1936_Summer_Olympics"
+            ]
+        ],
+        "score": "0.008854164741933346",
+        "rank": "2",
+        "new_score": "0.0008111309725791216",
+        "new_rank": "28"
+    },
+    {
+        "triple_to_explain": [
+            "Maria_de_la_Cerda_y_de_Lara",
+            "givenName",
+            "Maria_(given_name)"
+        ],
+        "rule": [
+            [
+                "Maria_de_la_Cerda_y_de_Lara",
+                "award",
+                "Halle_Berry"
+            ]
+        ],
+        "score": "8.252682164311409e-05",
+        "rank": "293",
+        "new_score": "0.00024169968673959374",
+        "new_rank": "125"
+    },
+    {
+        "triple_to_explain": [
+            "Camel_(band)",
+            "genre",
+            "Space_rock"
+        ],
+        "rule": [
+            [
+                "Camel_(band)",
+                "founder",
+                "David_Gilmour"
+            ],
+            [
+                "Camel_(band)",
+                "foundingLocation",
+                "Hanover"
+            ],
+            [
+                "Camel_(band)",
+                "genre",
+                "Hard_rock"
+            ]
+        ],
+        "score": "0.00028400952578522265",
+        "rank": "37",
+        "new_score": "0.013568900525569916",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Wichita_State_Shockers",
+            "sport",
+            "Baseball"
+        ],
+        "rule": [
+            [
+                "Batavia_Muckdogs",
+                "parentOrganization",
+                "Wichita_State_Shockers"
+            ],
+            [
+                "Boston_Red_Sox",
+                "parentOrganization",
+                "Wichita_State_Shockers"
+            ]
+        ],
+        "score": "0.0014989953488111496",
+        "rank": "5",
+        "new_score": "0.012464089319109917",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Big_Brother_Brasil",
+            "isBasedOn",
+            "Big_Brother_(franchise)"
+        ],
+        "rule": [
+            [
+                "Big_Brother_Brasil",
+                "inLanguage",
+                "Italian_language"
+            ],
+            [
+                "Big_Brother_Brasil",
+                "actor",
+                "Ada_Colangeli"
+            ],
+            [
+                "Big_Brother_Brasil",
+                "actor",
+                "Adam_Bernstein"
+            ],
+            [
+                "Big_Brother_Brasil",
+                "actor",
+                "Adolfo_Celi"
+            ]
+        ],
+        "score": "0.00037486993824131787",
+        "rank": "87",
+        "new_score": "0.0009416345274075866",
+        "new_rank": "19"
+    },
+    {
+        "triple_to_explain": [
+            "Winchester,_Kentucky",
+            "location",
+            "Clark_County,_Kentucky"
+        ],
+        "rule": [
+            [
+                "Winchester,_Kentucky",
+                "containedInPlace",
+                "Winchester,_Kentucky"
+            ],
+            [
+                "Arthur_Lake_(actor)",
+                "deathPlace",
+                "Winchester,_Kentucky"
+            ],
+            [
+                "Bath_County,_Kentucky",
+                "containsPlace",
+                "Winchester,_Kentucky"
+            ]
+        ],
+        "score": "0.004019124899059534",
+        "rank": "27",
+        "new_score": "0.1655219942331314",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "The_Ex_(band)",
+            "genre",
+            "Art_rock"
+        ],
+        "rule": [
+            [
+                "Pet_Sounds",
+                "byArtist",
+                "The_Ex_(band)"
+            ]
+        ],
+        "score": "1.4164452011300455e-07",
+        "rank": "11771",
+        "new_score": "1.9013435803572065e-06",
+        "new_rank": "4297"
+    },
+    {
+        "triple_to_explain": [
+            "Dalbergieae",
+            "taxonRank",
+            "Tribe_(biology)"
+        ],
+        "rule": [
+            [
+                "Dalbergieae",
+                "parentTaxon",
+                "Blondeliini"
+            ],
+            [
+                "Dalbergieae",
+                "parentTaxon",
+                "Gnaphalieae"
+            ]
+        ],
+        "score": "0.00012131516996305436",
+        "rank": "2",
+        "new_score": "0.0009788627503439784",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Luise_Fleck",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule": [
+            [
+                "Luise_Fleck",
+                "award",
+                "Abdellatif_Kechiche"
+            ]
+        ],
+        "score": "3.1290677725337446e-05",
+        "rank": "37",
+        "new_score": "0.0001230296620633453",
+        "new_rank": "36"
+    },
+    {
+        "triple_to_explain": [
+            "U.D.O.",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule": [
+            [
+                "Bohemian_Rhapsody_(film)",
+                "about",
+                "U.D.O."
+            ]
+        ],
+        "score": "0.00023901206441223621",
+        "rank": "148",
+        "new_score": "0.24494941532611847",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Antonio_da_Correggio",
+            "givenName",
+            "Antonio"
+        ],
+        "rule": [
+            [
+                "Antonio_da_Correggio",
+                "familyName",
+                "Antonio"
+            ]
+        ],
+        "score": "0.001666089752689004",
+        "rank": "28",
+        "new_score": "0.9998376369476318",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Louis_Fan_(actor)",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "I_Know_That_Voice",
+                "actor",
+                "Louis_Fan_(actor)"
+            ]
+        ],
+        "score": "0.09893004596233368",
+        "rank": "2",
+        "new_score": "0.343386709690094",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Neutral_Bay,_New_South_Wales",
+            "containedInPlace",
+            "Division_of_Warringah"
+        ],
+        "rule": [
+            [
+                "Adam_Federici",
+                "birthPlace",
+                "Neutral_Bay,_New_South_Wales"
+            ]
+        ],
+        "score": "0.00017384340753778815",
+        "rank": "452",
+        "new_score": "0.000337195087922737",
+        "new_rank": "105"
+    },
+    {
+        "triple_to_explain": [
+            "Kaizoku_Sentai_Gokaiger_the_Movie:_The_Flying_Ghost_Ship",
+            "actor",
+            "Kenji_Utsumi"
+        ],
+        "rule": [
+            [
+                "Kaizoku_Sentai_Gokaiger_the_Movie:_The_Flying_Ghost_Ship",
+                "producer",
+                "Kenji_Utsumi"
+            ],
+            [
+                "Kaizoku_Sentai_Gokaiger_the_Movie:_The_Flying_Ghost_Ship",
+                "isBasedOn",
+                "Dragon_Ball_Z:_Lord_Slug"
+            ],
+            [
+                "Kaizoku_Sentai_Gokaiger_the_Movie:_The_Flying_Ghost_Ship",
+                "actor",
+                "Akemi_Negishi"
+            ]
+        ],
+        "score": "0.00016664006398059428",
+        "rank": "152",
+        "new_score": "0.3292057514190674",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Savatage",
+            "genre",
+            "Progressive_metal"
+        ],
+        "rule": [
+            [
+                "Savatage",
+                "foundingLocation",
+                "Haugesund"
+            ],
+            [
+                "Savatage",
+                "foundingLocation",
+                "Hemel_Hempstead"
+            ]
+        ],
+        "score": "1.7295946236117743e-05",
+        "rank": "137",
+        "new_score": "0.0038131806068122387",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Neuss",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule": [
+            [
+                "1._FFC_Frankfurt",
+                "foundingLocation",
+                "Neuss"
+            ],
+            [
+                "Accept_(band)",
+                "foundingLocation",
+                "Neuss"
+            ]
+        ],
+        "score": "0.0008119603153318167",
+        "rank": "11",
+        "new_score": "0.06485691666603088",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Yellowstone_National_Park",
+            "containedInPlace",
+            "Montana"
+        ],
+        "rule": [
+            [
+                "Yellowstone_National_Park",
+                "containedInPlace",
+                "Connecticut"
+            ],
+            [
+                "Yellowstone_National_Park",
+                "containedInPlace",
+                "Delaware"
+            ]
+        ],
+        "score": "0.0004887596587650478",
+        "rank": "24",
+        "new_score": "0.002850035671144724",
+        "new_rank": "21"
+    },
+    {
+        "triple_to_explain": [
+            "Bebu_Silvetti",
+            "hasOccupation",
+            "Pianist"
+        ],
+        "rule": [
+            [
+                "Bebu_Silvetti",
+                "award",
+                "Alan_Hovhaness"
+            ]
+        ],
+        "score": "5.977352944205871e-14",
+        "rank": "96847",
+        "new_score": "4.555302357545088e-09",
+        "new_rank": "56899"
+    },
+    {
+        "triple_to_explain": [
+            "Dharamshala",
+            "containedInPlace",
+            "Kangra_district"
+        ],
+        "rule": [
+            [
+                "Kangra_district",
+                "containsPlace",
+                "Dharamshala"
+            ],
+            [
+                "Krrish",
+                "contentLocation",
+                "Dharamshala"
+            ],
+            [
+                "Yami_Gautam",
+                "deathPlace",
+                "Dharamshala"
+            ],
+            [
+                "A._Jagannathan",
+                "deathPlace",
+                "Dharamshala"
+            ]
+        ],
+        "score": "1.5099925576578244e-07",
+        "rank": "17502",
+        "new_score": "0.3454727530479431",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Y\u0131lmaz_Erdo\u011fan",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Y\u0131lmaz_Erdo\u011fan",
+                "award",
+                "A._J._Cronin"
+            ]
+        ],
+        "score": "0.018455693498253822",
+        "rank": "2",
+        "new_score": "5.893623438169016e-07",
+        "new_rank": "5833"
+    },
+    {
+        "triple_to_explain": [
+            "Little_Feat",
+            "genre",
+            "Hard_rock"
+        ],
+        "rule": [
+            [
+                "Little_Feat",
+                "genre",
+                "Glam_metal"
+            ],
+            [
+                "Appetite_for_Destruction",
+                "byArtist",
+                "Little_Feat"
+            ],
+            [
+                "Axl_Rose",
+                "memberOf",
+                "Little_Feat"
+            ],
+            [
+                "Eric_Clapton",
+                "memberOf",
+                "Little_Feat"
+            ]
+        ],
+        "score": "0.0010869140969589353",
+        "rank": "33",
+        "new_score": "0.041163746267557144",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Horsham,_Victoria",
+            "containedInPlace",
+            "Electoral_district_of_Lowan"
+        ],
+        "rule": [
+            [
+                "Horsham,_Victoria",
+                "containedInPlace",
+                "Electoral_district_of_Murray_Plains"
+            ],
+            [
+                "Horsham,_Victoria",
+                "containedInPlace",
+                "Electoral_district_of_Ripon"
+            ],
+            [
+                "Horsham,_Victoria",
+                "containedInPlace",
+                "Rural_City_of_Swan_Hill"
+            ],
+            [
+                "Horsham,_Victoria",
+                "containedInPlace",
+                "Shire_of_Corangamite"
+            ]
+        ],
+        "score": "0.00978181604295969",
+        "rank": "19",
+        "new_score": "0.13947826623916626",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Mangifera_indica",
+            "taxonRank",
+            "Species"
+        ],
+        "rule": [
+            [
+                "Mangifera_indica",
+                "parentTaxon",
+                "Nectriaceae"
+            ]
+        ],
+        "score": "7.664681470487267e-05",
+        "rank": "4",
+        "new_score": "2.679329008969944e-05",
+        "new_rank": "263"
+    },
+    {
+        "triple_to_explain": [
+            "Saran_(director)",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Saran_(director)",
+                "award",
+                "A._C._Tirulokchandar"
+            ],
+            [
+                "Saran_(director)",
+                "award",
+                "A._L._Vijay"
+            ]
+        ],
+        "score": "0.2696661949157715",
+        "rank": "2",
+        "new_score": "3.679192013805732e-05",
+        "new_rank": "146"
+    },
+    {
+        "triple_to_explain": [
+            "Ibagu\u00e9",
+            "location",
+            "Tolima_Department"
+        ],
+        "rule": [
+            [
+                "Alex_Comas",
+                "birthPlace",
+                "Ibagu\u00e9"
+            ],
+            [
+                "Daniel_Felipe_Mart\u00ednez",
+                "deathPlace",
+                "Ibagu\u00e9"
+            ]
+        ],
+        "score": "0.011260125786066055",
+        "rank": "9",
+        "new_score": "0.16771431267261505",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Small_Isles",
+            "containedInPlace",
+            "Inner_Hebrides"
+        ],
+        "rule": [
+            [
+                "Small_Isles",
+                "containedInPlace",
+                "Aberdeenshire"
+            ],
+            [
+                "Small_Isles",
+                "containedInPlace",
+                "Midlothian"
+            ],
+            [
+                "Small_Isles",
+                "containedInPlace",
+                "Bergen_County,_New_Jersey"
+            ]
+        ],
+        "score": "0.00025351817021146417",
+        "rank": "167",
+        "new_score": "0.0001382452464895323",
+        "new_rank": "413"
+    },
+    {
+        "triple_to_explain": [
+            "Candlemass_(band)",
+            "genre",
+            "Doom_metal"
+        ],
+        "rule": [
+            [
+                "A_Night_at_the_Opera_(Queen_album)",
+                "byArtist",
+                "Candlemass_(band)"
+            ],
+            [
+                "Across_the_Universe_(film)",
+                "musicBy",
+                "Candlemass_(band)"
+            ]
+        ],
+        "score": "8.1330792454537e-05",
+        "rank": "110",
+        "new_score": "5.17188964295201e-05",
+        "new_rank": "191"
+    },
+    {
+        "triple_to_explain": [
+            "Biha\u0107",
+            "containedInPlace",
+            "Una-Sana_Canton"
+        ],
+        "rule": [
+            [
+                "Biha\u0107",
+                "containedInPlace",
+                "Agdam_District"
+            ],
+            [
+                "Biha\u0107",
+                "containedInPlace",
+                "Alagoas"
+            ],
+            [
+                "Biha\u0107",
+                "containedInPlace",
+                "Al\u016bksne_Municipality"
+            ],
+            [
+                "Biha\u0107",
+                "containedInPlace",
+                "Arima"
+            ]
+        ],
+        "score": "0.0001381963666062802",
+        "rank": "399",
+        "new_score": "6.333612691378221e-05",
+        "new_rank": "1580"
+    },
+    {
+        "triple_to_explain": [
+            "Canton_of_Cavaillon",
+            "containsPlace",
+            "Cavaillon"
+        ],
+        "rule": [
+            [
+                "Canton_of_Cavaillon",
+                "containsPlace",
+                "Vaison-la-Romaine"
+            ],
+            [
+                "Carpentras",
+                "containedInPlace",
+                "Canton_of_Cavaillon"
+            ]
+        ],
+        "score": "0.026428358629345894",
+        "rank": "4",
+        "new_score": "0.13603508472442627",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Hans_Holbein_the_Younger",
+            "deathPlace",
+            "London"
+        ],
+        "rule": [
+            [
+                "101_Dalmatians_(1996_film)",
+                "director",
+                "Hans_Holbein_the_Younger"
+            ],
+            [
+                "102_Dalmatians",
+                "director",
+                "Hans_Holbein_the_Younger"
+            ],
+            [
+                "102_Dalmatians",
+                "producer",
+                "Hans_Holbein_the_Younger"
+            ]
+        ],
+        "score": "0.0003324980498291552",
+        "rank": "82",
+        "new_score": "0.00011456768697826192",
+        "new_rank": "36"
+    },
+    {
+        "triple_to_explain": [
+            "Qian_Yuanguan",
+            "familyName",
+            "Qian_(surname)"
+        ],
+        "rule": [
+            [
+                "Qian_Yuanguan",
+                "award",
+                "Chin_Ka-lok"
+            ],
+            [
+                "Qian_Yuanguan",
+                "familyName",
+                "Chin_Ka-lok"
+            ],
+            [
+                "Qian_Yuanguan",
+                "worksFor",
+                "Chin_Ka-lok"
+            ],
+            [
+                "Cold_War_(2012_film)",
+                "character",
+                "Qian_Yuanguan"
+            ]
+        ],
+        "score": "0.0001504429819760844",
+        "rank": "290",
+        "new_score": "0.00011438702495070174",
+        "new_rank": "134"
+    },
+    {
+        "triple_to_explain": [
+            "Pink_Friday:_Roman_Reloaded",
+            "producer",
+            "Alex_da_Kid"
+        ],
+        "rule": [
+            [
+                "'71_(film)",
+                "isBasedOn",
+                "Pink_Friday:_Roman_Reloaded"
+            ],
+            [
+                "4.3.2.1.",
+                "isBasedOn",
+                "Pink_Friday:_Roman_Reloaded"
+            ],
+            [
+                "7_Seconds_(film)",
+                "isBasedOn",
+                "Pink_Friday:_Roman_Reloaded"
+            ]
+        ],
+        "score": "0.00023063774278853089",
+        "rank": "58",
+        "new_score": "0.00013140239752829075",
+        "new_rank": "56"
+    },
+    {
+        "triple_to_explain": [
+            "Slayer",
+            "genre",
+            "Thrash_metal"
+        ],
+        "rule": [
+            [
+                "Slayer",
+                "foundingLocation",
+                "Arlington,_Texas"
+            ],
+            [
+                "Slayer",
+                "foundingLocation",
+                "Bayonne"
+            ],
+            [
+                "Slayer",
+                "foundingLocation",
+                "Bergen"
+            ],
+            [
+                "Slayer",
+                "foundingLocation",
+                "Gelsenkirchen"
+            ]
+        ],
+        "score": "0.021496783941984177",
+        "rank": "4",
+        "new_score": "0.17639146745204926",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "James_A._Contner",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule": [
+            [
+                "James_A._Contner",
+                "award",
+                "Abbas_Kiarostami"
+            ]
+        ],
+        "score": "0.003812566166743636",
+        "rank": "6",
+        "new_score": "7.508735870942473e-05",
+        "new_rank": "61"
+    },
+    {
+        "triple_to_explain": [
+            "SoftBank_Group",
+            "memberOf",
+            "World_Wide_Web_Consortium"
+        ],
+        "rule": [
+            [
+                "Siemens",
+                "parentOrganization",
+                "SoftBank_Group"
+            ],
+            [
+                "SoftBank_Group",
+                "founder",
+                "Tim_Berners-Lee"
+            ],
+            [
+                "SoftBank_Group",
+                "parentOrganization",
+                "Siemens"
+            ]
+        ],
+        "score": "0.0644119381904602",
+        "rank": "4",
+        "new_score": "0.12734892964363098",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Ciego_de_\u00c1vila",
+            "location",
+            "Ciego_de_\u00c1vila_Province"
+        ],
+        "rule": [
+            [
+                "Ciego_de_\u00c1vila",
+                "containedInPlace",
+                "La_Habana_Province"
+            ]
+        ],
+        "score": "0.03165338933467865",
+        "rank": "6",
+        "new_score": "0.23979926109313965",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Canton_of_La_Conca-d'Oro",
+            "containedInPlace",
+            "Haute-Corse"
+        ],
+        "rule": [
+            [
+                "Arrondissement_of_Sart\u00e8ne",
+                "containsPlace",
+                "Canton_of_La_Conca-d'Oro"
+            ]
+        ],
+        "score": "0.0028575637843459845",
+        "rank": "20",
+        "new_score": "0.10206922143697739",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Yasunori_Mitsuda",
+            "hasOccupation",
+            "Pianist"
+        ],
+        "rule": [
+            [
+                "Yasunori_Mitsuda",
+                "award",
+                "Alfred_Brendel"
+            ]
+        ],
+        "score": "2.4736418708926067e-05",
+        "rank": "99",
+        "new_score": "9.28773360442392e-08",
+        "new_rank": "25290"
+    },
+    {
+        "triple_to_explain": [
+            "Lochalsh",
+            "containedInPlace",
+            "Ross_and_Cromarty"
+        ],
+        "rule": [
+            [
+                "Lochalsh",
+                "containedInPlace",
+                "Sutherland"
+            ],
+            [
+                "Lochalsh",
+                "containedInPlace",
+                "Gallipoli"
+            ]
+        ],
+        "score": "0.0008393783355131745",
+        "rank": "20",
+        "new_score": "0.1551772505044937",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Poco",
+            "genre",
+            "Country_music"
+        ],
+        "rule": [
+            [
+                "Poco",
+                "award",
+                "Grammy_Lifetime_Achievement_Award"
+            ],
+            [
+                "Poco",
+                "award",
+                "MTV_Video_Music_Award_for_Best_Cinematography"
+            ],
+            [
+                "Poco",
+                "founder",
+                "Ronnie_Wood"
+            ]
+        ],
+        "score": "0.00014851821470074356",
+        "rank": "169",
+        "new_score": "0.0005705892108380795",
+        "new_rank": "34"
+    },
+    {
+        "triple_to_explain": [
+            "The_Late_Late_Show_with_Craig_Ferguson",
+            "creator",
+            "David_Letterman"
+        ],
+        "rule": [
+            [
+                "The_Late_Late_Show_with_Craig_Ferguson",
+                "about",
+                "David_Letterman"
+            ],
+            [
+                "The_Late_Late_Show_with_Craig_Ferguson",
+                "producer",
+                "David_Letterman"
+            ],
+            [
+                "Cabin_Boy",
+                "isBasedOn",
+                "The_Late_Late_Show_with_Craig_Ferguson"
+            ]
+        ],
+        "score": "4.951880328007974e-06",
+        "rank": "5256",
+        "new_score": "0.9912136197090149",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Seiji_Kameda",
+            "birthPlace",
+            "New_York_City"
+        ],
+        "rule": [
+            [
+                "Seiji_Kameda",
+                "homeLocation",
+                "New_York_City"
+            ],
+            [
+                "13_Going_on_30",
+                "director",
+                "Seiji_Kameda"
+            ],
+            [
+                "15_Minutes",
+                "author",
+                "Seiji_Kameda"
+            ]
+        ],
+        "score": "8.378709992484801e-08",
+        "rank": "21778",
+        "new_score": "0.25270354747772217",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Procol_Harum",
+            "genre",
+            "Progressive_rock"
+        ],
+        "rule": [
+            [
+                "OK_Computer",
+                "byArtist",
+                "Procol_Harum"
+            ],
+            [
+                "We_Can't_Dance",
+                "byArtist",
+                "Procol_Harum"
+            ],
+            [
+                "Greg_Lake",
+                "memberOf",
+                "Procol_Harum"
+            ],
+            [
+                "Lemmy",
+                "memberOf",
+                "Procol_Harum"
+            ]
+        ],
+        "score": "4.238595283823088e-05",
+        "rank": "341",
+        "new_score": "1.7454902263125405e-05",
+        "new_rank": "447"
+    },
+    {
+        "triple_to_explain": [
+            "Die_Fantastischen_Vier",
+            "foundingLocation",
+            "Stuttgart"
+        ],
+        "rule": [
+            [
+                "Alfred_Weidenmann",
+                "memberOf",
+                "Die_Fantastischen_Vier"
+            ],
+            [
+                "Die_Fantastischen_Vier",
+                "founder",
+                "Frederick_II_Eugene,_Duke_of_W\u00fcrttemberg"
+            ],
+            [
+                "Die_Fantastischen_Vier",
+                "founder",
+                "Frederik_Wiedmann"
+            ],
+            [
+                "Die_Fantastischen_Vier",
+                "founder",
+                "Friedrich_Feher"
+            ]
+        ],
+        "score": "6.911984087309975e-07",
+        "rank": "8771",
+        "new_score": "0.0002512890787329525",
+        "new_rank": "98"
+    },
+    {
+        "triple_to_explain": [
+            "Grand_Valley_State_University",
+            "memberOf",
+            "Digital_Library_Federation"
+        ],
+        "rule": [
+            [
+                "Grand_Valley_State_University",
+                "parentOrganization",
+                "Columbia_University"
+            ]
+        ],
+        "score": "0.0009066356578841805",
+        "rank": "11",
+        "new_score": "0.0001375549181830138",
+        "new_rank": "56"
+    },
+    {
+        "triple_to_explain": [
+            "Pearl_White",
+            "nationality",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "Pearl_White",
+                "deathPlace",
+                "United_States"
+            ]
+        ],
+        "score": "0.027195358648896217",
+        "rank": "2",
+        "new_score": "1.0",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Prince_Fushimi_Kuniie",
+            "nationality",
+            "Japan"
+        ],
+        "rule": [
+            [
+                "11'09%2201_September_11",
+                "producer",
+                "Prince_Fushimi_Kuniie"
+            ],
+            [
+                "13_Assassins_(2010_film)",
+                "character",
+                "Prince_Fushimi_Kuniie"
+            ]
+        ],
+        "score": "0.02573903277516365",
+        "rank": "3",
+        "new_score": "0.44728344678878784",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Madison,_Indiana",
+            "location",
+            "Jefferson_County,_Indiana"
+        ],
+        "rule": [
+            [
+                "Jefferson_County,_Indiana",
+                "containedInPlace",
+                "Madison,_Indiana"
+            ],
+            [
+                "Adams_County,_Indiana",
+                "containedInPlace",
+                "Madison,_Indiana"
+            ],
+            [
+                "Allen_County,_Indiana",
+                "containsPlace",
+                "Madison,_Indiana"
+            ]
+        ],
+        "score": "0.013787945732474327",
+        "rank": "12",
+        "new_score": "0.3510391414165497",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Cusco",
+            "containedInPlace",
+            "Department_of_Cuzco"
+        ],
+        "rule": [
+            [
+                "Cusco",
+                "containedInPlace",
+                "Chumbivilcas_Province"
+            ],
+            [
+                "Cusco",
+                "containedInPlace",
+                "Espinar_Province"
+            ],
+            [
+                "Cusco",
+                "containedInPlace",
+                "La_Convenci\u00f3n_Province"
+            ]
+        ],
+        "score": "0.00013188707816880196",
+        "rank": "398",
+        "new_score": "0.0003937541914638132",
+        "new_rank": "412"
+    },
+    {
+        "triple_to_explain": [
+            "Dina_Gralla",
+            "deathPlace",
+            "Berlin"
+        ],
+        "rule": [
+            [
+                "1864_(TV_series)",
+                "character",
+                "Dina_Gralla"
+            ],
+            [
+                "1914_(film)",
+                "copyrightHolder",
+                "Dina_Gralla"
+            ],
+            [
+                "A_Most_Wanted_Man_(film)",
+                "about",
+                "Dina_Gralla"
+            ]
+        ],
+        "score": "0.05921022221446037",
+        "rank": "2",
+        "new_score": "0.09289548546075821",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Pearl_White",
+            "hasOccupation",
+            "Stage_actor"
+        ],
+        "rule": [
+            [
+                "Pearl_White",
+                "award",
+                "Ada_Pometti"
+            ],
+            [
+                "Pearl_White",
+                "award",
+                "Adam_LeFevre"
+            ],
+            [
+                "Pearl_White",
+                "award",
+                "Adele_Sandrock"
+            ]
+        ],
+        "score": "0.00012062607129337266",
+        "rank": "29",
+        "new_score": "3.2031266528065316e-11",
+        "new_rank": "90667"
+    },
+    {
+        "triple_to_explain": [
+            "Houston_Cougars",
+            "sport",
+            "Basketball"
+        ],
+        "rule": [
+            [
+                "ASK_Riga",
+                "parentOrganization",
+                "Houston_Cougars"
+            ],
+            [
+                "Adelaide_36ers",
+                "parentOrganization",
+                "Houston_Cougars"
+            ],
+            [
+                "Adelaide_Lightning",
+                "parentOrganization",
+                "Houston_Cougars"
+            ],
+            [
+                "Albany_Patroons",
+                "parentOrganization",
+                "Houston_Cougars"
+            ]
+        ],
+        "score": "0.0009195917518809438",
+        "rank": "18",
+        "new_score": "4.7908310079947114e-05",
+        "new_rank": "273"
+    },
+    {
+        "triple_to_explain": [
+            "MasterChef_(American_TV_series)",
+            "genre",
+            "Cooking_show"
+        ],
+        "rule": [
+            [
+                "MasterChef_(American_TV_series)",
+                "about",
+                "Cooking_show"
+            ],
+            [
+                "MasterChef_(American_TV_series)",
+                "award",
+                "Cooking_show"
+            ],
+            [
+                "MasterChef_(American_TV_series)",
+                "creator",
+                "Gordon_Ramsay"
+            ],
+            [
+                "'Til_There_Was_You",
+                "isPartOf",
+                "MasterChef_(American_TV_series)"
+            ]
+        ],
+        "score": "0.0011481854598969221",
+        "rank": "53",
+        "new_score": "0.85731440782547",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jos\u00e9_Rizal_University",
+            "location",
+            "Mandaluyong"
+        ],
+        "rule": [
+            [
+                "Jos\u00e9_Rizal_University",
+                "containedInPlace",
+                "Makati"
+            ],
+            [
+                "Jos\u00e9_Rizal_University",
+                "containedInPlace",
+                "Para\u00f1aque"
+            ],
+            [
+                "Jos\u00e9_Rizal_University",
+                "containedInPlace",
+                "Valenzuela,_Metro_Manila"
+            ],
+            [
+                "Jos\u00e9_Rizal_University",
+                "location",
+                "Manila"
+            ]
+        ],
+        "score": "0.012129890732467175",
+        "rank": "2",
+        "new_score": "0.2430335134267807",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Bad_T\u00f6lz",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule": [
+            [
+                "Bad_T\u00f6lz",
+                "containedInPlace",
+                "Hagen_im_Bremischen"
+            ],
+            [
+                "1._FC_Pforzheim",
+                "location",
+                "Bad_T\u00f6lz"
+            ],
+            [
+                "1976_European_Athletics_Indoor_Championships",
+                "location",
+                "Bad_T\u00f6lz"
+            ]
+        ],
+        "score": "3.0037597753107548e-05",
+        "rank": "154",
+        "new_score": "0.42855608463287354",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Bandar_Lampung",
+            "containedInPlace",
+            "South_Sumatra"
+        ],
+        "rule": [
+            [
+                "Bandar_Lampung",
+                "containedInPlace",
+                "East_Nusa_Tenggara"
+            ],
+            [
+                "Bandar_Lampung",
+                "containedInPlace",
+                "Gorontalo"
+            ]
+        ],
+        "score": "0.06036039814352989",
+        "rank": "6",
+        "new_score": "0.20173519849777222",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Bruce_Coville",
+            "hasOccupation",
+            "Writer"
+        ],
+        "rule": [
+            [
+                "Bruce_Coville",
+                "award",
+                "%22Weird_Al%22_Yankovic"
+            ],
+            [
+                "Bruce_Coville",
+                "award",
+                "A._K._Ramanujan"
+            ]
+        ],
+        "score": "0.0006381672574207187",
+        "rank": "7",
+        "new_score": "5.089301757799092e-10",
+        "new_rank": "77054"
+    },
+    {
+        "triple_to_explain": [
+            "King_Saud_University",
+            "founder",
+            "Saud_of_Saudi_Arabia"
+        ],
+        "rule": [
+            [
+                "King_Saud_University",
+                "containedInPlace",
+                "Dublin"
+            ]
+        ],
+        "score": "7.291360759609233e-08",
+        "rank": "13424",
+        "new_score": "6.779586669836135e-07",
+        "new_rank": "4511"
+    },
+    {
+        "triple_to_explain": [
+            "Nobuhiko_Obayashi",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Nobuhiko_Obayashi",
+                "award",
+                "Aashiq_Abu"
+            ]
+        ],
+        "score": "6.863806629553437e-05",
+        "rank": "21",
+        "new_score": "0.0012166069354861975",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "S._M._Subbaiah_Naidu",
+            "nationality",
+            "India"
+        ],
+        "rule": [
+            [
+                "S._M._Subbaiah_Naidu",
+                "deathPlace",
+                "India"
+            ],
+            [
+                "2012_(film)",
+                "author",
+                "S._M._Subbaiah_Naidu"
+            ],
+            [
+                "3_Idiots",
+                "about",
+                "S._M._Subbaiah_Naidu"
+            ],
+            [
+                "3_Idiots",
+                "author",
+                "S._M._Subbaiah_Naidu"
+            ]
+        ],
+        "score": "0.00374646857380867",
+        "rank": "2",
+        "new_score": "0.9573324918746948",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rodez",
+            "location",
+            "Arrondissement_of_Rodez"
+        ],
+        "rule": [
+            [
+                "Arrondissement_of_Rodez",
+                "containsPlace",
+                "Rodez"
+            ],
+            [
+                "Rodez",
+                "containedInPlace",
+                "Millau"
+            ],
+            [
+                "Rodez",
+                "containedInPlace",
+                "Saint-Affrique"
+            ]
+        ],
+        "score": "0.02447286993265152",
+        "rank": "5",
+        "new_score": "0.6347795724868774",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kothanda_Ramaiah",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Kothanda_Ramaiah",
+                "award",
+                "Aarathi"
+            ]
+        ],
+        "score": "0.5712411999702454",
+        "rank": "3",
+        "new_score": "4.7116949986047985e-07",
+        "new_rank": "5034"
+    },
+    {
+        "triple_to_explain": [
+            "Texarkana,_Arkansas",
+            "location",
+            "Miller_County,_Arkansas"
+        ],
+        "rule": [
+            [
+                "Texarkana,_Arkansas",
+                "containedInPlace",
+                "Arkansas"
+            ],
+            [
+                "Texarkana,_Arkansas",
+                "containedInPlace",
+                "Texarkana,_Arkansas"
+            ],
+            [
+                "Baxter_County,_Arkansas",
+                "containsPlace",
+                "Texarkana,_Arkansas"
+            ],
+            [
+                "Boone_County,_Arkansas",
+                "containsPlace",
+                "Texarkana,_Arkansas"
+            ]
+        ],
+        "score": "0.012447308748960495",
+        "rank": "17",
+        "new_score": "0.4607572853565216",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Nobuhiko_Obayashi",
+            "birthPlace",
+            "Onomichi,_Hiroshima"
+        ],
+        "rule": [
+            [
+                "Nobuhiko_Obayashi",
+                "homeLocation",
+                "Onomichi,_Hiroshima"
+            ]
+        ],
+        "score": "2.4082874006126076e-07",
+        "rank": "19004",
+        "new_score": "0.18374082446098328",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Alexander_City,_Alabama",
+            "location",
+            "Tallapoosa_County,_Alabama"
+        ],
+        "rule": [
+            [
+                "Alexander_City,_Alabama",
+                "containedInPlace",
+                "Baldwin_County,_Alabama"
+            ],
+            [
+                "Alexander_City,_Alabama",
+                "containedInPlace",
+                "Barbour_County,_Alabama"
+            ],
+            [
+                "Alexander_City,_Alabama",
+                "containedInPlace",
+                "Bibb_County,_Alabama"
+            ],
+            [
+                "Alexander_City,_Alabama",
+                "containedInPlace",
+                "Choctaw_County,_Alabama"
+            ]
+        ],
+        "score": "0.015922529622912407",
+        "rank": "12",
+        "new_score": "0.7409664988517761",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Jan_van_Eyck",
+            "deathPlace",
+            "Bruges"
+        ],
+        "rule": [
+            [
+                "Jan_van_Eyck",
+                "alumniOf",
+                "Bruges"
+            ],
+            [
+                "Jan_van_Eyck",
+                "alumniOf",
+                "College_of_Europe"
+            ],
+            [
+                "Jan_van_Eyck",
+                "children",
+                "Jens_Keukeleire"
+            ]
+        ],
+        "score": "0.00023058980877976865",
+        "rank": "139",
+        "new_score": "0.56756192445755",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Girvan",
+            "containedInPlace",
+            "South_Ayrshire"
+        ],
+        "rule": [
+            [
+                "A._E._Coleby",
+                "deathPlace",
+                "Girvan"
+            ],
+            [
+                "A._V._Bramble",
+                "birthPlace",
+                "Girvan"
+            ],
+            [
+                "Abdelmajid_Eddine",
+                "deathPlace",
+                "Girvan"
+            ]
+        ],
+        "score": "0.0270412378013134",
+        "rank": "2",
+        "new_score": "0.0028834256809204817",
+        "new_rank": "23"
+    },
+    {
+        "triple_to_explain": [
+            "Cerambycinae",
+            "taxonRank",
+            "Subfamily"
+        ],
+        "rule": [
+            [
+                "Cerambycinae",
+                "parentTaxon",
+                "Apogoninae"
+            ],
+            [
+                "Cerambycinae",
+                "parentTaxon",
+                "Arvicolinae"
+            ]
+        ],
+        "score": "5.720040441303809e-09",
+        "rank": "43446",
+        "new_score": "8.448631888313685e-06",
+        "new_rank": "1086"
+    },
+    {
+        "triple_to_explain": [
+            "By\u00e5sen_IL",
+            "sport",
+            "Handball"
+        ],
+        "rule": [
+            [
+                "By\u00e5sen_IL",
+                "location",
+                "Esbjerg_Municipality"
+            ],
+            [
+                "By\u00e5sen_IL",
+                "sponsor",
+                "Vodafone"
+            ]
+        ],
+        "score": "2.8752730941050686e-05",
+        "rank": "18",
+        "new_score": "0.020347880199551582",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Enrique_Cahen_Salaberry",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Enrique_Cahen_Salaberry",
+                "award",
+                "50_Cent"
+            ],
+            [
+                "Enrique_Cahen_Salaberry",
+                "award",
+                "A._L._Vijay"
+            ],
+            [
+                "Enrique_Cahen_Salaberry",
+                "award",
+                "A._Venkatesh_(director)"
+            ]
+        ],
+        "score": "0.04324335604906082",
+        "rank": "3",
+        "new_score": "0.0013195555657148361",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Vaucluse,_New_South_Wales",
+            "containedInPlace",
+            "Municipality_of_Woollahra"
+        ],
+        "rule": [
+            [
+                "Alex_Dimitriades",
+                "homeLocation",
+                "Vaucluse,_New_South_Wales"
+            ]
+        ],
+        "score": "0.061713460832834244",
+        "rank": "2",
+        "new_score": "0.06068731099367142",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Prince_Charles_of_Hesse-Kassel",
+            "children",
+            "Princess_Louise_Caroline_of_Hesse-Kassel"
+        ],
+        "rule": [
+            [
+                "Prince_Charles_of_Hesse-Kassel",
+                "award",
+                "Princess_Louise_Caroline_of_Hesse-Kassel"
+            ],
+            [
+                "Prince_Charles_of_Hesse-Kassel",
+                "birthPlace",
+                "Gottorf_Castle"
+            ],
+            [
+                "Prince_Charles_of_Hesse-Kassel",
+                "givenName",
+                "Christian_IX_of_Denmark"
+            ],
+            [
+                "Prince_Charles_of_Hesse-Kassel",
+                "givenName",
+                "Friedrich_Wilhelm,_Duke_of_Schleswig-Holstein-Sonderburg-Gl\u00fccksburg"
+            ]
+        ],
+        "score": "4.9108430175692774e-06",
+        "rank": "2272",
+        "new_score": "0.2288643717765808",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "M._K._Thyagaraja_Bhagavathar",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "M._K._Thyagaraja_Bhagavathar",
+                "award",
+                "Actor"
+            ],
+            [
+                "City_of_God_\u2013_10_Years_Later",
+                "producer",
+                "M._K._Thyagaraja_Bhagavathar"
+            ],
+            [
+                "I_Knew_It_Was_You",
+                "producer",
+                "M._K._Thyagaraja_Bhagavathar"
+            ]
+        ],
+        "score": "0.033348217606544495",
+        "rank": "4",
+        "new_score": "0.999998927116394",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Alphons_Joseph",
+            "birthPlace",
+            "Thrissur"
+        ],
+        "rule": [
+            [
+                "Alphons_Joseph",
+                "award",
+                "Narain_(actor)"
+            ]
+        ],
+        "score": "3.329027094878256e-05",
+        "rank": "874",
+        "new_score": "4.944429292663699e-07",
+        "new_rank": "9921"
+    },
+    {
+        "triple_to_explain": [
+            "Gong_(band)",
+            "genre",
+            "Progressive_rock"
+        ],
+        "rule": [
+            [
+                "David_Paich",
+                "memberOf",
+                "Gong_(band)"
+            ],
+            [
+                "Gong_(band)",
+                "award",
+                "Rock_and_Roll_Hall_of_Fame"
+            ]
+        ],
+        "score": "7.029466814856278e-06",
+        "rank": "413",
+        "new_score": "1.0500331882212777e-05",
+        "new_rank": "318"
+    },
+    {
+        "triple_to_explain": [
+            "K._C._Bokadia",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule": [
+            [
+                "K._C._Bokadia",
+                "award",
+                "A._K._Lohithadas"
+            ]
+        ],
+        "score": "0.00032990664476528764",
+        "rank": "6",
+        "new_score": "0.00298737152479589",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pearl_White",
+            "familyName",
+            "White_(surname)"
+        ],
+        "rule": [
+            [
+                "Pearl_White",
+                "award",
+                "Alice_White"
+            ],
+            [
+                "Pearl_White",
+                "award",
+                "E._B._White"
+            ],
+            [
+                "Pearl_White",
+                "award",
+                "Edmund_White"
+            ]
+        ],
+        "score": "0.00012006696488242596",
+        "rank": "708",
+        "new_score": "1.6708383554941975e-05",
+        "new_rank": "2358"
+    },
+    {
+        "triple_to_explain": [
+            "Bad_Honnef",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule": [
+            [
+                "Bad_Honnef",
+                "containedInPlace",
+                "Herdecke"
+            ]
+        ],
+        "score": "0.009814199060201645",
+        "rank": "5",
+        "new_score": "8.969071245701343e-07",
+        "new_rank": "2263"
+    },
+    {
+        "triple_to_explain": [
+            "Canton,_Mississippi",
+            "location",
+            "Madison_County,_Mississippi"
+        ],
+        "rule": [
+            [
+                "Bolivar_County,_Mississippi",
+                "containsPlace",
+                "Canton,_Mississippi"
+            ],
+            [
+                "Canton,_Mississippi",
+                "containedInPlace",
+                "Attala_County,_Mississippi"
+            ],
+            [
+                "Canton,_Mississippi",
+                "containedInPlace",
+                "Carroll_County,_Mississippi"
+            ]
+        ],
+        "score": "0.017559025436639786",
+        "rank": "13",
+        "new_score": "0.28055527806282043",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+            "location",
+            "Gold_Coast,_Queensland"
+        ],
+        "rule": [
+            [
+                "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+                "subEvent",
+                "Badminton_at_the_2018_Commonwealth_Games_\u2013_Mixed_doubles"
+            ],
+            [
+                "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+                "sport",
+                "Adam_(given_name)"
+            ],
+            [
+                "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+                "sport",
+                "Australian_rules_football"
+            ]
+        ],
+        "score": "2.4167613901227014e-06",
+        "rank": "652",
+        "new_score": "0.028301429003477097",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "MasterChef_(American_TV_series)",
+            "creator",
+            "Franc_Roddam"
+        ],
+        "rule": [
+            [
+                "Quadrophenia_(film)",
+                "isPartOf",
+                "MasterChef_(American_TV_series)"
+            ]
+        ],
+        "score": "9.721676906337962e-05",
+        "rank": "827",
+        "new_score": "7.485679361707298e-06",
+        "new_rank": "1612"
+    },
+    {
+        "triple_to_explain": [
+            "Bedford,_Virginia",
+            "location",
+            "Bedford_County,_Virginia"
+        ],
+        "rule": [
+            [
+                "Bedford,_Virginia",
+                "location",
+                "Bedford,_Virginia"
+            ],
+            [
+                "Accomack_County,_Virginia",
+                "containsPlace",
+                "Bedford,_Virginia"
+            ],
+            [
+                "Bedford,_Virginia",
+                "containedInPlace",
+                "Amelia_County,_Virginia"
+            ],
+            [
+                "Bedford,_Virginia",
+                "containedInPlace",
+                "Amherst_County,_Virginia"
+            ]
+        ],
+        "score": "0.008986426517367363",
+        "rank": "20",
+        "new_score": "0.40495777130126953",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Natalia_Verbeke",
+            "givenName",
+            "Natalia_(given_name)"
+        ],
+        "rule": [
+            [
+                "Natalia_Verbeke",
+                "familyName",
+                "Natalia_(given_name)"
+            ],
+            [
+                "Natalia_Verbeke",
+                "children",
+                "Natalia_O'Shea"
+            ],
+            [
+                "Natalia_Verbeke",
+                "children",
+                "Natalia_Oreiro"
+            ]
+        ],
+        "score": "4.7087130951695144e-05",
+        "rank": "637",
+        "new_score": "0.6904134750366211",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Inter_Milan_Women",
+            "sponsor",
+            "Konami"
+        ],
+        "rule": [
+            [
+                "Adrian_Mutu",
+                "memberOf",
+                "Inter_Milan_Women"
+            ],
+            [
+                "Ayako_Fujitani",
+                "memberOf",
+                "Inter_Milan_Women"
+            ],
+            [
+                "Fabio_Di_Sauro",
+                "memberOf",
+                "Inter_Milan_Women"
+            ],
+            [
+                "Federico_Piovaccari",
+                "memberOf",
+                "Inter_Milan_Women"
+            ]
+        ],
+        "score": "1.4810333595960401e-05",
+        "rank": "626",
+        "new_score": "0.0043842988088727",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Martin_Birch",
+            "hasOccupation",
+            "Audio_engineer"
+        ],
+        "rule": [
+            [
+                "Martin_Birch",
+                "award",
+                "Chris_Kimsey"
+            ]
+        ],
+        "score": "0.004496084526181221",
+        "rank": "7",
+        "new_score": "8.230268576880917e-05",
+        "new_rank": "35"
+    },
+    {
+        "triple_to_explain": [
+            "John_Llewellyn_Moxey",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "John_Llewellyn_Moxey",
+                "award",
+                "Aaron_Lipstadt"
+            ]
+        ],
+        "score": "0.0004055880708619952",
+        "rank": "8",
+        "new_score": "0.07996521890163422",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Raymond_Menmuir",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "10_Rillington_Place",
+                "about",
+                "Raymond_Menmuir"
+            ]
+        ],
+        "score": "0.5493324995040894",
+        "rank": "2",
+        "new_score": "0.9707704186439514",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "HammerFall",
+            "genre",
+            "Speed_metal"
+        ],
+        "rule": [
+            [
+                "HammerFall",
+                "award",
+                "Genesis_Awards"
+            ],
+            [
+                "HammerFall",
+                "award",
+                "Rock_and_Roll_Hall_of_Fame"
+            ],
+            [
+                "HammerFall",
+                "founder",
+                "Glenn_Tipton"
+            ]
+        ],
+        "score": "0.003084014868363738",
+        "rank": "16",
+        "new_score": "0.06629697978496552",
+        "new_rank": "2"
+    }
+]

@@ -1,0 +1,2332 @@
+[
+    {
+        "triple_to_explain": [
+            "Setophaga",
+            "phylum",
+            "Chordate"
+        ],
+        "rule": [
+            [
+                "Setophaga",
+                "family",
+                "Agapornithinae"
+            ]
+        ],
+        "score": "0.09401070326566696",
+        "rank": "3",
+        "new_score": "2.664581266742516e-08",
+        "new_rank": "5485"
+    },
+    {
+        "triple_to_explain": [
+            "Kagoshima_Main_Line",
+            "location",
+            "Kagoshima_Prefecture"
+        ],
+        "rule": [
+            [
+                "Kagoshima_Main_Line",
+                "location",
+                "Taiwan"
+            ],
+            [
+                "Kagoshima_Main_Line",
+                "operator",
+                "Core_cities_of_Japan"
+            ],
+            [
+                "Kagoshima_Main_Line",
+                "type",
+                "Japan_Standard_Time"
+            ]
+        ],
+        "score": "1.81874493137002e-05",
+        "rank": "115",
+        "new_score": "2.6506890208111145e-05",
+        "new_rank": "126"
+    },
+    {
+        "triple_to_explain": [
+            "Kate_Ashfield",
+            "birthPlace",
+            "Birmingham"
+        ],
+        "rule": [
+            [
+                "Kate_Ashfield",
+                "deathPlace",
+                "Birmingham"
+            ],
+            [
+                "Anaal_Nathrakh",
+                "child",
+                "Kate_Ashfield"
+            ],
+            [
+                "Anaal_Nathrakh",
+                "parent",
+                "Kate_Ashfield"
+            ],
+            [
+                "Beat_Union",
+                "formerBandMember",
+                "Kate_Ashfield"
+            ]
+        ],
+        "score": "2.562869561018033e-08",
+        "rank": "2294",
+        "new_score": "0.9980291724205017",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Battle_of_Quiberon_Bay",
+            "isPartOfMilitaryConflict",
+            "Seven_Years%27_War"
+        ],
+        "rule": [
+            [
+                "2nd_Dragoon_Regiment_(France)",
+                "battle",
+                "Battle_of_Quiberon_Bay"
+            ],
+            [
+                "Battle_of_Quiberon_Bay",
+                "commander",
+                "Alexander_Grant_(Upper_Canada_politician)"
+            ]
+        ],
+        "score": "2.6240419174428098e-05",
+        "rank": "23",
+        "new_score": "0.0020366169046610594",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Port_Talbot_Town_F.C.",
+            "ground",
+            "Port_Talbot"
+        ],
+        "rule": [
+            [
+                "Cardiff_City_Stadium",
+                "tenant",
+                "Port_Talbot_Town_F.C."
+            ],
+            [
+                "Port_Talbot_Town_F.C.",
+                "chairman",
+                "Ahmad_Tejan_Kabbah"
+            ],
+            [
+                "Port_Talbot_Town_F.C.",
+                "chairman",
+                "Andy_Legg"
+            ],
+            [
+                "Port_Talbot_Town_F.C.",
+                "chairman",
+                "Anthony_Williams_(footballer)"
+            ]
+        ],
+        "score": "3.3548144817707737e-10",
+        "rank": "30533",
+        "new_score": "5.204814897297183e-06",
+        "new_rank": "457"
+    },
+    {
+        "triple_to_explain": [
+            "Dunkirk,_New_York",
+            "type",
+            "Administrative_divisions_of_New_York_(state)"
+        ],
+        "rule": [
+            [
+                "Bethlehem,_New_York",
+                "capital",
+                "Dunkirk,_New_York"
+            ],
+            [
+                "Brewster,_New_York",
+                "part",
+                "Dunkirk,_New_York"
+            ]
+        ],
+        "score": "3.940724225344645e-15",
+        "rank": "79207",
+        "new_score": "4.466427526494954e-06",
+        "new_rank": "125"
+    },
+    {
+        "triple_to_explain": [
+            "Vaivara_Parish",
+            "isPartOf",
+            "Ida-Viru_County"
+        ],
+        "rule": [
+            [
+                "Vaivara_Parish",
+                "region",
+                "Ida-Viru_County"
+            ],
+            [
+                "Vaivara_Parish",
+                "state",
+                "Ida-Viru_County"
+            ]
+        ],
+        "score": "0.004315617959946394",
+        "rank": "8",
+        "new_score": "0.9970819354057312",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Catherine_Breillat",
+            "occupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Agnieszka_Holland",
+                "relative",
+                "Catherine_Breillat"
+            ]
+        ],
+        "score": "0.00030286048422567546",
+        "rank": "5",
+        "new_score": "0.0004334240220487118",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Chuck_Norris",
+            "occupation",
+            "Martial_arts"
+        ],
+        "rule": [
+            [
+                "America%27s_Got_Talent",
+                "starring",
+                "Chuck_Norris"
+            ]
+        ],
+        "score": "3.180210317310639e-09",
+        "rank": "1220",
+        "new_score": "9.689616296826298e-12",
+        "new_rank": "21978"
+    },
+    {
+        "triple_to_explain": [
+            "Swedish_Empire",
+            "governmentType",
+            "Absolute_monarchy"
+        ],
+        "rule": [
+            [
+                "Swedish_Empire",
+                "capital",
+                "Austrian_Empire"
+            ]
+        ],
+        "score": "7.51529825038233e-08",
+        "rank": "169",
+        "new_score": "5.872315114174853e-07",
+        "new_rank": "64"
+    },
+    {
+        "triple_to_explain": [
+            "Barvanan-e_Gharbi_Rural_District",
+            "isPartOf",
+            "East_Azerbaijan_province"
+        ],
+        "rule": [
+            [
+                "East_Azerbaijan_province",
+                "part",
+                "Barvanan-e_Gharbi_Rural_District"
+            ]
+        ],
+        "score": "7.798993465257809e-05",
+        "rank": "379",
+        "new_score": "0.6659988164901733",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)",
+            "city",
+            "Pori"
+        ],
+        "rule": [
+            [
+                "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)",
+                "city",
+                "Finland"
+            ],
+            [
+                "Joni_Puurula",
+                "draftTeam",
+                "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)"
+            ],
+            [
+                "Olli_Jokinen",
+                "draftTeam",
+                "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)"
+            ],
+            [
+                "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)",
+                "city",
+                "Helsinki"
+            ]
+        ],
+        "score": "3.0145148599558524e-08",
+        "rank": "1951",
+        "new_score": "4.065345819981303e-06",
+        "new_rank": "299"
+    },
+    {
+        "triple_to_explain": [
+            "MFK_Skalica",
+            "ground",
+            "Skalica"
+        ],
+        "rule": [
+            [
+                "Aalborg",
+                "isPartOf",
+                "MFK_Skalica"
+            ]
+        ],
+        "score": "4.22690476398202e-07",
+        "rank": "711",
+        "new_score": "7.172433242885745e-07",
+        "new_rank": "974"
+    },
+    {
+        "triple_to_explain": [
+            "OFK_Ba%C4%8Dka",
+            "league",
+            "Serbian_SuperLiga"
+        ],
+        "rule": [
+            [
+                "Aleksandar_R._Petrovi%C4%87",
+                "team",
+                "OFK_Ba%C4%8Dka"
+            ],
+            [
+                "Aleksandar_Stanojevi%C4%87",
+                "team",
+                "OFK_Ba%C4%8Dka"
+            ]
+        ],
+        "score": "9.614412556402385e-05",
+        "rank": "6",
+        "new_score": "0.005017246585339308",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Nakhon_Pathom",
+            "isPartOf",
+            "Nakhon_Pathom_province"
+        ],
+        "rule": [
+            [
+                "Nakhon_Pathom_province",
+                "largestCity",
+                "Nakhon_Pathom"
+            ],
+            [
+                "Nakhon_Pathom",
+                "type",
+                "Provinces_of_Thailand"
+            ],
+            [
+                "Bangkok",
+                "capital",
+                "Nakhon_Pathom"
+            ]
+        ],
+        "score": "3.7257646567923075e-07",
+        "rank": "595",
+        "new_score": "0.6042481660842896",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Hansheinrich_Dransmann",
+            "birthPlace",
+            "German_Empire"
+        ],
+        "rule": [
+            [
+                "Albert_Benitz",
+                "partner",
+                "Hansheinrich_Dransmann"
+            ],
+            [
+                "Alfred_Abel",
+                "child",
+                "Hansheinrich_Dransmann"
+            ],
+            [
+                "Alfred_Abel",
+                "spouse",
+                "Hansheinrich_Dransmann"
+            ],
+            [
+                "Alfred_D%C3%B6blin",
+                "influencedBy",
+                "Hansheinrich_Dransmann"
+            ]
+        ],
+        "score": "1.5015746424040799e-09",
+        "rank": "10662",
+        "new_score": "9.236734513251577e-06",
+        "new_rank": "52"
+    },
+    {
+        "triple_to_explain": [
+            "Kharturan_Rural_District",
+            "isPartOf",
+            "Shahrud_County"
+        ],
+        "rule": [
+            [
+                "Kharturan_Rural_District",
+                "type",
+                "Shahrud_County"
+            ],
+            [
+                "Bastam_District",
+                "lieutenancyArea",
+                "Kharturan_Rural_District"
+            ],
+            [
+                "Bastam_District",
+                "part",
+                "Kharturan_Rural_District"
+            ],
+            [
+                "Beyarjomand_District",
+                "district",
+                "Kharturan_Rural_District"
+            ]
+        ],
+        "score": "0.00023580824199598283",
+        "rank": "55",
+        "new_score": "0.07895759493112564",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Wolverine_World_Wide",
+            "type",
+            "Public_company"
+        ],
+        "rule": [
+            [
+                "Public_company",
+                "predecessor",
+                "Wolverine_World_Wide"
+            ]
+        ],
+        "score": "3.486285095277708e-06",
+        "rank": "44",
+        "new_score": "1.0",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "H%E1%BA%A3i_D%C6%B0%C6%A1ng_province",
+            "isPartOf",
+            "Red_River_Delta"
+        ],
+        "rule": [
+            [
+                "H%E1%BA%A3i_D%C6%B0%C6%A1ng_province",
+                "borough",
+                "Red_River_Delta"
+            ],
+            [
+                "H%E1%BA%A3i_D%C6%B0%C6%A1ng_province",
+                "frazioni",
+                "Red_River_Delta"
+            ],
+            [
+                "H%E1%BA%A3i_D%C6%B0%C6%A1ng_province",
+                "municipality",
+                "Red_River_Delta"
+            ]
+        ],
+        "score": "5.5355158110614866e-05",
+        "rank": "16",
+        "new_score": "0.983258843421936",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Chapakrud_Rural_District",
+            "isPartOf",
+            "Gil_Khuran_District"
+        ],
+        "rule": [
+            [
+                "Gil_Khuran_District",
+                "councilArea",
+                "Chapakrud_Rural_District"
+            ],
+            [
+                "Gil_Khuran_District",
+                "part",
+                "Chapakrud_Rural_District"
+            ]
+        ],
+        "score": "0.01797167956829071",
+        "rank": "4",
+        "new_score": "0.3525938391685486",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Eskelabad_Rural_District",
+            "isPartOf",
+            "Khash_County"
+        ],
+        "rule": [
+            [
+                "Eskelabad_Rural_District",
+                "state",
+                "Khash_County"
+            ],
+            [
+                "Counties_of_Iran",
+                "isPartOf",
+                "Eskelabad_Rural_District"
+            ],
+            [
+                "Eskelabad_Rural_District",
+                "county",
+                "Central_District_(Khash_County)"
+            ]
+        ],
+        "score": "0.006895666476339102",
+        "rank": "2",
+        "new_score": "0.6372766494750977",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Nizhalgal_Ravi",
+            "birthPlace",
+            "Tamil_Nadu"
+        ],
+        "rule": [
+            [
+                "A._Vincent",
+                "relation",
+                "Nizhalgal_Ravi"
+            ]
+        ],
+        "score": "0.0003508336958475411",
+        "rank": "8",
+        "new_score": "0.019576573744416237",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hal_Ashby",
+            "deathPlace",
+            "Malibu,_California"
+        ],
+        "rule": [
+            [
+                "Hal_Ashby",
+                "knownFor",
+                "Malibu,_California"
+            ]
+        ],
+        "score": "1.4792722424772364e-07",
+        "rank": "355",
+        "new_score": "0.9990476965904236",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Steve_Camp",
+            "recordLabel",
+            "Sparrow_Records"
+        ],
+        "rule": [
+            [
+                "2nd_Chapter_of_Acts",
+                "child",
+                "Steve_Camp"
+            ],
+            [
+                "2nd_Chapter_of_Acts",
+                "spouse",
+                "Steve_Camp"
+            ],
+            [
+                "Amy_Grant",
+                "associatedMusicalArtist",
+                "Steve_Camp"
+            ]
+        ],
+        "score": "0.009596753865480423",
+        "rank": "2",
+        "new_score": "0.31568509340286255",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Heinz_R%C3%BChmann",
+            "occupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "Heinz_R%C3%BChmann",
+                "profession",
+                "Actor"
+            ]
+        ],
+        "score": "0.00011662582255667076",
+        "rank": "4",
+        "new_score": "0.5895147323608398",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hans_May",
+            "birthPlace",
+            "Vienna"
+        ],
+        "rule": [
+            [
+                "Hans_May",
+                "deathPlace",
+                "Vienna"
+            ],
+            [
+                "Alfred_Halm",
+                "partner",
+                "Hans_May"
+            ]
+        ],
+        "score": "1.939368221570703e-09",
+        "rank": "8412",
+        "new_score": "0.9957537651062012",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jane_Wyatt",
+            "deathPlace",
+            "Bel_Air,_Los_Angeles"
+        ],
+        "rule": [
+            [
+                "Jane_Wyatt",
+                "residence",
+                "Bel_Air,_Los_Angeles"
+            ]
+        ],
+        "score": "5.6445092013746034e-06",
+        "rank": "155",
+        "new_score": "0.7498050928115845",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Charlie_Drake",
+            "deathPlace",
+            "Middlesex"
+        ],
+        "rule": [
+            [
+                "Anne_Grey",
+                "partner",
+                "Charlie_Drake"
+            ]
+        ],
+        "score": "4.0782492760627065e-06",
+        "rank": "300",
+        "new_score": "0.0009850782807916403",
+        "new_rank": "11"
+    },
+    {
+        "triple_to_explain": [
+            "KABC-TV",
+            "owningCompany",
+            "American_Broadcasting_Company"
+        ],
+        "rule": [
+            [
+                "KABC-TV",
+                "formerBroadcastNetwork",
+                "American_Broadcasting_Company"
+            ]
+        ],
+        "score": "2.568138146585852e-09",
+        "rank": "5827",
+        "new_score": "8.596178668085486e-05",
+        "new_rank": "17"
+    },
+    {
+        "triple_to_explain": [
+            "Andr%C3%A9_Michaux",
+            "deathPlace",
+            "Madagascar"
+        ],
+        "rule": [
+            [
+                "Andr%C3%A9_Michaux",
+                "knownFor",
+                "Madagascar"
+            ],
+            [
+                "Andr%C3%A9_Michaux",
+                "birthPlace",
+                "Antsirabe_II_District"
+            ],
+            [
+                "Andr%C3%A9_Michaux",
+                "birthPlace",
+                "Sofia_Region"
+            ]
+        ],
+        "score": "7.300183027525442e-12",
+        "rank": "39731",
+        "new_score": "1.0886534482779098e-06",
+        "new_rank": "277"
+    },
+    {
+        "triple_to_explain": [
+            "George,_South_Africa",
+            "country",
+            "South_Africa"
+        ],
+        "rule": [
+            [
+                "AMC_(TV_channel)",
+                "broadcastArea",
+                "George,_South_Africa"
+            ],
+            [
+                "Alfa_Romeo_105/115_Series_Coup%C3%A9s",
+                "assembly",
+                "George,_South_Africa"
+            ],
+            [
+                "Arena_Holdings",
+                "regionServed",
+                "George,_South_Africa"
+            ],
+            [
+                "Arnold_Vosloo",
+                "birthPlace",
+                "George,_South_Africa"
+            ]
+        ],
+        "score": "1.6117888274047587e-11",
+        "rank": "28604",
+        "new_score": "0.0067804972641170025",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Diane_Ladd",
+            "spouse",
+            "Bruce_Dern"
+        ],
+        "rule": [
+            [
+                "Bruce_Dern",
+                "partner",
+                "Diane_Ladd"
+            ],
+            [
+                "Bruce_Dern",
+                "relation",
+                "Diane_Ladd"
+            ],
+            [
+                "Diane_Ladd",
+                "influencedBy",
+                "Bruce_Dern"
+            ],
+            [
+                "Big_Love",
+                "executiveProducer",
+                "Diane_Ladd"
+            ]
+        ],
+        "score": "1.4728391306562116e-07",
+        "rank": "2251",
+        "new_score": "0.9000112414360046",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rajendra_Singh_Babu",
+            "birthPlace",
+            "India"
+        ],
+        "rule": [
+            [
+                "A._P._J._Abdul_Kalam",
+                "partner",
+                "Rajendra_Singh_Babu"
+            ]
+        ],
+        "score": "0.9515845775604248",
+        "rank": "2",
+        "new_score": "0.9963010549545288",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Arline_Judge",
+            "deathPlace",
+            "West_Hollywood,_California"
+        ],
+        "rule": [
+            [
+                "Arline_Judge",
+                "placeOfBurial",
+                "West_Hollywood,_California"
+            ]
+        ],
+        "score": "0.000543197791557759",
+        "rank": "12",
+        "new_score": "0.9470476508140564",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "New_Forest",
+            "nearestCity",
+            "Southampton"
+        ],
+        "rule": [
+            [
+                "New_Forest",
+                "city",
+                "City_of_Carlisle"
+            ],
+            [
+                "New_Forest",
+                "city",
+                "City_of_Leeds"
+            ],
+            [
+                "New_Forest",
+                "city",
+                "Gloucester"
+            ]
+        ],
+        "score": "8.178764983313158e-05",
+        "rank": "10",
+        "new_score": "2.3398940811603097e-06",
+        "new_rank": "485"
+    },
+    {
+        "triple_to_explain": [
+            "Joseph_LaShelle",
+            "occupation",
+            "Cinematographer"
+        ],
+        "rule": [
+            [
+                "Adam_Greenberg_(cinematographer)",
+                "child",
+                "Joseph_LaShelle"
+            ],
+            [
+                "Adam_Greenberg_(cinematographer)",
+                "relation",
+                "Joseph_LaShelle"
+            ],
+            [
+                "Adam_Kane",
+                "child",
+                "Joseph_LaShelle"
+            ]
+        ],
+        "score": "9.781392691365909e-06",
+        "rank": "31",
+        "new_score": "1.6664863551341114e-06",
+        "new_rank": "82"
+    },
+    {
+        "triple_to_explain": [
+            "Arenaria_(plant)",
+            "family",
+            "Caryophyllaceae"
+        ],
+        "rule": [
+            [
+                "Caryophyllaceae",
+                "genus",
+                "Arenaria_(plant)"
+            ],
+            [
+                "Arenaria_(plant)",
+                "order",
+                "Caryophyllales"
+            ],
+            [
+                "Arenaria_(plant)",
+                "order",
+                "Plant"
+            ],
+            [
+                "Stellaria",
+                "genus",
+                "Arenaria_(plant)"
+            ]
+        ],
+        "score": "9.914091060636565e-05",
+        "rank": "83",
+        "new_score": "0.9383928179740906",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Fred_Guiol",
+            "occupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Alan_Ball_(screenwriter)",
+                "partner",
+                "Fred_Guiol"
+            ]
+        ],
+        "score": "6.372061761794612e-06",
+        "rank": "57",
+        "new_score": "7.414860738208517e-05",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Genyo_Takeda",
+            "occupation",
+            "Nintendo"
+        ],
+        "rule": [
+            [
+                "Genyo_Takeda",
+                "child",
+                "Takashi_Tezuka"
+            ],
+            [
+                "Genyo_Takeda",
+                "employer",
+                "Kabushiki_gaisha"
+            ]
+        ],
+        "score": "0.02287730760872364",
+        "rank": "4",
+        "new_score": "0.017015941441059113",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Chicoreus",
+            "family",
+            "Muricinae"
+        ],
+        "rule": [
+            [
+                "Aspella",
+                "family",
+                "Chicoreus"
+            ],
+            [
+                "Attiliosa",
+                "family",
+                "Chicoreus"
+            ],
+            [
+                "Chicoreus",
+                "family",
+                "Homalocantha"
+            ]
+        ],
+        "score": "0.00960058905184269",
+        "rank": "2",
+        "new_score": "0.0005316712777130306",
+        "new_rank": "21"
+    },
+    {
+        "triple_to_explain": [
+            "Sturzkampfgeschwader_1",
+            "type",
+            "Dive_bomber"
+        ],
+        "rule": [
+            [
+                "Sturzkampfgeschwader_1",
+                "country",
+                "Nazi_Germany"
+            ]
+        ],
+        "score": "4.336002845661824e-08",
+        "rank": "624",
+        "new_score": "0.0181241687387228",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Friedrich_Anton_Wilhelm_Miquel",
+            "nationality",
+            "Dutch_people"
+        ],
+        "rule": [
+            [
+                "Carice_van_Houten",
+                "relation",
+                "Friedrich_Anton_Wilhelm_Miquel"
+            ],
+            [
+                "Carice_van_Houten",
+                "relative",
+                "Friedrich_Anton_Wilhelm_Miquel"
+            ]
+        ],
+        "score": "2.49883072456214e-07",
+        "rank": "30",
+        "new_score": "7.777734936098568e-07",
+        "new_rank": "91"
+    },
+    {
+        "triple_to_explain": [
+            "South_East_Queensland",
+            "country",
+            "Australia"
+        ],
+        "rule": [
+            [
+                "10_Bold",
+                "broadcastArea",
+                "South_East_Queensland"
+            ],
+            [
+                "1st_Light_Horse_Brigade",
+                "garrison",
+                "South_East_Queensland"
+            ],
+            [
+                "7th_Division_(Australia)",
+                "garrison",
+                "South_East_Queensland"
+            ]
+        ],
+        "score": "4.306327516800934e-10",
+        "rank": "8882",
+        "new_score": "4.896780296803627e-07",
+        "new_rank": "110"
+    },
+    {
+        "triple_to_explain": [
+            "FC_Vityaz_Podolsk",
+            "ground",
+            "Podolsk"
+        ],
+        "rule": [
+            [
+                "FC_Vityaz_Podolsk",
+                "city",
+                "Podolsk"
+            ],
+            [
+                "FC_Vityaz_Podolsk",
+                "chairman",
+                "Grigori_Aleksandrov"
+            ],
+            [
+                "FC_Vityaz_Podolsk",
+                "chairman",
+                "Lauri_Kristian_Relander"
+            ],
+            [
+                "FC_Vityaz_Podolsk",
+                "chairman",
+                "Oleg_Yankovsky"
+            ]
+        ],
+        "score": "2.933380756076076e-07",
+        "rank": "440",
+        "new_score": "0.0533033087849617",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Virginia_Department_of_Transportation",
+            "jurisdiction",
+            "Virginia"
+        ],
+        "rule": [
+            [
+                "Virginia_Department_of_Transportation",
+                "location",
+                "Virginia"
+            ]
+        ],
+        "score": "0.0011366067919880152",
+        "rank": "2",
+        "new_score": "0.6641803979873657",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Knattspyrnuf%C3%A9lag_Akureyrar",
+            "position",
+            "1._deild_karla_(football)"
+        ],
+        "rule": [
+            [
+                "Knattspyrnuf%C3%A9lag_Akureyrar",
+                "chairman",
+                "%C3%93lafur_Thors"
+            ],
+            [
+                "Knattspyrnuf%C3%A9lag_Akureyrar",
+                "chairman",
+                "Eagle_Egilsson"
+            ],
+            [
+                "Knattspyrnuf%C3%A9lag_Akureyrar",
+                "chairman",
+                "Hannes_Sigur%C3%B0sson"
+            ]
+        ],
+        "score": "0.0007089352584443986",
+        "rank": "7",
+        "new_score": "0.02183225192129612",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Time_Team",
+            "network",
+            "Channel_4"
+        ],
+        "rule": [
+            [
+                "Time_Team",
+                "distributor",
+                "Channel_4"
+            ],
+            [
+                "Dermot_O%27Leary",
+                "knownFor",
+                "Time_Team"
+            ]
+        ],
+        "score": "0.0005707388045266271",
+        "rank": "7",
+        "new_score": "0.9996558427810669",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Paul_Freeman_(actor)",
+            "birthPlace",
+            "Chipping_Barnet"
+        ],
+        "rule": [
+            [
+                "Paul_Freeman_(actor)",
+                "education",
+                "Chipping_Barnet"
+            ],
+            [
+                "Paul_Freeman_(actor)",
+                "residence",
+                "Chipping_Barnet"
+            ]
+        ],
+        "score": "8.779670679359697e-07",
+        "rank": "648",
+        "new_score": "0.46892914175987244",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Fuyang",
+            "isPartOf",
+            "Anhui"
+        ],
+        "rule": [
+            [
+                "1939%E2%80%931940_Winter_Offensive",
+                "place",
+                "Fuyang"
+            ],
+            [
+                "Cao_Cao",
+                "birthPlace",
+                "Fuyang"
+            ],
+            [
+                "Duan_Qirui",
+                "birthPlace",
+                "Fuyang"
+            ],
+            [
+                "Fang_Chih",
+                "birthPlace",
+                "Fuyang"
+            ]
+        ],
+        "score": "4.047335823997855e-05",
+        "rank": "17",
+        "new_score": "4.772204192704521e-05",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Tally_Hall",
+            "hometown",
+            "Ann_Arbor,_Michigan"
+        ],
+        "rule": [
+            [
+                "Josh_Mancell",
+                "associatedBand",
+                "Tally_Hall"
+            ]
+        ],
+        "score": "7.358779141597438e-10",
+        "rank": "18620",
+        "new_score": "3.419406624516341e-08",
+        "new_rank": "1626"
+    },
+    {
+        "triple_to_explain": [
+            "Caribou%E2%80%93Targhee_National_Forest",
+            "nearestCity",
+            "Pocatello,_Idaho"
+        ],
+        "rule": [
+            [
+                "Caribou%E2%80%93Targhee_National_Forest",
+                "district",
+                "Power_County,_Idaho"
+            ],
+            [
+                "Caribou%E2%80%93Targhee_National_Forest",
+                "city",
+                "Aberdeen,_South_Dakota"
+            ],
+            [
+                "Caribou%E2%80%93Targhee_National_Forest",
+                "city",
+                "Albemarle,_North_Carolina"
+            ]
+        ],
+        "score": "7.433378414134495e-06",
+        "rank": "116",
+        "new_score": "0.004536258522421122",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Lufkin,_Texas",
+            "leaderName",
+            "Mayor"
+        ],
+        "rule": [
+            [
+                "Lufkin,_Texas",
+                "governingBody",
+                "Mayor"
+            ]
+        ],
+        "score": "0.0002982440928462893",
+        "rank": "4",
+        "new_score": "0.9993403553962708",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Evionnaz",
+            "country",
+            "Switzerland"
+        ],
+        "rule": [
+            [
+                "%C3%89cublens,_Vaud",
+                "part",
+                "Evionnaz"
+            ]
+        ],
+        "score": "0.0009697971981950104",
+        "rank": "4",
+        "new_score": "4.3856201955350116e-05",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "P._Kalaimani",
+            "deathPlace",
+            "Chennai"
+        ],
+        "rule": [
+            [
+                "P._Kalaimani",
+                "region",
+                "Chennai"
+            ]
+        ],
+        "score": "0.0016881097108125687",
+        "rank": "3",
+        "new_score": "0.20078447461128235",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Semih_Kaplano%C4%9Flu",
+            "birthPlace",
+            "%C4%B0zmir"
+        ],
+        "rule": [
+            [
+                "Eastern_European_Summer_Time",
+                "designer",
+                "Semih_Kaplano%C4%9Flu"
+            ],
+            [
+                "Semih_Kaplano%C4%9Flu",
+                "influenced",
+                "%C4%B0smet_%C4%B0n%C3%B6n%C3%BC"
+            ],
+            [
+                "Semih_Kaplano%C4%9Flu",
+                "influencedBy",
+                "Eastern_European_Summer_Time"
+            ],
+            [
+                "Semih_Kaplano%C4%9Flu",
+                "nationality",
+                "Konak,_%C4%B0zmir"
+            ]
+        ],
+        "score": "0.0001046488105203025",
+        "rank": "9",
+        "new_score": "0.03166641294956207",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Sam_Peckinpah",
+            "deathPlace",
+            "Inglewood,_California"
+        ],
+        "rule": [
+            [
+                "Sam_Peckinpah",
+                "education",
+                "Inglewood,_California"
+            ]
+        ],
+        "score": "1.0718535037312904e-07",
+        "rank": "479",
+        "new_score": "0.9993792772293091",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "2007_FIFA_Club_World_Cup_squads",
+            "currentMember",
+            "Carlos_Bueno"
+        ],
+        "rule": [
+            [
+                "Carlos_Bueno",
+                "team",
+                "2007_FIFA_Club_World_Cup_squads"
+            ]
+        ],
+        "score": "2.1703918662296928e-08",
+        "rank": "2892",
+        "new_score": "0.49212780594825745",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Nasserism",
+            "ideology",
+            "Republicanism"
+        ],
+        "rule": [
+            [
+                "Freedom_Movement_of_Iran",
+                "mergedIntoParty",
+                "Nasserism"
+            ],
+            [
+                "Nasserism",
+                "affiliation",
+                "People%27s_National_Party"
+            ]
+        ],
+        "score": "0.00014570618805009872",
+        "rank": "31",
+        "new_score": "0.005606077145785093",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Louise_Glaum",
+            "deathPlace",
+            "Los_Angeles"
+        ],
+        "rule": [
+            [
+                "Louise_Glaum",
+                "restingPlace",
+                "Los_Angeles"
+            ]
+        ],
+        "score": "0.0003472097450867295",
+        "rank": "5",
+        "new_score": "0.9992176294326782",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "R%C3%A1kospalotai_EAC",
+            "ground",
+            "Budapest"
+        ],
+        "rule": [
+            [
+                "R%C3%A1kospalotai_EAC",
+                "location",
+                "Budapest"
+            ],
+            [
+                "J%C3%A1nos_Biri",
+                "managerClub",
+                "R%C3%A1kospalotai_EAC"
+            ]
+        ],
+        "score": "0.03072110004723072",
+        "rank": "2",
+        "new_score": "0.984454333782196",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Nikki_Galrani",
+            "birthPlace",
+            "Bangalore"
+        ],
+        "rule": [
+            [
+                "Nikki_Galrani",
+                "education",
+                "Bangalore"
+            ]
+        ],
+        "score": "0.0015290065202862024",
+        "rank": "3",
+        "new_score": "0.422226220369339",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Maurice_Pialat",
+            "occupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Alan_Ball_(screenwriter)",
+                "child",
+                "Maurice_Pialat"
+            ]
+        ],
+        "score": "1.5603527572238818e-05",
+        "rank": "35",
+        "new_score": "3.618473056121729e-05",
+        "new_rank": "20"
+    },
+    {
+        "triple_to_explain": [
+            "Mariupol",
+            "country",
+            "Ukraine"
+        ],
+        "rule": [
+            [
+                "Ukraine",
+                "capital",
+                "Mariupol"
+            ]
+        ],
+        "score": "8.130376158987929e-07",
+        "rank": "406",
+        "new_score": "0.18688641488552094",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bathinda",
+            "isPartOf",
+            "Punjab,_India"
+        ],
+        "rule": [
+            [
+                "Bathinda",
+                "part",
+                "Punjab,_India"
+            ]
+        ],
+        "score": "0.0025702358689159155",
+        "rank": "2",
+        "new_score": "0.997735857963562",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kasthuri_Shankar",
+            "birthPlace",
+            "Chennai"
+        ],
+        "rule": [
+            [
+                "Kasthuri_Shankar",
+                "residence",
+                "Chennai"
+            ]
+        ],
+        "score": "7.823345185897779e-06",
+        "rank": "114",
+        "new_score": "0.5207707285881042",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Darrell_K._Sweet",
+            "birthPlace",
+            "Highland_Park,_New_Jersey"
+        ],
+        "rule": [
+            [
+                "Darrell_K._Sweet",
+                "deathPlace",
+                "Middlesex_County,_New_Jersey"
+            ],
+            [
+                "Darrell_K._Sweet",
+                "deathPlace",
+                "New_Jersey"
+            ],
+            [
+                "Darrell_K._Sweet",
+                "deathPlace",
+                "United_States"
+            ],
+            [
+                "Aaron_Daggett",
+                "relation",
+                "Darrell_K._Sweet"
+            ]
+        ],
+        "score": "2.17559859017058e-11",
+        "rank": "28230",
+        "new_score": "2.888582528726147e-08",
+        "new_rank": "4857"
+    },
+    {
+        "triple_to_explain": [
+            "Bill_Bell_(businessman)",
+            "birthPlace",
+            "Burslem"
+        ],
+        "rule": [
+            [
+                "Bill_Bell_(businessman)",
+                "deathPlace",
+                "Burslem"
+            ],
+            [
+                "Bill_Bell_(businessman)",
+                "restingPlace",
+                "Burslem"
+            ],
+            [
+                "Bill_Bell_(businessman)",
+                "birthPlace",
+                "West_Midlands_(region)"
+            ],
+            [
+                "Bill_Bell_(businessman)",
+                "knownFor",
+                "Port_Vale_F.C."
+            ]
+        ],
+        "score": "0.0021442905999720097",
+        "rank": "4",
+        "new_score": "0.6069377660751343",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Anand_Raaj_Anand",
+            "hometown",
+            "Delhi"
+        ],
+        "rule": [
+            [
+                "Anand_Raaj_Anand",
+                "birthPlace",
+                "Delhi"
+            ],
+            [
+                "Anand_Raaj_Anand",
+                "restingPlace",
+                "Delhi"
+            ]
+        ],
+        "score": "8.295777398359405e-09",
+        "rank": "6238",
+        "new_score": "0.9992116689682007",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "FK_Kom",
+            "ground",
+            "Montenegro"
+        ],
+        "rule": [
+            [
+                "FK_Kom",
+                "ground",
+                "Bijelo_Polje_Municipality"
+            ],
+            [
+                "FK_Kom",
+                "ground",
+                "Kotor"
+            ]
+        ],
+        "score": "0.0005708174430765212",
+        "rank": "20",
+        "new_score": "0.02817906066775322",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "John_Rawlins_(director)",
+            "occupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Alan_Ball_(screenwriter)",
+                "religion",
+                "John_Rawlins_(director)"
+            ]
+        ],
+        "score": "3.35864447148157e-13",
+        "rank": "64773",
+        "new_score": "5.755802328895679e-14",
+        "new_rank": "94196"
+    },
+    {
+        "triple_to_explain": [
+            "Roanne",
+            "department",
+            "Loire_(department)"
+        ],
+        "rule": [
+            [
+                "Roanne",
+                "capital",
+                "Saint-%C3%89tienne"
+            ],
+            [
+                "Roanne",
+                "country",
+                "France"
+            ],
+            [
+                "Roanne",
+                "daylightSavingTimeZone",
+                "Central_European_Summer_Time"
+            ]
+        ],
+        "score": "0.0034447009675204754",
+        "rank": "4",
+        "new_score": "0.018400730565190315",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Kolkata_Metro",
+            "location",
+            "India"
+        ],
+        "rule": [
+            [
+                "Kolkata_Metro",
+                "headquarter",
+                "Agartala"
+            ]
+        ],
+        "score": "1.1719723715941655e-06",
+        "rank": "135",
+        "new_score": "8.442765420113574e-08",
+        "new_rank": "2908"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Walim",
+            "country",
+            "Poland"
+        ],
+        "rule": [
+            [
+                "%C5%81a%C5%84cut_County",
+                "largestCity",
+                "Gmina_Walim"
+            ]
+        ],
+        "score": "0.035711172968149185",
+        "rank": "2",
+        "new_score": "0.03967830911278725",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "List_of_Ukrainian_football_transfers_winter_2010%E2%80%9311",
+            "currentMember",
+            "Oleksandr_Maksymov"
+        ],
+        "rule": [
+            [
+                "%C3%81lvaro_Cervera",
+                "team",
+                "List_of_Ukrainian_football_transfers_winter_2010%E2%80%9311"
+            ],
+            [
+                "Akira_Nishino_(footballer)",
+                "team",
+                "List_of_Ukrainian_football_transfers_winter_2010%E2%80%9311"
+            ],
+            [
+                "Aleksandar_Katai",
+                "team",
+                "List_of_Ukrainian_football_transfers_winter_2010%E2%80%9311"
+            ]
+        ],
+        "score": "1.2055691911427857e-07",
+        "rank": "754",
+        "new_score": "8.763971215408617e-10",
+        "new_rank": "6647"
+    },
+    {
+        "triple_to_explain": [
+            "Allis-Chalmers",
+            "industry",
+            "Mining"
+        ],
+        "rule": [
+            [
+                "Allis-Chalmers",
+                "type",
+                "Mining"
+            ]
+        ],
+        "score": "7.0965206759865396e-06",
+        "rank": "104",
+        "new_score": "0.3588965833187103",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Commodore_PET",
+            "type",
+            "Personal_computer"
+        ],
+        "rule": [
+            [
+                "Commodore_PET",
+                "successor",
+                "Acorn_Archimedes"
+            ],
+            [
+                "Commodore_PET",
+                "type",
+                "Oddworld:_Munch%27s_Oddysee"
+            ],
+            [
+                "Naruto:_Ultimate_Ninja",
+                "computingPlatform",
+                "Commodore_PET"
+            ],
+            [
+                "Acorn_Computers",
+                "industry",
+                "Commodore_PET"
+            ]
+        ],
+        "score": "2.3170723295606876e-07",
+        "rank": "206",
+        "new_score": "4.32329625255079e-06",
+        "new_rank": "500"
+    },
+    {
+        "triple_to_explain": [
+            "Marcello_Marchesi",
+            "occupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Alan_Ball_(screenwriter)",
+                "partner",
+                "Marcello_Marchesi"
+            ]
+        ],
+        "score": "1.0593676051939838e-06",
+        "rank": "36",
+        "new_score": "0.0032257852144539356",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "El_Dorado_International_Airport",
+            "operator",
+            "S.A._(corporation)"
+        ],
+        "rule": [
+            [
+                "Am%C3%A9rica_M%C3%B3vil",
+                "service",
+                "El_Dorado_International_Airport"
+            ],
+            [
+                "Ar%C3%A7elik",
+                "service",
+                "El_Dorado_International_Airport"
+            ],
+            [
+                "Avianca_Group",
+                "service",
+                "El_Dorado_International_Airport"
+            ]
+        ],
+        "score": "1.3300448520325858e-09",
+        "rank": "25144",
+        "new_score": "6.876434355262973e-08",
+        "new_rank": "3445"
+    },
+    {
+        "triple_to_explain": [
+            "Martna_Parish",
+            "isPartOf",
+            "L%C3%A4%C3%A4ne_County"
+        ],
+        "rule": [
+            [
+                "L%C3%A4%C3%A4ne_County",
+                "countySeat",
+                "Martna_Parish"
+            ]
+        ],
+        "score": "0.00017199823923874646",
+        "rank": "11",
+        "new_score": "0.9818770885467529",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Douglas_C-47_Skytrain",
+            "type",
+            "Military_transport_aircraft"
+        ],
+        "rule": [
+            [
+                "Douglas_C-47_Skytrain",
+                "successor",
+                "Antonov_An-26"
+            ]
+        ],
+        "score": "1.1298287063254975e-05",
+        "rank": "88",
+        "new_score": "0.013260342180728912",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Saint-Louis_Region",
+            "timeZone",
+            "Greenwich_Mean_Time"
+        ],
+        "rule": [
+            [
+                "Saint-Louis_Region",
+                "daylightSavingTimeZone",
+                "Greenwich_Mean_Time"
+            ],
+            [
+                "Aberdeen",
+                "part",
+                "Saint-Louis_Region"
+            ]
+        ],
+        "score": "0.003923133015632629",
+        "rank": "5",
+        "new_score": "0.995765209197998",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "George_Segal",
+            "birthPlace",
+            "Great_Neck,_New_York"
+        ],
+        "rule": [
+            [
+                "Christopher_Lambert",
+                "parent",
+                "George_Segal"
+            ],
+            [
+                "George_Segal",
+                "associatedMusicalArtist",
+                "Jared_Evan"
+            ],
+            [
+                "George_Segal",
+                "child",
+                "Christopher_Lambert"
+            ]
+        ],
+        "score": "1.8894954489923066e-09",
+        "rank": "12160",
+        "new_score": "0.00024299108190461993",
+        "new_rank": "21"
+    },
+    {
+        "triple_to_explain": [
+            "Patrick_Troughton",
+            "birthPlace",
+            "Middlesex"
+        ],
+        "rule": [
+            [
+                "Patrick_Troughton",
+                "residence",
+                "Middlesex"
+            ],
+            [
+                "Anne_Grey",
+                "relation",
+                "Patrick_Troughton"
+            ],
+            [
+                "Anne_Grey",
+                "relative",
+                "Patrick_Troughton"
+            ]
+        ],
+        "score": "6.41047354088542e-11",
+        "rank": "33597",
+        "new_score": "0.44835078716278076",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ribera_del_Duero_(comarca)",
+            "isPartOf",
+            "Castile_and_Le%C3%B3n"
+        ],
+        "rule": [
+            [
+                "Castile_and_Le%C3%B3n",
+                "metropolitanBorough",
+                "Ribera_del_Duero_(comarca)"
+            ],
+            [
+                "Castile_and_Le%C3%B3n",
+                "municipality",
+                "Ribera_del_Duero_(comarca)"
+            ]
+        ],
+        "score": "0.0001228384644491598",
+        "rank": "13",
+        "new_score": "0.9996577501296997",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Martin_Hellberg",
+            "birthPlace",
+            "Dresden"
+        ],
+        "rule": [
+            [
+                "Alf_Teichs",
+                "parent",
+                "Martin_Hellberg"
+            ],
+            [
+                "Erich_K%C3%A4stner",
+                "child",
+                "Martin_Hellberg"
+            ]
+        ],
+        "score": "1.0340764674765524e-05",
+        "rank": "89",
+        "new_score": "0.0001886489917524159",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Mark_Shand",
+            "education",
+            "Dorset"
+        ],
+        "rule": [
+            [
+                "Mark_Shand",
+                "deathPlace",
+                "Dorset"
+            ]
+        ],
+        "score": "2.764116470643785e-05",
+        "rank": "109",
+        "new_score": "0.40990254282951355",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kolah_Boz-e_Sharqi_Rural_District",
+            "isPartOf",
+            "East_Azerbaijan_province"
+        ],
+        "rule": [
+            [
+                "Dodangeh_Rural_District_(Hurand_County)",
+                "part",
+                "Kolah_Boz-e_Sharqi_Rural_District"
+            ]
+        ],
+        "score": "0.03878762200474739",
+        "rank": "2",
+        "new_score": "0.08318199962377548",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Howard_Ashman",
+            "deathPlace",
+            "New_York_City"
+        ],
+        "rule": [
+            [
+                "Howard_Ashman",
+                "education",
+                "New_York_City"
+            ]
+        ],
+        "score": "3.374719170778917e-08",
+        "rank": "1329",
+        "new_score": "0.15542437136173248",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Muaither_SC",
+            "ground",
+            "Qatar"
+        ],
+        "rule": [
+            [
+                "Muaither_SC",
+                "ground",
+                "Doha"
+            ],
+            [
+                "Muaither_SC",
+                "chairman",
+                "Pep_Guardiola"
+            ]
+        ],
+        "score": "0.08904416114091873",
+        "rank": "2",
+        "new_score": "0.006686295382678509",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "List_of_Belgian_football_transfers_winter_2009%E2%80%9310",
+            "currentMember",
+            "J%C3%A9r%C3%A9my_Perbet"
+        ],
+        "rule": [
+            [
+                "J%C3%A9r%C3%A9my_Perbet",
+                "team",
+                "List_of_Belgian_football_transfers_winter_2009%E2%80%9310"
+            ],
+            [
+                "Andr%C3%A9_Schembri",
+                "team",
+                "List_of_Belgian_football_transfers_winter_2009%E2%80%9310"
+            ]
+        ],
+        "score": "1.9753201740968507e-06",
+        "rank": "153",
+        "new_score": "0.3191814422607422",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Conneaut,_Ohio",
+            "isPartOf",
+            "Ashtabula_County,_Ohio"
+        ],
+        "rule": [
+            [
+                "Ashtabula_County,_Ohio",
+                "part",
+                "Conneaut,_Ohio"
+            ],
+            [
+                "Conneaut,_Ohio",
+                "region",
+                "Ashtabula_County,_Ohio"
+            ]
+        ],
+        "score": "0.00010334031685488299",
+        "rank": "23",
+        "new_score": "0.6151149868965149",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "List_of_Azerbaijan_football_transfers_winter_2010",
+            "currentMember",
+            "Vagif_Javadov"
+        ],
+        "rule": [
+            [
+                "Adam_Nemec",
+                "team",
+                "List_of_Azerbaijan_football_transfers_winter_2010"
+            ],
+            [
+                "Andrey_Yeshchenko",
+                "team",
+                "List_of_Azerbaijan_football_transfers_winter_2010"
+            ],
+            [
+                "Andriy_Voronin",
+                "team",
+                "List_of_Azerbaijan_football_transfers_winter_2010"
+            ]
+        ],
+        "score": "0.011040017940104008",
+        "rank": "2",
+        "new_score": "7.69299003877677e-05",
+        "new_rank": "47"
+    },
+    {
+        "triple_to_explain": [
+            "Holderness,_New_Hampshire",
+            "isPartOf",
+            "Grafton_County,_New_Hampshire"
+        ],
+        "rule": [
+            [
+                "Holderness,_New_Hampshire",
+                "federalState",
+                "Grafton_County,_New_Hampshire"
+            ],
+            [
+                "Holderness,_New_Hampshire",
+                "part",
+                "Grafton_County,_New_Hampshire"
+            ]
+        ],
+        "score": "0.0017521497793495655",
+        "rank": "6",
+        "new_score": "0.4331398010253906",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "FC_Kyzylzhar",
+            "ground",
+            "Petropavl"
+        ],
+        "rule": [
+            [
+                "FC_Kyzylzhar",
+                "location",
+                "Kazakhstan"
+            ],
+            [
+                "FC_Kyzylzhar",
+                "ground",
+                "Almaty_Region"
+            ],
+            [
+                "FC_Kyzylzhar",
+                "ground",
+                "Astana"
+            ],
+            [
+                "FC_Kyzylzhar",
+                "ground",
+                "Astana_Arena"
+            ]
+        ],
+        "score": "2.09066808309899e-08",
+        "rank": "3176",
+        "new_score": "3.776137873501284e-06",
+        "new_rank": "819"
+    },
+    {
+        "triple_to_explain": [
+            "Trevor_Worthy",
+            "nationality",
+            "New_Zealand"
+        ],
+        "rule": [
+            [
+                "Henry_Suter",
+                "influenced",
+                "Trevor_Worthy"
+            ]
+        ],
+        "score": "1.2418804544722661e-06",
+        "rank": "38",
+        "new_score": "0.0031493231654167175",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Portmore_United_F.C.",
+            "ground",
+            "Portmore,_Jamaica"
+        ],
+        "rule": [
+            [
+                "Portmore_United_F.C.",
+                "ground",
+                "Saint_Ann_Parish"
+            ]
+        ],
+        "score": "0.00035271828528493643",
+        "rank": "10",
+        "new_score": "0.012549622915685177",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Dane_Cook",
+            "genre",
+            "Black_comedy"
+        ],
+        "rule": [
+            [
+                "Bill_Maher",
+                "influenced",
+                "Dane_Cook"
+            ]
+        ],
+        "score": "8.729828550713137e-06",
+        "rank": "17",
+        "new_score": "2.3297950974665582e-05",
+        "new_rank": "17"
+    },
+    {
+        "triple_to_explain": [
+            "Gejlarat-e_Sharqi_Rural_District",
+            "isPartOf",
+            "Aras_District"
+        ],
+        "rule": [
+            [
+                "Aras_District",
+                "part",
+                "Gejlarat-e_Sharqi_Rural_District"
+            ],
+            [
+                "Aras_District",
+                "state",
+                "Gejlarat-e_Sharqi_Rural_District"
+            ],
+            [
+                "Gejlarat-e_Sharqi_Rural_District",
+                "largestCity",
+                "Aras_District"
+            ],
+            [
+                "Gejlarat-e_Sharqi_Rural_District",
+                "part",
+                "Aras_District"
+            ]
+        ],
+        "score": "9.654247696744278e-05",
+        "rank": "82",
+        "new_score": "0.37999439239501953",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Armenian_Soviet_Socialist_Republic",
+            "governmentType",
+            "Unitary_state"
+        ],
+        "rule": [
+            [
+                "Armenian_Soviet_Socialist_Republic",
+                "country",
+                "Bahrain"
+            ]
+        ],
+        "score": "0.033272452652454376",
+        "rank": "4",
+        "new_score": "2.714028539685387e-07",
+        "new_rank": "124"
+    },
+    {
+        "triple_to_explain": [
+            "Jack_Richardson_(record_producer)",
+            "deathPlace",
+            "London,_Ontario"
+        ],
+        "rule": [
+            [
+                "Beverley_Mahood",
+                "relative",
+                "Jack_Richardson_(record_producer)"
+            ],
+            [
+                "Charles_Herbert_Mackintosh",
+                "partner",
+                "Jack_Richardson_(record_producer)"
+            ]
+        ],
+        "score": "1.2402004770373232e-11",
+        "rank": "22312",
+        "new_score": "5.916589440602138e-10",
+        "new_rank": "18227"
+    }
+]

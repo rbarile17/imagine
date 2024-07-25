@@ -1,0 +1,3812 @@
+[
+    {
+        "triple": [
+            "Setophaga",
+            "phylum",
+            "Chordate"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Setophaga",
+                        "kingdom",
+                        "Animal"
+                    ]
+                ],
+                -4.73321554770318
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 14.252222537994385
+    },
+    {
+        "triple": [
+            "Kagoshima_Main_Line",
+            "location",
+            "Kagoshima_Prefecture"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kagoshima_Main_Line",
+                        "location",
+                        "Fukuoka_Prefecture"
+                    ]
+                ],
+                -0.5420105026256564
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.35123085975647
+    },
+    {
+        "triple": [
+            "Kate_Ashfield",
+            "birthPlace",
+            "Birmingham"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Collision_(TV_series)",
+                        "starring",
+                        "Kate_Ashfield"
+                    ]
+                ],
+                -0.12336895388076491
+            ],
+            [
+                [
+                    [
+                        "Kate_Ashfield",
+                        "occupation",
+                        "Comedian"
+                    ]
+                ],
+                -0.2969910011248594
+            ],
+            [
+                [
+                    [
+                        "Collision_(TV_series)",
+                        "starring",
+                        "Kate_Ashfield"
+                    ],
+                    [
+                        "Kate_Ashfield",
+                        "occupation",
+                        "Comedian"
+                    ]
+                ],
+                -0.456214848143982
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.921482801437378
+    },
+    {
+        "triple": [
+            "Battle_of_Quiberon_Bay",
+            "isPartOfMilitaryConflict",
+            "Seven_Years%27_War"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Battle_of_Quiberon_Bay",
+                        "place",
+                        "Bay_of_Biscay"
+                    ]
+                ],
+                0.6250577926635742
+            ],
+            [
+                [
+                    [
+                        "Sir_John_Duckworth,_1st_Baronet",
+                        "battle",
+                        "Battle_of_Quiberon_Bay"
+                    ]
+                ],
+                -1.225003433227539
+            ],
+            [
+                [
+                    [
+                        "Sir_John_Duckworth,_1st_Baronet",
+                        "battle",
+                        "Battle_of_Quiberon_Bay"
+                    ],
+                    [
+                        "Battle_of_Quiberon_Bay",
+                        "place",
+                        "Bay_of_Biscay"
+                    ]
+                ],
+                -12.85833740234375
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.989715337753296
+    },
+    {
+        "triple": [
+            "Port_Talbot_Town_F.C.",
+            "ground",
+            "Port_Talbot"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Port_Talbot_Town_F.C.",
+                        "position",
+                        "Cymru_Premier"
+                    ]
+                ],
+                -0.0508724329887262
+            ],
+            [
+                [
+                    [
+                        "Port_Talbot_Town_F.C.",
+                        "league",
+                        "Welsh_Football_League_Division_One"
+                    ]
+                ],
+                -0.1683351265378678
+            ],
+            [
+                [
+                    [
+                        "Port_Talbot_Town_F.C.",
+                        "position",
+                        "Cymru_Premier"
+                    ],
+                    [
+                        "Port_Talbot_Town_F.C.",
+                        "league",
+                        "Welsh_Football_League_Division_One"
+                    ]
+                ],
+                -0.5375169574776629
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.849440097808838
+    },
+    {
+        "triple": [
+            "Dunkirk,_New_York",
+            "type",
+            "Administrative_divisions_of_New_York_(state)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chris_Poland",
+                        "birthPlace",
+                        "Dunkirk,_New_York"
+                    ]
+                ],
+                0.23878301677394806
+            ],
+            [
+                [
+                    [
+                        "Grasshopper_(musician)",
+                        "birthPlace",
+                        "Dunkirk,_New_York"
+                    ]
+                ],
+                -0.36485715191679613
+            ],
+            [
+                [
+                    [
+                        "Chris_Poland",
+                        "birthPlace",
+                        "Dunkirk,_New_York"
+                    ],
+                    [
+                        "Grasshopper_(musician)",
+                        "birthPlace",
+                        "Dunkirk,_New_York"
+                    ]
+                ],
+                -1.8213051336525352
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.65732717514038
+    },
+    {
+        "triple": [
+            "Vaivara_Parish",
+            "isPartOf",
+            "Ida-Viru_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Vaivara_Parish",
+                        "type",
+                        "Municipalities_of_Estonia"
+                    ]
+                ],
+                0.2626937729900158
+            ],
+            [
+                [
+                    [
+                        "Vaivara_Parish",
+                        "country",
+                        "Estonia"
+                    ]
+                ],
+                -0.3802055964266947
+            ],
+            [
+                [
+                    [
+                        "Vaivara_Parish",
+                        "country",
+                        "Estonia"
+                    ],
+                    [
+                        "Vaivara_Parish",
+                        "type",
+                        "Municipalities_of_Estonia"
+                    ]
+                ],
+                -0.4071039148712559
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.210380554199219
+    },
+    {
+        "triple": [
+            "Catherine_Breillat",
+            "occupation",
+            "Screenwriter"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Catherine_Breillat",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                0.07418300653594771
+            ],
+            [
+                [
+                    [
+                        "Catherine_Breillat",
+                        "occupation",
+                        "Film_director"
+                    ],
+                    [
+                        "Catherine_Breillat",
+                        "occupation",
+                        "Novelist"
+                    ]
+                ],
+                -6.602069716775599
+            ],
+            [
+                [
+                    [
+                        "Catherine_Breillat",
+                        "occupation",
+                        "Novelist"
+                    ]
+                ],
+                -19.139324618736385
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.987685918807983
+    },
+    {
+        "triple": [
+            "Chuck_Norris",
+            "occupation",
+            "Martial_arts"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chuck_Norris",
+                        "party",
+                        "Republican_Party_(United_States)"
+                    ]
+                ],
+                -0.0631590756113978
+            ],
+            [
+                [
+                    [
+                        "Chuck_Norris",
+                        "party",
+                        "Republican_Party_(United_States)"
+                    ],
+                    [
+                        "Walker,_Texas_Ranger",
+                        "starring",
+                        "Chuck_Norris"
+                    ]
+                ],
+                -0.942450078528158
+            ],
+            [
+                [
+                    [
+                        "Walker,_Texas_Ranger",
+                        "starring",
+                        "Chuck_Norris"
+                    ]
+                ],
+                -1.2029391967691272
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.935500860214233
+    },
+    {
+        "triple": [
+            "Swedish_Empire",
+            "governmentType",
+            "Absolute_monarchy"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Second_Northern_War",
+                        "place",
+                        "Swedish_Empire"
+                    ]
+                ],
+                -2.1262866191607284
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.788780927658081
+    },
+    {
+        "triple": [
+            "Barvanan-e_Gharbi_Rural_District",
+            "isPartOf",
+            "East_Azerbaijan_province"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Barvanan-e_Gharbi_Rural_District",
+                        "isPartOf",
+                        "Torkamanchay_District"
+                    ]
+                ],
+                0.6266922728666774
+            ],
+            [
+                [
+                    [
+                        "Barvanan-e_Gharbi_Rural_District",
+                        "country",
+                        "Iran"
+                    ],
+                    [
+                        "Barvanan-e_Gharbi_Rural_District",
+                        "isPartOf",
+                        "Torkamanchay_District"
+                    ]
+                ],
+                0.11434434010485885
+            ],
+            [
+                [
+                    [
+                        "Barvanan-e_Gharbi_Rural_District",
+                        "country",
+                        "Iran"
+                    ]
+                ],
+                -0.0054985176638967185
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.04905104637146
+    },
+    {
+        "triple": [
+            "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)",
+            "city",
+            "Pori"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mark_Lee_(ice_hockey)",
+                        "formerTeam",
+                        "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)"
+                    ]
+                ],
+                0.07767759229925673
+            ],
+            [
+                [
+                    [
+                        "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)",
+                        "league",
+                        "Liiga"
+                    ]
+                ],
+                0.032715974168392836
+            ],
+            [
+                [
+                    [
+                        "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)",
+                        "league",
+                        "Liiga"
+                    ],
+                    [
+                        "Mark_Lee_(ice_hockey)",
+                        "formerTeam",
+                        "Porin_%C3%84ss%C3%A4t_(men%27s_ice_hockey)"
+                    ]
+                ],
+                -0.8966126477397344
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.515596151351929
+    },
+    {
+        "triple": [
+            "MFK_Skalica",
+            "ground",
+            "Skalica"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Juraj_Piroska",
+                        "team",
+                        "MFK_Skalica"
+                    ]
+                ],
+                -1.6750972762645915
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.963279247283936
+    },
+    {
+        "triple": [
+            "OFK_Ba%C4%8Dka",
+            "league",
+            "Serbian_SuperLiga"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Veseljko_Trivunovi%C4%87",
+                        "team",
+                        "OFK_Ba%C4%8Dka"
+                    ]
+                ],
+                -0.007836814086814086
+            ],
+            [
+                [
+                    [
+                        "OFK_Ba%C4%8Dka",
+                        "position",
+                        "Serbian_First_League"
+                    ]
+                ],
+                -0.00921887796887797
+            ],
+            [
+                [
+                    [
+                        "OFK_Ba%C4%8Dka",
+                        "position",
+                        "Serbian_First_League"
+                    ],
+                    [
+                        "Veseljko_Trivunovi%C4%87",
+                        "team",
+                        "OFK_Ba%C4%8Dka"
+                    ]
+                ],
+                -0.010662366912366912
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.922003984451294
+    },
+    {
+        "triple": [
+            "Nakhon_Pathom",
+            "isPartOf",
+            "Nakhon_Pathom_province"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nakhon_Pathom",
+                        "type",
+                        "Thesaban"
+                    ]
+                ],
+                0.38245607420254885
+            ],
+            [
+                [
+                    [
+                        "Nakhon_Pathom",
+                        "country",
+                        "Thailand"
+                    ],
+                    [
+                        "Nakhon_Pathom",
+                        "type",
+                        "Thesaban"
+                    ]
+                ],
+                -0.1636565869843903
+            ],
+            [
+                [
+                    [
+                        "Nakhon_Pathom",
+                        "country",
+                        "Thailand"
+                    ]
+                ],
+                -0.3237500942613679
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.243179321289062
+    },
+    {
+        "triple": [
+            "Hansheinrich_Dransmann",
+            "birthPlace",
+            "German_Empire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hansheinrich_Dransmann",
+                        "occupation",
+                        "Composer"
+                    ]
+                ],
+                -0.08818480904019453
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.248206377029419
+    },
+    {
+        "triple": [
+            "Kharturan_Rural_District",
+            "isPartOf",
+            "Shahrud_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kharturan_Rural_District",
+                        "isPartOf",
+                        "Semnan_province"
+                    ]
+                ],
+                0.39170482870558226
+            ],
+            [
+                [
+                    [
+                        "Kharturan_Rural_District",
+                        "isPartOf",
+                        "Beyarjomand_District"
+                    ],
+                    [
+                        "Kharturan_Rural_District",
+                        "isPartOf",
+                        "Semnan_province"
+                    ]
+                ],
+                0.103988174598574
+            ],
+            [
+                [
+                    [
+                        "Kharturan_Rural_District",
+                        "isPartOf",
+                        "Beyarjomand_District"
+                    ]
+                ],
+                -0.003008521245145209
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.943876028060913
+    },
+    {
+        "triple": [
+            "Wolverine_World_Wide",
+            "type",
+            "Public_company"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Wolverine_World_Wide",
+                        "locationCountry",
+                        "United_States"
+                    ]
+                ],
+                0.6413098210873811
+            ],
+            [
+                [
+                    [
+                        "Wolverine_World_Wide",
+                        "industry",
+                        "Textile"
+                    ]
+                ],
+                -0.0760870705480161
+            ],
+            [
+                [
+                    [
+                        "Wolverine_World_Wide",
+                        "locationCountry",
+                        "United_States"
+                    ],
+                    [
+                        "Wolverine_World_Wide",
+                        "industry",
+                        "Textile"
+                    ]
+                ],
+                -23.532608695652176
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.99275279045105
+    },
+    {
+        "triple": [
+            "H%E1%BA%A3i_D%C6%B0%C6%A1ng_province",
+            "isPartOf",
+            "Red_River_Delta"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "H%E1%BA%A3i_D%C6%B0%C6%A1ng_province",
+                        "country",
+                        "Vietnam"
+                    ]
+                ],
+                0.0876611509835194
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.27274775505066
+    },
+    {
+        "triple": [
+            "Chapakrud_Rural_District",
+            "isPartOf",
+            "Gil_Khuran_District"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chapakrud_Rural_District",
+                        "isPartOf",
+                        "Juybar_County"
+                    ],
+                    [
+                        "Chapakrud_Rural_District",
+                        "isPartOf",
+                        "Mazandaran_province"
+                    ]
+                ],
+                0.1318782098312546
+            ],
+            [
+                [
+                    [
+                        "Chapakrud_Rural_District",
+                        "isPartOf",
+                        "Mazandaran_province"
+                    ]
+                ],
+                -0.009566745182839712
+            ],
+            [
+                [
+                    [
+                        "Chapakrud_Rural_District",
+                        "isPartOf",
+                        "Juybar_County"
+                    ]
+                ],
+                -0.057912113372205275
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.564242839813232
+    },
+    {
+        "triple": [
+            "Eskelabad_Rural_District",
+            "isPartOf",
+            "Khash_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Eskelabad_Rural_District",
+                        "country",
+                        "Iran"
+                    ],
+                    [
+                        "Eskelabad_Rural_District",
+                        "isPartOf",
+                        "Sistan_and_Baluchestan_province"
+                    ]
+                ],
+                0.27389786878782957
+            ],
+            [
+                [
+                    [
+                        "Eskelabad_Rural_District",
+                        "isPartOf",
+                        "Sistan_and_Baluchestan_province"
+                    ]
+                ],
+                0.005664293499686927
+            ],
+            [
+                [
+                    [
+                        "Eskelabad_Rural_District",
+                        "country",
+                        "Iran"
+                    ]
+                ],
+                0.002591544722988799
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.833325862884521
+    },
+    {
+        "triple": [
+            "Nizhalgal_Ravi",
+            "birthPlace",
+            "Tamil_Nadu"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nizhalgal_Ravi",
+                        "birthPlace",
+                        "India"
+                    ]
+                ],
+                0.6408450704225352
+            ],
+            [
+                [
+                    [
+                        "Kandukondain_Kandukondain",
+                        "starring",
+                        "Nizhalgal_Ravi"
+                    ],
+                    [
+                        "Nizhalgal_Ravi",
+                        "birthPlace",
+                        "India"
+                    ]
+                ],
+                -0.14492216456634543
+            ],
+            [
+                [
+                    [
+                        "Kandukondain_Kandukondain",
+                        "starring",
+                        "Nizhalgal_Ravi"
+                    ]
+                ],
+                -0.24944403261675316
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.853816032409668
+    },
+    {
+        "triple": [
+            "Hal_Ashby",
+            "deathPlace",
+            "Malibu,_California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hal_Ashby",
+                        "birthPlace",
+                        "Ogden,_Utah"
+                    ]
+                ],
+                0.14818089469129764
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.905969142913818
+    },
+    {
+        "triple": [
+            "Steve_Camp",
+            "recordLabel",
+            "Sparrow_Records"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Steve_Camp",
+                        "genre",
+                        "Contemporary_Christian_music"
+                    ]
+                ],
+                -2.1383861236802413
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.218179702758789
+    },
+    {
+        "triple": [
+            "Heinz_R%C3%BChmann",
+            "occupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Heinz_R%C3%BChmann",
+                        "birthPlace",
+                        "Essen"
+                    ]
+                ],
+                -0.15621587895804087
+            ],
+            [
+                [
+                    [
+                        "Heinz_R%C3%BChmann",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                -0.6308688192169708
+            ],
+            [
+                [
+                    [
+                        "Heinz_R%C3%BChmann",
+                        "occupation",
+                        "Film_director"
+                    ],
+                    [
+                        "Heinz_R%C3%BChmann",
+                        "birthPlace",
+                        "Essen"
+                    ]
+                ],
+                -1.3366869443144596
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.856770992279053
+    },
+    {
+        "triple": [
+            "Hans_May",
+            "birthPlace",
+            "Vienna"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hans_May",
+                        "deathPlace",
+                        "United_Kingdom"
+                    ]
+                ],
+                -0.1652542372881356
+            ],
+            [
+                [
+                    [
+                        "Hans_May",
+                        "deathPlace",
+                        "London"
+                    ]
+                ],
+                -2.8617836965294594
+            ],
+            [
+                [
+                    [
+                        "Hans_May",
+                        "deathPlace",
+                        "London"
+                    ],
+                    [
+                        "Hans_May",
+                        "deathPlace",
+                        "United_Kingdom"
+                    ]
+                ],
+                -5.387610976594027
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.763401508331299
+    },
+    {
+        "triple": [
+            "Jane_Wyatt",
+            "deathPlace",
+            "Bel_Air,_Los_Angeles"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jane_Wyatt",
+                        "birthPlace",
+                        "Mahwah,_New_Jersey"
+                    ],
+                    [
+                        "Jane_Wyatt",
+                        "restingPlace",
+                        "San_Fernando_Mission_Cemetery"
+                    ]
+                ],
+                0.5897902097902098
+            ],
+            [
+                [
+                    [
+                        "Jane_Wyatt",
+                        "birthPlace",
+                        "Mahwah,_New_Jersey"
+                    ]
+                ],
+                0.02839160839160839
+            ],
+            [
+                [
+                    [
+                        "Jane_Wyatt",
+                        "restingPlace",
+                        "San_Fernando_Mission_Cemetery"
+                    ]
+                ],
+                -0.05916083916083916
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.768595457077026
+    },
+    {
+        "triple": [
+            "Charlie_Drake",
+            "deathPlace",
+            "Middlesex"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Charlie_Drake",
+                        "birthPlace",
+                        "London"
+                    ]
+                ],
+                0.28248963883955003
+            ],
+            [
+                [
+                    [
+                        "Charlie_Drake",
+                        "birthPlace",
+                        "London"
+                    ],
+                    [
+                        "Charlie_Drake",
+                        "deathPlace",
+                        "Twickenham"
+                    ]
+                ],
+                -4.061352871521611
+            ],
+            [
+                [
+                    [
+                        "Charlie_Drake",
+                        "deathPlace",
+                        "Twickenham"
+                    ]
+                ],
+                -6.081187092954411
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.923863410949707
+    },
+    {
+        "triple": [
+            "KABC-TV",
+            "owningCompany",
+            "American_Broadcasting_Company"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "KABC-TV",
+                        "location",
+                        "Los_Angeles"
+                    ]
+                ],
+                -0.42044500419815284
+            ],
+            [
+                [
+                    [
+                        "KABC-TV",
+                        "country",
+                        "United_States"
+                    ]
+                ],
+                -1.059823677581864
+            ],
+            [
+                [
+                    [
+                        "KABC-TV",
+                        "country",
+                        "United_States"
+                    ],
+                    [
+                        "KABC-TV",
+                        "location",
+                        "Los_Angeles"
+                    ]
+                ],
+                -1.1093618807724601
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.097503900527954
+    },
+    {
+        "triple": [
+            "Andr%C3%A9_Michaux",
+            "deathPlace",
+            "Madagascar"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Andr%C3%A9_Michaux",
+                        "citizenship",
+                        "France"
+                    ],
+                    [
+                        "Andr%C3%A9_Michaux",
+                        "field",
+                        "Botany"
+                    ]
+                ],
+                0.3025034517840273
+            ],
+            [
+                [
+                    [
+                        "Andr%C3%A9_Michaux",
+                        "field",
+                        "Botany"
+                    ]
+                ],
+                0.10424993338662403
+            ],
+            [
+                [
+                    [
+                        "Andr%C3%A9_Michaux",
+                        "citizenship",
+                        "France"
+                    ]
+                ],
+                -0.015206017004578156
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.000962972640991
+    },
+    {
+        "triple": [
+            "George,_South_Africa",
+            "country",
+            "South_Africa"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nelson_Mandela_University",
+                        "campus",
+                        "George,_South_Africa"
+                    ]
+                ],
+                -0.471853478391057
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.655293464660645
+    },
+    {
+        "triple": [
+            "Diane_Ladd",
+            "spouse",
+            "Bruce_Dern"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Laura_Dern",
+                        "parent",
+                        "Diane_Ladd"
+                    ],
+                    [
+                        "Diane_Ladd",
+                        "birthPlace",
+                        "Meridian,_Mississippi"
+                    ]
+                ],
+                0.41228430183751513
+            ],
+            [
+                [
+                    [
+                        "Diane_Ladd",
+                        "birthPlace",
+                        "Meridian,_Mississippi"
+                    ]
+                ],
+                0.34600317134595654
+            ],
+            [
+                [
+                    [
+                        "Laura_Dern",
+                        "parent",
+                        "Diane_Ladd"
+                    ]
+                ],
+                -0.07321145415539596
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.982362031936646
+    },
+    {
+        "triple": [
+            "Rajendra_Singh_Babu",
+            "birthPlace",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rajendra_Singh_Babu",
+                        "residence",
+                        "Karnataka"
+                    ]
+                ],
+                0.722232199122763
+            ],
+            [
+                [
+                    [
+                        "Rajendra_Singh_Babu",
+                        "residence",
+                        "India"
+                    ],
+                    [
+                        "Rajendra_Singh_Babu",
+                        "residence",
+                        "Karnataka"
+                    ]
+                ],
+                -2.0213690863715277
+            ],
+            [
+                [
+                    [
+                        "Rajendra_Singh_Babu",
+                        "residence",
+                        "India"
+                    ]
+                ],
+                -45.05555555555556
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.271234273910522
+    },
+    {
+        "triple": [
+            "Arline_Judge",
+            "deathPlace",
+            "West_Hollywood,_California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Arline_Judge",
+                        "birthPlace",
+                        "Bridgeport,_Connecticut"
+                    ]
+                ],
+                0.880316742081448
+            ],
+            [
+                [
+                    [
+                        "Arline_Judge",
+                        "spouse",
+                        "Wesley_Ruggles"
+                    ],
+                    [
+                        "Arline_Judge",
+                        "birthPlace",
+                        "Bridgeport,_Connecticut"
+                    ]
+                ],
+                0.09796380090497737
+            ],
+            [
+                [
+                    [
+                        "Arline_Judge",
+                        "spouse",
+                        "Wesley_Ruggles"
+                    ]
+                ],
+                -0.07850678733031674
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.714894771575928
+    },
+    {
+        "triple": [
+            "New_Forest",
+            "nearestCity",
+            "Southampton"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "New_Forest",
+                        "location",
+                        "Hampshire"
+                    ]
+                ],
+                -0.9388867008008402
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.06537389755249
+    },
+    {
+        "triple": [
+            "Joseph_LaShelle",
+            "occupation",
+            "Cinematographer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "How_the_West_Was_Won_(film)",
+                        "cinematography",
+                        "Joseph_LaShelle"
+                    ]
+                ],
+                0.07484390209159326
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.012838363647461
+    },
+    {
+        "triple": [
+            "Arenaria_(plant)",
+            "family",
+            "Caryophyllaceae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Arenaria_(plant)",
+                        "kingdom",
+                        "Plant"
+                    ]
+                ],
+                -0.011697559953921877
+            ],
+            [
+                [
+                    [
+                        "Arenaria_(plant)",
+                        "class",
+                        "Eudicots"
+                    ]
+                ],
+                -0.16406953607707614
+            ],
+            [
+                [
+                    [
+                        "Arenaria_(plant)",
+                        "class",
+                        "Eudicots"
+                    ],
+                    [
+                        "Arenaria_(plant)",
+                        "kingdom",
+                        "Plant"
+                    ]
+                ],
+                -0.3532830662896638
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.194608449935913
+    },
+    {
+        "triple": [
+            "Fred_Guiol",
+            "occupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fred_Guiol",
+                        "deathPlace",
+                        "Bishop,_California"
+                    ]
+                ],
+                0.4569761129207383
+            ],
+            [
+                [
+                    [
+                        "Fred_Guiol",
+                        "occupation",
+                        "Screenwriter"
+                    ],
+                    [
+                        "Fred_Guiol",
+                        "deathPlace",
+                        "Bishop,_California"
+                    ]
+                ],
+                -5.395901194353963
+            ],
+            [
+                [
+                    [
+                        "Fred_Guiol",
+                        "occupation",
+                        "Screenwriter"
+                    ]
+                ],
+                -7.970005428881651
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.11177110671997
+    },
+    {
+        "triple": [
+            "Genyo_Takeda",
+            "occupation",
+            "Nintendo"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nintendo",
+                        "keyPerson",
+                        "Genyo_Takeda"
+                    ]
+                ],
+                0.7356542787982344
+            ],
+            [
+                [
+                    [
+                        "Genyo_Takeda",
+                        "employer",
+                        "Nintendo"
+                    ]
+                ],
+                -1.1488680051260145
+            ],
+            [
+                [
+                    [
+                        "Genyo_Takeda",
+                        "employer",
+                        "Nintendo"
+                    ],
+                    [
+                        "Nintendo",
+                        "keyPerson",
+                        "Genyo_Takeda"
+                    ]
+                ],
+                -1.473088423750534
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.86423373222351
+    },
+    {
+        "triple": [
+            "Chicoreus",
+            "family",
+            "Muricinae"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chicoreus",
+                        "family",
+                        "Muricidae"
+                    ]
+                ],
+                -0.15912674437453028
+            ],
+            [
+                [
+                    [
+                        "Chicoreus",
+                        "family",
+                        "Muricidae"
+                    ],
+                    [
+                        "Chicoreus",
+                        "phylum",
+                        "Mollusca"
+                    ]
+                ],
+                -0.34398992057293587
+            ],
+            [
+                [
+                    [
+                        "Chicoreus",
+                        "phylum",
+                        "Mollusca"
+                    ]
+                ],
+                -0.35629448431352323
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.615817308425903
+    },
+    {
+        "triple": [
+            "Sturzkampfgeschwader_1",
+            "type",
+            "Dive_bomber"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sturzkampfgeschwader_1",
+                        "battle",
+                        "Battle_of_Dunkirk"
+                    ]
+                ],
+                0.1316518381735773
+            ],
+            [
+                [
+                    [
+                        "Sturzkampfgeschwader_1",
+                        "battle",
+                        "Battles_of_Narvik"
+                    ]
+                ],
+                -1.078605002518046
+            ],
+            [
+                [
+                    [
+                        "Sturzkampfgeschwader_1",
+                        "battle",
+                        "Battle_of_Dunkirk"
+                    ],
+                    [
+                        "Sturzkampfgeschwader_1",
+                        "battle",
+                        "Battles_of_Narvik"
+                    ]
+                ],
+                -2.240431425214034
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.836414575576782
+    },
+    {
+        "triple": [
+            "Friedrich_Anton_Wilhelm_Miquel",
+            "nationality",
+            "Dutch_people"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Friedrich_Anton_Wilhelm_Miquel",
+                        "field",
+                        "Botany"
+                    ]
+                ],
+                0.24022990259630927
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.09470510482788
+    },
+    {
+        "triple": [
+            "South_East_Queensland",
+            "country",
+            "Australia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Brisbane_River",
+                        "region",
+                        "South_East_Queensland"
+                    ]
+                ],
+                -0.10950679765803314
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.72399115562439
+    },
+    {
+        "triple": [
+            "FC_Vityaz_Podolsk",
+            "ground",
+            "Podolsk"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FC_Vityaz_Podolsk",
+                        "season",
+                        "2015%E2%80%9316_Russian_Professional_Football_League"
+                    ]
+                ],
+                -0.36517907106883046
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.18440556526184
+    },
+    {
+        "triple": [
+            "Virginia_Department_of_Transportation",
+            "jurisdiction",
+            "Virginia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Virginia_Department_of_Transportation",
+                        "location",
+                        "Richmond,_Virginia"
+                    ]
+                ],
+                0.7229881286621094
+            ],
+            [
+                [
+                    [
+                        "Virginia_Department_of_Transportation",
+                        "headquarter",
+                        "Richmond,_Virginia"
+                    ],
+                    [
+                        "Virginia_Department_of_Transportation",
+                        "location",
+                        "Richmond,_Virginia"
+                    ]
+                ],
+                0.38519544859190247
+            ],
+            [
+                [
+                    [
+                        "Virginia_Department_of_Transportation",
+                        "headquarter",
+                        "Richmond,_Virginia"
+                    ]
+                ],
+                -0.7770276456265837
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.897000312805176
+    },
+    {
+        "triple": [
+            "Knattspyrnuf%C3%A9lag_Akureyrar",
+            "position",
+            "1._deild_karla_(football)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Knattspyrnuf%C3%A9lag_Akureyrar",
+                        "ground",
+                        "Akureyri"
+                    ]
+                ],
+                -0.000868225019265348
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.110417127609253
+    },
+    {
+        "triple": [
+            "Time_Team",
+            "network",
+            "Channel_4"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Time_Team",
+                        "presenter",
+                        "Tony_Robinson"
+                    ]
+                ],
+                0.7426845865940797
+            ],
+            [
+                [
+                    [
+                        "Time_Team",
+                        "format",
+                        "16:9_aspect_ratio"
+                    ],
+                    [
+                        "Time_Team",
+                        "presenter",
+                        "Tony_Robinson"
+                    ]
+                ],
+                0.3212827492344335
+            ],
+            [
+                [
+                    [
+                        "Time_Team",
+                        "format",
+                        "16:9_aspect_ratio"
+                    ]
+                ],
+                -0.3542871725076557
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.81861925125122
+    },
+    {
+        "triple": [
+            "Paul_Freeman_(actor)",
+            "birthPlace",
+            "Chipping_Barnet"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Paul_Freeman_(actor)",
+                        "birthPlace",
+                        "England"
+                    ],
+                    [
+                        "Paul_Freeman_(actor)",
+                        "birthPlace",
+                        "Hertfordshire"
+                    ]
+                ],
+                0.07383189436262062
+            ],
+            [
+                [
+                    [
+                        "Paul_Freeman_(actor)",
+                        "birthPlace",
+                        "England"
+                    ]
+                ],
+                -0.11001777552056882
+            ],
+            [
+                [
+                    [
+                        "Paul_Freeman_(actor)",
+                        "birthPlace",
+                        "Hertfordshire"
+                    ]
+                ],
+                -0.2520949720670391
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.167548418045044
+    },
+    {
+        "triple": [
+            "Fuyang",
+            "isPartOf",
+            "Anhui"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fuyang",
+                        "type",
+                        "Prefecture-level_city"
+                    ]
+                ],
+                0.05928145586555463
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.676866054534912
+    },
+    {
+        "triple": [
+            "Tally_Hall",
+            "hometown",
+            "Ann_Arbor,_Michigan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tally_Hall",
+                        "recordLabel",
+                        "Atlantic_Records"
+                    ],
+                    [
+                        "Tally_Hall",
+                        "associatedBand",
+                        "Nellie_McKay"
+                    ]
+                ],
+                0.7778406335865524
+            ],
+            [
+                [
+                    [
+                        "Tally_Hall",
+                        "associatedBand",
+                        "Nellie_McKay"
+                    ]
+                ],
+                0.4458542104412478
+            ],
+            [
+                [
+                    [
+                        "Tally_Hall",
+                        "recordLabel",
+                        "Atlantic_Records"
+                    ]
+                ],
+                -1.4928883142072087
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.830125093460083
+    },
+    {
+        "triple": [
+            "Caribou%E2%80%93Targhee_National_Forest",
+            "nearestCity",
+            "Pocatello,_Idaho"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Caribou%E2%80%93Targhee_National_Forest",
+                        "location",
+                        "Idaho"
+                    ]
+                ],
+                -0.0979559748427673
+            ],
+            [
+                [
+                    [
+                        "Caribou%E2%80%93Targhee_National_Forest",
+                        "location",
+                        "Idaho"
+                    ],
+                    [
+                        "Caribou%E2%80%93Targhee_National_Forest",
+                        "location",
+                        "United_States"
+                    ]
+                ],
+                -0.13254716981132075
+            ],
+            [
+                [
+                    [
+                        "Caribou%E2%80%93Targhee_National_Forest",
+                        "location",
+                        "United_States"
+                    ]
+                ],
+                -0.8605345911949686
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.85718822479248
+    },
+    {
+        "triple": [
+            "Lufkin,_Texas",
+            "leaderName",
+            "Mayor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tedashii",
+                        "birthPlace",
+                        "Lufkin,_Texas"
+                    ]
+                ],
+                0.5274399082835127
+            ],
+            [
+                [
+                    [
+                        "Lufkin,_Texas",
+                        "timeZone",
+                        "Central_Time_Zone"
+                    ]
+                ],
+                -1.0640243902439024
+            ],
+            [
+                [
+                    [
+                        "Lufkin,_Texas",
+                        "timeZone",
+                        "Central_Time_Zone"
+                    ],
+                    [
+                        "Tedashii",
+                        "birthPlace",
+                        "Lufkin,_Texas"
+                    ]
+                ],
+                -12.454268292682928
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.222110033035278
+    },
+    {
+        "triple": [
+            "Evionnaz",
+            "country",
+            "Switzerland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Evionnaz",
+                        "neighboringMunicipality",
+                        "Saint-Maurice,_Switzerland"
+                    ]
+                ],
+                0.15873888278205256
+            ],
+            [
+                [
+                    [
+                        "Evionnaz",
+                        "neighboringMunicipality",
+                        "Saint-Maurice,_Switzerland"
+                    ],
+                    [
+                        "Saint-Maurice,_Switzerland",
+                        "neighboringMunicipality",
+                        "Evionnaz"
+                    ]
+                ],
+                -3.3688917757569703
+            ],
+            [
+                [
+                    [
+                        "Saint-Maurice,_Switzerland",
+                        "neighboringMunicipality",
+                        "Evionnaz"
+                    ]
+                ],
+                -6.962875986809234
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.14328145980835
+    },
+    {
+        "triple": [
+            "P._Kalaimani",
+            "deathPlace",
+            "Chennai"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "P._Kalaimani",
+                        "deathPlace",
+                        "India"
+                    ]
+                ],
+                -1.384146248422018
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.877623319625854
+    },
+    {
+        "triple": [
+            "Semih_Kaplano%C4%9Flu",
+            "birthPlace",
+            "%C4%B0zmir"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Semih_Kaplano%C4%9Flu",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                0.3379771695102492
+            ],
+            [
+                [
+                    [
+                        "Semih_Kaplano%C4%9Flu",
+                        "nationality",
+                        "Turkish_people"
+                    ],
+                    [
+                        "Semih_Kaplano%C4%9Flu",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                0.1277157235792316
+            ],
+            [
+                [
+                    [
+                        "Semih_Kaplano%C4%9Flu",
+                        "nationality",
+                        "Turkish_people"
+                    ]
+                ],
+                -0.743156990303179
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.977004051208496
+    },
+    {
+        "triple": [
+            "Sam_Peckinpah",
+            "deathPlace",
+            "Inglewood,_California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Have_Gun_%E2%80%93_Will_Travel",
+                        "director",
+                        "Sam_Peckinpah"
+                    ]
+                ],
+                -0.13892770931266676
+            ],
+            [
+                [
+                    [
+                        "Have_Gun_%E2%80%93_Will_Travel",
+                        "director",
+                        "Sam_Peckinpah"
+                    ],
+                    [
+                        "The_Dick_Powell_Show",
+                        "director",
+                        "Sam_Peckinpah"
+                    ]
+                ],
+                -1.9141786304154491
+            ],
+            [
+                [
+                    [
+                        "The_Dick_Powell_Show",
+                        "director",
+                        "Sam_Peckinpah"
+                    ]
+                ],
+                -5.217824926947021
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.946044921875
+    },
+    {
+        "triple": [
+            "2007_FIFA_Club_World_Cup_squads",
+            "currentMember",
+            "Carlos_Bueno"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "2007_FIFA_Club_World_Cup_squads",
+                        "currentMember",
+                        "Massimo_Oddo"
+                    ]
+                ],
+                -0.0724475673373789
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.227908372879028
+    },
+    {
+        "triple": [
+            "Nasserism",
+            "ideology",
+            "Republicanism"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nasserism",
+                        "ideology",
+                        "Pan-Arabism"
+                    ]
+                ],
+                0.39894084342053887
+            ],
+            [
+                [
+                    [
+                        "Nasserism",
+                        "ideology",
+                        "Arab_nationalism"
+                    ]
+                ],
+                -0.013446895743850058
+            ],
+            [
+                [
+                    [
+                        "Nasserism",
+                        "ideology",
+                        "Arab_nationalism"
+                    ],
+                    [
+                        "Nasserism",
+                        "ideology",
+                        "Pan-Arabism"
+                    ]
+                ],
+                -0.046344201483795394
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.707238674163818
+    },
+    {
+        "triple": [
+            "Louise_Glaum",
+            "deathPlace",
+            "Los_Angeles"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Louise_Glaum",
+                        "birthPlace",
+                        "Baltimore"
+                    ],
+                    [
+                        "Louise_Glaum",
+                        "occupation",
+                        "Actor"
+                    ]
+                ],
+                0.9061235985901679
+            ],
+            [
+                [
+                    [
+                        "Louise_Glaum",
+                        "occupation",
+                        "Actor"
+                    ]
+                ],
+                0.09825335839950361
+            ],
+            [
+                [
+                    [
+                        "Louise_Glaum",
+                        "birthPlace",
+                        "Baltimore"
+                    ]
+                ],
+                0.01965074247668404
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.744975328445435
+    },
+    {
+        "triple": [
+            "R%C3%A1kospalotai_EAC",
+            "ground",
+            "Budapest"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kriszti%C3%A1n_Lisztes_(footballer,_born_1976)",
+                        "team",
+                        "R%C3%A1kospalotai_EAC"
+                    ],
+                    [
+                        "R%C3%A1kospalotai_EAC",
+                        "league",
+                        "Nemzeti_Bajnoks%C3%A1g_II"
+                    ]
+                ],
+                0.1866012061233957
+            ],
+            [
+                [
+                    [
+                        "R%C3%A1kospalotai_EAC",
+                        "league",
+                        "Nemzeti_Bajnoks%C3%A1g_II"
+                    ]
+                ],
+                0.07461728776867171
+            ],
+            [
+                [
+                    [
+                        "Kriszti%C3%A1n_Lisztes_(footballer,_born_1976)",
+                        "team",
+                        "R%C3%A1kospalotai_EAC"
+                    ]
+                ],
+                -0.07715323952373589
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.600113153457642
+    },
+    {
+        "triple": [
+            "Nikki_Galrani",
+            "birthPlace",
+            "Bangalore"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nikki_Galrani",
+                        "birthPlace",
+                        "Karnataka"
+                    ],
+                    [
+                        "Nikki_Galrani",
+                        "occupation",
+                        "Model_(person)"
+                    ]
+                ],
+                0.6723914354644149
+            ],
+            [
+                [
+                    [
+                        "Nikki_Galrani",
+                        "occupation",
+                        "Model_(person)"
+                    ]
+                ],
+                0.31605850422195414
+            ],
+            [
+                [
+                    [
+                        "Nikki_Galrani",
+                        "birthPlace",
+                        "Karnataka"
+                    ]
+                ],
+                0.22616103739445115
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.775276899337769
+    },
+    {
+        "triple": [
+            "Maurice_Pialat",
+            "occupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Maurice_Pialat",
+                        "occupation",
+                        "Screenwriter"
+                    ],
+                    [
+                        "Maurice_Pialat",
+                        "birthPlace",
+                        "Puy-de-D%C3%B4me"
+                    ]
+                ],
+                0.33912195260879474
+            ],
+            [
+                [
+                    [
+                        "Maurice_Pialat",
+                        "occupation",
+                        "Screenwriter"
+                    ]
+                ],
+                -0.29002192982456143
+            ],
+            [
+                [
+                    [
+                        "Maurice_Pialat",
+                        "birthPlace",
+                        "Puy-de-D%C3%B4me"
+                    ]
+                ],
+                -0.3716037252221463
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.941333055496216
+    },
+    {
+        "triple": [
+            "Mariupol",
+            "country",
+            "Ukraine"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mariupol",
+                        "country",
+                        "Donetsk_Oblast"
+                    ]
+                ],
+                0.23632880529432254
+            ],
+            [
+                [
+                    [
+                        "FC_Mariupol",
+                        "ground",
+                        "Mariupol"
+                    ]
+                ],
+                -5.284743991640544
+            ],
+            [
+                [
+                    [
+                        "Mariupol",
+                        "country",
+                        "Donetsk_Oblast"
+                    ],
+                    [
+                        "FC_Mariupol",
+                        "ground",
+                        "Mariupol"
+                    ]
+                ],
+                -6.885928247997214
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.876914978027344
+    },
+    {
+        "triple": [
+            "Bathinda",
+            "isPartOf",
+            "Punjab,_India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bathinda_district",
+                        "isPartOf",
+                        "Bathinda"
+                    ]
+                ],
+                0.27889944576405384
+            ],
+            [
+                [
+                    [
+                        "Bathinda",
+                        "timeZone",
+                        "Indian_Standard_Time"
+                    ],
+                    [
+                        "Bathinda_district",
+                        "isPartOf",
+                        "Bathinda"
+                    ]
+                ],
+                -0.019087207329487616
+            ],
+            [
+                [
+                    [
+                        "Bathinda",
+                        "timeZone",
+                        "Indian_Standard_Time"
+                    ]
+                ],
+                -0.2567300079176564
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.75209641456604
+    },
+    {
+        "triple": [
+            "Kasthuri_Shankar",
+            "birthPlace",
+            "Chennai"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Suyamvaram",
+                        "starring",
+                        "Kasthuri_Shankar"
+                    ]
+                ],
+                -0.9820747520976354
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.230378866195679
+    },
+    {
+        "triple": [
+            "Darrell_K._Sweet",
+            "birthPlace",
+            "Highland_Park,_New_Jersey"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Darrell_K._Sweet",
+                        "field",
+                        "Fantasy"
+                    ],
+                    [
+                        "Darrell_K._Sweet",
+                        "field",
+                        "Science_fiction"
+                    ]
+                ],
+                0.7068405338953284
+            ],
+            [
+                [
+                    [
+                        "Darrell_K._Sweet",
+                        "field",
+                        "Fantasy"
+                    ]
+                ],
+                0.20324025289778713
+            ],
+            [
+                [
+                    [
+                        "Darrell_K._Sweet",
+                        "field",
+                        "Science_fiction"
+                    ]
+                ],
+                -0.1456357569371268
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.844268798828125
+    },
+    {
+        "triple": [
+            "Bill_Bell_(businessman)",
+            "birthPlace",
+            "Burslem"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bill_Bell_(businessman)",
+                        "birthPlace",
+                        "Stoke-on-Trent"
+                    ]
+                ],
+                -0.07107294000497884
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.650758981704712
+    },
+    {
+        "triple": [
+            "Anand_Raaj_Anand",
+            "hometown",
+            "Delhi"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Anand_Raaj_Anand",
+                        "genre",
+                        "Film_score"
+                    ]
+                ],
+                0.512507685213649
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.235767602920532
+    },
+    {
+        "triple": [
+            "FK_Kom",
+            "ground",
+            "Montenegro"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FK_Kom",
+                        "ground",
+                        "Podgorica"
+                    ]
+                ],
+                0.09792323869610936
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.28458547592163
+    },
+    {
+        "triple": [
+            "John_Rawlins_(director)",
+            "occupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "John_Rawlins_(director)",
+                        "birthPlace",
+                        "Long_Beach,_California"
+                    ]
+                ],
+                -0.05204351362342416
+            ],
+            [
+                [
+                    [
+                        "John_Rawlins_(director)",
+                        "deathPlace",
+                        "Arcadia,_California"
+                    ]
+                ],
+                -0.7891520943472956
+            ],
+            [
+                [
+                    [
+                        "John_Rawlins_(director)",
+                        "birthPlace",
+                        "Long_Beach,_California"
+                    ],
+                    [
+                        "John_Rawlins_(director)",
+                        "deathPlace",
+                        "Arcadia,_California"
+                    ]
+                ],
+                -0.9325843838958926
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.803873777389526
+    },
+    {
+        "triple": [
+            "Roanne",
+            "department",
+            "Loire_(department)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jean-Pierre_Jeunet",
+                        "birthPlace",
+                        "Roanne"
+                    ]
+                ],
+                -0.3564690026954178
+            ],
+            [
+                [
+                    [
+                        "Roanne",
+                        "region",
+                        "Rh%C3%B4ne-Alpes"
+                    ]
+                ],
+                -1.7771299660142974
+            ],
+            [
+                [
+                    [
+                        "Jean-Pierre_Jeunet",
+                        "birthPlace",
+                        "Roanne"
+                    ],
+                    [
+                        "Roanne",
+                        "region",
+                        "Rh%C3%B4ne-Alpes"
+                    ]
+                ],
+                -2.3705320520332824
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.724990844726562
+    },
+    {
+        "triple": [
+            "Kolkata_Metro",
+            "location",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kolkata_Metro",
+                        "location",
+                        "Kolkata"
+                    ]
+                ],
+                -0.6691542288557214
+            ],
+            [
+                [
+                    [
+                        "Kolkata_Metro",
+                        "operator",
+                        "Kolkata"
+                    ]
+                ],
+                -11.59452736318408
+            ],
+            [
+                [
+                    [
+                        "Kolkata_Metro",
+                        "location",
+                        "Kolkata"
+                    ],
+                    [
+                        "Kolkata_Metro",
+                        "operator",
+                        "Kolkata"
+                    ]
+                ],
+                -27.12686567164179
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.718585014343262
+    },
+    {
+        "triple": [
+            "Gmina_Walim",
+            "country",
+            "Poland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Walim",
+                        "isPartOf",
+                        "Wa%C5%82brzych_County"
+                    ],
+                    [
+                        "Wa%C5%82brzych_County",
+                        "part",
+                        "Gmina_Walim"
+                    ]
+                ],
+                0.6186945431310275
+            ],
+            [
+                [
+                    [
+                        "Gmina_Walim",
+                        "isPartOf",
+                        "Wa%C5%82brzych_County"
+                    ]
+                ],
+                0.31008902077151335
+            ],
+            [
+                [
+                    [
+                        "Wa%C5%82brzych_County",
+                        "part",
+                        "Gmina_Walim"
+                    ]
+                ],
+                -0.43471810089020774
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.064701080322266
+    },
+    {
+        "triple": [
+            "List_of_Ukrainian_football_transfers_winter_2010%E2%80%9311",
+            "currentMember",
+            "Oleksandr_Maksymov"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "List_of_Ukrainian_football_transfers_winter_2010%E2%80%9311",
+                        "currentMember",
+                        "Sani_Kaita"
+                    ]
+                ],
+                -0.5428655678678959
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.598699569702148
+    },
+    {
+        "triple": [
+            "Allis-Chalmers",
+            "industry",
+            "Mining"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Allis-Chalmers",
+                        "product",
+                        "Tractor"
+                    ]
+                ],
+                0.4001367532770755
+            ],
+            [
+                [
+                    [
+                        "Allis-Chalmers",
+                        "industry",
+                        "Electricity_generation"
+                    ]
+                ],
+                -0.1750608718855275
+            ],
+            [
+                [
+                    [
+                        "Allis-Chalmers",
+                        "industry",
+                        "Electricity_generation"
+                    ],
+                    [
+                        "Allis-Chalmers",
+                        "product",
+                        "Tractor"
+                    ]
+                ],
+                -1.4466328674827391
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.2443687915802
+    },
+    {
+        "triple": [
+            "Commodore_PET",
+            "type",
+            "Personal_computer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Commodore_International",
+                        "product",
+                        "Commodore_PET"
+                    ]
+                ],
+                -0.002961756962726895
+            ],
+            [
+                [
+                    [
+                        "Commodore_International",
+                        "product",
+                        "Commodore_PET"
+                    ],
+                    [
+                        "Commodore_PET",
+                        "cpu",
+                        "MOS_Technology_6502"
+                    ]
+                ],
+                -0.814656366911459
+            ],
+            [
+                [
+                    [
+                        "Commodore_PET",
+                        "cpu",
+                        "MOS_Technology_6502"
+                    ]
+                ],
+                -1.7251454898157128
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.983201742172241
+    },
+    {
+        "triple": [
+            "Marcello_Marchesi",
+            "occupation",
+            "Screenwriter"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Marcello_Marchesi",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                0.20735582306830908
+            ],
+            [
+                [
+                    [
+                        "Marcello_Marchesi",
+                        "birthPlace",
+                        "Rome"
+                    ],
+                    [
+                        "Marcello_Marchesi",
+                        "occupation",
+                        "Film_director"
+                    ]
+                ],
+                0.11478863381858903
+            ],
+            [
+                [
+                    [
+                        "Marcello_Marchesi",
+                        "birthPlace",
+                        "Rome"
+                    ]
+                ],
+                -0.22614081746920492
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.70545220375061
+    },
+    {
+        "triple": [
+            "El_Dorado_International_Airport",
+            "operator",
+            "S.A._(corporation)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Avianca",
+                        "hubAirport",
+                        "El_Dorado_International_Airport"
+                    ]
+                ],
+                -0.21537413753596252
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.257973194122314
+    },
+    {
+        "triple": [
+            "Martna_Parish",
+            "isPartOf",
+            "L%C3%A4%C3%A4ne_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Martna_Parish",
+                        "type",
+                        "Municipalities_of_Estonia"
+                    ]
+                ],
+                0.08078898651995932
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.250293731689453
+    },
+    {
+        "triple": [
+            "Douglas_C-47_Skytrain",
+            "type",
+            "Military_transport_aircraft"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Douglas_C-47_Skytrain",
+                        "origin",
+                        "United_States"
+                    ]
+                ],
+                0.305861980502822
+            ],
+            [
+                [
+                    [
+                        "Douglas_C-47_Skytrain",
+                        "manufacturer",
+                        "Douglas_Aircraft_Company"
+                    ]
+                ],
+                -0.14501026167265263
+            ],
+            [
+                [
+                    [
+                        "Douglas_C-47_Skytrain",
+                        "manufacturer",
+                        "Douglas_Aircraft_Company"
+                    ],
+                    [
+                        "Douglas_C-47_Skytrain",
+                        "origin",
+                        "United_States"
+                    ]
+                ],
+                -0.6816957414058491
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.77979564666748
+    },
+    {
+        "triple": [
+            "Saint-Louis_Region",
+            "timeZone",
+            "Greenwich_Mean_Time"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Saint-Louis,_Senegal",
+                        "isPartOf",
+                        "Saint-Louis_Region"
+                    ]
+                ],
+                0.8411227946008797
+            ],
+            [
+                [
+                    [
+                        "Saint-Louis_Region",
+                        "country",
+                        "Senegal"
+                    ]
+                ],
+                -0.16259289216925332
+            ],
+            [
+                [
+                    [
+                        "Saint-Louis,_Senegal",
+                        "isPartOf",
+                        "Saint-Louis_Region"
+                    ],
+                    [
+                        "Saint-Louis_Region",
+                        "country",
+                        "Senegal"
+                    ]
+                ],
+                -1.2505055356149841
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.72592282295227
+    },
+    {
+        "triple": [
+            "George_Segal",
+            "birthPlace",
+            "Great_Neck,_New_York"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Just_Shoot_Me!",
+                        "starring",
+                        "George_Segal"
+                    ]
+                ],
+                0.16678674351585016
+            ],
+            [
+                [
+                    [
+                        "The_Real_Adventures_of_Jonny_Quest",
+                        "voice",
+                        "George_Segal"
+                    ]
+                ],
+                -0.9664985590778098
+            ],
+            [
+                [
+                    [
+                        "Just_Shoot_Me!",
+                        "starring",
+                        "George_Segal"
+                    ],
+                    [
+                        "The_Real_Adventures_of_Jonny_Quest",
+                        "voice",
+                        "George_Segal"
+                    ]
+                ],
+                -1.3620317002881845
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.88065767288208
+    },
+    {
+        "triple": [
+            "Patrick_Troughton",
+            "birthPlace",
+            "Middlesex"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Patrick_Troughton",
+                        "deathPlace",
+                        "Columbus,_Georgia"
+                    ]
+                ],
+                0.4024241058494028
+            ],
+            [
+                [
+                    [
+                        "Patrick_Troughton",
+                        "birthPlace",
+                        "Mill_Hill"
+                    ],
+                    [
+                        "Patrick_Troughton",
+                        "deathPlace",
+                        "Columbus,_Georgia"
+                    ]
+                ],
+                0.12234813121720375
+            ],
+            [
+                [
+                    [
+                        "Patrick_Troughton",
+                        "birthPlace",
+                        "Mill_Hill"
+                    ]
+                ],
+                0.059186170041528506
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.993811845779419
+    },
+    {
+        "triple": [
+            "Ribera_del_Duero_(comarca)",
+            "isPartOf",
+            "Castile_and_Le%C3%B3n"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ribera_del_Duero_(comarca)",
+                        "country",
+                        "Spain"
+                    ],
+                    [
+                        "Ribera_del_Duero_(comarca)",
+                        "timeZone",
+                        "Central_European_Time"
+                    ]
+                ],
+                0.24233495209345057
+            ],
+            [
+                [
+                    [
+                        "Ribera_del_Duero_(comarca)",
+                        "timeZone",
+                        "Central_European_Time"
+                    ]
+                ],
+                -0.05588003675022969
+            ],
+            [
+                [
+                    [
+                        "Ribera_del_Duero_(comarca)",
+                        "country",
+                        "Spain"
+                    ]
+                ],
+                -0.10521722010762567
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.46320629119873
+    },
+    {
+        "triple": [
+            "Martin_Hellberg",
+            "birthPlace",
+            "Dresden"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Martin_Hellberg",
+                        "deathPlace",
+                        "Germany"
+                    ]
+                ],
+                0.39458315082493794
+            ],
+            [
+                [
+                    [
+                        "Martin_Hellberg",
+                        "birthPlace",
+                        "Germany"
+                    ]
+                ],
+                0.0945231258415665
+            ],
+            [
+                [
+                    [
+                        "Martin_Hellberg",
+                        "birthPlace",
+                        "Germany"
+                    ],
+                    [
+                        "Martin_Hellberg",
+                        "deathPlace",
+                        "Germany"
+                    ]
+                ],
+                0.0825343521357538
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 16.02242684364319
+    },
+    {
+        "triple": [
+            "Mark_Shand",
+            "education",
+            "Dorset"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tom_Parker_Bowles",
+                        "relation",
+                        "Mark_Shand"
+                    ]
+                ],
+                0.2652394775036285
+            ],
+            [
+                [
+                    [
+                        "Mark_Shand",
+                        "education",
+                        "Kent"
+                    ]
+                ],
+                -0.09034833091436865
+            ],
+            [
+                [
+                    [
+                        "Mark_Shand",
+                        "education",
+                        "Kent"
+                    ],
+                    [
+                        "Tom_Parker_Bowles",
+                        "relation",
+                        "Mark_Shand"
+                    ]
+                ],
+                -1.117198838896952
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.180224657058716
+    },
+    {
+        "triple": [
+            "Kolah_Boz-e_Sharqi_Rural_District",
+            "isPartOf",
+            "East_Azerbaijan_province"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kolah_Boz-e_Sharqi_Rural_District",
+                        "country",
+                        "Iran"
+                    ]
+                ],
+                0.16259613989261357
+            ],
+            [
+                [
+                    [
+                        "Kolah_Boz-e_Sharqi_Rural_District",
+                        "isPartOf",
+                        "Central_District_(Mianeh_County)"
+                    ]
+                ],
+                0.09947032361050646
+            ],
+            [
+                [
+                    [
+                        "Kolah_Boz-e_Sharqi_Rural_District",
+                        "country",
+                        "Iran"
+                    ],
+                    [
+                        "Kolah_Boz-e_Sharqi_Rural_District",
+                        "isPartOf",
+                        "Central_District_(Mianeh_County)"
+                    ]
+                ],
+                -0.2944492816717458
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.938417673110962
+    },
+    {
+        "triple": [
+            "Howard_Ashman",
+            "deathPlace",
+            "New_York_City"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Howard_Ashman",
+                        "occupation",
+                        "Librettist"
+                    ],
+                    [
+                        "Howard_Ashman",
+                        "restingPlace",
+                        "Baltimore"
+                    ]
+                ],
+                0.8487971771183616
+            ],
+            [
+                [
+                    [
+                        "Howard_Ashman",
+                        "restingPlace",
+                        "Baltimore"
+                    ]
+                ],
+                0.32745828433912627
+            ],
+            [
+                [
+                    [
+                        "Howard_Ashman",
+                        "occupation",
+                        "Librettist"
+                    ]
+                ],
+                0.012059369202226345
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.819351196289062
+    },
+    {
+        "triple": [
+            "Muaither_SC",
+            "ground",
+            "Qatar"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Muaither_SC",
+                        "league",
+                        "Qatar_Stars_League"
+                    ]
+                ],
+                -0.0564
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.204590797424316
+    },
+    {
+        "triple": [
+            "List_of_Belgian_football_transfers_winter_2009%E2%80%9310",
+            "currentMember",
+            "J%C3%A9r%C3%A9my_Perbet"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "List_of_Belgian_football_transfers_winter_2009%E2%80%9310",
+                        "currentMember",
+                        "Nikita_Rukavytsya"
+                    ]
+                ],
+                -0.6757399140211641
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.89565920829773
+    },
+    {
+        "triple": [
+            "Conneaut,_Ohio",
+            "isPartOf",
+            "Ashtabula_County,_Ohio"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Conneaut,_Ohio",
+                        "type",
+                        "City"
+                    ]
+                ],
+                0.5262071156289708
+            ],
+            [
+                [
+                    [
+                        "Conneaut,_Ohio",
+                        "isPartOf",
+                        "Ohio"
+                    ],
+                    [
+                        "Conneaut,_Ohio",
+                        "type",
+                        "City"
+                    ]
+                ],
+                0.12563532401524777
+            ],
+            [
+                [
+                    [
+                        "Conneaut,_Ohio",
+                        "isPartOf",
+                        "Ohio"
+                    ]
+                ],
+                -0.08433926302414231
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.99215054512024
+    },
+    {
+        "triple": [
+            "List_of_Azerbaijan_football_transfers_winter_2010",
+            "currentMember",
+            "Vagif_Javadov"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "List_of_Azerbaijan_football_transfers_winter_2010",
+                        "currentMember",
+                        "Aleksandar_Tomash"
+                    ]
+                ],
+                -0.5065717415115005
+            ],
+            [
+                [
+                    [
+                        "List_of_Azerbaijan_football_transfers_winter_2010",
+                        "currentMember",
+                        "Aleksandar_Tomash"
+                    ],
+                    [
+                        "List_of_Azerbaijan_football_transfers_winter_2010",
+                        "currentMember",
+                        "Vladimir_Voskoboinikov"
+                    ]
+                ],
+                -0.8055859802847755
+            ],
+            [
+                [
+                    [
+                        "List_of_Azerbaijan_football_transfers_winter_2010",
+                        "currentMember",
+                        "Vladimir_Voskoboinikov"
+                    ]
+                ],
+                -4.9173055859802846
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.679600238800049
+    },
+    {
+        "triple": [
+            "Holderness,_New_Hampshire",
+            "isPartOf",
+            "Grafton_County,_New_Hampshire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Holderness,_New_Hampshire",
+                        "isPartOf",
+                        "New_Hampshire"
+                    ]
+                ],
+                -2.0975673327541267
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.202691078186035
+    },
+    {
+        "triple": [
+            "FC_Kyzylzhar",
+            "ground",
+            "Petropavl"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "FC_Kyzylzhar",
+                        "ground",
+                        "Kazakhstan"
+                    ]
+                ],
+                -0.000917658450902458
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.6668381690979
+    },
+    {
+        "triple": [
+            "Trevor_Worthy",
+            "nationality",
+            "New_Zealand"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Trevor_Worthy",
+                        "citizenship",
+                        "Australia"
+                    ]
+                ],
+                0.11126760563380282
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.74101734161377
+    },
+    {
+        "triple": [
+            "Portmore_United_F.C.",
+            "ground",
+            "Portmore,_Jamaica"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Portmore_United_F.C.",
+                        "ground",
+                        "Jamaica"
+                    ]
+                ],
+                -0.08376428779802159
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.170065879821777
+    },
+    {
+        "triple": [
+            "Dane_Cook",
+            "genre",
+            "Black_comedy"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pete_Holmes",
+                        "influencedBy",
+                        "Dane_Cook"
+                    ]
+                ],
+                -8.958403905232748
+            ],
+            [
+                [
+                    [
+                        "Dane_Cook",
+                        "genre",
+                        "Observational_comedy"
+                    ]
+                ],
+                -11.625068664550781
+            ],
+            [
+                [
+                    [
+                        "Dane_Cook",
+                        "genre",
+                        "Observational_comedy"
+                    ],
+                    [
+                        "Pete_Holmes",
+                        "influencedBy",
+                        "Dane_Cook"
+                    ]
+                ],
+                -30.375071207682293
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.853440284729004
+    },
+    {
+        "triple": [
+            "Gejlarat-e_Sharqi_Rural_District",
+            "isPartOf",
+            "Aras_District"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gejlarat-e_Sharqi_Rural_District",
+                        "isPartOf",
+                        "Poldasht_County"
+                    ],
+                    [
+                        "Gejlarat-e_Sharqi_Rural_District",
+                        "isPartOf",
+                        "West_Azerbaijan_province"
+                    ]
+                ],
+                -0.05775575479776356
+            ],
+            [
+                [
+                    [
+                        "Gejlarat-e_Sharqi_Rural_District",
+                        "isPartOf",
+                        "Poldasht_County"
+                    ]
+                ],
+                -0.06267944391275877
+            ],
+            [
+                [
+                    [
+                        "Gejlarat-e_Sharqi_Rural_District",
+                        "isPartOf",
+                        "West_Azerbaijan_province"
+                    ]
+                ],
+                -0.09073565707953458
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.054749727249146
+    },
+    {
+        "triple": [
+            "Armenian_Soviet_Socialist_Republic",
+            "governmentType",
+            "Unitary_state"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Shavo_Odadjian",
+                        "birthPlace",
+                        "Armenian_Soviet_Socialist_Republic"
+                    ]
+                ],
+                0.9198652671157763
+            ],
+            [
+                [
+                    [
+                        "Armenian_Soviet_Socialist_Republic",
+                        "capital",
+                        "Yerevan"
+                    ]
+                ],
+                0.3060473131756227
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.899705648422241
+    },
+    {
+        "triple": [
+            "Jack_Richardson_(record_producer)",
+            "deathPlace",
+            "London,_Ontario"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jack_Richardson_(record_producer)",
+                        "occupation",
+                        "Record_producer"
+                    ]
+                ],
+                0.7048077507137217
+            ],
+            [
+                [
+                    [
+                        "Jack_Richardson_(record_producer)",
+                        "birthPlace",
+                        "Toronto"
+                    ],
+                    [
+                        "Jack_Richardson_(record_producer)",
+                        "occupation",
+                        "Record_producer"
+                    ]
+                ],
+                0.29947457935977645
+            ],
+            [
+                [
+                    [
+                        "Jack_Richardson_(record_producer)",
+                        "birthPlace",
+                        "Toronto"
+                    ]
+                ],
+                0.01884528943691915
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.828848600387573
+    }
+]

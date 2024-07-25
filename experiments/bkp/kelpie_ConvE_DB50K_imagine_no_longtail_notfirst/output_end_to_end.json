@@ -1,0 +1,2427 @@
+[
+    {
+        "triple_to_explain": [
+            "Cycles_(Frank_Sinatra_album)",
+            "subsequentWork",
+            "My_Way_(Frank_Sinatra_album)"
+        ],
+        "rule": [
+            [
+                "(Can't_Get_My)_Head_Around_You",
+                "subsequentWork",
+                "Cycles_(Frank_Sinatra_album)"
+            ],
+            [
+                "(I_Don't_Need_You_To)_Set_Me_Free",
+                "subsequentWork",
+                "Cycles_(Frank_Sinatra_album)"
+            ],
+            [
+                "(I_Know)_I'm_Losing_You",
+                "subsequentWork",
+                "Cycles_(Frank_Sinatra_album)"
+            ]
+        ],
+        "score": "7.111594641173724e-06",
+        "rank": "22207",
+        "new_score": "2.5390500013600104e-05",
+        "new_rank": "11090"
+    },
+    {
+        "triple_to_explain": [
+            "I_Wanna_Be_Somebody",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule": [
+            [
+                "Age_of_Consent_(Virgin_Steele_album)",
+                "previousWork",
+                "I_Wanna_Be_Somebody"
+            ],
+            [
+                "All_Areas_\u2013_Worldwide",
+                "previousWork",
+                "I_Wanna_Be_Somebody"
+            ],
+            [
+                "Alpha_(Sevendust_album)",
+                "previousWork",
+                "I_Wanna_Be_Somebody"
+            ],
+            [
+                "Broken_Head_(album)",
+                "previousWork",
+                "I_Wanna_Be_Somebody"
+            ]
+        ],
+        "score": "0.0647861585021019",
+        "rank": "3",
+        "new_score": "0.06687689572572708",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Rites_of_Passage_(Indigo_Girls_album)",
+            "subsequentWork",
+            "Swamp_Ophelia"
+        ],
+        "rule": [
+            [
+                "Rites_of_Passage_(Indigo_Girls_album)",
+                "previousWork",
+                "Rites_of_Passage_(Indigo_Girls_album)"
+            ],
+            [
+                "Rites_of_Passage_(Indigo_Girls_album)",
+                "subsequentWork",
+                "Rites_of_Passage_(Indigo_Girls_album)"
+            ],
+            [
+                "(Ain't_Nobody_Loves_You)_Like_I_Do",
+                "album",
+                "Rites_of_Passage_(Indigo_Girls_album)"
+            ],
+            [
+                "(I_Can't_Help_You)_I'm_Falling_Too",
+                "album",
+                "Rites_of_Passage_(Indigo_Girls_album)"
+            ]
+        ],
+        "score": "5.226715984463226e-06",
+        "rank": "19624",
+        "new_score": "1.2528657862276305e-05",
+        "new_rank": "19784"
+    },
+    {
+        "triple_to_explain": [
+            "Valery_Fomichev",
+            "team",
+            "FC_Torpedo-BelAZ_Zhodino"
+        ],
+        "rule": [
+            [
+                "FC_Chornomorets_Odesa",
+                "manager",
+                "Valery_Fomichev"
+            ],
+            [
+                "FC_Sheriff_Tiraspol",
+                "coach",
+                "Valery_Fomichev"
+            ],
+            [
+                "Valery_Fomichev",
+                "deathPlace",
+                "Soviet_Union"
+            ],
+            [
+                "Valery_Fomichev",
+                "managerClub",
+                "Shanghai_Greenland_Shenhua_F.C."
+            ]
+        ],
+        "score": "1.1719439640955898e-07",
+        "rank": "720",
+        "new_score": "1.3994116366030792e-30",
+        "new_rank": "9807"
+    },
+    {
+        "triple_to_explain": [
+            "Williams_Mart\u00ednez",
+            "team",
+            "Valenciennes_FC"
+        ],
+        "rule": [
+            [
+                "Williams_Mart\u00ednez",
+                "managerClub",
+                "Mitra_Kukar_F.C."
+            ]
+        ],
+        "score": "1.4567756807082333e-05",
+        "rank": "2899",
+        "new_score": "1.7260795418660835e-30",
+        "new_rank": "5662"
+    },
+    {
+        "triple_to_explain": [
+            "Jose_Garcia_Villa",
+            "movement",
+            "Modernism"
+        ],
+        "rule": [
+            [
+                "James_Hanley_(novelist)",
+                "influencedBy",
+                "Jose_Garcia_Villa"
+            ]
+        ],
+        "score": "0.002679546596482396",
+        "rank": "7",
+        "new_score": "0.02009035460650921",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Sagar_Movietone",
+            "locationCity",
+            "Mumbai"
+        ],
+        "rule": [
+            [
+                "Sagar_Movietone",
+                "foundationPlace",
+                "Mumbai"
+            ],
+            [
+                "Axis_Bank",
+                "owner",
+                "Sagar_Movietone"
+            ]
+        ],
+        "score": "0.0063257678411901",
+        "rank": "11",
+        "new_score": "0.0029247633647173643",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Pat_Buchanan",
+            "religion",
+            "Catholicism"
+        ],
+        "rule": [
+            [
+                "David_Henrie",
+                "lieutenant",
+                "Pat_Buchanan"
+            ],
+            [
+                "Germ\u00e1n_Su\u00e1rez_Flamerich",
+                "commander",
+                "Pat_Buchanan"
+            ]
+        ],
+        "score": "0.07240881770849228",
+        "rank": "2",
+        "new_score": "0.06043532118201256",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Gabriel_Garc\u00eda_M\u00e1rquez",
+            "nationality",
+            "Colombians"
+        ],
+        "rule": [
+            [
+                "Gabriel_Garc\u00eda_M\u00e1rquez",
+                "birthPlace",
+                "Germany"
+            ],
+            [
+                "Gabriel_Garc\u00eda_M\u00e1rquez",
+                "influencedBy",
+                "Juan_Jos\u00e9_Nieto_Gil"
+            ],
+            [
+                "Gabriel_Garc\u00eda_M\u00e1rquez",
+                "influencedBy",
+                "Nancy_Patricia_Guti\u00e9rrez"
+            ],
+            [
+                "Gabriel_Garc\u00eda_M\u00e1rquez",
+                "nationality",
+                "Germany"
+            ]
+        ],
+        "score": "0.008157062344253063",
+        "rank": "7",
+        "new_score": "0.03790593519806862",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Ednaswap",
+            "formerBandMember",
+            "Rusty_Anderson"
+        ],
+        "rule": [
+            [
+                "Ednaswap",
+                "hometown",
+                "La_Habra,_California"
+            ],
+            [
+                "$_(film)",
+                "musicComposer",
+                "Ednaswap"
+            ],
+            [
+                "'Cause_I'm_a_Man",
+                "musicalArtist",
+                "Ednaswap"
+            ]
+        ],
+        "score": "1.6065134332166053e-05",
+        "rank": "3099",
+        "new_score": "4.179877942078747e-05",
+        "new_rank": "3629"
+    },
+    {
+        "triple_to_explain": [
+            "Robotomy",
+            "voice",
+            "Patton_Oswalt"
+        ],
+        "rule": [
+            [
+                "Baywatch",
+                "presenter",
+                "Robotomy"
+            ],
+            [
+                "Byker_Grove",
+                "previousWork",
+                "Robotomy"
+            ],
+            [
+                "How_(TV_series)",
+                "presenter",
+                "Robotomy"
+            ]
+        ],
+        "score": "1.0141474376723636e-05",
+        "rank": "6970",
+        "new_score": "3.9740214560879394e-05",
+        "new_rank": "4533"
+    },
+    {
+        "triple_to_explain": [
+            "Blood_Promise_(novel)",
+            "publisher",
+            "Penguin_Group"
+        ],
+        "rule": [
+            [
+                "Blood_Promise_(novel)",
+                "series",
+                "The_Island_of_Eternal_Love"
+            ]
+        ],
+        "score": "0.00016739444981794804",
+        "rank": "93",
+        "new_score": "0.0002069003094220534",
+        "new_rank": "87"
+    },
+    {
+        "triple_to_explain": [
+            "Otto_Schury",
+            "battle",
+            "Battle_of_the_Dukla_Pass"
+        ],
+        "rule": [
+            [
+                "Otto_Schury",
+                "deathPlace",
+                "Slovakia"
+            ]
+        ],
+        "score": "1.3714037777390331e-05",
+        "rank": "663",
+        "new_score": "0.0003825175517704338",
+        "new_rank": "71"
+    },
+    {
+        "triple_to_explain": [
+            "Genocide_(novel)",
+            "previousWork",
+            "The_Bodysnatchers_(novel)"
+        ],
+        "rule": [
+            [
+                "Genocide_(novel)",
+                "series",
+                "Vampire_Science"
+            ],
+            [
+                "AES_Corporation",
+                "product",
+                "Genocide_(novel)"
+            ],
+            [
+                "AT&T_Mobility",
+                "product",
+                "Genocide_(novel)"
+            ]
+        ],
+        "score": "1.782156505214516e-05",
+        "rank": "2444",
+        "new_score": "2.1220172129687853e-05",
+        "new_rank": "6563"
+    },
+    {
+        "triple_to_explain": [
+            "Alois,_Hereditary_Prince_of_Liechtenstein",
+            "birthPlace",
+            "Z\u00fcrich"
+        ],
+        "rule": [
+            [
+                "Alois,_Hereditary_Prince_of_Liechtenstein",
+                "deathPlace",
+                "Z\u00fcrich"
+            ],
+            [
+                "Alois,_Hereditary_Prince_of_Liechtenstein",
+                "restingPlace",
+                "Adliswil"
+            ],
+            [
+                "Alois,_Hereditary_Prince_of_Liechtenstein",
+                "birthPlace",
+                "Germany"
+            ],
+            [
+                "Alois,_Hereditary_Prince_of_Liechtenstein",
+                "deathPlace",
+                "Germany"
+            ]
+        ],
+        "score": "5.780892397705417e-16",
+        "rank": "183",
+        "new_score": "1.9233011651957141e-19",
+        "new_rank": "93"
+    },
+    {
+        "triple_to_explain": [
+            "Charley_Hearn",
+            "team",
+            "Ebbsfleet_United_F.C."
+        ],
+        "rule": [
+            [
+                "Charley_Hearn",
+                "deathPlace",
+                "London"
+            ],
+            [
+                "Charley_Hearn",
+                "managerClub",
+                "Rotherham_United_F.C."
+            ],
+            [
+                "Charley_Hearn",
+                "managerClub",
+                "Wycombe_Wanderers_F.C."
+            ]
+        ],
+        "score": "0.0016043123323470354",
+        "rank": "42",
+        "new_score": "1.3052868322830198e-29",
+        "new_rank": "3197"
+    },
+    {
+        "triple_to_explain": [
+            "Kari_Jalonen",
+            "birthPlace",
+            "Finland"
+        ],
+        "rule": [
+            [
+                "Kari_Jalonen",
+                "formerTeam",
+                "HPK"
+            ]
+        ],
+        "score": "0.006430080160498619",
+        "rank": "10",
+        "new_score": "0.012827884405851364",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Saab_9-3",
+            "manufacturer",
+            "General_Motors"
+        ],
+        "rule": [
+            [
+                "Saab_9-3",
+                "manufacturer",
+                "Detroit_Diesel"
+            ]
+        ],
+        "score": "9.876227982132113e-15",
+        "rank": "1602",
+        "new_score": "0.00020343124924693257",
+        "new_rank": "113"
+    },
+    {
+        "triple_to_explain": [
+            "Don't_Give_Up_(Island_Inspirational_All-Stars_song)",
+            "musicalArtist",
+            "Karen_Clark_Sheard"
+        ],
+        "rule": [
+            [
+                "Don't_Give_Up_(Island_Inspirational_All-Stars_song)",
+                "album",
+                "In_Concert_Volume_Two_(Amy_Grant_album)"
+            ],
+            [
+                "Don't_Give_Up_(Island_Inspirational_All-Stars_song)",
+                "album",
+                "Walking_in_the_Light"
+            ],
+            [
+                "Don't_Give_Up_(Island_Inspirational_All-Stars_song)",
+                "artist",
+                "Acacia_(band)"
+            ]
+        ],
+        "score": "3.935410495614633e-05",
+        "rank": "421",
+        "new_score": "0.00011828001152025536",
+        "new_rank": "632"
+    },
+    {
+        "triple_to_explain": [
+            "Lammas",
+            "country",
+            "Catholicism"
+        ],
+        "rule": [
+            [
+                "Lammas",
+                "country",
+                "Anglicanism"
+            ]
+        ],
+        "score": "3.1814616045788835e-12",
+        "rank": "21413",
+        "new_score": "2.756371202394803e-07",
+        "new_rank": "262"
+    },
+    {
+        "triple_to_explain": [
+            "Soon_(Tanya_Tucker_song)",
+            "subsequentWork",
+            "We_Don't_Have_to_Do_This"
+        ],
+        "rule": [
+            [
+                "Soon_(Tanya_Tucker_song)",
+                "previousWork",
+                "She's_Every_Woman"
+            ],
+            [
+                "Soon_(Tanya_Tucker_song)",
+                "artist",
+                "Allen_Reynolds"
+            ]
+        ],
+        "score": "2.0996289094910026e-05",
+        "rank": "7318",
+        "new_score": "2.0135070371907204e-05",
+        "new_rank": "6047"
+    },
+    {
+        "triple_to_explain": [
+            "Party_Queen",
+            "producer",
+            "Max_Matsuura"
+        ],
+        "rule": [
+            [
+                "Party_Queen",
+                "previousWork",
+                "Every_Best_Single_+3"
+            ]
+        ],
+        "score": "6.203167668862583e-26",
+        "rank": "6212",
+        "new_score": "7.216411551852697e-20",
+        "new_rank": "2558"
+    },
+    {
+        "triple_to_explain": [
+            "Iron_Guard",
+            "splitFromParty",
+            "National-Christian_Defense_League"
+        ],
+        "rule": [
+            [
+                "Corneliu_Zelea_Codreanu",
+                "successor",
+                "Iron_Guard"
+            ],
+            [
+                "Iron_Guard",
+                "internationalAffiliation",
+                "Iron_Guard"
+            ],
+            [
+                "149th_Pennsylvania_Infantry",
+                "party",
+                "Iron_Guard"
+            ],
+            [
+                "2014\u201315_Stoke_City_F.C._season",
+                "party",
+                "Iron_Guard"
+            ]
+        ],
+        "score": "5.415830395687225e-17",
+        "rank": "16760",
+        "new_score": "1.4207613276084885e-05",
+        "new_rank": "11473"
+    },
+    {
+        "triple_to_explain": [
+            "Brachysybra",
+            "family",
+            "Apomecynini"
+        ],
+        "rule": [
+            [
+                "Brachysybra",
+                "genus",
+                "Apomecynini"
+            ],
+            [
+                "Insect",
+                "species",
+                "Brachysybra"
+            ]
+        ],
+        "score": "1.719508145470172e-05",
+        "rank": "2234",
+        "new_score": "2.0124358343309723e-05",
+        "new_rank": "414"
+    },
+    {
+        "triple_to_explain": [
+            "Konrad_Zuse",
+            "residence",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Konrad_Zuse",
+                "birthPlace",
+                "Germany"
+            ],
+            [
+                "Konrad_Zuse",
+                "citizenship",
+                "Germany"
+            ],
+            [
+                "Christiane_N\u00fcsslein-Volhard",
+                "influenced",
+                "Konrad_Zuse"
+            ]
+        ],
+        "score": "0.07307074964046478",
+        "rank": "2",
+        "new_score": "0.18047934770584106",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Deep_Rising",
+            "starring",
+            "Djimon_Hounsou"
+        ],
+        "rule": [
+            [
+                "Deep_Rising",
+                "basedOn",
+                "Push_(2009_film)"
+            ],
+            [
+                "Deep_Rising",
+                "musicComposer",
+                "Christopher_Young"
+            ],
+            [
+                "Deep_Rising",
+                "starring",
+                "Lil'_JJ"
+            ],
+            [
+                "Deep_Rising",
+                "writer",
+                "Chris_Evans_(actor)"
+            ]
+        ],
+        "score": "1.1537398295199247e-31",
+        "rank": "18555",
+        "new_score": "2.189214472426674e-22",
+        "new_rank": "24053"
+    },
+    {
+        "triple_to_explain": [
+            "Alejandro_O'Reilly",
+            "militaryBranch",
+            "Spanish_Army"
+        ],
+        "rule": [
+            [
+                "Alberto_Ruiz-Gallard\u00f3n",
+                "predecessor",
+                "Alejandro_O'Reilly"
+            ],
+            [
+                "Alejandro_O'Reilly",
+                "president",
+                "Job_de_Ruiter"
+            ]
+        ],
+        "score": "3.093210034421645e-05",
+        "rank": "1618",
+        "new_score": "8.359443017980084e-05",
+        "new_rank": "759"
+    },
+    {
+        "triple_to_explain": [
+            "Naked_Empire",
+            "author",
+            "Terry_Goodkind"
+        ],
+        "rule": [
+            [
+                "Naked_Empire",
+                "previousWork",
+                "Phantom_(Sword_of_Truth)"
+            ],
+            [
+                "Columbus_Nova",
+                "product",
+                "Naked_Empire"
+            ],
+            [
+                "Dan_Slobin",
+                "knownFor",
+                "Naked_Empire"
+            ],
+            [
+                "Mercer_(consulting_firm)",
+                "product",
+                "Naked_Empire"
+            ]
+        ],
+        "score": "2.2483822249341756e-05",
+        "rank": "4877",
+        "new_score": "5.579158096225001e-05",
+        "new_rank": "4013"
+    },
+    {
+        "triple_to_explain": [
+            "Jean_Gaston_Darboux",
+            "doctoralStudent",
+            "\u00c9mile_Picard"
+        ],
+        "rule": [
+            [
+                "Jean_Gaston_Darboux",
+                "notableStudent",
+                "\u00c9mile_Picard"
+            ],
+            [
+                "Jean_Gaston_Darboux",
+                "influenced",
+                "Jean_Gaston_Darboux"
+            ],
+            [
+                "Jean_Gaston_Darboux",
+                "influencedBy",
+                "Jean_Gaston_Darboux"
+            ],
+            [
+                "Jean_Gaston_Darboux",
+                "notableStudent",
+                "Mihailo_Petrovi\u0107"
+            ]
+        ],
+        "score": "4.3646250560414046e-05",
+        "rank": "726",
+        "new_score": "8.863894618116319e-05",
+        "new_rank": "693"
+    },
+    {
+        "triple_to_explain": [
+            "The_Heart_of_Chicago_1967\u20131998_Volume_II",
+            "artist",
+            "Chicago_(band)"
+        ],
+        "rule": [
+            [
+                "Alive_Again_(Chicago_song)",
+                "subsequentWork",
+                "The_Heart_of_Chicago_1967\u20131998_Volume_II"
+            ],
+            [
+                "The_Heart_of_Chicago_1967\u20131998_Volume_II",
+                "artist",
+                "Rufus_(band)"
+            ],
+            [
+                "The_Heart_of_Chicago_1967\u20131998_Volume_II",
+                "previousWork",
+                "Hot_Streets"
+            ]
+        ],
+        "score": "4.1651677747722715e-05",
+        "rank": "333",
+        "new_score": "0.00014541347627528012",
+        "new_rank": "241"
+    },
+    {
+        "triple_to_explain": [
+            "Tommy_Gaynor",
+            "managerClub",
+            "Kilkenny_City_A.F.C."
+        ],
+        "rule": [
+            [
+                "Kilkenny_City_A.F.C.",
+                "coach",
+                "Tommy_Gaynor"
+            ],
+            [
+                "Tommy_Gaynor",
+                "team",
+                "Cobh_Ramblers_F.C."
+            ]
+        ],
+        "score": "2.4167331503122114e-05",
+        "rank": "6720",
+        "new_score": "2.391515954514034e-05",
+        "new_rank": "1584"
+    },
+    {
+        "triple_to_explain": [
+            "Mirai_Sentai_Timeranger",
+            "endingTheme",
+            "Mirai_Sentai_Timeranger"
+        ],
+        "rule": [
+            [
+                "Ashita,_Mama_ga_Inai",
+                "previousWork",
+                "Mirai_Sentai_Timeranger"
+            ]
+        ],
+        "score": "8.171665655341137e-17",
+        "rank": "22023",
+        "new_score": "4.2117000703001395e-05",
+        "new_rank": "7798"
+    },
+    {
+        "triple_to_explain": [
+            "Sundar_V._Nadkarni",
+            "occupation",
+            "Writer"
+        ],
+        "rule": [
+            [
+                "Max_Seydewitz",
+                "spouse",
+                "Sundar_V._Nadkarni"
+            ]
+        ],
+        "score": "0.07766139507293701",
+        "rank": "2",
+        "new_score": "0.09238370507955551",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Barrington_Dacres",
+            "relation",
+            "James_Richard_Dacres_(Royal_Navy_officer,_born_1788)"
+        ],
+        "rule": [
+            [
+                "Barrington_Dacres",
+                "predecessor",
+                "Barrington_Dacres"
+            ],
+            [
+                "11th_Bavarian_Infantry_Division",
+                "notableCommander",
+                "Barrington_Dacres"
+            ]
+        ],
+        "score": "5.552528818952851e-06",
+        "rank": "16321",
+        "new_score": "1.0374447811045684e-05",
+        "new_rank": "14386"
+    },
+    {
+        "triple_to_explain": [
+            "Chhabildas_Mehta",
+            "successor",
+            "Keshubhai_Patel"
+        ],
+        "rule": [
+            [
+                "Chhabildas_Mehta",
+                "spouse",
+                "Keshubhai_Patel"
+            ]
+        ],
+        "score": "3.5691224184120074e-05",
+        "rank": "3946",
+        "new_score": "8.295920997625217e-05",
+        "new_rank": "1199"
+    },
+    {
+        "triple_to_explain": [
+            "KSFC",
+            "broadcastArea",
+            "Spokane,_Washington"
+        ],
+        "rule": [
+            [
+                "KSFC",
+                "city",
+                "Washington_(state)"
+            ],
+            [
+                "KSFC",
+                "programmeFormat",
+                "KSFC"
+            ],
+            [
+                "KSFC",
+                "sisterStation",
+                "KXLY_(AM)"
+            ],
+            [
+                "KSFC",
+                "broadcastArea",
+                "Ephrata,_Washington"
+            ]
+        ],
+        "score": "0.00018271994485985488",
+        "rank": "107",
+        "new_score": "0.0005346561665646732",
+        "new_rank": "34"
+    },
+    {
+        "triple_to_explain": [
+            "The_Man_in_the_Mirror_(1936_film)",
+            "distributor",
+            "Associated_British_Picture_Corporation"
+        ],
+        "rule": [
+            [
+                "The_Man_in_the_Mirror_(1936_film)",
+                "basedOn",
+                "Hawley's_of_High_Street"
+            ],
+            [
+                "The_Man_in_the_Mirror_(1936_film)",
+                "basedOn",
+                "Term_of_Trial"
+            ],
+            [
+                "The_Man_in_the_Mirror_(1936_film)",
+                "basedOn",
+                "The_Devil_Rides_Out_(film)"
+            ],
+            [
+                "Anthony_Hinds",
+                "knownFor",
+                "The_Man_in_the_Mirror_(1936_film)"
+            ]
+        ],
+        "score": "0.02392699383199215",
+        "rank": "2",
+        "new_score": "0.04140208661556244",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Dave_Koz_(album)",
+            "recordLabel",
+            "Capitol_Records"
+        ],
+        "rule": [
+            [
+                "By_the_Time_I_Get_to_Phoenix",
+                "subsequentWork",
+                "Dave_Koz_(album)"
+            ]
+        ],
+        "score": "0.3126005232334137",
+        "rank": "2",
+        "new_score": "0.2318820059299469",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "C._N._R._Rao",
+            "award",
+            "Order_of_the_Rising_Sun"
+        ],
+        "rule": [
+            [
+                "C._N._R._Rao",
+                "academicAdvisor",
+                "Wendell_Meredith_Stanley"
+            ],
+            [
+                "C._N._R._Rao",
+                "doctoralAdvisor",
+                "Wendell_Meredith_Stanley"
+            ],
+            [
+                "C._N._R._Rao",
+                "influencedBy",
+                "Wendell_Meredith_Stanley"
+            ],
+            [
+                "Abdul_Rahim_Khan",
+                "relation",
+                "C._N._R._Rao"
+            ]
+        ],
+        "score": "0.00025136550539173186",
+        "rank": "115",
+        "new_score": "0.0010947362752631307",
+        "new_rank": "27"
+    },
+    {
+        "triple_to_explain": [
+            "69th_Infantry_Regiment_(New_York)",
+            "battle",
+            "Battle_of_Saint-Mihiel"
+        ],
+        "rule": [
+            [
+                "69th_Infantry_Regiment_(New_York)",
+                "battle",
+                "Second_Battle_of_the_Marne"
+            ]
+        ],
+        "score": "1.884555967990309e-05",
+        "rank": "1595",
+        "new_score": "0.00024634203873574734",
+        "new_rank": "107"
+    },
+    {
+        "triple_to_explain": [
+            "Scabrotrophon",
+            "class",
+            "Gastropoda"
+        ],
+        "rule": [
+            [
+                "Anteaeolidiella_oliviae",
+                "order",
+                "Scabrotrophon"
+            ],
+            [
+                "Ceratosoma_brevicaudatum",
+                "order",
+                "Scabrotrophon"
+            ],
+            [
+                "Chromodoris_barnardi",
+                "order",
+                "Scabrotrophon"
+            ],
+            [
+                "Chromodoris_mandapamensis",
+                "order",
+                "Scabrotrophon"
+            ]
+        ],
+        "score": "0.0878601223230362",
+        "rank": "2",
+        "new_score": "0.29302778840065",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "I_Want_You_to_Need_Me",
+            "producer",
+            "Matt_Serletic"
+        ],
+        "rule": [
+            [
+                "I_Want_You_to_Need_Me",
+                "album",
+                "Chain_Letter_(album)"
+            ]
+        ],
+        "score": "2.3422848137060967e-24",
+        "rank": "6265",
+        "new_score": "2.0595230133050513e-20",
+        "new_rank": "5686"
+    },
+    {
+        "triple_to_explain": [
+            "Abraham_Pineo_Gesner",
+            "deathPlace",
+            "Halifax,_Nova_Scotia"
+        ],
+        "rule": [
+            [
+                "Abraham_Pineo_Gesner",
+                "doctoralAdvisor",
+                "Peter_O'Hearn"
+            ]
+        ],
+        "score": "8.263269929420503e-11",
+        "rank": "168",
+        "new_score": "0.0006039358559064567",
+        "new_rank": "53"
+    },
+    {
+        "triple_to_explain": [
+            "Hollelujah",
+            "producer",
+            "Stephen_Hague"
+        ],
+        "rule": [
+            [
+                "Ship_of_Fools_(Erasure_song)",
+                "album",
+                "Hollelujah"
+            ],
+            [
+                "Hollelujah",
+                "genre",
+                "Synthpop"
+            ]
+        ],
+        "score": "9.610031429150673e-27",
+        "rank": "11918",
+        "new_score": "2.166774976878864e-21",
+        "new_rank": "10080"
+    },
+    {
+        "triple_to_explain": [
+            "Monster_Butler",
+            "starring",
+            "Malcolm_McDowell"
+        ],
+        "rule": [
+            [
+                "Monster_Butler",
+                "writer",
+                "Malcolm_McDowell"
+            ],
+            [
+                "Monster_Butler",
+                "basedOn",
+                "O_Lucky_Man!"
+            ]
+        ],
+        "score": "4.817954873285911e-30",
+        "rank": "4150",
+        "new_score": "1.5554965982937175e-16",
+        "new_rank": "113"
+    },
+    {
+        "triple_to_explain": [
+            "George_Meniuc",
+            "nationality",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "6th_Army_(Soviet_Union)",
+                "type",
+                "George_Meniuc"
+            ]
+        ],
+        "score": "0.05002458393573761",
+        "rank": "2",
+        "new_score": "0.056462157517671585",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Steve_Hardin",
+            "associatedMusicalArtist",
+            "Steppenwolf_(band)"
+        ],
+        "rule": [
+            [
+                "Steppenwolf_(band)",
+                "bandMember",
+                "Steve_Hardin"
+            ],
+            [
+                "Steve_Hardin",
+                "associatedMusicalArtist",
+                "Steve_Hardin"
+            ],
+            [
+                "(You_Can_Still)_Rock_in_America",
+                "musicalArtist",
+                "Steve_Hardin"
+            ],
+            [
+                "(You_Can_Still)_Rock_in_America",
+                "writer",
+                "Steve_Hardin"
+            ]
+        ],
+        "score": "0.002042342908680439",
+        "rank": "13",
+        "new_score": "0.0004928560229018331",
+        "new_rank": "41"
+    },
+    {
+        "triple_to_explain": [
+            "Snookeroo",
+            "writer",
+            "Elton_John"
+        ],
+        "rule": [
+            [
+                "Snookeroo",
+                "producer",
+                "Kit_Lambert"
+            ],
+            [
+                "Alive_(S_Club_song)",
+                "subsequentWork",
+                "Snookeroo"
+            ]
+        ],
+        "score": "0.0007433450664393604",
+        "rank": "34",
+        "new_score": "0.0010579116642475128",
+        "new_rank": "42"
+    },
+    {
+        "triple_to_explain": [
+            "&ME",
+            "country",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "&ME",
+                "author",
+                "Eva_Strittmatter"
+            ],
+            [
+                "&ME",
+                "basedOn",
+                "Adieu_Paris"
+            ],
+            [
+                "&ME",
+                "basedOn",
+                "Postal_(film)"
+            ],
+            [
+                "&ME",
+                "basedOn",
+                "Zeiten_\u00e4ndern_dich"
+            ]
+        ],
+        "score": "0.108022540807724",
+        "rank": "2",
+        "new_score": "0.17127345502376556",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Holidays_in_the_Sun_(song)",
+            "previousWork",
+            "Pretty_Vacant"
+        ],
+        "rule": [
+            [
+                "Holidays_in_the_Sun_(song)",
+                "subsequentWork",
+                "Pretty_Vacant"
+            ],
+            [
+                "Holidays_in_the_Sun_(song)",
+                "previousWork",
+                "Holidays_in_the_Sun_(song)"
+            ],
+            [
+                "1916_(album)",
+                "previousWork",
+                "Holidays_in_the_Sun_(song)"
+            ],
+            [
+                "21os_Akatallilos",
+                "previousWork",
+                "Holidays_in_the_Sun_(song)"
+            ]
+        ],
+        "score": "1.2606586096808314e-05",
+        "rank": "3423",
+        "new_score": "3.5711989767150953e-05",
+        "new_rank": "3052"
+    },
+    {
+        "triple_to_explain": [
+            "Harold_Fleming_Snead",
+            "predecessor",
+            "John_W._Eggleston"
+        ],
+        "rule": [
+            [
+                "Harold_Fleming_Snead",
+                "associate",
+                "John_W._Eggleston"
+            ],
+            [
+                "Harold_Fleming_Snead",
+                "relation",
+                "John_W._Eggleston"
+            ],
+            [
+                "Harold_Fleming_Snead",
+                "spouse",
+                "John_W._Eggleston"
+            ],
+            [
+                "Harold_Fleming_Snead",
+                "chancellor",
+                "Harold_Fleming_Snead"
+            ]
+        ],
+        "score": "2.619503538880963e-05",
+        "rank": "2988",
+        "new_score": "0.00011911191541003063",
+        "new_rank": "438"
+    },
+    {
+        "triple_to_explain": [
+            "Tiffany_Stiegler",
+            "formerCoach",
+            "Marina_Zueva"
+        ],
+        "rule": [
+            [
+                "Tiffany_Stiegler",
+                "choreographer",
+                "Marina_Zueva"
+            ],
+            [
+                "Tiffany_Stiegler",
+                "formerPartner",
+                "Marina_Zueva"
+            ]
+        ],
+        "score": "0.0008581741712987423",
+        "rank": "12",
+        "new_score": "0.0006625439273193479",
+        "new_rank": "19"
+    },
+    {
+        "triple_to_explain": [
+            "The_Listening_(Lights_album)",
+            "genre",
+            "Synthpop"
+        ],
+        "rule": [
+            [
+                "The_Listening_(Lights_album)",
+                "type",
+                "Synthpop"
+            ]
+        ],
+        "score": "0.02499403804540634",
+        "rank": "6",
+        "new_score": "0.07577686756849289",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Iranian_intervention_in_Iraq_(2014\u2013present)",
+            "commander",
+            "Ali_Khamenei"
+        ],
+        "rule": [
+            [
+                "Afshin_Ghaffarian",
+                "deathCause",
+                "Iranian_intervention_in_Iraq_(2014\u2013present)"
+            ],
+            [
+                "Badiozzaman_Forouzanfar",
+                "deathCause",
+                "Iranian_intervention_in_Iraq_(2014\u2013present)"
+            ],
+            [
+                "Badiozzaman_Forouzanfar",
+                "knownFor",
+                "Iranian_intervention_in_Iraq_(2014\u2013present)"
+            ],
+            [
+                "Garma_Electric",
+                "battle",
+                "Iranian_intervention_in_Iraq_(2014\u2013present)"
+            ]
+        ],
+        "score": "2.8069503969163634e-05",
+        "rank": "1652",
+        "new_score": "0.0001356943103019148",
+        "new_rank": "349"
+    },
+    {
+        "triple_to_explain": [
+            "Magandang_Umaga,_Pilipinas",
+            "format",
+            "480i"
+        ],
+        "rule": [
+            [
+                "Magandang_Umaga,_Pilipinas",
+                "distributor",
+                "FYI_(Canadian_TV_channel)"
+            ],
+            [
+                "Magandang_Umaga,_Pilipinas",
+                "distributor",
+                "H2_(Canada)"
+            ],
+            [
+                "Magandang_Umaga,_Pilipinas",
+                "distributor",
+                "S\u00e9ries+"
+            ]
+        ],
+        "score": "0.2214221954345703",
+        "rank": "2",
+        "new_score": "0.3497701585292816",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Daybreaker_(Architects_album)",
+            "recordedIn",
+            "Berkshire"
+        ],
+        "rule": [
+            [
+                "Daybreaker_(Architects_album)",
+                "recordedIn",
+                "London"
+            ],
+            [
+                "1984_(song)",
+                "subsequentWork",
+                "Daybreaker_(Architects_album)"
+            ],
+            [
+                "Alive_(S_Club_song)",
+                "album",
+                "Daybreaker_(Architects_album)"
+            ]
+        ],
+        "score": "7.551235739811091e-06",
+        "rank": "1014",
+        "new_score": "3.263124017394148e-05",
+        "new_rank": "172"
+    },
+    {
+        "triple_to_explain": [
+            "Bistra_River_(Timi\u0219)",
+            "rightTributary",
+            "Rusca_River_(Timi\u0219)"
+        ],
+        "rule": [
+            [
+                "Bistra_River_(Timi\u0219)",
+                "riverMouth",
+                "Rusca_River_(Timi\u0219)"
+            ]
+        ],
+        "score": "3.857360206893645e-05",
+        "rank": "1693",
+        "new_score": "5.11439357069321e-05",
+        "new_rank": "5031"
+    },
+    {
+        "triple_to_explain": [
+            "Toy_Soldiers_(1991_film)",
+            "starring",
+            "Wil_Wheaton"
+        ],
+        "rule": [
+            [
+                "Toy_Soldiers_(1991_film)",
+                "director",
+                "Wil_Wheaton"
+            ],
+            [
+                "Toy_Soldiers_(1991_film)",
+                "narrator",
+                "Wil_Wheaton"
+            ],
+            [
+                "Toy_Soldiers_(1991_film)",
+                "writer",
+                "Samuel_R._Delany"
+            ],
+            [
+                "A.k.a._Pablo",
+                "previousWork",
+                "Toy_Soldiers_(1991_film)"
+            ]
+        ],
+        "score": "1.6809297383690084e-32",
+        "rank": "24537",
+        "new_score": "2.6655549907771447e-21",
+        "new_rank": "18869"
+    },
+    {
+        "triple_to_explain": [
+            "Glam_(album)",
+            "artist",
+            "Mouse_on_Mars"
+        ],
+        "rule": [
+            [
+                "All_Cried_Out_(Alison_Moyet_song)",
+                "subsequentWork",
+                "Glam_(album)"
+            ]
+        ],
+        "score": "1.2574790162034333e-05",
+        "rank": "2621",
+        "new_score": "4.296350016375072e-05",
+        "new_rank": "2216"
+    },
+    {
+        "triple_to_explain": [
+            "Kaiaphas",
+            "recordLabel",
+            "Sleaszy_Rider_Records"
+        ],
+        "rule": [
+            [
+                "Sleaszy_Rider_Records",
+                "foundedBy",
+                "Kaiaphas"
+            ],
+            [
+                "1916_(album)",
+                "picture",
+                "Kaiaphas"
+            ]
+        ],
+        "score": "9.193087180392467e-07",
+        "rank": "9365",
+        "new_score": "1.5755341035143413e-21",
+        "new_rank": "9489"
+    },
+    {
+        "triple_to_explain": [
+            "Alphas",
+            "genre",
+            "Science_fantasy"
+        ],
+        "rule": [
+            [
+                "Alphas",
+                "previousWork",
+                "Redakai:_Conquer_the_Kairu_(TV_series)"
+            ],
+            [
+                "Alphas",
+                "channel",
+                "English_language"
+            ],
+            [
+                "Alphas",
+                "writer",
+                "Samuel_R._Delany"
+            ]
+        ],
+        "score": "2.6587139326035134e-26",
+        "rank": "3693",
+        "new_score": "2.7261678955687264e-27",
+        "new_rank": "12965"
+    },
+    {
+        "triple_to_explain": [
+            "John_Wayles_Jefferson",
+            "relative",
+            "Madison_Hemings"
+        ],
+        "rule": [
+            [
+                "John_Wayles_Jefferson",
+                "relation",
+                "Madison_Hemings"
+            ]
+        ],
+        "score": "2.0317891539889388e-05",
+        "rank": "4889",
+        "new_score": "1.7979265976464376e-05",
+        "new_rank": "5102"
+    },
+    {
+        "triple_to_explain": [
+            "Youth_Without_Youth_(film)",
+            "country",
+            "Germany"
+        ],
+        "rule": [
+            [
+                "Alles_Ist_Gut",
+                "subsequentWork",
+                "Youth_Without_Youth_(film)"
+            ]
+        ],
+        "score": "0.08562082052230835",
+        "rank": "2",
+        "new_score": "0.20661625266075134",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Titsian_Tabidze",
+            "occupation",
+            "Poet"
+        ],
+        "rule": [
+            [
+                "Derrick_C._Brown",
+                "influenced",
+                "Titsian_Tabidze"
+            ],
+            [
+                "Titsian_Tabidze",
+                "influenced",
+                "Aarudhra"
+            ],
+            [
+                "Titsian_Tabidze",
+                "influenced",
+                "Consuelo_Tom\u00e1s"
+            ],
+            [
+                "Titsian_Tabidze",
+                "influenced",
+                "D._Vinayachandran"
+            ]
+        ],
+        "score": "0.22115269303321838",
+        "rank": "2",
+        "new_score": "0.18286794424057007",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Andrew_Querbes",
+            "deathPlace",
+            "Louisiana"
+        ],
+        "rule": [
+            [
+                "Andrew_Querbes",
+                "birthPlace",
+                "Gonzales,_Louisiana"
+            ]
+        ],
+        "score": "0.09292194247245789",
+        "rank": "3",
+        "new_score": "0.08080346137285233",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Mobsters",
+            "starring",
+            "F._Murray_Abraham"
+        ],
+        "rule": [
+            [
+                "F._Murray_Abraham",
+                "knownFor",
+                "Mobsters"
+            ],
+            [
+                "Mobsters",
+                "director",
+                "F._Murray_Abraham"
+            ],
+            [
+                "Mobsters",
+                "narrator",
+                "F._Murray_Abraham"
+            ]
+        ],
+        "score": "6.41707895639313e-30",
+        "rank": "8051",
+        "new_score": "2.0977025038297167e-19",
+        "new_rank": "2737"
+    },
+    {
+        "triple_to_explain": [
+            "Roy_Orbison_Sings",
+            "producer",
+            "Don_Gant"
+        ],
+        "rule": [
+            [
+                "(I_Know)_I'm_Losing_You",
+                "subsequentWork",
+                "Roy_Orbison_Sings"
+            ]
+        ],
+        "score": "2.109635927690579e-26",
+        "rank": "18692",
+        "new_score": "5.159338132149732e-22",
+        "new_rank": "18551"
+    },
+    {
+        "triple_to_explain": [
+            "Rohit_Shetty",
+            "birthPlace",
+            "Mumbai"
+        ],
+        "rule": [
+            [
+                "Rohit_Shetty",
+                "restingPlace",
+                "Mumbai"
+            ]
+        ],
+        "score": "0.004753604996949434",
+        "rank": "9",
+        "new_score": "0.011994798667728901",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Tom_T._Hall",
+            "genre",
+            "Folk_music"
+        ],
+        "rule": [
+            [
+                "Buddy_Jones_(bluegrass_musician)",
+                "relative",
+                "Tom_T._Hall"
+            ]
+        ],
+        "score": "0.0255979485809803",
+        "rank": "7",
+        "new_score": "0.12125206738710403",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "George_Lewis_(trombonist)",
+            "genre",
+            "Jazz"
+        ],
+        "rule": [
+            [
+                "Andr\u00e9_Vida",
+                "formerBandMember",
+                "George_Lewis_(trombonist)"
+            ]
+        ],
+        "score": "0.13504017889499664",
+        "rank": "2",
+        "new_score": "0.09913299977779388",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "AOMG",
+            "country",
+            "South_Korea"
+        ],
+        "rule": [
+            [
+                "AOMG",
+                "distributingCompany",
+                "Doosan_Heavy_Industries_&_Construction"
+            ],
+            [
+                "AOMG",
+                "distributingCompany",
+                "Wizet"
+            ],
+            [
+                "AOMG",
+                "foundedBy",
+                "Jung_Dae-hyun"
+            ]
+        ],
+        "score": "0.0834890827536583",
+        "rank": "3",
+        "new_score": "0.1440861076116562",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Tarom_Rural_District",
+            "isPartOf",
+            "Hajjiabad_County"
+        ],
+        "rule": [
+            [
+                "Ali_Khamenei",
+                "residence",
+                "Tarom_Rural_District"
+            ]
+        ],
+        "score": "2.71223007075605e-06",
+        "rank": "18925",
+        "new_score": "8.372410775336903e-06",
+        "new_rank": "21586"
+    },
+    {
+        "triple_to_explain": [
+            "Ferruccio_Valcareggi",
+            "managerClub",
+            "ACF_Fiorentina"
+        ],
+        "rule": [
+            [
+                "Ferruccio_Valcareggi",
+                "deathPlace",
+                "Marijampol\u0117"
+            ]
+        ],
+        "score": "0.0005051851621828973",
+        "rank": "66",
+        "new_score": "4.2264418880222365e-05",
+        "new_rank": "286"
+    },
+    {
+        "triple_to_explain": [
+            "The_High_Sign/One_Week",
+            "genre",
+            "Soundtrack"
+        ],
+        "rule": [
+            [
+                "The_High_Sign/One_Week",
+                "previousWork",
+                "The_Simpsons_Movie:_The_Music"
+            ]
+        ],
+        "score": "1.0656740699343982e-20",
+        "rank": "402",
+        "new_score": "1.5925424558127728e-23",
+        "new_rank": "445"
+    },
+    {
+        "triple_to_explain": [
+            "Xiao_Zhanbo",
+            "team",
+            "Liaoning_Whowin_F.C."
+        ],
+        "rule": [
+            [
+                "Liaoning_Whowin_F.C.",
+                "coach",
+                "Xiao_Zhanbo"
+            ],
+            [
+                "Xiao_Zhanbo",
+                "managerClub",
+                "Shanghai_Greenland_Shenhua_F.C."
+            ]
+        ],
+        "score": "1.4927117319984973e-08",
+        "rank": "2393",
+        "new_score": "5.2934267276285475e-30",
+        "new_rank": "4575"
+    },
+    {
+        "triple_to_explain": [
+            "Just_Cause_(TV_series)",
+            "network",
+            "W_Network"
+        ],
+        "rule": [
+            [
+                "Just_Cause_(TV_series)",
+                "starring",
+                "Kristina_Matisic"
+            ]
+        ],
+        "score": "6.131301051937044e-05",
+        "rank": "486",
+        "new_score": "0.00011570510105229914",
+        "new_rank": "243"
+    },
+    {
+        "triple_to_explain": [
+            "Waldo_Ponce",
+            "team",
+            "C.D._Universidad_de_Concepci\u00f3n"
+        ],
+        "rule": [
+            [
+                "Waldo_Ponce",
+                "team",
+                "Am\u00e9rica_de_Cali"
+            ]
+        ],
+        "score": "7.931830623419955e-05",
+        "rank": "1205",
+        "new_score": "7.980032043890519e-30",
+        "new_rank": "6694"
+    },
+    {
+        "triple_to_explain": [
+            "Mongo_Wrestling_Alliance",
+            "voice",
+            "Harry_Dean_Stanton"
+        ],
+        "rule": [
+            [
+                "192.com",
+                "product",
+                "Mongo_Wrestling_Alliance"
+            ],
+            [
+                "2020_(mini-series)",
+                "previousWork",
+                "Mongo_Wrestling_Alliance"
+            ],
+            [
+                "2020_(mini-series)",
+                "subsequentWork",
+                "Mongo_Wrestling_Alliance"
+            ],
+            [
+                "3D_Systems",
+                "product",
+                "Mongo_Wrestling_Alliance"
+            ]
+        ],
+        "score": "2.4028117877605837e-06",
+        "rank": "20088",
+        "new_score": "1.4475095667876303e-05",
+        "new_rank": "23411"
+    },
+    {
+        "triple_to_explain": [
+            "You_Save_Me",
+            "subsequentWork",
+            "Beer_in_Mexico_(song)"
+        ],
+        "rule": [
+            [
+                "16th_Avenue_(song)",
+                "previousWork",
+                "You_Save_Me"
+            ],
+            [
+                "187_He_Wrote",
+                "previousWork",
+                "You_Save_Me"
+            ],
+            [
+                "2002_(Tha_Dogg_Pound_album)",
+                "previousWork",
+                "You_Save_Me"
+            ]
+        ],
+        "score": "7.501180789404316e-06",
+        "rank": "20716",
+        "new_score": "2.0425850379979238e-05",
+        "new_rank": "13931"
+    },
+    {
+        "triple_to_explain": [
+            "K\u00e1ri_\u00c1rnason",
+            "team",
+            "Rotherham_United_F.C."
+        ],
+        "rule": [
+            [
+                "Ebbsfleet_United_F.C.",
+                "manager",
+                "K\u00e1ri_\u00c1rnason"
+            ],
+            [
+                "Floriana_F.C.",
+                "currentMember",
+                "K\u00e1ri_\u00c1rnason"
+            ]
+        ],
+        "score": "0.017469318583607674",
+        "rank": "24",
+        "new_score": "1.6065441994689541e-25",
+        "new_rank": "672"
+    },
+    {
+        "triple_to_explain": [
+            "Ram\u00f3n_Rodrigo_de_Freitas",
+            "team",
+            "Associa\u00e7\u00e3o_Portuguesa_de_Desportos"
+        ],
+        "rule": [
+            [
+                "Al-Shabab_Club_(Oman)",
+                "manager",
+                "Ram\u00f3n_Rodrigo_de_Freitas"
+            ],
+            [
+                "Clube_Recreativo_e_Atl\u00e9tico_Catalano",
+                "manager",
+                "Ram\u00f3n_Rodrigo_de_Freitas"
+            ]
+        ],
+        "score": "0.00023194724053610116",
+        "rank": "97",
+        "new_score": "1.9879752412524284e-26",
+        "new_rank": "1321"
+    },
+    {
+        "triple_to_explain": [
+            "The_Invisible_Man's_Revenge",
+            "musicComposer",
+            "Hans_J._Salter"
+        ],
+        "rule": [
+            [
+                "The_Invisible_Man's_Revenge",
+                "musicComposer",
+                "Hoagy_Carmichael"
+            ]
+        ],
+        "score": "2.210473937225288e-08",
+        "rank": "4908",
+        "new_score": "0.0005215741693973541",
+        "new_rank": "25"
+    },
+    {
+        "triple_to_explain": [
+            "James_Dearing",
+            "battle",
+            "Battle_of_Gettysburg"
+        ],
+        "rule": [
+            [
+                "69th_Infantry_Regiment_(New_York)",
+                "notableCommander",
+                "James_Dearing"
+            ],
+            [
+                "86th_New_York_Volunteer_Infantry",
+                "notableCommander",
+                "James_Dearing"
+            ]
+        ],
+        "score": "0.11797972023487091",
+        "rank": "2",
+        "new_score": "0.06654677540063858",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Onkaparinga_Valley_Road",
+            "routeJunction",
+            "South_Eastern_Freeway"
+        ],
+        "rule": [
+            [
+                "A4/M4_(Sydney)",
+                "routeJunction",
+                "Onkaparinga_Valley_Road"
+            ],
+            [
+                "Alberta_Highway_21",
+                "routeJunction",
+                "Onkaparinga_Valley_Road"
+            ],
+            [
+                "Cavite\u2013Laguna_Expressway",
+                "routeStart",
+                "Onkaparinga_Valley_Road"
+            ]
+        ],
+        "score": "8.707670531293843e-06",
+        "rank": "9167",
+        "new_score": "6.938824662938714e-05",
+        "new_rank": "4100"
+    },
+    {
+        "triple_to_explain": [
+            "Rodrigo_Fernandes_Alflen",
+            "team",
+            "Botafogo_de_Futebol_e_Regatas"
+        ],
+        "rule": [
+            [
+                "Guarani_FC",
+                "manager",
+                "Rodrigo_Fernandes_Alflen"
+            ]
+        ],
+        "score": "0.016917522996664047",
+        "rank": "21",
+        "new_score": "1.1108988867843081e-26",
+        "new_rank": "965"
+    },
+    {
+        "triple_to_explain": [
+            "Valery_Todorovsky",
+            "birthPlace",
+            "Soviet_Union"
+        ],
+        "rule": [
+            [
+                "Valery_Todorovsky",
+                "residence",
+                "Soviet_Union"
+            ],
+            [
+                "Valery_Todorovsky",
+                "stateOfOrigin",
+                "Soviet_Union"
+            ],
+            [
+                "Aleksandr_Bushkov",
+                "influencedBy",
+                "Valery_Todorovsky"
+            ]
+        ],
+        "score": "0.0447816364467144",
+        "rank": "3",
+        "new_score": "0.20042015612125397",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Edin_Ademovi\u0107",
+            "team",
+            "FK_Kolubara"
+        ],
+        "rule": [
+            [
+                "FK_Kolubara",
+                "manager",
+                "Edin_Ademovi\u0107"
+            ],
+            [
+                "Calcio_Catania",
+                "currentMember",
+                "Edin_Ademovi\u0107"
+            ],
+            [
+                "Calcio_Catania",
+                "manager",
+                "Edin_Ademovi\u0107"
+            ]
+        ],
+        "score": "1.3027531053921848e-07",
+        "rank": "6651",
+        "new_score": "2.089826775247584e-27",
+        "new_rank": "9789"
+    },
+    {
+        "triple_to_explain": [
+            "Dimitris_Nalitzis",
+            "team",
+            "PAE_Kerkyra"
+        ],
+        "rule": [
+            [
+                "PAE_Kerkyra",
+                "manager",
+                "Dimitris_Nalitzis"
+            ]
+        ],
+        "score": "6.29599453532137e-05",
+        "rank": "1374",
+        "new_score": "2.3249630686382734e-30",
+        "new_rank": "3286"
+    },
+    {
+        "triple_to_explain": [
+            "Maybe_He'll_Notice_Her_Now",
+            "musicalArtist",
+            "Mindy_McCready"
+        ],
+        "rule": [
+            [
+                "Maybe_He'll_Notice_Her_Now",
+                "previousWork",
+                "Maybe_He'll_Notice_Her_Now"
+            ],
+            [
+                "Maybe_He'll_Notice_Her_Now",
+                "subsequentWork",
+                "Maybe_He'll_Notice_Her_Now"
+            ],
+            [
+                "20/20_(Dilated_Peoples_album)",
+                "previousWork",
+                "Maybe_He'll_Notice_Her_Now"
+            ],
+            [
+                "Barrett_(album)",
+                "previousWork",
+                "Maybe_He'll_Notice_Her_Now"
+            ]
+        ],
+        "score": "5.800253711640835e-05",
+        "rank": "715",
+        "new_score": "5.9737401898019016e-05",
+        "new_rank": "1343"
+    },
+    {
+        "triple_to_explain": [
+            "Skeleton_Warriors",
+            "starring",
+            "Tony_Jay"
+        ],
+        "rule": [
+            [
+                "Arup_Group",
+                "product",
+                "Skeleton_Warriors"
+            ]
+        ],
+        "score": "4.361753753596192e-29",
+        "rank": "6506",
+        "new_score": "1.0538377939153606e-19",
+        "new_rank": "12482"
+    },
+    {
+        "triple_to_explain": [
+            "The_Vagabond_Lover",
+            "musicComposer",
+            "Harry_M._Woods"
+        ],
+        "rule": [
+            [
+                "12_Disc\u00edpulos",
+                "subsequentWork",
+                "The_Vagabond_Lover"
+            ],
+            [
+                "Arms_&_Hammers",
+                "subsequentWork",
+                "The_Vagabond_Lover"
+            ]
+        ],
+        "score": "1.2667803694910162e-08",
+        "rank": "7643",
+        "new_score": "2.907232010329608e-05",
+        "new_rank": "7394"
+    },
+    {
+        "triple_to_explain": [
+            "Lipstick_Jungle_(TV_series)",
+            "executiveProducer",
+            "Oliver_Goldstick"
+        ],
+        "rule": [
+            [
+                "Lipstick_Jungle_(TV_series)",
+                "creator",
+                "Oliver_Goldstick"
+            ],
+            [
+                "Oliver_Goldstick",
+                "knownFor",
+                "Lipstick_Jungle_(TV_series)"
+            ],
+            [
+                "Lipstick_Jungle_(TV_series)",
+                "executiveProducer",
+                "Brett_Dier"
+            ]
+        ],
+        "score": "4.703501417679945e-06",
+        "rank": "18249",
+        "new_score": "3.387885953998193e-05",
+        "new_rank": "2842"
+    },
+    {
+        "triple_to_explain": [
+            "Onna_ni_Sachi_Are",
+            "producer",
+            "Tsunku"
+        ],
+        "rule": [
+            [
+                "Lalala_Shiawase_no_Uta",
+                "previousWork",
+                "Onna_ni_Sachi_Are"
+            ]
+        ],
+        "score": "8.820188305821e-24",
+        "rank": "2553",
+        "new_score": "9.248786562077244e-20",
+        "new_rank": "2111"
+    },
+    {
+        "triple_to_explain": [
+            "Gordon_Kljestan",
+            "team",
+            "Cleveland_City_Stars"
+        ],
+        "rule": [
+            [
+                "1959\u201360_Cardiff_City_F.C._season",
+                "currentMember",
+                "Gordon_Kljestan"
+            ],
+            [
+                "2010\u201311_Atlante_F.C._season",
+                "currentMember",
+                "Gordon_Kljestan"
+            ]
+        ],
+        "score": "2.1463686383782488e-10",
+        "rank": "24044",
+        "new_score": "1.176715830512114e-30",
+        "new_rank": "23480"
+    },
+    {
+        "triple_to_explain": [
+            "Arthur_H",
+            "genre",
+            "French_pop_music"
+        ],
+        "rule": [
+            [
+                "Aliz\u00e9e",
+                "associatedMusicalArtist",
+                "Arthur_H"
+            ],
+            [
+                "(Ain't_Nobody_Loves_You)_Like_I_Do",
+                "writer",
+                "Arthur_H"
+            ],
+            [
+                "ABBA",
+                "bandMember",
+                "Arthur_H"
+            ]
+        ],
+        "score": "2.3731973164146605e-31",
+        "rank": "23456",
+        "new_score": "1.6093388393740567e-28",
+        "new_rank": "24430"
+    },
+    {
+        "triple_to_explain": [
+            "Survivor_South_Africa",
+            "country",
+            "South_Africa"
+        ],
+        "rule": [
+            [
+                "Elon_Musk",
+                "knownFor",
+                "Survivor_South_Africa"
+            ]
+        ],
+        "score": "0.012945606373250484",
+        "rank": "7",
+        "new_score": "0.03294773027300835",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "WVEA-TV",
+            "location",
+            "St._Petersburg,_Florida"
+        ],
+        "rule": [
+            [
+                "WVEA-TV",
+                "location",
+                "Baltimore"
+            ],
+            [
+                "WVEA-TV",
+                "locationCity",
+                "Winnipeg"
+            ]
+        ],
+        "score": "2.5603379981475882e-05",
+        "rank": "342",
+        "new_score": "1.4572328836948145e-05",
+        "new_rank": "1152"
+    },
+    {
+        "triple_to_explain": [
+            "Bridging_the_Gap_(Black_Eyed_Peas_album)",
+            "artist",
+            "The_Black_Eyed_Peas"
+        ],
+        "rule": [
+            [
+                "Bridging_the_Gap_(Black_Eyed_Peas_album)",
+                "producer",
+                "The_Black_Eyed_Peas"
+            ],
+            [
+                "Bridging_the_Gap_(Black_Eyed_Peas_album)",
+                "artist",
+                "Fergie_(singer)"
+            ],
+            [
+                "Bridging_the_Gap_(Black_Eyed_Peas_album)",
+                "previousWork",
+                "Joints_&_Jam"
+            ]
+        ],
+        "score": "4.363651532912627e-05",
+        "rank": "135",
+        "new_score": "0.0007670314516872168",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Eastern_Dedicated_Freight_Corridor",
+            "location",
+            "Bihar"
+        ],
+        "rule": [
+            [
+                "Eastern_Dedicated_Freight_Corridor",
+                "location",
+                "British_Virgin_Islands"
+            ]
+        ],
+        "score": "0.0003104000352323055",
+        "rank": "81",
+        "new_score": "0.0020638215355575085",
+        "new_rank": "34"
+    },
+    {
+        "triple_to_explain": [
+            "Mundell_Lowe",
+            "genre",
+            "Jazz"
+        ],
+        "rule": [
+            [
+                "Aquarello",
+                "relative",
+                "Mundell_Lowe"
+            ]
+        ],
+        "score": "0.0789014995098114",
+        "rank": "2",
+        "new_score": "0.05978107079863548",
+        "new_rank": "4"
+    }
+]

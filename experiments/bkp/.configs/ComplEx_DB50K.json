@@ -1,0 +1,37 @@
+{
+    "model": "ComplEx",
+    "model_params": {
+        "dimension": 256,
+        "init_scale": 0.001
+    },
+    "training": {
+        "batch_size": 8192,
+        "optimizer_name": "Adagrad",
+        "epochs": 1000,
+        "regularizer_weight": 0,
+        "regularizer_name": "N3",
+        "lr": 0.04623363192007445,
+        "decay1": 0.9,
+        "decay2": 0.999
+    },
+    "kelpie": {
+        "batch_size": 8192,
+        "optimizer_name": "Adagrad",
+        "epochs": 39,
+        "regularizer_weight": 0,
+        "regularizer_name": "N3",
+        "lr": 0.01,
+        "decay1": 0.9,
+        "decay2": 0.999
+    },
+    "evaluation": {
+        "batch_size": 8192,
+        "optimizer_name": "Adagrad",
+        "epochs": 39,
+        "regularizer_weight": 0,
+        "regularizer_name": "N3",
+        "lr": 0.04623363192007445,
+        "decay1": 0.9,
+        "decay2": 0.999
+    }
+}

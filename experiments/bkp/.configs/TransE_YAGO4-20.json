@@ -1,0 +1,39 @@
+{
+    "model": "TransE",
+    "model_params": {
+        "norm": 2,
+        "dimension": 64
+    },
+    "training": {
+        "batch_size": 8192,
+        "epochs": 1000,
+        "lr": 0.04249353137717732,
+        "margin": 2,
+        "negative_triples_ratio": 10,
+        "regularizer_weight": 0
+    },
+    "kelpie": {
+        "batch_size": 8192,
+        "epochs": 45,
+        "lr": 0.01,
+        "margin": 2,
+        "negative_triples_ratio": 10,
+        "regularizer_weight": 0
+    },
+    "data_poisoning": {
+        "batch_size": 8192,
+        "epochs": 45,
+        "lr": 0.04249353137717732,
+        "margin": 2,
+        "negative_triples_ratio": 10,
+        "regularizer_weight": 0
+    },
+    "evaluation": {
+        "batch_size": 8192,
+        "epochs": 45,
+        "lr": 0.04249353137717732,
+        "margin": 2,
+        "negative_triples_ratio": 10,
+        "regularizer_weight": 0
+    }
+}

@@ -1,0 +1,3302 @@
+[
+    {
+        "triple": [
+            "Stone_Mountain,_Georgia",
+            "location",
+            "Georgia_(U.S._state)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Stone_Mountain,_Georgia",
+                        "containedInPlace",
+                        "Georgia_(U.S._state)"
+                    ]
+                ],
+                3633.0
+            ],
+            [
+                [
+                    [
+                        "Stone_Mountain,_Georgia",
+                        "containedInPlace",
+                        "DeKalb_County,_Georgia"
+                    ]
+                ],
+                0.0012723106192424893
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 15.65987253189087
+    },
+    {
+        "triple": [
+            "Kakegawa,_Shizuoka",
+            "location",
+            "Shizuoka_Prefecture"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kakegawa,_Shizuoka",
+                        "containedInPlace",
+                        "Shizuoka_Prefecture"
+                    ],
+                    [
+                        "Shizuoka_Prefecture",
+                        "containsPlace",
+                        "Kakegawa,_Shizuoka"
+                    ]
+                ],
+                96848.0
+            ],
+            [
+                [
+                    [
+                        "Kakegawa,_Shizuoka",
+                        "containedInPlace",
+                        "Shizuoka_Prefecture"
+                    ]
+                ],
+                0.7803396582603455
+            ],
+            [
+                [
+                    [
+                        "Shizuoka_Prefecture",
+                        "containsPlace",
+                        "Kakegawa,_Shizuoka"
+                    ]
+                ],
+                0.5707398056983948
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.24715518951416
+    },
+    {
+        "triple": [
+            "School_of_Performing_Arts_Seoul",
+            "location",
+            "Seoul"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "School_of_Performing_Arts_Seoul",
+                        "containedInPlace",
+                        "Seoul"
+                    ],
+                    [
+                        "Bae_Suzy",
+                        "alumniOf",
+                        "School_of_Performing_Arts_Seoul"
+                    ]
+                ],
+                96217.0
+            ],
+            [
+                [
+                    [
+                        "School_of_Performing_Arts_Seoul",
+                        "containedInPlace",
+                        "Seoul"
+                    ]
+                ],
+                1.9999994039535522
+            ],
+            [
+                [
+                    [
+                        "Bae_Suzy",
+                        "alumniOf",
+                        "School_of_Performing_Arts_Seoul"
+                    ]
+                ],
+                0.14211976528167725
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.273540258407593
+    },
+    {
+        "triple": [
+            "Lajes_das_Flores",
+            "location",
+            "Azores"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lajes_das_Flores",
+                        "containedInPlace",
+                        "Azores"
+                    ]
+                ],
+                91018.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.80349850654602
+    },
+    {
+        "triple": [
+            "Brisighella",
+            "location",
+            "Province_of_Ravenna"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Brisighella",
+                        "containedInPlace",
+                        "Province_of_Ravenna"
+                    ],
+                    [
+                        "Province_of_Ravenna",
+                        "containsPlace",
+                        "Brisighella"
+                    ]
+                ],
+                87695.0
+            ],
+            [
+                [
+                    [
+                        "Brisighella",
+                        "containedInPlace",
+                        "Province_of_Ravenna"
+                    ]
+                ],
+                0.8358669877052307
+            ],
+            [
+                [
+                    [
+                        "Province_of_Ravenna",
+                        "containsPlace",
+                        "Brisighella"
+                    ]
+                ],
+                0.6211137175559998
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.684119939804077
+    },
+    {
+        "triple": [
+            "Pinneberg",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pinneberg",
+                        "containedInPlace",
+                        "Pinneberg_(district)"
+                    ],
+                    [
+                        "Pinneberg",
+                        "location",
+                        "Pinneberg_(district)"
+                    ]
+                ],
+                80513.0
+            ],
+            [
+                [
+                    [
+                        "Pinneberg",
+                        "containedInPlace",
+                        "Pinneberg_(district)"
+                    ]
+                ],
+                0.7766090631484985
+            ],
+            [
+                [
+                    [
+                        "Pinneberg",
+                        "location",
+                        "Pinneberg_(district)"
+                    ]
+                ],
+                0.5983976721763611
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.274765014648438
+    },
+    {
+        "triple": [
+            "Antigo,_Wisconsin",
+            "location",
+            "Langlade_County,_Wisconsin"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Antigo,_Wisconsin",
+                        "containedInPlace",
+                        "Langlade_County,_Wisconsin"
+                    ],
+                    [
+                        "Langlade_County,_Wisconsin",
+                        "containsPlace",
+                        "Antigo,_Wisconsin"
+                    ]
+                ],
+                57494.0
+            ],
+            [
+                [
+                    [
+                        "Antigo,_Wisconsin",
+                        "containedInPlace",
+                        "Langlade_County,_Wisconsin"
+                    ]
+                ],
+                0.8529247045516968
+            ],
+            [
+                [
+                    [
+                        "Langlade_County,_Wisconsin",
+                        "containsPlace",
+                        "Antigo,_Wisconsin"
+                    ]
+                ],
+                0.6453198790550232
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.385815620422363
+    },
+    {
+        "triple": [
+            "Polypoetes_(moth)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Polypoetes_(moth)",
+                        "parentTaxon",
+                        "Notodontidae"
+                    ]
+                ],
+                96911.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.61479139328003
+    },
+    {
+        "triple": [
+            "Centre_Party_(Sweden)",
+            "memberOf",
+            "Liberal_International"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Centre_Party_(Sweden)",
+                        "memberOf",
+                        "Alliance_of_Liberals_and_Democrats_for_Europe_Party"
+                    ]
+                ],
+                89497.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.55455207824707
+    },
+    {
+        "triple": [
+            "Bay_St._Louis,_Mississippi",
+            "location",
+            "Hancock_County,_Mississippi"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bay_St._Louis,_Mississippi",
+                        "containedInPlace",
+                        "Hancock_County,_Mississippi"
+                    ],
+                    [
+                        "Hancock_County,_Mississippi",
+                        "containsPlace",
+                        "Bay_St._Louis,_Mississippi"
+                    ]
+                ],
+                96283.0
+            ],
+            [
+                [
+                    [
+                        "Bay_St._Louis,_Mississippi",
+                        "containedInPlace",
+                        "Hancock_County,_Mississippi"
+                    ]
+                ],
+                0.9185590147972107
+            ],
+            [
+                [
+                    [
+                        "Hancock_County,_Mississippi",
+                        "containsPlace",
+                        "Bay_St._Louis,_Mississippi"
+                    ]
+                ],
+                0.62227463722229
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.712477922439575
+    },
+    {
+        "triple": [
+            "Taylor_County,_Texas",
+            "containsPlace",
+            "Abilene,_Texas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Abilene,_Texas",
+                        "containedInPlace",
+                        "Taylor_County,_Texas"
+                    ]
+                ],
+                360.0
+            ],
+            [
+                [
+                    [
+                        "Taylor_County,_Texas",
+                        "containedInPlace",
+                        "Texas"
+                    ]
+                ],
+                0.08178520947694778
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.08877420425415
+    },
+    {
+        "triple": [
+            "Gonzaga_College_High_School",
+            "location",
+            "Washington,_D.C."
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gonzaga_College_High_School",
+                        "containedInPlace",
+                        "Washington,_D.C."
+                    ],
+                    [
+                        "Pat_Conroy",
+                        "alumniOf",
+                        "Gonzaga_College_High_School"
+                    ]
+                ],
+                11523.0
+            ],
+            [
+                [
+                    [
+                        "Gonzaga_College_High_School",
+                        "containedInPlace",
+                        "Washington,_D.C."
+                    ]
+                ],
+                0.9999998211860657
+            ],
+            [
+                [
+                    [
+                        "Pat_Conroy",
+                        "alumniOf",
+                        "Gonzaga_College_High_School"
+                    ]
+                ],
+                0.9308412075042725
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.16012716293335
+    },
+    {
+        "triple": [
+            "North_Slope_Borough,_Alaska",
+            "location",
+            "Alaska"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alaska",
+                        "containsPlace",
+                        "North_Slope_Borough,_Alaska"
+                    ],
+                    [
+                        "North_Slope_Borough,_Alaska",
+                        "containedInPlace",
+                        "Alaska"
+                    ]
+                ],
+                95838.0
+            ],
+            [
+                [
+                    [
+                        "North_Slope_Borough,_Alaska",
+                        "containedInPlace",
+                        "Alaska"
+                    ]
+                ],
+                0.9333958625793457
+            ],
+            [
+                [
+                    [
+                        "Alaska",
+                        "containsPlace",
+                        "North_Slope_Borough,_Alaska"
+                    ]
+                ],
+                0.6070318222045898
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.982722282409668
+    },
+    {
+        "triple": [
+            "Port_Angeles,_Washington",
+            "location",
+            "Clallam_County,_Washington"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Port_Angeles,_Washington",
+                        "containedInPlace",
+                        "Clallam_County,_Washington"
+                    ]
+                ],
+                252.0
+            ],
+            [
+                [
+                    [
+                        "Raymond_Carver",
+                        "deathPlace",
+                        "Port_Angeles,_Washington"
+                    ]
+                ],
+                0.0027964343316853046
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.509000778198242
+    },
+    {
+        "triple": [
+            "Alma_College",
+            "location",
+            "Michigan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alma_College",
+                        "containedInPlace",
+                        "Michigan"
+                    ]
+                ],
+                198.0
+            ],
+            [
+                [
+                    [
+                        "George_Allen_(American_football_coach)",
+                        "alumniOf",
+                        "Alma_College"
+                    ]
+                ],
+                0.11280590295791626
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.340694665908813
+    },
+    {
+        "triple": [
+            "Derry,_New_Hampshire",
+            "location",
+            "Rockingham_County,_New_Hampshire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Derry,_New_Hampshire",
+                        "containedInPlace",
+                        "Rockingham_County,_New_Hampshire"
+                    ],
+                    [
+                        "Rockingham_County,_New_Hampshire",
+                        "containsPlace",
+                        "Derry,_New_Hampshire"
+                    ]
+                ],
+                93601.0
+            ],
+            [
+                [
+                    [
+                        "Derry,_New_Hampshire",
+                        "containedInPlace",
+                        "Rockingham_County,_New_Hampshire"
+                    ]
+                ],
+                0.8894261121749878
+            ],
+            [
+                [
+                    [
+                        "Rockingham_County,_New_Hampshire",
+                        "containsPlace",
+                        "Derry,_New_Hampshire"
+                    ]
+                ],
+                0.7253736257553101
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.981560707092285
+    },
+    {
+        "triple": [
+            "Gmina_G\u0142owno",
+            "location",
+            "Zgierz_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_G\u0142owno",
+                        "containedInPlace",
+                        "Zgierz_County"
+                    ],
+                    [
+                        "Zgierz_County",
+                        "containsPlace",
+                        "Gmina_G\u0142owno"
+                    ]
+                ],
+                83327.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_G\u0142owno",
+                        "containedInPlace",
+                        "Zgierz_County"
+                    ]
+                ],
+                0.7779252529144287
+            ],
+            [
+                [
+                    [
+                        "Zgierz_County",
+                        "containsPlace",
+                        "Gmina_G\u0142owno"
+                    ]
+                ],
+                0.5416314005851746
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.404687881469727
+    },
+    {
+        "triple": [
+            "Gmina_Pobiedziska",
+            "location",
+            "Pozna\u0144_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Pobiedziska",
+                        "containedInPlace",
+                        "Pozna\u0144_County"
+                    ],
+                    [
+                        "Pozna\u0144_County",
+                        "containsPlace",
+                        "Gmina_Pobiedziska"
+                    ]
+                ],
+                94751.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_Pobiedziska",
+                        "containedInPlace",
+                        "Pozna\u0144_County"
+                    ]
+                ],
+                0.727514386177063
+            ],
+            [
+                [
+                    [
+                        "Pozna\u0144_County",
+                        "containsPlace",
+                        "Gmina_Pobiedziska"
+                    ]
+                ],
+                0.538345217704773
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.11599850654602
+    },
+    {
+        "triple": [
+            "Saint_Benedict's_Preparatory_School",
+            "location",
+            "New_Jersey"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Saint_Benedict's_Preparatory_School",
+                        "containedInPlace",
+                        "New_Jersey"
+                    ]
+                ],
+                23.0
+            ],
+            [
+                [
+                    [
+                        "Gregg_Berhalter",
+                        "alumniOf",
+                        "Saint_Benedict's_Preparatory_School"
+                    ]
+                ],
+                0.26848116517066956
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.69063425064087
+    },
+    {
+        "triple": [
+            "Gmina_Kiszkowo",
+            "location",
+            "Gniezno_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Kiszkowo",
+                        "containedInPlace",
+                        "Gniezno_County"
+                    ]
+                ],
+                87185.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.810614585876465
+    },
+    {
+        "triple": [
+            "University_of_the_West_of_England,_Bristol",
+            "location",
+            "South_Gloucestershire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_the_West_of_England,_Bristol",
+                        "containedInPlace",
+                        "South_Gloucestershire"
+                    ]
+                ],
+                9.0
+            ],
+            [
+                [
+                    [
+                        "Miranda_Hart",
+                        "alumniOf",
+                        "University_of_the_West_of_England,_Bristol"
+                    ]
+                ],
+                0.06192195042967796
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.647266626358032
+    },
+    {
+        "triple": [
+            "Nosophora",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nosophora",
+                        "parentTaxon",
+                        "Crambidae"
+                    ]
+                ],
+                96909.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.546933650970459
+    },
+    {
+        "triple": [
+            "Amyema",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Amyema",
+                        "parentTaxon",
+                        "Loranthaceae"
+                    ]
+                ],
+                96909.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.542985439300537
+    },
+    {
+        "triple": [
+            "Troisdorf",
+            "location",
+            "Rhein-Sieg-Kreis"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Troisdorf",
+                        "containedInPlace",
+                        "Rhein-Sieg-Kreis"
+                    ]
+                ],
+                64406.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.532161235809326
+    },
+    {
+        "triple": [
+            "Palm_Bay,_Florida",
+            "location",
+            "Brevard_County,_Florida"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Palm_Bay,_Florida",
+                        "containedInPlace",
+                        "Brevard_County,_Florida"
+                    ]
+                ],
+                85546.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.657243013381958
+    },
+    {
+        "triple": [
+            "Alpine_skiing_at_the_1992_Winter_Olympics",
+            "superEvent",
+            "1992_Winter_Olympics"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "1992_Winter_Olympics",
+                        "subEvent",
+                        "Alpine_skiing_at_the_1992_Winter_Olympics"
+                    ],
+                    [
+                        "Alpine_skiing_at_the_1992_Winter_Olympics",
+                        "location",
+                        "Val-d'Is\u00e8re"
+                    ]
+                ],
+                96887.0
+            ],
+            [
+                [
+                    [
+                        "1992_Winter_Olympics",
+                        "subEvent",
+                        "Alpine_skiing_at_the_1992_Winter_Olympics"
+                    ]
+                ],
+                2.999997615814209
+            ],
+            [
+                [
+                    [
+                        "Alpine_skiing_at_the_1992_Winter_Olympics",
+                        "location",
+                        "Val-d'Is\u00e8re"
+                    ]
+                ],
+                0.057787198573350906
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.592605590820312
+    },
+    {
+        "triple": [
+            "Gmina_Go\u015bcino",
+            "location",
+            "Ko\u0142obrzeg_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Go\u015bcino",
+                        "containedInPlace",
+                        "Ko\u0142obrzeg_County"
+                    ],
+                    [
+                        "Ko\u0142obrzeg_County",
+                        "containsPlace",
+                        "Gmina_Go\u015bcino"
+                    ]
+                ],
+                83709.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_Go\u015bcino",
+                        "containedInPlace",
+                        "Ko\u0142obrzeg_County"
+                    ]
+                ],
+                0.7147575616836548
+            ],
+            [
+                [
+                    [
+                        "Ko\u0142obrzeg_County",
+                        "containsPlace",
+                        "Gmina_Go\u015bcino"
+                    ]
+                ],
+                0.5117847323417664
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.02286958694458
+    },
+    {
+        "triple": [
+            "Radio_France",
+            "location",
+            "Paris"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Radio_France",
+                        "containedInPlace",
+                        "Paris"
+                    ],
+                    [
+                        "Radio_France",
+                        "memberOf",
+                        "European_Broadcasting_Union"
+                    ]
+                ],
+                50173.0
+            ],
+            [
+                [
+                    [
+                        "Radio_France",
+                        "containedInPlace",
+                        "Paris"
+                    ]
+                ],
+                2.0
+            ],
+            [
+                [
+                    [
+                        "Radio_France",
+                        "memberOf",
+                        "European_Broadcasting_Union"
+                    ]
+                ],
+                0.20479999482631683
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.708421230316162
+    },
+    {
+        "triple": [
+            "Hans_Holbein_the_Younger",
+            "knowsLanguage",
+            "German_language"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hans_Holbein_the_Younger",
+                        "birthPlace",
+                        "Augsburg"
+                    ],
+                    [
+                        "Hans_Holbein_the_Younger",
+                        "nationality",
+                        "Germany"
+                    ]
+                ],
+                96695.0
+            ],
+            [
+                [
+                    [
+                        "Hans_Holbein_the_Younger",
+                        "nationality",
+                        "Germany"
+                    ]
+                ],
+                0.9962968230247498
+            ],
+            [
+                [
+                    [
+                        "Hans_Holbein_the_Younger",
+                        "birthPlace",
+                        "Augsburg"
+                    ]
+                ],
+                0.5849295854568481
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.328452825546265
+    },
+    {
+        "triple": [
+            "Epik_High",
+            "genre",
+            "K-pop"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Epik_High",
+                        "foundingLocation",
+                        "Seoul"
+                    ]
+                ],
+                168.9994354248047
+            ],
+            [
+                [
+                    [
+                        "Epik_High",
+                        "genre",
+                        "Hip_hop_music"
+                    ]
+                ],
+                0.8616964817047119
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.290014028549194
+    },
+    {
+        "triple": [
+            "Canton_of_Doullens",
+            "containedInPlace",
+            "Arrondissement_of_Amiens"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Arrondissement_of_Amiens",
+                        "containsPlace",
+                        "Canton_of_Doullens"
+                    ],
+                    [
+                        "Canton_of_Doullens",
+                        "containedInPlace",
+                        "Arrondissement_of_Abbeville"
+                    ]
+                ],
+                95100.0
+            ],
+            [
+                [
+                    [
+                        "Arrondissement_of_Amiens",
+                        "containsPlace",
+                        "Canton_of_Doullens"
+                    ]
+                ],
+                2.999598503112793
+            ],
+            [
+                [
+                    [
+                        "Canton_of_Doullens",
+                        "containedInPlace",
+                        "Arrondissement_of_Abbeville"
+                    ]
+                ],
+                0.17803043127059937
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.46390986442566
+    },
+    {
+        "triple": [
+            "Marshfield,_Wisconsin",
+            "location",
+            "Wood_County,_Wisconsin"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Marshfield,_Wisconsin",
+                        "containedInPlace",
+                        "Wood_County,_Wisconsin"
+                    ],
+                    [
+                        "Marshfield,_Wisconsin",
+                        "containedInPlace",
+                        "Marathon_County,_Wisconsin"
+                    ]
+                ],
+                77540.0
+            ],
+            [
+                [
+                    [
+                        "Marshfield,_Wisconsin",
+                        "containedInPlace",
+                        "Wood_County,_Wisconsin"
+                    ]
+                ],
+                0.9723302721977234
+            ],
+            [
+                [
+                    [
+                        "Marshfield,_Wisconsin",
+                        "containedInPlace",
+                        "Marathon_County,_Wisconsin"
+                    ]
+                ],
+                0.3584868311882019
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.206089735031128
+    },
+    {
+        "triple": [
+            "Kharkov_Governorate",
+            "containedInPlace",
+            "Russian_Republic"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kharkov_Governorate",
+                        "containedInPlace",
+                        "Russian_Empire"
+                    ],
+                    [
+                        "Kharkov_Governorate",
+                        "containedInPlace",
+                        "Ukrainian_People's_Republic"
+                    ]
+                ],
+                95817.0
+            ],
+            [
+                [
+                    [
+                        "Kharkov_Governorate",
+                        "containedInPlace",
+                        "Ukrainian_People's_Republic"
+                    ]
+                ],
+                2.999728202819824
+            ],
+            [
+                [
+                    [
+                        "Kharkov_Governorate",
+                        "containedInPlace",
+                        "Russian_Empire"
+                    ]
+                ],
+                1.7139811515808105
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.431342363357544
+    },
+    {
+        "triple": [
+            "Xubida",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Xubida",
+                        "parentTaxon",
+                        "Crambidae"
+                    ]
+                ],
+                96908.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.94315767288208
+    },
+    {
+        "triple": [
+            "Gmina_Poniec",
+            "location",
+            "Gosty\u0144_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Poniec",
+                        "containedInPlace",
+                        "Gosty\u0144_County"
+                    ],
+                    [
+                        "Gosty\u0144_County",
+                        "containsPlace",
+                        "Gmina_Poniec"
+                    ]
+                ],
+                95974.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_Poniec",
+                        "containedInPlace",
+                        "Gosty\u0144_County"
+                    ]
+                ],
+                0.8985180854797363
+            ],
+            [
+                [
+                    [
+                        "Gosty\u0144_County",
+                        "containsPlace",
+                        "Gmina_Poniec"
+                    ]
+                ],
+                0.5596284866333008
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.352019786834717
+    },
+    {
+        "triple": [
+            "Linqing",
+            "location",
+            "Liaocheng"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Liaocheng",
+                        "containsPlace",
+                        "Linqing"
+                    ],
+                    [
+                        "Linqing",
+                        "containedInPlace",
+                        "Liaocheng"
+                    ]
+                ],
+                84452.0
+            ],
+            [
+                [
+                    [
+                        "Linqing",
+                        "containedInPlace",
+                        "Liaocheng"
+                    ]
+                ],
+                0.8719092011451721
+            ],
+            [
+                [
+                    [
+                        "Liaocheng",
+                        "containsPlace",
+                        "Linqing"
+                    ]
+                ],
+                0.6726837158203125
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.74479365348816
+    },
+    {
+        "triple": [
+            "Gmina_Rybno,_Warmian-Masurian_Voivodeship",
+            "location",
+            "Dzia\u0142dowo_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dzia\u0142dowo_County",
+                        "containsPlace",
+                        "Gmina_Rybno,_Warmian-Masurian_Voivodeship"
+                    ],
+                    [
+                        "Gmina_Rybno,_Warmian-Masurian_Voivodeship",
+                        "containedInPlace",
+                        "Dzia\u0142dowo_County"
+                    ]
+                ],
+                95271.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_Rybno,_Warmian-Masurian_Voivodeship",
+                        "containedInPlace",
+                        "Dzia\u0142dowo_County"
+                    ]
+                ],
+                0.9223742485046387
+            ],
+            [
+                [
+                    [
+                        "Dzia\u0142dowo_County",
+                        "containsPlace",
+                        "Gmina_Rybno,_Warmian-Masurian_Voivodeship"
+                    ]
+                ],
+                0.6248181462287903
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.182677507400513
+    },
+    {
+        "triple": [
+            "Terneuzen",
+            "location",
+            "Zeeland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Terneuzen",
+                        "containedInPlace",
+                        "Zeeland"
+                    ]
+                ],
+                96362.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.72851848602295
+    },
+    {
+        "triple": [
+            "FC_Zvezda_Irkutsk",
+            "sport",
+            "Association_football"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Vladimir_Shishelov",
+                        "memberOf",
+                        "FC_Zvezda_Irkutsk"
+                    ],
+                    [
+                        "FC_Zvezda_Irkutsk",
+                        "location",
+                        "Irkutsk"
+                    ]
+                ],
+                96873.0
+            ],
+            [
+                [
+                    [
+                        "Vladimir_Shishelov",
+                        "memberOf",
+                        "FC_Zvezda_Irkutsk"
+                    ]
+                ],
+                3.9379987716674805
+            ],
+            [
+                [
+                    [
+                        "FC_Zvezda_Irkutsk",
+                        "location",
+                        "Irkutsk"
+                    ]
+                ],
+                0.3123069107532501
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.866079092025757
+    },
+    {
+        "triple": [
+            "Auburn,_Washington",
+            "location",
+            "Washington_(state)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Auburn,_Washington",
+                        "containedInPlace",
+                        "Washington_(state)"
+                    ]
+                ],
+                96908.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.889722347259521
+    },
+    {
+        "triple": [
+            "Mecyna",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mecyna",
+                        "parentTaxon",
+                        "Crambidae"
+                    ]
+                ],
+                96910.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.883098840713501
+    },
+    {
+        "triple": [
+            "Speed_skating_at_the_2002_Winter_Olympics",
+            "superEvent",
+            "Speed_skating_at_the_Winter_Olympics"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Speed_skating_at_the_Winter_Olympics",
+                        "subEvent",
+                        "Speed_skating_at_the_2002_Winter_Olympics"
+                    ],
+                    [
+                        "Speed_skating_at_the_2002_Winter_Olympics",
+                        "superEvent",
+                        "2002_Winter_Olympics"
+                    ]
+                ],
+                96908.0
+            ],
+            [
+                [
+                    [
+                        "Speed_skating_at_the_Winter_Olympics",
+                        "subEvent",
+                        "Speed_skating_at_the_2002_Winter_Olympics"
+                    ]
+                ],
+                2.9949469566345215
+            ],
+            [
+                [
+                    [
+                        "Speed_skating_at_the_2002_Winter_Olympics",
+                        "superEvent",
+                        "2002_Winter_Olympics"
+                    ]
+                ],
+                0.0657457485795021
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.736377954483032
+    },
+    {
+        "triple": [
+            "Gmina_Krzywi\u0144",
+            "location",
+            "Ko\u015bcian_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Krzywi\u0144",
+                        "containedInPlace",
+                        "Ko\u015bcian_County"
+                    ],
+                    [
+                        "Ko\u015bcian_County",
+                        "containsPlace",
+                        "Gmina_Krzywi\u0144"
+                    ]
+                ],
+                88174.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_Krzywi\u0144",
+                        "containedInPlace",
+                        "Ko\u015bcian_County"
+                    ]
+                ],
+                0.8370068073272705
+            ],
+            [
+                [
+                    [
+                        "Ko\u015bcian_County",
+                        "containsPlace",
+                        "Gmina_Krzywi\u0144"
+                    ]
+                ],
+                0.48537909984588623
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.04646110534668
+    },
+    {
+        "triple": [
+            "Stanford_Graduate_School_of_Education",
+            "location",
+            "California"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Stanford_Graduate_School_of_Education",
+                        "containedInPlace",
+                        "California"
+                    ]
+                ],
+                40205.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.65062427520752
+    },
+    {
+        "triple": [
+            "Hunan_University",
+            "location",
+            "Changsha"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hunan_University",
+                        "containedInPlace",
+                        "Changsha"
+                    ]
+                ],
+                64133.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.759921073913574
+    },
+    {
+        "triple": [
+            "Calliotropis",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Calliotropis",
+                        "parentTaxon",
+                        "Trochidae"
+                    ]
+                ],
+                96908.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.949402093887329
+    },
+    {
+        "triple": [
+            "Salesian_Pontifical_University",
+            "location",
+            "Rome"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Salesian_Pontifical_University",
+                        "containedInPlace",
+                        "Rome"
+                    ]
+                ],
+                375.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.020087957382202
+    },
+    {
+        "triple": [
+            "Cyrtodactylus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cyrtodactylus",
+                        "parentTaxon",
+                        "Gekkonidae"
+                    ]
+                ],
+                96908.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.867051362991333
+    },
+    {
+        "triple": [
+            "Pittsford,_New_York",
+            "location",
+            "Monroe_County,_New_York"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pittsford,_New_York",
+                        "containedInPlace",
+                        "Monroe_County,_New_York"
+                    ]
+                ],
+                87165.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.078304767608643
+    },
+    {
+        "triple": [
+            "Soledad_Silveyra",
+            "nationality",
+            "Argentina"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Soledad_Silveyra",
+                        "knowsLanguage",
+                        "Spanish_language"
+                    ]
+                ],
+                67.9969482421875
+            ],
+            [
+                [
+                    [
+                        "Soledad_Silveyra",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                7.980470180511475
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.764134168624878
+    },
+    {
+        "triple": [
+            "Salaberry-de-Valleyfield",
+            "location",
+            "Beauharnois-Salaberry_Regional_County_Municipality"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Beauharnois-Salaberry_Regional_County_Municipality",
+                        "containsPlace",
+                        "Salaberry-de-Valleyfield"
+                    ],
+                    [
+                        "Salaberry-de-Valleyfield",
+                        "containedInPlace",
+                        "Beauharnois-Salaberry_Regional_County_Municipality"
+                    ]
+                ],
+                86001.0
+            ],
+            [
+                [
+                    [
+                        "Salaberry-de-Valleyfield",
+                        "containedInPlace",
+                        "Beauharnois-Salaberry_Regional_County_Municipality"
+                    ]
+                ],
+                0.9360391497612
+            ],
+            [
+                [
+                    [
+                        "Beauharnois-Salaberry_Regional_County_Municipality",
+                        "containsPlace",
+                        "Salaberry-de-Valleyfield"
+                    ]
+                ],
+                0.6760875582695007
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.594339370727539
+    },
+    {
+        "triple": [
+            "Ipatinga",
+            "location",
+            "Minas_Gerais"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ipatinga",
+                        "containedInPlace",
+                        "Minas_Gerais"
+                    ]
+                ],
+                45.0
+            ],
+            [
+                [
+                    [
+                        "Jaj\u00e1",
+                        "birthPlace",
+                        "Ipatinga"
+                    ]
+                ],
+                0.00037809397326782346
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.775608539581299
+    },
+    {
+        "triple": [
+            "Bemidji_State_University",
+            "location",
+            "Bemidji,_Minnesota"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bemidji_State_University",
+                        "containedInPlace",
+                        "Bemidji,_Minnesota"
+                    ]
+                ],
+                92110.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.79331922531128
+    },
+    {
+        "triple": [
+            "Gmina_\u0141yszkowice",
+            "location",
+            "\u0141owicz_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_\u0141yszkowice",
+                        "containedInPlace",
+                        "\u0141owicz_County"
+                    ],
+                    [
+                        "\u0141owicz_County",
+                        "containsPlace",
+                        "Gmina_\u0141yszkowice"
+                    ]
+                ],
+                94811.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_\u0141yszkowice",
+                        "containedInPlace",
+                        "\u0141owicz_County"
+                    ]
+                ],
+                0.8613604307174683
+            ],
+            [
+                [
+                    [
+                        "\u0141owicz_County",
+                        "containsPlace",
+                        "Gmina_\u0141yszkowice"
+                    ]
+                ],
+                0.6137381196022034
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.537676334381104
+    },
+    {
+        "triple": [
+            "S\u0103laj_County",
+            "containsPlace",
+            "Zal\u0103u"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Zal\u0103u",
+                        "containedInPlace",
+                        "S\u0103laj_County"
+                    ]
+                ],
+                24.0
+            ],
+            [
+                [
+                    [
+                        "S\u0103laj_County",
+                        "containedInPlace",
+                        "Romania"
+                    ]
+                ],
+                0.07879731059074402
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.748949527740479
+    },
+    {
+        "triple": [
+            "Spittal_an_der_Drau",
+            "location",
+            "Spittal_an_der_Drau_District"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Spittal_an_der_Drau",
+                        "containedInPlace",
+                        "Spittal_an_der_Drau_District"
+                    ],
+                    [
+                        "Spittal_an_der_Drau_District",
+                        "containsPlace",
+                        "Spittal_an_der_Drau"
+                    ]
+                ],
+                72204.0
+            ],
+            [
+                [
+                    [
+                        "Spittal_an_der_Drau",
+                        "containedInPlace",
+                        "Spittal_an_der_Drau_District"
+                    ]
+                ],
+                0.979651153087616
+            ],
+            [
+                [
+                    [
+                        "Spittal_an_der_Drau_District",
+                        "containsPlace",
+                        "Spittal_an_der_Drau"
+                    ]
+                ],
+                0.6394678354263306
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.258204460144043
+    },
+    {
+        "triple": [
+            "Gmina_Drohiczyn",
+            "location",
+            "Siemiatycze_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Drohiczyn",
+                        "containedInPlace",
+                        "Siemiatycze_County"
+                    ]
+                ],
+                54604.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.69463038444519
+    },
+    {
+        "triple": [
+            "A\u00edda_Alberti",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "A\u00edda_Alberti",
+                        "familyName",
+                        "Alberti_(surname)"
+                    ],
+                    [
+                        "A\u00edda_Alberti",
+                        "nationality",
+                        "Argentina"
+                    ]
+                ],
+                96878.0
+            ],
+            [
+                [
+                    [
+                        "A\u00edda_Alberti",
+                        "nationality",
+                        "Argentina"
+                    ]
+                ],
+                1.9634244441986084
+            ],
+            [
+                [
+                    [
+                        "A\u00edda_Alberti",
+                        "familyName",
+                        "Alberti_(surname)"
+                    ]
+                ],
+                0.9788783192634583
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.783385753631592
+    },
+    {
+        "triple": [
+            "Tony_Wharmby",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Tony_Wharmby",
+                        "hasOccupation",
+                        "Television_director"
+                    ]
+                ],
+                57.999996185302734
+            ],
+            [
+                [
+                    [
+                        "Tony_Wharmby",
+                        "birthPlace",
+                        "United_Kingdom"
+                    ]
+                ],
+                0.5608700513839722
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.412410974502563
+    },
+    {
+        "triple": [
+            "Nicolaj_Kopernikus",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nicolaj_Kopernikus",
+                        "birthPlace",
+                        "Glostrup_Municipality"
+                    ]
+                ],
+                26.88852882385254
+            ],
+            [
+                [
+                    [
+                        "The_Killing_(Danish_TV_series)",
+                        "actor",
+                        "Nicolaj_Kopernikus"
+                    ]
+                ],
+                9.712483406066895
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.853611946105957
+    },
+    {
+        "triple": [
+            "Riblja_\u010corba",
+            "genre",
+            "Hard_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Riblja_\u010corba",
+                        "foundingLocation",
+                        "Belgrade"
+                    ]
+                ],
+                96148.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.851645469665527
+    },
+    {
+        "triple": [
+            "Dover-Foxcroft,_Maine",
+            "location",
+            "Piscataquis_County,_Maine"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dover-Foxcroft,_Maine",
+                        "containedInPlace",
+                        "Piscataquis_County,_Maine"
+                    ],
+                    [
+                        "Piscataquis_County,_Maine",
+                        "containsPlace",
+                        "Dover-Foxcroft,_Maine"
+                    ]
+                ],
+                93468.0
+            ],
+            [
+                [
+                    [
+                        "Dover-Foxcroft,_Maine",
+                        "containedInPlace",
+                        "Piscataquis_County,_Maine"
+                    ]
+                ],
+                0.9629315733909607
+            ],
+            [
+                [
+                    [
+                        "Piscataquis_County,_Maine",
+                        "containsPlace",
+                        "Dover-Foxcroft,_Maine"
+                    ]
+                ],
+                0.7456650733947754
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.700149774551392
+    },
+    {
+        "triple": [
+            "Streator,_Illinois",
+            "location",
+            "Illinois"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Streator,_Illinois",
+                        "containedInPlace",
+                        "Illinois"
+                    ]
+                ],
+                60869.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.721060037612915
+    },
+    {
+        "triple": [
+            "Varkaus",
+            "location",
+            "Northern_Savonia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Varkaus",
+                        "containedInPlace",
+                        "Northern_Savonia"
+                    ]
+                ],
+                65728.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.55833649635315
+    },
+    {
+        "triple": [
+            "Kannur_Rajan",
+            "nationality",
+            "British_Raj"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kannur_Rajan",
+                        "birthPlace",
+                        "Kannur"
+                    ],
+                    [
+                        "Kannur_Rajan",
+                        "deathPlace",
+                        "Chennai"
+                    ]
+                ],
+                96839.0
+            ],
+            [
+                [
+                    [
+                        "Kannur_Rajan",
+                        "deathPlace",
+                        "Chennai"
+                    ]
+                ],
+                0.9944369792938232
+            ],
+            [
+                [
+                    [
+                        "Kannur_Rajan",
+                        "birthPlace",
+                        "Kannur"
+                    ]
+                ],
+                0.7784817814826965
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.761852264404297
+    },
+    {
+        "triple": [
+            "Lake_Superior_State_University",
+            "location",
+            "Michigan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lake_Superior_State_University",
+                        "containedInPlace",
+                        "Michigan"
+                    ]
+                ],
+                96838.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.730090141296387
+    },
+    {
+        "triple": [
+            "Universidad_CEU_San_Pablo",
+            "location",
+            "Madrid"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Universidad_CEU_San_Pablo",
+                        "containedInPlace",
+                        "Madrid"
+                    ]
+                ],
+                469.0
+            ],
+            [
+                [
+                    [
+                        "Elsa_Pataky",
+                        "alumniOf",
+                        "Universidad_CEU_San_Pablo"
+                    ]
+                ],
+                0.22237278521060944
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.67132568359375
+    },
+    {
+        "triple": [
+            "Sundeep_Kishan",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sundeep_Kishan",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                46.99713134765625
+            ],
+            [
+                [
+                    [
+                        "Sundeep_Kishan",
+                        "alumniOf",
+                        "Osmania_University"
+                    ]
+                ],
+                7.8963165283203125
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.604981184005737
+    },
+    {
+        "triple": [
+            "Evangel_University",
+            "location",
+            "Springfield,_Missouri"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Evangel_University",
+                        "containedInPlace",
+                        "Springfield,_Missouri"
+                    ],
+                    [
+                        "Ted_Dekker",
+                        "alumniOf",
+                        "Evangel_University"
+                    ]
+                ],
+                85025.0
+            ],
+            [
+                [
+                    [
+                        "Evangel_University",
+                        "containedInPlace",
+                        "Springfield,_Missouri"
+                    ]
+                ],
+                0.9999660849571228
+            ],
+            [
+                [
+                    [
+                        "Ted_Dekker",
+                        "alumniOf",
+                        "Evangel_University"
+                    ]
+                ],
+                0.21241705119609833
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.623881816864014
+    },
+    {
+        "triple": [
+            "Robbinsville_Township,_New_Jersey",
+            "location",
+            "Mercer_County,_New_Jersey"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mercer_County,_New_Jersey",
+                        "containsPlace",
+                        "Robbinsville_Township,_New_Jersey"
+                    ],
+                    [
+                        "Robbinsville_Township,_New_Jersey",
+                        "containedInPlace",
+                        "Mercer_County,_New_Jersey"
+                    ]
+                ],
+                39632.0
+            ],
+            [
+                [
+                    [
+                        "Robbinsville_Township,_New_Jersey",
+                        "containedInPlace",
+                        "Mercer_County,_New_Jersey"
+                    ]
+                ],
+                0.8607097864151001
+            ],
+            [
+                [
+                    [
+                        "Mercer_County,_New_Jersey",
+                        "containsPlace",
+                        "Robbinsville_Township,_New_Jersey"
+                    ]
+                ],
+                0.48297539353370667
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.190274000167847
+    },
+    {
+        "triple": [
+            "Slovak_University_of_Technology_in_Bratislava",
+            "location",
+            "Bratislava"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Slovak_University_of_Technology_in_Bratislava",
+                        "containedInPlace",
+                        "Bratislava"
+                    ]
+                ],
+                375.0
+            ],
+            [
+                [
+                    [
+                        "Slovak_University_of_Technology_in_Bratislava",
+                        "memberOf",
+                        "European_University_Association"
+                    ]
+                ],
+                0.13311031460762024
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.044136047363281
+    },
+    {
+        "triple": [
+            "Thetford_Mines",
+            "location",
+            "Les_Appalaches_Regional_County_Municipality"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Les_Appalaches_Regional_County_Municipality",
+                        "containsPlace",
+                        "Thetford_Mines"
+                    ],
+                    [
+                        "Thetford_Mines",
+                        "containedInPlace",
+                        "Les_Appalaches_Regional_County_Municipality"
+                    ]
+                ],
+                94939.0
+            ],
+            [
+                [
+                    [
+                        "Thetford_Mines",
+                        "containedInPlace",
+                        "Les_Appalaches_Regional_County_Municipality"
+                    ]
+                ],
+                0.9671095609664917
+            ],
+            [
+                [
+                    [
+                        "Les_Appalaches_Regional_County_Municipality",
+                        "containsPlace",
+                        "Thetford_Mines"
+                    ]
+                ],
+                0.7341961860656738
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.6787850856781
+    },
+    {
+        "triple": [
+            "Proteuxoa",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Proteuxoa",
+                        "parentTaxon",
+                        "Noctuidae"
+                    ]
+                ],
+                96910.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.784406661987305
+    },
+    {
+        "triple": [
+            "Phyllosticta",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Phyllosticta",
+                        "parentTaxon",
+                        "Botryosphaeriaceae"
+                    ]
+                ],
+                96911.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.673691511154175
+    },
+    {
+        "triple": [
+            "Dokken",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dokken",
+                        "genre",
+                        "Glam_metal"
+                    ]
+                ],
+                177.9994354248047
+            ],
+            [
+                [
+                    [
+                        "Dokken",
+                        "foundingLocation",
+                        "Los_Angeles"
+                    ]
+                ],
+                3.3205277919769287
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.368119716644287
+    },
+    {
+        "triple": [
+            "University_of_New_Orleans",
+            "location",
+            "New_Orleans"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "University_of_New_Orleans",
+                        "containedInPlace",
+                        "New_Orleans"
+                    ]
+                ],
+                4584.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.998632669448853
+    },
+    {
+        "triple": [
+            "Horsham,_Victoria",
+            "containedInPlace",
+            "Electoral_district_of_Lowan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Horsham,_Victoria",
+                        "containedInPlace",
+                        "Division_of_Mallee"
+                    ]
+                ],
+                92812.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.865530014038086
+    },
+    {
+        "triple": [
+            "Chisocheton",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Chisocheton",
+                        "parentTaxon",
+                        "Meliaceae"
+                    ]
+                ],
+                96910.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.705046892166138
+    },
+    {
+        "triple": [
+            "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship",
+            "location",
+            "Aleksandr\u00f3w_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Aleksandr\u00f3w_County",
+                        "containsPlace",
+                        "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship"
+                    ],
+                    [
+                        "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship",
+                        "containedInPlace",
+                        "Aleksandr\u00f3w_County"
+                    ]
+                ],
+                78192.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship",
+                        "containedInPlace",
+                        "Aleksandr\u00f3w_County"
+                    ]
+                ],
+                0.8950886130332947
+            ],
+            [
+                [
+                    [
+                        "Aleksandr\u00f3w_County",
+                        "containsPlace",
+                        "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship"
+                    ]
+                ],
+                0.7030423879623413
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.523173332214355
+    },
+    {
+        "triple": [
+            "Fort_Walton_Beach,_Florida",
+            "location",
+            "Okaloosa_County,_Florida"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Fort_Walton_Beach,_Florida",
+                        "containedInPlace",
+                        "Okaloosa_County,_Florida"
+                    ]
+                ],
+                11.0
+            ],
+            [
+                [
+                    [
+                        "Bud_Day",
+                        "deathPlace",
+                        "Fort_Walton_Beach,_Florida"
+                    ]
+                ],
+                0.06569141149520874
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.322120189666748
+    },
+    {
+        "triple": [
+            "Gmina_Gniezno",
+            "location",
+            "Gniezno_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Gniezno",
+                        "containedInPlace",
+                        "Gniezno_County"
+                    ],
+                    [
+                        "Gniezno_County",
+                        "containsPlace",
+                        "Gmina_Gniezno"
+                    ]
+                ],
+                92528.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_Gniezno",
+                        "containedInPlace",
+                        "Gniezno_County"
+                    ]
+                ],
+                0.7592009902000427
+            ],
+            [
+                [
+                    [
+                        "Gniezno_County",
+                        "containsPlace",
+                        "Gmina_Gniezno"
+                    ]
+                ],
+                0.5406463146209717
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.561651706695557
+    },
+    {
+        "triple": [
+            "Neelam_Kothari",
+            "knowsLanguage",
+            "Hindi"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Neelam_Kothari",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                6.999630451202393
+            ],
+            [
+                [
+                    [
+                        "Neelam_Kothari",
+                        "birthPlace",
+                        "Hong_Kong"
+                    ]
+                ],
+                2.8738906383514404
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 12.977857112884521
+    },
+    {
+        "triple": [
+            "Sanremo_Casino",
+            "location",
+            "Sanremo"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sanremo_Casino",
+                        "containedInPlace",
+                        "Sanremo"
+                    ]
+                ],
+                82064.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.141865015029907
+    },
+    {
+        "triple": [
+            "Sebastes",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Sebastes",
+                        "parentTaxon",
+                        "Scorpaenidae"
+                    ]
+                ],
+                96906.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.854895830154419
+    },
+    {
+        "triple": [
+            "Gmina_Jedlnia-Letnisko",
+            "location",
+            "Radom_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Jedlnia-Letnisko",
+                        "containedInPlace",
+                        "Radom_County"
+                    ],
+                    [
+                        "Radom_County",
+                        "containsPlace",
+                        "Gmina_Jedlnia-Letnisko"
+                    ]
+                ],
+                95908.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_Jedlnia-Letnisko",
+                        "containedInPlace",
+                        "Radom_County"
+                    ]
+                ],
+                0.8366179466247559
+            ],
+            [
+                [
+                    [
+                        "Radom_County",
+                        "containsPlace",
+                        "Gmina_Jedlnia-Letnisko"
+                    ]
+                ],
+                0.5049551129341125
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.919195175170898
+    },
+    {
+        "triple": [
+            "Pseudorhaphitoma",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pseudorhaphitoma",
+                        "parentTaxon",
+                        "Mangeliidae"
+                    ]
+                ],
+                96904.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.650668859481812
+    },
+    {
+        "triple": [
+            "Gmina_Gozdowo",
+            "location",
+            "Sierpc_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Gozdowo",
+                        "containedInPlace",
+                        "Sierpc_County"
+                    ]
+                ],
+                84832.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.8088219165802
+    },
+    {
+        "triple": [
+            "Pasadena,_Texas",
+            "location",
+            "Harris_County,_Texas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pasadena,_Texas",
+                        "containedInPlace",
+                        "Harris_County,_Texas"
+                    ]
+                ],
+                38.0
+            ],
+            [
+                [
+                    [
+                        "Randal_Reeder",
+                        "birthPlace",
+                        "Pasadena,_Texas"
+                    ]
+                ],
+                0.0025984379462897778
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 14.16581916809082
+    },
+    {
+        "triple": [
+            "T._K._Rajeev_Kumar",
+            "nationality",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "T._K._Rajeev_Kumar",
+                        "birthPlace",
+                        "Kottayam_district"
+                    ]
+                ],
+                30.903642654418945
+            ],
+            [
+                [
+                    [
+                        "T._K._Rajeev_Kumar",
+                        "hasOccupation",
+                        "Film_director"
+                    ]
+                ],
+                -0.06111830472946167
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 13.33537769317627
+    },
+    {
+        "triple": [
+            "Corumb\u00e1",
+            "location",
+            "Mato_Grosso_do_Sul"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Corumb\u00e1",
+                        "containedInPlace",
+                        "Mato_Grosso_do_Sul"
+                    ],
+                    [
+                        "Mato_Grosso_do_Sul",
+                        "containsPlace",
+                        "Corumb\u00e1"
+                    ]
+                ],
+                96363.0
+            ],
+            [
+                [
+                    [
+                        "Corumb\u00e1",
+                        "containedInPlace",
+                        "Mato_Grosso_do_Sul"
+                    ]
+                ],
+                0.8591738343238831
+            ],
+            [
+                [
+                    [
+                        "Mato_Grosso_do_Sul",
+                        "containsPlace",
+                        "Corumb\u00e1"
+                    ]
+                ],
+                0.46843060851097107
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.176575422286987
+    },
+    {
+        "triple": [
+            "Rinteln",
+            "location",
+            "Schaumburg"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rinteln",
+                        "containedInPlace",
+                        "Schaumburg"
+                    ]
+                ],
+                93054.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.611684322357178
+    },
+    {
+        "triple": [
+            "2010_Australian_Open",
+            "location",
+            "Melbourne_Park"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "2010_Australian_Open",
+                        "location",
+                        "Melbourne"
+                    ]
+                ],
+                85260.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.997837781906128
+    },
+    {
+        "triple": [
+            "Macrostomus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Macrostomus",
+                        "parentTaxon",
+                        "Empididae"
+                    ]
+                ],
+                96904.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.860764026641846
+    },
+    {
+        "triple": [
+            "Ercheia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ercheia",
+                        "parentTaxon",
+                        "Noctuidae"
+                    ]
+                ],
+                96910.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.893007516860962
+    },
+    {
+        "triple": [
+            "Gmina_Ruda_Maleniecka",
+            "location",
+            "Ko\u0144skie_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gmina_Ruda_Maleniecka",
+                        "containedInPlace",
+                        "Ko\u0144skie_County"
+                    ],
+                    [
+                        "Ko\u0144skie_County",
+                        "containsPlace",
+                        "Gmina_Ruda_Maleniecka"
+                    ]
+                ],
+                58839.0
+            ],
+            [
+                [
+                    [
+                        "Gmina_Ruda_Maleniecka",
+                        "containedInPlace",
+                        "Ko\u0144skie_County"
+                    ]
+                ],
+                0.8838130831718445
+            ],
+            [
+                [
+                    [
+                        "Ko\u0144skie_County",
+                        "containsPlace",
+                        "Gmina_Ruda_Maleniecka"
+                    ]
+                ],
+                0.5395471453666687
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.677230596542358
+    },
+    {
+        "triple": [
+            "Rowing_at_the_2012_Summer_Olympics",
+            "superEvent",
+            "2012_Summer_Olympics"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "2012_Summer_Olympics",
+                        "subEvent",
+                        "Rowing_at_the_2012_Summer_Olympics"
+                    ],
+                    [
+                        "Rowing_at_the_2012_Summer_Olympics",
+                        "location",
+                        "Dorney_Lake"
+                    ]
+                ],
+                96906.0
+            ],
+            [
+                [
+                    [
+                        "2012_Summer_Olympics",
+                        "subEvent",
+                        "Rowing_at_the_2012_Summer_Olympics"
+                    ]
+                ],
+                0.9846040606498718
+            ],
+            [
+                [
+                    [
+                        "Rowing_at_the_2012_Summer_Olympics",
+                        "location",
+                        "Dorney_Lake"
+                    ]
+                ],
+                0.18241186439990997
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 15.336183071136475
+    },
+    {
+        "triple": [
+            "Smithfield,_Virginia",
+            "location",
+            "Isle_of_Wight_County,_Virginia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Smithfield,_Virginia",
+                        "containedInPlace",
+                        "Isle_of_Wight_County,_Virginia"
+                    ]
+                ],
+                95442.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 12.367277145385742
+    },
+    {
+        "triple": [
+            "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+            "sport",
+            "Badminton"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+                        "competitor",
+                        "Michelle_Li"
+                    ]
+                ],
+                96889.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.620710849761963
+    },
+    {
+        "triple": [
+            "Frisco,_Texas",
+            "location",
+            "Texas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Frisco,_Texas",
+                        "containedInPlace",
+                        "Texas"
+                    ]
+                ],
+                84922.0
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.302337646484375
+    },
+    {
+        "triple": [
+            "Haparanda_Municipality",
+            "location",
+            "Norrbotten_County"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Haparanda_Municipality",
+                        "containedInPlace",
+                        "Norrbotten_County"
+                    ],
+                    [
+                        "Haparanda_archipelago",
+                        "containedInPlace",
+                        "Haparanda_Municipality"
+                    ]
+                ],
+                95828.0
+            ],
+            [
+                [
+                    [
+                        "Haparanda_Municipality",
+                        "containedInPlace",
+                        "Norrbotten_County"
+                    ]
+                ],
+                0.9994667768478394
+            ],
+            [
+                [
+                    [
+                        "Haparanda_archipelago",
+                        "containedInPlace",
+                        "Haparanda_Municipality"
+                    ]
+                ],
+                0.07685711234807968
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 14.64795970916748
+    }
+]

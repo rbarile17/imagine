@@ -1,0 +1,2167 @@
+[
+    {
+        "triple_to_explain": [
+            "Ephysteris",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Ephysteris"
+            ],
+            [
+                "Coptodisca",
+                "parentTaxon",
+                "Ephysteris"
+            ],
+            [
+                "Cossula",
+                "parentTaxon",
+                "Ephysteris"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Ephysteris"
+            ]
+        ],
+        "score": "34.690166",
+        "rank": "1",
+        "new_score": "33.389103",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gravitcornutia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Gravitcornutia"
+            ]
+        ],
+        "score": "31.903261",
+        "rank": "1",
+        "new_score": "35.13008",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Hypercompe",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cossula",
+                "parentTaxon",
+                "Hypercompe"
+            ]
+        ],
+        "score": "33.888847",
+        "rank": "1",
+        "new_score": "34.889126",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Lebia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Lebia"
+            ],
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Lebia"
+            ],
+            [
+                "Coptodisca",
+                "parentTaxon",
+                "Lebia"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Lebia"
+            ]
+        ],
+        "score": "33.005768",
+        "rank": "1",
+        "new_score": "35.6802",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Buccinum",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Buccinum"
+            ]
+        ],
+        "score": "33.722992",
+        "rank": "1",
+        "new_score": "38.414158",
+        "new_rank": "99"
+    },
+    {
+        "triple_to_explain": [
+            "Machimia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Machimia"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Machimia"
+            ],
+            [
+                "Coptops",
+                "parentTaxon",
+                "Machimia"
+            ]
+        ],
+        "score": "32.52043",
+        "rank": "1",
+        "new_score": "32.004078",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bactra_(moth)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Bactra_(moth)"
+            ]
+        ],
+        "score": "31.703074",
+        "rank": "1",
+        "new_score": "36.03463",
+        "new_rank": "58"
+    },
+    {
+        "triple_to_explain": [
+            "Cicurina",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Cicurina"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Cicurina"
+            ],
+            [
+                "Carlia",
+                "parentTaxon",
+                "Cicurina"
+            ],
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Cicurina"
+            ]
+        ],
+        "score": "30.204273",
+        "rank": "1",
+        "new_score": "30.873873",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Lithobates",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Coptops",
+                "parentTaxon",
+                "Lithobates"
+            ]
+        ],
+        "score": "33.817017",
+        "rank": "1",
+        "new_score": "33.14239",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Platyptilia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Platyptilia"
+            ],
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Platyptilia"
+            ],
+            [
+                "Coptops",
+                "parentTaxon",
+                "Platyptilia"
+            ]
+        ],
+        "score": "30.83451",
+        "rank": "1",
+        "new_score": "34.121803",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Trismelasmos",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Trismelasmos"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Trismelasmos"
+            ],
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Trismelasmos"
+            ],
+            [
+                "Cossula",
+                "parentTaxon",
+                "Trismelasmos"
+            ]
+        ],
+        "score": "29.628933",
+        "rank": "1",
+        "new_score": "33.803104",
+        "new_rank": "36"
+    },
+    {
+        "triple_to_explain": [
+            "Bill_Le_Sage",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule": [
+            [
+                "'71_(film)",
+                "about",
+                "Bill_Le_Sage"
+            ],
+            [
+                "'71_(film)",
+                "copyrightHolder",
+                "Bill_Le_Sage"
+            ]
+        ],
+        "score": "24.106133",
+        "rank": "1",
+        "new_score": "27.252855",
+        "new_rank": "24"
+    },
+    {
+        "triple_to_explain": [
+            "Cuproxena",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Cuproxena"
+            ],
+            [
+                "Coptops",
+                "parentTaxon",
+                "Cuproxena"
+            ]
+        ],
+        "score": "33.05276",
+        "rank": "1",
+        "new_score": "37.320034",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Cris_Velasco",
+            "nationality",
+            "United_States"
+        ],
+        "rule": [
+            [
+                "...All_the_Marbles",
+                "creator",
+                "Cris_Velasco"
+            ]
+        ],
+        "score": "24.973333",
+        "rank": "1",
+        "new_score": "25.777609",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Gardiner,_Maine",
+            "location",
+            "Kennebec_County,_Maine"
+        ],
+        "rule": [
+            [
+                "Bowdoin_College",
+                "containedInPlace",
+                "Gardiner,_Maine"
+            ]
+        ],
+        "score": "11.636659",
+        "rank": "1",
+        "new_score": "17.123833",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Tyspanodes",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Tyspanodes"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Tyspanodes"
+            ]
+        ],
+        "score": "37.24421",
+        "rank": "1",
+        "new_score": "33.78993",
+        "new_rank": "96"
+    },
+    {
+        "triple_to_explain": [
+            "Bolbitiaceae",
+            "taxonRank",
+            "Family_(biology)"
+        ],
+        "rule": [
+            [
+                "Bolbitiaceae",
+                "parentTaxon",
+                "Accipitridae"
+            ]
+        ],
+        "score": "29.411133",
+        "rank": "1",
+        "new_score": "32.146507",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Huntsville,_Ontario",
+            "location",
+            "District_Municipality_of_Muskoka"
+        ],
+        "rule": [
+            [
+                "Huntsville,_Ontario",
+                "location",
+                "Huntsville,_Ontario"
+            ]
+        ],
+        "score": "10.92847",
+        "rank": "1",
+        "new_score": "18.761763",
+        "new_rank": "18"
+    },
+    {
+        "triple_to_explain": [
+            "Whitesnake",
+            "genre",
+            "Rock_music"
+        ],
+        "rule": [
+            [
+                "24_Hour_Party_People",
+                "musicBy",
+                "Whitesnake"
+            ],
+            [
+                "Billie_Joe_Armstrong",
+                "memberOf",
+                "Whitesnake"
+            ],
+            [
+                "Billy_Preston",
+                "memberOf",
+                "Whitesnake"
+            ]
+        ],
+        "score": "24.475927",
+        "rank": "1",
+        "new_score": "24.915207",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Phaedropsis",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Phaedropsis"
+            ],
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Phaedropsis"
+            ],
+            [
+                "Ctenucha",
+                "parentTaxon",
+                "Phaedropsis"
+            ]
+        ],
+        "score": "35.326622",
+        "rank": "1",
+        "new_score": "30.445522",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Abagrotis",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Abagrotis",
+                "parentTaxon",
+                "Abralia"
+            ]
+        ],
+        "score": "29.142069",
+        "rank": "1",
+        "new_score": "28.13624",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hyposmocoma",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Calotes",
+                "parentTaxon",
+                "Hyposmocoma"
+            ],
+            [
+                "Cossula",
+                "parentTaxon",
+                "Hyposmocoma"
+            ]
+        ],
+        "score": "32.194843",
+        "rank": "1",
+        "new_score": "36.047012",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Orocrambus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Orocrambus"
+            ],
+            [
+                "Carlia",
+                "parentTaxon",
+                "Orocrambus"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Orocrambus"
+            ]
+        ],
+        "score": "36.504616",
+        "rank": "1",
+        "new_score": "33.026344",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Eresina",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Eresina"
+            ],
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Eresina"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Eresina"
+            ],
+            [
+                "Candidula",
+                "parentTaxon",
+                "Eresina"
+            ]
+        ],
+        "score": "28.935589",
+        "rank": "1",
+        "new_score": "36.260212",
+        "new_rank": "9"
+    },
+    {
+        "triple_to_explain": [
+            "Oligoryzomys",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Oligoryzomys"
+            ]
+        ],
+        "score": "34.46624",
+        "rank": "1",
+        "new_score": "33.70958",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Goniotorna",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Goniotorna"
+            ]
+        ],
+        "score": "33.962112",
+        "rank": "1",
+        "new_score": "35.992805",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Agaraea",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Agaraea"
+            ]
+        ],
+        "score": "35.870644",
+        "rank": "1",
+        "new_score": "33.837715",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Catoptria",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Catoptria"
+            ],
+            [
+                "Carlia",
+                "parentTaxon",
+                "Catoptria"
+            ]
+        ],
+        "score": "37.61395",
+        "rank": "1",
+        "new_score": "32.744034",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Cernobbio",
+            "location",
+            "Province_of_Como"
+        ],
+        "rule": [
+            [
+                "Cernobbio",
+                "containedInPlace",
+                "Province_of_Cremona"
+            ]
+        ],
+        "score": "11.189118",
+        "rank": "1",
+        "new_score": "13.84978",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Kimberley,_British_Columbia",
+            "location",
+            "Regional_District_of_East_Kootenay"
+        ],
+        "rule": [
+            [
+                "Christopher_Heyerdahl",
+                "givenName",
+                "Kimberley,_British_Columbia"
+            ]
+        ],
+        "score": "11.332987",
+        "rank": "1",
+        "new_score": "19.409718",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Zophodia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Calotes",
+                "parentTaxon",
+                "Zophodia"
+            ]
+        ],
+        "score": "36.444233",
+        "rank": "1",
+        "new_score": "39.575356",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sideroxylon",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Sideroxylon"
+            ],
+            [
+                "Dendrelaphis",
+                "parentTaxon",
+                "Sideroxylon"
+            ]
+        ],
+        "score": "28.558292",
+        "rank": "1",
+        "new_score": "35.42857",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Millettia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Millettia"
+            ]
+        ],
+        "score": "32.436382",
+        "rank": "1",
+        "new_score": "34.62909",
+        "new_rank": "10"
+    },
+    {
+        "triple_to_explain": [
+            "Oidaematophorus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Oidaematophorus"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Oidaematophorus"
+            ]
+        ],
+        "score": "32.2417",
+        "rank": "1",
+        "new_score": "31.741571",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Massepha",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Ctenucha",
+                "parentTaxon",
+                "Massepha"
+            ]
+        ],
+        "score": "30.937693",
+        "rank": "1",
+        "new_score": "34.178596",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Syllitus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Syllitus"
+            ]
+        ],
+        "score": "30.876785",
+        "rank": "1",
+        "new_score": "35.039364",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Leptadrillia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Leptadrillia"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Leptadrillia"
+            ],
+            [
+                "Coptops",
+                "parentTaxon",
+                "Leptadrillia"
+            ]
+        ],
+        "score": "32.796",
+        "rank": "1",
+        "new_score": "37.021225",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Cyrtodactylus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Bythinella",
+                "parentTaxon",
+                "Cyrtodactylus"
+            ]
+        ],
+        "score": "32.84505",
+        "rank": "1",
+        "new_score": "33.413414",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Mimudea",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Mimudea"
+            ]
+        ],
+        "score": "30.152645",
+        "rank": "1",
+        "new_score": "35.813084",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Valeriana",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Valeriana"
+            ],
+            [
+                "Cossula",
+                "parentTaxon",
+                "Valeriana"
+            ]
+        ],
+        "score": "32.870388",
+        "rank": "1",
+        "new_score": "35.923462",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Nedre_Eiker",
+            "location",
+            "Buskerud"
+        ],
+        "rule": [
+            [
+                "Nedre_Eiker",
+                "containedInPlace",
+                "Hurum"
+            ],
+            [
+                "Nedre_Eiker",
+                "containedInPlace",
+                "Nore_og_Uvdal"
+            ],
+            [
+                "Nedre_Eiker",
+                "containsPlace",
+                "Drammen"
+            ],
+            [
+                "Nedre_Eiker",
+                "containsPlace",
+                "Hurum"
+            ]
+        ],
+        "score": "10.358214",
+        "rank": "1",
+        "new_score": "17.434408",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Choeromorpha",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Carlia",
+                "parentTaxon",
+                "Choeromorpha"
+            ]
+        ],
+        "score": "30.903715",
+        "rank": "1",
+        "new_score": "31.665136",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "2017_BWF_World_Championships_\u2013_Women's_doubles",
+            "sport",
+            "Badminton"
+        ],
+        "rule": [
+            [
+                "2017_BWF_World_Championships_\u2013_Women's_doubles",
+                "subEvent",
+                "2001_IBF_World_Championships_\u2013_Women's_Doubles"
+            ],
+            [
+                "2017_BWF_World_Championships_\u2013_Women's_doubles",
+                "subEvent",
+                "2005_IBF_World_Championships_\u2013_Mixed_Doubles"
+            ]
+        ],
+        "score": "36.24888",
+        "rank": "1",
+        "new_score": "32.101334",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Tarucus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Tarucus"
+            ]
+        ],
+        "score": "32.795788",
+        "rank": "1",
+        "new_score": "33.739918",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Sai_Prakash",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule": [
+            [
+                "Oprah_Winfrey",
+                "children",
+                "Sai_Prakash"
+            ],
+            [
+                "Sai_Prakash",
+                "award",
+                "A._R._Rahman"
+            ],
+            [
+                "Sai_Prakash",
+                "award",
+                "A._V._Bramble"
+            ],
+            [
+                "Sai_Prakash",
+                "award",
+                "Aaron_Eckhart"
+            ]
+        ],
+        "score": "30.31455",
+        "rank": "1",
+        "new_score": "27.072739",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_\u0141apan\u00f3w",
+            "location",
+            "Bochnia_County"
+        ],
+        "rule": [
+            [
+                "Gmina_\u0141apan\u00f3w",
+                "containedInPlace",
+                "Nowy_S\u0105cz_County"
+            ]
+        ],
+        "score": "9.398671",
+        "rank": "1",
+        "new_score": "12.537955",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Tintoretto",
+            "nationality",
+            "Republic_of_Venice"
+        ],
+        "rule": [
+            [
+                "Tintoretto",
+                "award",
+                "Carlo_Goldoni"
+            ],
+            [
+                "Tintoretto",
+                "award",
+                "Giacomo_Casanova"
+            ],
+            [
+                "Tintoretto",
+                "children",
+                "Antonio_Vivaldi"
+            ]
+        ],
+        "score": "24.595926",
+        "rank": "1",
+        "new_score": "20.898872",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Buck-Tick",
+            "genre",
+            "Rock_music"
+        ],
+        "rule": [
+            [
+                "24_Hour_Party_People",
+                "about",
+                "Buck-Tick"
+            ],
+            [
+                "Billie_Joe_Armstrong",
+                "memberOf",
+                "Buck-Tick"
+            ]
+        ],
+        "score": "19.088947",
+        "rank": "1",
+        "new_score": "23.55861",
+        "new_rank": "8"
+    },
+    {
+        "triple_to_explain": [
+            "Plagiobothrys",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Plagiobothrys"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Plagiobothrys"
+            ]
+        ],
+        "score": "37.9133",
+        "rank": "1",
+        "new_score": "38.26409",
+        "new_rank": "81"
+    },
+    {
+        "triple_to_explain": [
+            "Micropterix",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Micropterix"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Micropterix"
+            ]
+        ],
+        "score": "32.509888",
+        "rank": "1",
+        "new_score": "34.891117",
+        "new_rank": "13"
+    },
+    {
+        "triple_to_explain": [
+            "Psapharochrus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Carlia",
+                "parentTaxon",
+                "Psapharochrus"
+            ]
+        ],
+        "score": "35.859695",
+        "rank": "1",
+        "new_score": "38.47673",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Siemkowice",
+            "location",
+            "Paj\u0119czno_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Siemkowice",
+                "containedInPlace",
+                "Gmina_Siemkowice"
+            ],
+            [
+                "Gmina_Siemkowice",
+                "containsPlace",
+                "Gmina_Paj\u0119czno"
+            ]
+        ],
+        "score": "11.666679",
+        "rank": "1",
+        "new_score": "17.86098",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Bignoniaceae",
+            "taxonRank",
+            "Family_(biology)"
+        ],
+        "rule": [
+            [
+                "Bignoniaceae",
+                "parentTaxon",
+                "Accipitridae"
+            ],
+            [
+                "Bignoniaceae",
+                "parentTaxon",
+                "Acrididae"
+            ]
+        ],
+        "score": "30.77437",
+        "rank": "1",
+        "new_score": "34.854576",
+        "new_rank": "74"
+    },
+    {
+        "triple_to_explain": [
+            "Rumex",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Coptodisca",
+                "parentTaxon",
+                "Rumex"
+            ]
+        ],
+        "score": "33.879395",
+        "rank": "1",
+        "new_score": "37.42863",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Barilius",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Barilius"
+            ]
+        ],
+        "score": "32.22649",
+        "rank": "1",
+        "new_score": "30.287762",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Celastrina",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Celastrina"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Celastrina"
+            ],
+            [
+                "Carlia",
+                "parentTaxon",
+                "Celastrina"
+            ]
+        ],
+        "score": "33.7158",
+        "rank": "1",
+        "new_score": "35.72513",
+        "new_rank": "46"
+    },
+    {
+        "triple_to_explain": [
+            "Nosophora",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Nosophora"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Nosophora"
+            ],
+            [
+                "Coptodisca",
+                "parentTaxon",
+                "Nosophora"
+            ]
+        ],
+        "score": "26.803171",
+        "rank": "1",
+        "new_score": "34.20515",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Eurybia_(plant)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Eurybia_(plant)"
+            ]
+        ],
+        "score": "35.480373",
+        "rank": "1",
+        "new_score": "36.188667",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Sainte-Ad\u00e8le,_Quebec",
+            "location",
+            "Les_Pays-d'en-Haut_Regional_County_Municipality"
+        ],
+        "rule": [
+            [
+                "Antoine-Labelle_Regional_County_Municipality",
+                "containsPlace",
+                "Sainte-Ad\u00e8le,_Quebec"
+            ]
+        ],
+        "score": "11.766482",
+        "rank": "1",
+        "new_score": "14.428431",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "No_Line_on_the_Horizon",
+            "inLanguage",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Jojo_Rabbit",
+                "isBasedOn",
+                "No_Line_on_the_Horizon"
+            ],
+            [
+                "No_Line_on_the_Horizon",
+                "byArtist",
+                "Breaking_Benjamin"
+            ]
+        ],
+        "score": "32.677097",
+        "rank": "1",
+        "new_score": "29.739626",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Alternaria",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Alternaria"
+            ]
+        ],
+        "score": "34.07132",
+        "rank": "1",
+        "new_score": "36.67604",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Animal_(Kesha_album)",
+            "inLanguage",
+            "English_language"
+        ],
+        "rule": [
+            [
+                "Animal_(Kesha_album)",
+                "byArtist",
+                "Nirvana_(band)"
+            ],
+            [
+                "Animal_(Kesha_album)",
+                "byArtist",
+                "One_Ok_Rock"
+            ],
+            [
+                "Animal_(Kesha_album)",
+                "byArtist",
+                "The_Rasmus"
+            ],
+            [
+                "Animal_(Kesha_album)",
+                "producer",
+                "50_Cent"
+            ]
+        ],
+        "score": "37.192898",
+        "rank": "1",
+        "new_score": "34.74841",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Kobylin-Borzymy",
+            "location",
+            "Wysokie_Mazowieckie_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Kobylin-Borzymy",
+                "containedInPlace",
+                "Gmina_Kobylin-Borzymy"
+            ],
+            [
+                "Gmina_Kobylin-Borzymy",
+                "containedInPlace",
+                "Podlaskie_Voivodeship"
+            ]
+        ],
+        "score": "11.274757",
+        "rank": "1",
+        "new_score": "14.766659",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Avatha",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Avatha"
+            ]
+        ],
+        "score": "35.62",
+        "rank": "1",
+        "new_score": "34.27763",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Periploca_(moth)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cossula",
+                "parentTaxon",
+                "Periploca_(moth)"
+            ]
+        ],
+        "score": "32.963387",
+        "rank": "1",
+        "new_score": "35.969437",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Tegula_(gastropod)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Bythinella",
+                "parentTaxon",
+                "Tegula_(gastropod)"
+            ],
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Tegula_(gastropod)"
+            ]
+        ],
+        "score": "34.634937",
+        "rank": "1",
+        "new_score": "33.447952",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Mesophleps",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cossula",
+                "parentTaxon",
+                "Mesophleps"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Mesophleps"
+            ]
+        ],
+        "score": "33.569553",
+        "rank": "1",
+        "new_score": "37.774986",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Rhopobota",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Rhopobota"
+            ],
+            [
+                "Carlia",
+                "parentTaxon",
+                "Rhopobota"
+            ]
+        ],
+        "score": "35.872417",
+        "rank": "1",
+        "new_score": "34.39291",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Pusiola",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Calotes",
+                "parentTaxon",
+                "Pusiola"
+            ],
+            [
+                "Coptops",
+                "parentTaxon",
+                "Pusiola"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Pusiola"
+            ]
+        ],
+        "score": "31.206423",
+        "rank": "1",
+        "new_score": "36.076168",
+        "new_rank": "16"
+    },
+    {
+        "triple_to_explain": [
+            "Sundeep_Kishan",
+            "knowsLanguage",
+            "Tamil_language"
+        ],
+        "rule": [
+            [
+                "Sundeep_Kishan",
+                "award",
+                "A._P._J._Abdul_Kalam"
+            ]
+        ],
+        "score": "24.65937",
+        "rank": "1",
+        "new_score": "28.487192",
+        "new_rank": "13"
+    },
+    {
+        "triple_to_explain": [
+            "Jamides",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Bythinella",
+                "parentTaxon",
+                "Jamides"
+            ],
+            [
+                "Cossula",
+                "parentTaxon",
+                "Jamides"
+            ]
+        ],
+        "score": "36.86526",
+        "rank": "1",
+        "new_score": "33.740055",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Luise_Fleck",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule": [
+            [
+                "Luise_Fleck",
+                "award",
+                "50_Cent"
+            ]
+        ],
+        "score": "31.324228",
+        "rank": "1",
+        "new_score": "30.149158",
+        "new_rank": "27"
+    },
+    {
+        "triple_to_explain": [
+            "Abraxas_(moth)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Abraxas_(moth)",
+                "parentTaxon",
+                "Abutilon"
+            ]
+        ],
+        "score": "35.397655",
+        "rank": "1",
+        "new_score": "32.365917",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Niviventer",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Coptops",
+                "parentTaxon",
+                "Niviventer"
+            ]
+        ],
+        "score": "32.290836",
+        "rank": "1",
+        "new_score": "34.417286",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Waterbury,_Vermont",
+            "location",
+            "Washington_County,_Vermont"
+        ],
+        "rule": [
+            [
+                "Grand_Isle_County,_Vermont",
+                "containsPlace",
+                "Waterbury,_Vermont"
+            ]
+        ],
+        "score": "10.902149",
+        "rank": "1",
+        "new_score": "16.73896",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Hylarana",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Hylarana"
+            ],
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Hylarana"
+            ]
+        ],
+        "score": "34.660187",
+        "rank": "1",
+        "new_score": "35.095234",
+        "new_rank": "34"
+    },
+    {
+        "triple_to_explain": [
+            "University_of_the_West_of_England,_Bristol",
+            "location",
+            "South_Gloucestershire"
+        ],
+        "rule": [
+            [
+                "Nigel_Davenport",
+                "alumniOf",
+                "University_of_the_West_of_England,_Bristol"
+            ]
+        ],
+        "score": "11.491948",
+        "rank": "1",
+        "new_score": "17.491217",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Agyneta",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Agyneta"
+            ]
+        ],
+        "score": "33.85485",
+        "rank": "1",
+        "new_score": "36.99089",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Cheilosia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Cheilosia"
+            ],
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Cheilosia"
+            ]
+        ],
+        "score": "32.546238",
+        "rank": "1",
+        "new_score": "35.254135",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Radzi\u0142\u00f3w",
+            "location",
+            "Grajewo_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Radzi\u0142\u00f3w",
+                "containedInPlace",
+                "Gmina_Radzi\u0142\u00f3w"
+            ]
+        ],
+        "score": "10.427688",
+        "rank": "1",
+        "new_score": "13.367273",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Cyanopepla",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Cyanopepla"
+            ],
+            [
+                "Ctenucha",
+                "parentTaxon",
+                "Cyanopepla"
+            ]
+        ],
+        "score": "35.75984",
+        "rank": "1",
+        "new_score": "36.918934",
+        "new_rank": "33"
+    },
+    {
+        "triple_to_explain": [
+            "Badminton_at_the_2004_Summer_Olympics_\u2013_Men's_doubles",
+            "sport",
+            "Badminton"
+        ],
+        "rule": [
+            [
+                "Badminton_at_the_2004_Summer_Olympics_\u2013_Men's_doubles",
+                "subEvent",
+                "1999_IBF_World_Championships_\u2013_Women's_Singles"
+            ]
+        ],
+        "score": "30.890032",
+        "rank": "1",
+        "new_score": "26.964952",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Jorunna",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Jorunna"
+            ]
+        ],
+        "score": "32.329536",
+        "rank": "1",
+        "new_score": "34.51758",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Paraleprodera",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Paraleprodera"
+            ]
+        ],
+        "score": "33.48323",
+        "rank": "1",
+        "new_score": "34.375656",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Badminton_at_the_1996_Summer_Olympics_\u2013_Men's_doubles",
+            "sport",
+            "Badminton"
+        ],
+        "rule": [
+            [
+                "Badminton_at_the_1996_Summer_Olympics_\u2013_Men's_doubles",
+                "subEvent",
+                "1999_IBF_World_Championships_\u2013_Men's_Doubles"
+            ],
+            [
+                "Badminton_at_the_1996_Summer_Olympics_\u2013_Men's_doubles",
+                "subEvent",
+                "2017_BWF_World_Championships_\u2013_Men's_doubles"
+            ]
+        ],
+        "score": "29.358961",
+        "rank": "1",
+        "new_score": "28.572174",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Drohiczyn",
+            "location",
+            "Siemiatycze_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Drohiczyn",
+                "containedInPlace",
+                "Gmina_Nurzec-Stacja"
+            ]
+        ],
+        "score": "11.473728",
+        "rank": "1",
+        "new_score": "13.893239",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Enrique_Fava",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "City_of_God_\u2013_10_Years_Later",
+                "author",
+                "Enrique_Fava"
+            ],
+            [
+                "Enrique_Fava",
+                "award",
+                "%22Weird_Al%22_Yankovic"
+            ]
+        ],
+        "score": "33.546032",
+        "rank": "1",
+        "new_score": "33.45217",
+        "new_rank": "14"
+    },
+    {
+        "triple_to_explain": [
+            "Governors_State_University",
+            "location",
+            "Illinois"
+        ],
+        "rule": [
+            [
+                "Governors_State_University",
+                "containedInPlace",
+                "Brown_County,_Illinois"
+            ]
+        ],
+        "score": "10.382896",
+        "rank": "1",
+        "new_score": "18.9811",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Anacrusis_(genus)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Acontia",
+                "parentTaxon",
+                "Anacrusis_(genus)"
+            ]
+        ],
+        "score": "37.91239",
+        "rank": "1",
+        "new_score": "35.613033",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Helenium",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Helenium"
+            ]
+        ],
+        "score": "31.224049",
+        "rank": "1",
+        "new_score": "32.943043",
+        "new_rank": "7"
+    },
+    {
+        "triple_to_explain": [
+            "Smyrna,_Tennessee",
+            "location",
+            "Rutherford_County,_Tennessee"
+        ],
+        "rule": [
+            [
+                "Andre_Norton",
+                "birthPlace",
+                "Smyrna,_Tennessee"
+            ]
+        ],
+        "score": "11.133203",
+        "rank": "1",
+        "new_score": "19.69611",
+        "new_rank": "114"
+    },
+    {
+        "triple_to_explain": [
+            "California_Community_Colleges_System",
+            "subOrganization",
+            "Mt._San_Antonio_College"
+        ],
+        "rule": [
+            [
+                "A._C._Tirulokchandar",
+                "alumniOf",
+                "California_Community_Colleges_System"
+            ]
+        ],
+        "score": "13.5454645",
+        "rank": "1",
+        "new_score": "19.49086",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Pseudorhaphitoma",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Pseudorhaphitoma"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Pseudorhaphitoma"
+            ]
+        ],
+        "score": "33.39724",
+        "rank": "1",
+        "new_score": "32.28155",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Mitromorpha",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Mitromorpha"
+            ],
+            [
+                "Cystiscus",
+                "parentTaxon",
+                "Mitromorpha"
+            ]
+        ],
+        "score": "30.192675",
+        "rank": "1",
+        "new_score": "36.88995",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pilsbryspira",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Carlia",
+                "parentTaxon",
+                "Pilsbryspira"
+            ]
+        ],
+        "score": "31.325785",
+        "rank": "1",
+        "new_score": "32.765377",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Ipatinga",
+            "location",
+            "Minas_Gerais"
+        ],
+        "rule": [
+            [
+                "Alex_Sandro_Santana_de_Oliveira",
+                "birthPlace",
+                "Ipatinga"
+            ]
+        ],
+        "score": "10.6873455",
+        "rank": "1",
+        "new_score": "15.873012",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Drillia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Calotes",
+                "parentTaxon",
+                "Drillia"
+            ]
+        ],
+        "score": "29.685404",
+        "rank": "1",
+        "new_score": "33.746353",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Palaquium",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Coptops",
+                "parentTaxon",
+                "Palaquium"
+            ]
+        ],
+        "score": "35.457462",
+        "rank": "1",
+        "new_score": "33.272102",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bradycellus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Bradycellus"
+            ]
+        ],
+        "score": "31.826422",
+        "rank": "1",
+        "new_score": "32.545288",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Pyramidella",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Callopistria",
+                "parentTaxon",
+                "Pyramidella"
+            ],
+            [
+                "Calotes",
+                "parentTaxon",
+                "Pyramidella"
+            ],
+            [
+                "Carlia",
+                "parentTaxon",
+                "Pyramidella"
+            ]
+        ],
+        "score": "36.11868",
+        "rank": "1",
+        "new_score": "36.626347",
+        "new_rank": "14"
+    }
+]

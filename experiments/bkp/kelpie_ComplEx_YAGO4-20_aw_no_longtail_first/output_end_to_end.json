@@ -1,0 +1,2772 @@
+[
+    {
+        "triple_to_explain": [
+            "Stone_Mountain,_Georgia",
+            "location",
+            "Georgia_(U.S._state)"
+        ],
+        "rule": [
+            [
+                "Baldwin_County,_Georgia",
+                "containedInPlace",
+                "Stone_Mountain,_Georgia"
+            ],
+            [
+                "Bartow_County,_Georgia",
+                "containedInPlace",
+                "Stone_Mountain,_Georgia"
+            ],
+            [
+                "Charles_Fernley_Fawcett",
+                "deathPlace",
+                "Stone_Mountain,_Georgia"
+            ],
+            [
+                "Cherokee_County,_Georgia",
+                "containedInPlace",
+                "Stone_Mountain,_Georgia"
+            ]
+        ],
+        "score": "28.243137",
+        "rank": "1",
+        "new_score": "25.557453",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kakegawa,_Shizuoka",
+            "location",
+            "Shizuoka_Prefecture"
+        ],
+        "rule": [
+            [
+                "Aichi_Prefecture",
+                "containsPlace",
+                "Kakegawa,_Shizuoka"
+            ],
+            [
+                "Akaji_Maro",
+                "familyName",
+                "Kakegawa,_Shizuoka"
+            ],
+            [
+                "Akihiko_Hirata",
+                "familyName",
+                "Kakegawa,_Shizuoka"
+            ],
+            [
+                "Akihito",
+                "deathPlace",
+                "Kakegawa,_Shizuoka"
+            ]
+        ],
+        "score": "27.412374",
+        "rank": "1",
+        "new_score": "29.297377",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "School_of_Performing_Arts_Seoul",
+            "location",
+            "Seoul"
+        ],
+        "rule": [
+            [
+                "Chun_Jung-myung",
+                "alumniOf",
+                "School_of_Performing_Arts_Seoul"
+            ],
+            [
+                "Im_Soo-jung",
+                "alumniOf",
+                "School_of_Performing_Arts_Seoul"
+            ],
+            [
+                "Jeon_Do-yeon",
+                "alumniOf",
+                "School_of_Performing_Arts_Seoul"
+            ],
+            [
+                "Jim_Lee",
+                "alumniOf",
+                "School_of_Performing_Arts_Seoul"
+            ]
+        ],
+        "score": "26.885824",
+        "rank": "1",
+        "new_score": "27.215004",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lajes_das_Flores",
+            "location",
+            "Azores"
+        ],
+        "rule": [
+            [
+                "Alicia_Vikander",
+                "birthPlace",
+                "Lajes_das_Flores"
+            ],
+            [
+                "Alicia_Vikander",
+                "deathPlace",
+                "Lajes_das_Flores"
+            ],
+            [
+                "Antonio_Tabucchi",
+                "deathPlace",
+                "Lajes_das_Flores"
+            ],
+            [
+                "Ant\u00f3nio_Guterres",
+                "deathPlace",
+                "Lajes_das_Flores"
+            ]
+        ],
+        "score": "27.075016",
+        "rank": "1",
+        "new_score": "27.346424",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Brisighella",
+            "location",
+            "Province_of_Ravenna"
+        ],
+        "rule": [
+            [
+                "Brisighella",
+                "containedInPlace",
+                "Emilia-Romagna"
+            ],
+            [
+                "Emilia-Romagna",
+                "containsPlace",
+                "Brisighella"
+            ],
+            [
+                "Brisighella",
+                "containedInPlace",
+                "Metropolitan_City_of_Bologna"
+            ],
+            [
+                "Brisighella",
+                "location",
+                "Metropolitan_City_of_Bologna"
+            ]
+        ],
+        "score": "28.667967",
+        "rank": "1",
+        "new_score": "27.828495",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pinneberg",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule": [
+            [
+                "Pinneberg",
+                "location",
+                "Hagen_im_Bremischen"
+            ],
+            [
+                "1._FC_Kaiserslautern",
+                "location",
+                "Pinneberg"
+            ],
+            [
+                "1864_(TV_series)",
+                "contentLocation",
+                "Pinneberg"
+            ],
+            [
+                "1966_European_Indoor_Games",
+                "location",
+                "Pinneberg"
+            ]
+        ],
+        "score": "15.596918",
+        "rank": "1",
+        "new_score": "18.415165",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Antigo,_Wisconsin",
+            "location",
+            "Langlade_County,_Wisconsin"
+        ],
+        "rule": [
+            [
+                "Antigo,_Wisconsin",
+                "containedInPlace",
+                "Wisconsin"
+            ],
+            [
+                "Antigo,_Wisconsin",
+                "containedInPlace",
+                "Calumet_County,_Wisconsin"
+            ],
+            [
+                "Antigo,_Wisconsin",
+                "containedInPlace",
+                "Dane_County,_Wisconsin"
+            ]
+        ],
+        "score": "28.907202",
+        "rank": "1",
+        "new_score": "26.111795",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Polypoetes_(moth)",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Polypoetes_(moth)"
+            ]
+        ],
+        "score": "18.022863",
+        "rank": "1",
+        "new_score": "16.749596",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Centre_Party_(Sweden)",
+            "memberOf",
+            "Liberal_International"
+        ],
+        "rule": [
+            [
+                "Centre_Party_(Sweden)",
+                "memberOf",
+                "Open_Vlaamse_Liberalen_en_Democraten"
+            ]
+        ],
+        "score": "16.562529",
+        "rank": "1",
+        "new_score": "11.031995",
+        "new_rank": "84"
+    },
+    {
+        "triple_to_explain": [
+            "Bay_St._Louis,_Mississippi",
+            "location",
+            "Hancock_County,_Mississippi"
+        ],
+        "rule": [
+            [
+                "Hancock_County,_Mississippi",
+                "containedInPlace",
+                "Bay_St._Louis,_Mississippi"
+            ],
+            [
+                "Bay_St._Louis,_Mississippi",
+                "containedInPlace",
+                "Mississippi"
+            ],
+            [
+                "Attala_County,_Mississippi",
+                "containedInPlace",
+                "Bay_St._Louis,_Mississippi"
+            ]
+        ],
+        "score": "29.265636",
+        "rank": "1",
+        "new_score": "23.19794",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Taylor_County,_Texas",
+            "containsPlace",
+            "Abilene,_Texas"
+        ],
+        "rule": [
+            [
+                "Abilene,_Texas",
+                "containsPlace",
+                "Taylor_County,_Texas"
+            ],
+            [
+                "Taylor_County,_Texas",
+                "containedInPlace",
+                "Abilene,_Texas"
+            ]
+        ],
+        "score": "24.854336",
+        "rank": "1",
+        "new_score": "22.659386",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gonzaga_College_High_School",
+            "location",
+            "Washington,_D.C."
+        ],
+        "rule": [
+            [
+                "Alan_Hale_Sr.",
+                "alumniOf",
+                "Gonzaga_College_High_School"
+            ],
+            [
+                "Anne_Applebaum",
+                "alumniOf",
+                "Gonzaga_College_High_School"
+            ],
+            [
+                "Arthur_Lange",
+                "alumniOf",
+                "Gonzaga_College_High_School"
+            ],
+            [
+                "Ben_Stein",
+                "alumniOf",
+                "Gonzaga_College_High_School"
+            ]
+        ],
+        "score": "29.394625",
+        "rank": "1",
+        "new_score": "28.623116",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "North_Slope_Borough,_Alaska",
+            "location",
+            "Alaska"
+        ],
+        "rule": [
+            [
+                "Mark_A.Z._Dipp\u00e9",
+                "birthPlace",
+                "North_Slope_Borough,_Alaska"
+            ],
+            [
+                "Mark_A.Z._Dipp\u00e9",
+                "deathPlace",
+                "North_Slope_Borough,_Alaska"
+            ],
+            [
+                "The_Spoilers_(1942_film)",
+                "contentLocation",
+                "North_Slope_Borough,_Alaska"
+            ],
+            [
+                "The_Spoilers_(1955_film)",
+                "contentLocation",
+                "North_Slope_Borough,_Alaska"
+            ]
+        ],
+        "score": "30.246975",
+        "rank": "1",
+        "new_score": "25.871576",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Port_Angeles,_Washington",
+            "location",
+            "Clallam_County,_Washington"
+        ],
+        "rule": [
+            [
+                "Clallam_County,_Washington",
+                "containedInPlace",
+                "Port_Angeles,_Washington"
+            ],
+            [
+                "Port_Angeles,_Washington",
+                "containsPlace",
+                "Clallam_County,_Washington"
+            ]
+        ],
+        "score": "29.298067",
+        "rank": "1",
+        "new_score": "24.564857",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Alma_College",
+            "location",
+            "Michigan"
+        ],
+        "rule": [
+            [
+                "Alma_College",
+                "containedInPlace",
+                "Berrien_County,_Michigan"
+            ],
+            [
+                "Alma_College",
+                "containedInPlace",
+                "Calhoun_County,_Michigan"
+            ],
+            [
+                "Alma_College",
+                "containedInPlace",
+                "Chippewa_County,_Michigan"
+            ],
+            [
+                "Alma_College",
+                "containedInPlace",
+                "Clinton_County,_Michigan"
+            ]
+        ],
+        "score": "27.467781",
+        "rank": "1",
+        "new_score": "25.345083",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Derry,_New_Hampshire",
+            "location",
+            "Rockingham_County,_New_Hampshire"
+        ],
+        "rule": [
+            [
+                "Derry,_New_Hampshire",
+                "containedInPlace",
+                "Derry,_New_Hampshire"
+            ],
+            [
+                "Derry,_New_Hampshire",
+                "containedInPlace",
+                "New_Hampshire"
+            ],
+            [
+                "Augustus_Saint-Gaudens",
+                "birthPlace",
+                "Derry,_New_Hampshire"
+            ],
+            [
+                "Augustus_Saint-Gaudens",
+                "deathPlace",
+                "Derry,_New_Hampshire"
+            ]
+        ],
+        "score": "28.629732",
+        "rank": "1",
+        "new_score": "27.226345",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_G\u0142owno",
+            "location",
+            "Zgierz_County"
+        ],
+        "rule": [
+            [
+                "Gmina_G\u0142owno",
+                "containedInPlace",
+                "Gmina_G\u0142owno"
+            ],
+            [
+                "Gmina_G\u0142owno",
+                "containedInPlace",
+                "\u0141\u00f3d\u017a_Voivodeship"
+            ],
+            [
+                "Gmina_G\u0142owno",
+                "containsPlace",
+                "Gmina_Parz\u0119czew"
+            ],
+            [
+                "Gmina_G\u0142owno",
+                "containsPlace",
+                "Gmina_Stryk\u00f3w"
+            ]
+        ],
+        "score": "29.646273",
+        "rank": "1",
+        "new_score": "27.148424",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Pobiedziska",
+            "location",
+            "Pozna\u0144_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Pobiedziska",
+                "containedInPlace",
+                "Gmina_Pobiedziska"
+            ],
+            [
+                "Gmina_Pobiedziska",
+                "containedInPlace",
+                "Greater_Poland_Voivodeship"
+            ],
+            [
+                "Gmina_Pobiedziska",
+                "containsPlace",
+                "Gmina_Buk"
+            ],
+            [
+                "Gmina_Pobiedziska",
+                "containsPlace",
+                "Gmina_Mosina"
+            ]
+        ],
+        "score": "28.300117",
+        "rank": "1",
+        "new_score": "28.931625",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Saint_Benedict's_Preparatory_School",
+            "location",
+            "New_Jersey"
+        ],
+        "rule": [
+            [
+                "Guillermo_D\u00edaz_(actor)",
+                "alumniOf",
+                "Saint_Benedict's_Preparatory_School"
+            ],
+            [
+                "Haviland_Morris",
+                "alumniOf",
+                "Saint_Benedict's_Preparatory_School"
+            ],
+            [
+                "June_Elvidge",
+                "alumniOf",
+                "Saint_Benedict's_Preparatory_School"
+            ],
+            [
+                "Thelonious_Monk",
+                "alumniOf",
+                "Saint_Benedict's_Preparatory_School"
+            ]
+        ],
+        "score": "29.626879",
+        "rank": "1",
+        "new_score": "27.242973",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Kiszkowo",
+            "location",
+            "Gniezno_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Kiszkowo",
+                "containsPlace",
+                "Gmina_Gniezno"
+            ],
+            [
+                "Gmina_Kiszkowo",
+                "containsPlace",
+                "Gmina_Trzemeszno"
+            ],
+            [
+                "Gmina_Kiszkowo",
+                "containsPlace",
+                "Gmina_Witkowo"
+            ]
+        ],
+        "score": "27.579168",
+        "rank": "1",
+        "new_score": "27.5627",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "University_of_the_West_of_England,_Bristol",
+            "location",
+            "South_Gloucestershire"
+        ],
+        "rule": [
+            [
+                "Geoffrey_Burgon",
+                "alumniOf",
+                "University_of_the_West_of_England,_Bristol"
+            ],
+            [
+                "John_Wood_(English_actor)",
+                "alumniOf",
+                "University_of_the_West_of_England,_Bristol"
+            ],
+            [
+                "Pamela_Brown_(actress)",
+                "alumniOf",
+                "University_of_the_West_of_England,_Bristol"
+            ],
+            [
+                "A._A._Milne",
+                "alumniOf",
+                "University_of_the_West_of_England,_Bristol"
+            ]
+        ],
+        "score": "28.509216",
+        "rank": "1",
+        "new_score": "26.566444",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Nosophora",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Ceroxys",
+                "parentTaxon",
+                "Nosophora"
+            ]
+        ],
+        "score": "17.297215",
+        "rank": "1",
+        "new_score": "16.878675",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Amyema",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Acontia",
+                "parentTaxon",
+                "Amyema"
+            ],
+            [
+                "Adejeania",
+                "parentTaxon",
+                "Amyema"
+            ]
+        ],
+        "score": "16.60808",
+        "rank": "1",
+        "new_score": "17.923914",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Troisdorf",
+            "location",
+            "Rhein-Sieg-Kreis"
+        ],
+        "rule": [
+            [
+                "Rhein-Sieg-Kreis",
+                "containedInPlace",
+                "Troisdorf"
+            ],
+            [
+                "Troisdorf",
+                "containsPlace",
+                "Rhein-Sieg-Kreis"
+            ]
+        ],
+        "score": "29.015247",
+        "rank": "1",
+        "new_score": "23.5651",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Palm_Bay,_Florida",
+            "location",
+            "Brevard_County,_Florida"
+        ],
+        "rule": [
+            [
+                "Brevard_County,_Florida",
+                "containedInPlace",
+                "Palm_Bay,_Florida"
+            ],
+            [
+                "Palm_Bay,_Florida",
+                "containsPlace",
+                "Brevard_County,_Florida"
+            ],
+            [
+                "Palm_Bay,_Florida",
+                "containedInPlace",
+                "Florida"
+            ],
+            [
+                "Palm_Bay,_Florida",
+                "containedInPlace",
+                "Melbourne,_Florida"
+            ]
+        ],
+        "score": "27.721237",
+        "rank": "1",
+        "new_score": "24.88331",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Alpine_skiing_at_the_1992_Winter_Olympics",
+            "superEvent",
+            "1992_Winter_Olympics"
+        ],
+        "rule": [
+            [
+                "Alpine_skiing_at_the_1992_Winter_Olympics",
+                "location",
+                "Mo\u00fbtiers"
+            ],
+            [
+                "Alpine_skiing_at_the_1992_Winter_Olympics",
+                "location",
+                "Saint-Jean-de-Maurienne"
+            ],
+            [
+                "1994_Winter_Olympics",
+                "subEvent",
+                "Alpine_skiing_at_the_1992_Winter_Olympics"
+            ],
+            [
+                "2002_Winter_Olympics",
+                "subEvent",
+                "Alpine_skiing_at_the_1992_Winter_Olympics"
+            ]
+        ],
+        "score": "33.065983",
+        "rank": "1",
+        "new_score": "29.285086",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Go\u015bcino",
+            "location",
+            "Ko\u0142obrzeg_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Go\u015bcino",
+                "containedInPlace",
+                "Gmina_Go\u015bcino"
+            ],
+            [
+                "Gmina_Go\u015bcino",
+                "containedInPlace",
+                "West_Pomeranian_Voivodeship"
+            ],
+            [
+                "Gmina_Go\u015bcino",
+                "containsPlace",
+                "Gmina_Dygowo"
+            ],
+            [
+                "Gmina_Go\u015bcino",
+                "containsPlace",
+                "Gmina_Ko\u0142obrzeg"
+            ]
+        ],
+        "score": "27.897823",
+        "rank": "1",
+        "new_score": "27.640652",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Radio_France",
+            "location",
+            "Paris"
+        ],
+        "rule": [
+            [
+                "Radio_France",
+                "memberOf",
+                "European_Broadcasting_Union"
+            ]
+        ],
+        "score": "28.137722",
+        "rank": "1",
+        "new_score": "28.461306",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hans_Holbein_the_Younger",
+            "knowsLanguage",
+            "German_language"
+        ],
+        "rule": [
+            [
+                "Counter-Strike:_Global_Offensive",
+                "character",
+                "Hans_Holbein_the_Younger"
+            ],
+            [
+                "Despair_(film)",
+                "about",
+                "Hans_Holbein_the_Younger"
+            ],
+            [
+                "Hans_Holbein_the_Younger",
+                "award",
+                "Adam_Weishaupt"
+            ],
+            [
+                "Hans_Holbein_the_Younger",
+                "award",
+                "Adolf_Butenandt"
+            ]
+        ],
+        "score": "22.888103",
+        "rank": "1",
+        "new_score": "8.883446",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Epik_High",
+            "genre",
+            "K-pop"
+        ],
+        "rule": [
+            [
+                "Epik_High",
+                "genre",
+                "Rock_music"
+            ]
+        ],
+        "score": "19.460396",
+        "rank": "1",
+        "new_score": "19.790922",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Canton_of_Doullens",
+            "containedInPlace",
+            "Arrondissement_of_Amiens"
+        ],
+        "rule": [
+            [
+                "Arrondissement_of_Abbeville",
+                "containsPlace",
+                "Canton_of_Doullens"
+            ],
+            [
+                "Arrondissement_of_Montdidier",
+                "containsPlace",
+                "Canton_of_Doullens"
+            ],
+            [
+                "Arrondissement_of_P\u00e9ronne",
+                "containsPlace",
+                "Canton_of_Doullens"
+            ],
+            [
+                "Canton_of_Doullens",
+                "containedInPlace",
+                "Hauts-de-France"
+            ]
+        ],
+        "score": "28.49524",
+        "rank": "1",
+        "new_score": "27.500568",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Marshfield,_Wisconsin",
+            "location",
+            "Wood_County,_Wisconsin"
+        ],
+        "rule": [
+            [
+                "Marshfield,_Wisconsin",
+                "containsPlace",
+                "Wood_County,_Wisconsin"
+            ],
+            [
+                "Wood_County,_Wisconsin",
+                "containedInPlace",
+                "Marshfield,_Wisconsin"
+            ]
+        ],
+        "score": "27.335037",
+        "rank": "1",
+        "new_score": "24.706886",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kharkov_Governorate",
+            "containedInPlace",
+            "Russian_Republic"
+        ],
+        "rule": [
+            [
+                "Nikolai_Plotnikov",
+                "birthPlace",
+                "Kharkov_Governorate"
+            ],
+            [
+                "Podolian_Governorate",
+                "containedInPlace",
+                "Kharkov_Governorate"
+            ],
+            [
+                "Saint_Petersburg_Governorate",
+                "containedInPlace",
+                "Kharkov_Governorate"
+            ],
+            [
+                "Vladimir_Sukachev",
+                "birthPlace",
+                "Kharkov_Governorate"
+            ]
+        ],
+        "score": "27.678356",
+        "rank": "1",
+        "new_score": "26.537308",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Xubida",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Ceroxys",
+                "parentTaxon",
+                "Xubida"
+            ]
+        ],
+        "score": "17.449886",
+        "rank": "1",
+        "new_score": "17.332838",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Poniec",
+            "location",
+            "Gosty\u0144_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Poniec",
+                "containedInPlace",
+                "Gmina_Poniec"
+            ],
+            [
+                "Gmina_Poniec",
+                "containedInPlace",
+                "Greater_Poland_Voivodeship"
+            ],
+            [
+                "Gmina_Poniec",
+                "containsPlace",
+                "Gmina_Gosty\u0144"
+            ],
+            [
+                "Gmina_Poniec",
+                "location",
+                "Gmina_Poniec"
+            ]
+        ],
+        "score": "29.527857",
+        "rank": "1",
+        "new_score": "28.413052",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Linqing",
+            "location",
+            "Liaocheng"
+        ],
+        "rule": [
+            [
+                "Dezhou",
+                "containsPlace",
+                "Linqing"
+            ],
+            [
+                "Kara_Wai",
+                "birthPlace",
+                "Linqing"
+            ],
+            [
+                "Linqing",
+                "containedInPlace",
+                "Jining"
+            ],
+            [
+                "Linqing",
+                "containedInPlace",
+                "Yantai"
+            ]
+        ],
+        "score": "28.635302",
+        "rank": "1",
+        "new_score": "27.397541",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Rybno,_Warmian-Masurian_Voivodeship",
+            "location",
+            "Dzia\u0142dowo_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Rybno,_Warmian-Masurian_Voivodeship",
+                "containedInPlace",
+                "Warmian-Masurian_Voivodeship"
+            ],
+            [
+                "Gmina_Rybno,_Warmian-Masurian_Voivodeship",
+                "containsPlace",
+                "Gmina_I\u0142owo-Osada"
+            ],
+            [
+                "Gmina_Rybno,_Warmian-Masurian_Voivodeship",
+                "containsPlace",
+                "Gmina_Lidzbark"
+            ]
+        ],
+        "score": "29.733414",
+        "rank": "1",
+        "new_score": "28.691814",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Terneuzen",
+            "location",
+            "Zeeland"
+        ],
+        "rule": [
+            [
+                "Terneuzen",
+                "containedInPlace",
+                "Schouwen-Duiveland"
+            ],
+            [
+                "Terneuzen",
+                "containsPlace",
+                "Borsele"
+            ],
+            [
+                "Terneuzen",
+                "containsPlace",
+                "Schouwen-Duiveland"
+            ],
+            [
+                "Terneuzen",
+                "containsPlace",
+                "Vlissingen"
+            ]
+        ],
+        "score": "27.392502",
+        "rank": "1",
+        "new_score": "27.299374",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "FC_Zvezda_Irkutsk",
+            "sport",
+            "Association_football"
+        ],
+        "rule": [
+            [
+                "FC_Zvezda_Irkutsk",
+                "memberOf",
+                "Arab_Gulf_Cup_Football_Federation"
+            ]
+        ],
+        "score": "19.589106",
+        "rank": "1",
+        "new_score": "12.827278",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Auburn,_Washington",
+            "location",
+            "Washington_(state)"
+        ],
+        "rule": [
+            [
+                "Auburn,_Washington",
+                "containedInPlace",
+                "Benton_County,_Washington"
+            ],
+            [
+                "Auburn,_Washington",
+                "containedInPlace",
+                "Chelan_County,_Washington"
+            ],
+            [
+                "Auburn,_Washington",
+                "containedInPlace",
+                "Clallam_County,_Washington"
+            ],
+            [
+                "Auburn,_Washington",
+                "containedInPlace",
+                "Clark_County,_Washington"
+            ]
+        ],
+        "score": "27.70347",
+        "rank": "1",
+        "new_score": "27.71222",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Mecyna",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Ceroxys",
+                "parentTaxon",
+                "Mecyna"
+            ]
+        ],
+        "score": "17.675985",
+        "rank": "1",
+        "new_score": "17.389793",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Speed_skating_at_the_2002_Winter_Olympics",
+            "superEvent",
+            "Speed_skating_at_the_Winter_Olympics"
+        ],
+        "rule": [
+            [
+                "1992_Winter_Olympics",
+                "subEvent",
+                "Speed_skating_at_the_2002_Winter_Olympics"
+            ],
+            [
+                "1998_Winter_Olympics",
+                "subEvent",
+                "Speed_skating_at_the_2002_Winter_Olympics"
+            ],
+            [
+                "2002_Winter_Olympics",
+                "subEvent",
+                "Speed_skating_at_the_2002_Winter_Olympics"
+            ],
+            [
+                "2018_Winter_Olympics",
+                "subEvent",
+                "Speed_skating_at_the_2002_Winter_Olympics"
+            ]
+        ],
+        "score": "32.22707",
+        "rank": "1",
+        "new_score": "33.632294",
+        "new_rank": "3"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Krzywi\u0144",
+            "location",
+            "Ko\u015bcian_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Krzywi\u0144",
+                "containedInPlace",
+                "Greater_Poland_Voivodeship"
+            ],
+            [
+                "Gmina_Krzywi\u0144",
+                "containsPlace",
+                "Gmina_Czempi\u0144"
+            ],
+            [
+                "Gmina_Krzywi\u0144",
+                "containsPlace",
+                "Gmina_Ko\u015bcian"
+            ],
+            [
+                "Gmina_Krzywi\u0144",
+                "containsPlace",
+                "Gmina_\u015amigiel"
+            ]
+        ],
+        "score": "28.59064",
+        "rank": "1",
+        "new_score": "28.935465",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Stanford_Graduate_School_of_Education",
+            "location",
+            "California"
+        ],
+        "rule": [
+            [
+                "Stanford_Graduate_School_of_Education",
+                "containedInPlace",
+                "Delaware"
+            ],
+            [
+                "Stanford_Graduate_School_of_Education",
+                "containedInPlace",
+                "Hawaii"
+            ],
+            [
+                "Stanford_Graduate_School_of_Education",
+                "containedInPlace",
+                "Idaho"
+            ],
+            [
+                "Stanford_Graduate_School_of_Education",
+                "containedInPlace",
+                "Louisiana"
+            ]
+        ],
+        "score": "27.74343",
+        "rank": "1",
+        "new_score": "28.288635",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Hunan_University",
+            "location",
+            "Changsha"
+        ],
+        "rule": [
+            [
+                "Hudson_Taylor",
+                "affiliation",
+                "Hunan_University"
+            ],
+            [
+                "Hudson_Taylor",
+                "alumniOf",
+                "Hunan_University"
+            ],
+            [
+                "Hunan_University",
+                "founder",
+                "Hudson_Taylor"
+            ],
+            [
+                "Hunan_University",
+                "award",
+                "James_(name)"
+            ]
+        ],
+        "score": "28.107523",
+        "rank": "1",
+        "new_score": "27.668589",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Calliotropis",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Calliotropis"
+            ],
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Calliotropis"
+            ]
+        ],
+        "score": "18.398905",
+        "rank": "1",
+        "new_score": "18.809887",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Salesian_Pontifical_University",
+            "location",
+            "Rome"
+        ],
+        "rule": [
+            [
+                "Salesian_Pontifical_University",
+                "containedInPlace",
+                "Rome"
+            ]
+        ],
+        "score": "26.949211",
+        "rank": "1",
+        "new_score": "27.477478",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Cyrtodactylus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Cyrtodactylus"
+            ],
+            [
+                "Ceroxys",
+                "parentTaxon",
+                "Cyrtodactylus"
+            ]
+        ],
+        "score": "18.476776",
+        "rank": "1",
+        "new_score": "19.02293",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Pittsford,_New_York",
+            "location",
+            "Monroe_County,_New_York"
+        ],
+        "rule": [
+            [
+                "Alfred_University",
+                "containedInPlace",
+                "Pittsford,_New_York"
+            ],
+            [
+                "Alfred_University",
+                "location",
+                "Pittsford,_New_York"
+            ]
+        ],
+        "score": "26.299744",
+        "rank": "1",
+        "new_score": "24.960293",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Soledad_Silveyra",
+            "nationality",
+            "Argentina"
+        ],
+        "rule": [
+            [
+                "Alien_Autopsy_(film)",
+                "actor",
+                "Soledad_Silveyra"
+            ],
+            [
+                "Alien_Autopsy_(film)",
+                "musicBy",
+                "Soledad_Silveyra"
+            ],
+            [
+                "Alien_Autopsy_(film)",
+                "producer",
+                "Soledad_Silveyra"
+            ],
+            [
+                "Arroz_con_leche_(1950_film)",
+                "about",
+                "Soledad_Silveyra"
+            ]
+        ],
+        "score": "17.84206",
+        "rank": "1",
+        "new_score": "15.97133",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Salaberry-de-Valleyfield",
+            "location",
+            "Beauharnois-Salaberry_Regional_County_Municipality"
+        ],
+        "rule": [
+            [
+                "Mont\u00e9r\u00e9gie",
+                "containedInPlace",
+                "Salaberry-de-Valleyfield"
+            ],
+            [
+                "Mont\u00e9r\u00e9gie",
+                "containsPlace",
+                "Salaberry-de-Valleyfield"
+            ],
+            [
+                "Salaberry-de-Valleyfield",
+                "containedInPlace",
+                "Mont\u00e9r\u00e9gie"
+            ],
+            [
+                "Salaberry-de-Valleyfield",
+                "containsPlace",
+                "Mont\u00e9r\u00e9gie"
+            ]
+        ],
+        "score": "28.929636",
+        "rank": "1",
+        "new_score": "24.024136",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ipatinga",
+            "location",
+            "Minas_Gerais"
+        ],
+        "rule": [
+            [
+                "Abedi_(footballer)",
+                "birthPlace",
+                "Ipatinga"
+            ],
+            [
+                "Agnaldo_Cordeiro_Pereira",
+                "birthPlace",
+                "Ipatinga"
+            ],
+            [
+                "Alex_Dias",
+                "birthPlace",
+                "Ipatinga"
+            ],
+            [
+                "Alexandre_Pato",
+                "birthPlace",
+                "Ipatinga"
+            ]
+        ],
+        "score": "27.982414",
+        "rank": "1",
+        "new_score": "27.284098",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Bemidji_State_University",
+            "location",
+            "Bemidji,_Minnesota"
+        ],
+        "rule": [
+            [
+                "Brian_Paulson",
+                "alumniOf",
+                "Bemidji_State_University"
+            ],
+            [
+                "Bemidji_State_University",
+                "containedInPlace",
+                "Minnesota"
+            ],
+            [
+                "Bemidji_State_University",
+                "location",
+                "Minnesota"
+            ],
+            [
+                "A.B._Quintanilla",
+                "alumniOf",
+                "Bemidji_State_University"
+            ]
+        ],
+        "score": "30.014454",
+        "rank": "1",
+        "new_score": "26.03324",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_\u0141yszkowice",
+            "location",
+            "\u0141owicz_County"
+        ],
+        "rule": [
+            [
+                "Gmina_\u0141yszkowice",
+                "containedInPlace",
+                "Gmina_\u0141yszkowice"
+            ],
+            [
+                "Gmina_\u0141yszkowice",
+                "containedInPlace",
+                "\u0141\u00f3d\u017a_Voivodeship"
+            ],
+            [
+                "Gmina_\u0141yszkowice",
+                "containsPlace",
+                "Gmina_Bielawy"
+            ],
+            [
+                "Gmina_\u0141yszkowice",
+                "containsPlace",
+                "Gmina_Kiernozia"
+            ]
+        ],
+        "score": "29.658817",
+        "rank": "1",
+        "new_score": "28.299622",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "S\u0103laj_County",
+            "containsPlace",
+            "Zal\u0103u"
+        ],
+        "rule": [
+            [
+                "Alba_Iulia",
+                "containedInPlace",
+                "S\u0103laj_County"
+            ]
+        ],
+        "score": "26.39394",
+        "rank": "1",
+        "new_score": "26.642973",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Spittal_an_der_Drau",
+            "location",
+            "Spittal_an_der_Drau_District"
+        ],
+        "rule": [
+            [
+                "08%2F15_(film)",
+                "contentLocation",
+                "Spittal_an_der_Drau"
+            ],
+            [
+                "10,000_BC_(film)",
+                "contentLocation",
+                "Spittal_an_der_Drau"
+            ],
+            [
+                "10th_&_Wolf",
+                "contentLocation",
+                "Spittal_an_der_Drau"
+            ],
+            [
+                "11:14",
+                "contentLocation",
+                "Spittal_an_der_Drau"
+            ]
+        ],
+        "score": "28.768902",
+        "rank": "1",
+        "new_score": "27.951786",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Drohiczyn",
+            "location",
+            "Siemiatycze_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Drohiczyn",
+                "containedInPlace",
+                "Gmina_Drohiczyn"
+            ],
+            [
+                "Gmina_Drohiczyn",
+                "containsPlace",
+                "Gmina_Dziadkowice"
+            ],
+            [
+                "Gmina_Drohiczyn",
+                "containsPlace",
+                "Gmina_Mielnik"
+            ],
+            [
+                "Gmina_Drohiczyn",
+                "containsPlace",
+                "Gmina_Milejczyce"
+            ]
+        ],
+        "score": "28.194311",
+        "rank": "1",
+        "new_score": "28.484482",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "A\u00edda_Alberti",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "A\u00edda_Alberti",
+                "award",
+                "A._V._M._Rajan"
+            ]
+        ],
+        "score": "20.259066",
+        "rank": "1",
+        "new_score": "9.496511",
+        "new_rank": "12"
+    },
+    {
+        "triple_to_explain": [
+            "Tony_Wharmby",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule": [
+            [
+                "Tony_Wharmby",
+                "award",
+                "A._Jagannathan"
+            ]
+        ],
+        "score": "20.524975",
+        "rank": "1",
+        "new_score": "15.06206",
+        "new_rank": "6"
+    },
+    {
+        "triple_to_explain": [
+            "Nicolaj_Kopernikus",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "City_of_God_\u2013_10_Years_Later",
+                "about",
+                "Nicolaj_Kopernikus"
+            ]
+        ],
+        "score": "13.810875",
+        "rank": "1",
+        "new_score": "15.262746",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Riblja_\u010corba",
+            "genre",
+            "Hard_rock"
+        ],
+        "rule": [
+            [
+                "Bohemian_Rhapsody_(film)",
+                "musicBy",
+                "Riblja_\u010corba"
+            ]
+        ],
+        "score": "14.051923",
+        "rank": "1",
+        "new_score": "16.002401",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Dover-Foxcroft,_Maine",
+            "location",
+            "Piscataquis_County,_Maine"
+        ],
+        "rule": [
+            [
+                "Dover-Foxcroft,_Maine",
+                "containedInPlace",
+                "Maine"
+            ],
+            [
+                "A_Summer_Place_(film)",
+                "contentLocation",
+                "Dover-Foxcroft,_Maine"
+            ],
+            [
+                "Dover-Foxcroft,_Maine",
+                "containedInPlace",
+                "Cumberland_County,_Maine"
+            ]
+        ],
+        "score": "30.573526",
+        "rank": "1",
+        "new_score": "26.534887",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Streator,_Illinois",
+            "location",
+            "Illinois"
+        ],
+        "rule": [
+            [
+                "Adams_County,_Illinois",
+                "containedInPlace",
+                "Streator,_Illinois"
+            ],
+            [
+                "Alexander_County,_Illinois",
+                "containsPlace",
+                "Streator,_Illinois"
+            ],
+            [
+                "Boone_County,_Illinois",
+                "containedInPlace",
+                "Streator,_Illinois"
+            ],
+            [
+                "Casanova_Brown",
+                "contentLocation",
+                "Streator,_Illinois"
+            ]
+        ],
+        "score": "26.871998",
+        "rank": "1",
+        "new_score": "27.088",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Varkaus",
+            "location",
+            "Northern_Savonia"
+        ],
+        "rule": [
+            [
+                "Aki_Kaurism\u00e4ki",
+                "birthPlace",
+                "Varkaus"
+            ],
+            [
+                "Akseli_Gallen-Kallela",
+                "birthPlace",
+                "Varkaus"
+            ],
+            [
+                "Carl_Gustaf_Emil_Mannerheim",
+                "birthPlace",
+                "Varkaus"
+            ],
+            [
+                "Carl_Gustaf_Emil_Mannerheim",
+                "homeLocation",
+                "Varkaus"
+            ]
+        ],
+        "score": "29.091198",
+        "rank": "1",
+        "new_score": "27.748701",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Kannur_Rajan",
+            "nationality",
+            "British_Raj"
+        ],
+        "rule": [
+            [
+                "Kannur_Rajan",
+                "award",
+                "A._K._Ramanujan"
+            ],
+            [
+                "Kannur_Rajan",
+                "award",
+                "Abdus_Salam"
+            ]
+        ],
+        "score": "17.895433",
+        "rank": "1",
+        "new_score": "9.448913",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Lake_Superior_State_University",
+            "location",
+            "Michigan"
+        ],
+        "rule": [
+            [
+                "Lake_Superior_State_University",
+                "containedInPlace",
+                "Alpena_County,_Michigan"
+            ],
+            [
+                "Lake_Superior_State_University",
+                "containedInPlace",
+                "Arenac_County,_Michigan"
+            ],
+            [
+                "Lake_Superior_State_University",
+                "containedInPlace",
+                "Baraga_County,_Michigan"
+            ],
+            [
+                "Lake_Superior_State_University",
+                "containedInPlace",
+                "Barry_County,_Michigan"
+            ]
+        ],
+        "score": "26.513275",
+        "rank": "1",
+        "new_score": "27.323788",
+        "new_rank": "5"
+    },
+    {
+        "triple_to_explain": [
+            "Universidad_CEU_San_Pablo",
+            "location",
+            "Madrid"
+        ],
+        "rule": [
+            [
+                "Alberto_Closas",
+                "alumniOf",
+                "Universidad_CEU_San_Pablo"
+            ],
+            [
+                "Aldo_Sambrell",
+                "alumniOf",
+                "Universidad_CEU_San_Pablo"
+            ],
+            [
+                "Alfonso_XII_of_Spain",
+                "alumniOf",
+                "Universidad_CEU_San_Pablo"
+            ],
+            [
+                "Andr\u00e9s_Vicente_G\u00f3mez",
+                "alumniOf",
+                "Universidad_CEU_San_Pablo"
+            ]
+        ],
+        "score": "26.60687",
+        "rank": "1",
+        "new_score": "26.650536",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Sundeep_Kishan",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule": [
+            [
+                "City_of_God_\u2013_10_Years_Later",
+                "about",
+                "Sundeep_Kishan"
+            ]
+        ],
+        "score": "18.639885",
+        "rank": "1",
+        "new_score": "13.072775",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Evangel_University",
+            "location",
+            "Springfield,_Missouri"
+        ],
+        "rule": [
+            [
+                "Evangel_University",
+                "containedInPlace",
+                "Greene_County,_Missouri"
+            ],
+            [
+                "Evangel_University",
+                "founder",
+                "Brad_Pitt"
+            ],
+            [
+                "Evangel_University",
+                "founder",
+                "Brent_Huff"
+            ],
+            [
+                "Evangel_University",
+                "founder",
+                "Buddy_Baker_(composer)"
+            ]
+        ],
+        "score": "30.706322",
+        "rank": "1",
+        "new_score": "29.3512",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Robbinsville_Township,_New_Jersey",
+            "location",
+            "Mercer_County,_New_Jersey"
+        ],
+        "rule": [
+            [
+                "12_and_Holding",
+                "contentLocation",
+                "Robbinsville_Township,_New_Jersey"
+            ],
+            [
+                "A.I._Artificial_Intelligence",
+                "contentLocation",
+                "Robbinsville_Township,_New_Jersey"
+            ],
+            [
+                "A_Beautiful_Mind_(film)",
+                "contentLocation",
+                "Robbinsville_Township,_New_Jersey"
+            ],
+            [
+                "American_Hustle",
+                "contentLocation",
+                "Robbinsville_Township,_New_Jersey"
+            ]
+        ],
+        "score": "27.602654",
+        "rank": "1",
+        "new_score": "25.243624",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Slovak_University_of_Technology_in_Bratislava",
+            "location",
+            "Bratislava"
+        ],
+        "rule": [
+            [
+                "Arnold_Pressburger",
+                "alumniOf",
+                "Slovak_University_of_Technology_in_Bratislava"
+            ],
+            [
+                "Juraj_Nvota",
+                "alumniOf",
+                "Slovak_University_of_Technology_in_Bratislava"
+            ],
+            [
+                "Andreas_Wisniewski",
+                "alumniOf",
+                "Slovak_University_of_Technology_in_Bratislava"
+            ],
+            [
+                "David_Hasselhoff",
+                "alumniOf",
+                "Slovak_University_of_Technology_in_Bratislava"
+            ]
+        ],
+        "score": "28.731083",
+        "rank": "1",
+        "new_score": "27.9691",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Thetford_Mines",
+            "location",
+            "Les_Appalaches_Regional_County_Municipality"
+        ],
+        "rule": [
+            [
+                "Chaudi\u00e8re-Appalaches",
+                "containedInPlace",
+                "Thetford_Mines"
+            ],
+            [
+                "Chaudi\u00e8re-Appalaches",
+                "containsPlace",
+                "Thetford_Mines"
+            ],
+            [
+                "Thetford_Mines",
+                "containedInPlace",
+                "Chaudi\u00e8re-Appalaches"
+            ],
+            [
+                "Thetford_Mines",
+                "containedInPlace",
+                "Thetford_Mines"
+            ]
+        ],
+        "score": "29.873842",
+        "rank": "1",
+        "new_score": "22.580717",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Proteuxoa",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Calotes",
+                "parentTaxon",
+                "Proteuxoa"
+            ]
+        ],
+        "score": "17.827719",
+        "rank": "1",
+        "new_score": "18.89861",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Phyllosticta",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Calotes",
+                "parentTaxon",
+                "Phyllosticta"
+            ]
+        ],
+        "score": "14.981871",
+        "rank": "1",
+        "new_score": "17.979996",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Dokken",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule": [
+            [
+                "Bohemian_Rhapsody_(film)",
+                "musicBy",
+                "Dokken"
+            ]
+        ],
+        "score": "18.021305",
+        "rank": "1",
+        "new_score": "18.97698",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "University_of_New_Orleans",
+            "location",
+            "New_Orleans"
+        ],
+        "rule": [
+            [
+                "Alice_Lee_Moqu\u00e9",
+                "alumniOf",
+                "University_of_New_Orleans"
+            ],
+            [
+                "Anne_Rice",
+                "alumniOf",
+                "University_of_New_Orleans"
+            ],
+            [
+                "Anthony_Mackie",
+                "alumniOf",
+                "University_of_New_Orleans"
+            ],
+            [
+                "Bob_Clark",
+                "alumniOf",
+                "University_of_New_Orleans"
+            ]
+        ],
+        "score": "31.4887",
+        "rank": "1",
+        "new_score": "30.240774",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Horsham,_Victoria",
+            "containedInPlace",
+            "Electoral_district_of_Lowan"
+        ],
+        "rule": [
+            [
+                "Horsham,_Victoria",
+                "containedInPlace",
+                "Electoral_district_of_Mildura"
+            ]
+        ],
+        "score": "26.67649",
+        "rank": "1",
+        "new_score": "27.51551",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Chisocheton",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Anomala",
+                "parentTaxon",
+                "Chisocheton"
+            ],
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Chisocheton"
+            ]
+        ],
+        "score": "19.822323",
+        "rank": "1",
+        "new_score": "19.065327",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship",
+            "location",
+            "Aleksandr\u00f3w_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship",
+                "containedInPlace",
+                "Kuyavian-Pomeranian_Voivodeship"
+            ],
+            [
+                "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship",
+                "containsPlace",
+                "Gmina_B\u0105dkowo"
+            ],
+            [
+                "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship",
+                "containsPlace",
+                "Gmina_Koneck"
+            ],
+            [
+                "Bydgoszcz_County",
+                "containsPlace",
+                "Gmina_Zakrzewo,_Kuyavian-Pomeranian_Voivodeship"
+            ]
+        ],
+        "score": "30.045925",
+        "rank": "1",
+        "new_score": "28.168255",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Fort_Walton_Beach,_Florida",
+            "location",
+            "Okaloosa_County,_Florida"
+        ],
+        "rule": [
+            [
+                "Okaloosa_County,_Florida",
+                "containedInPlace",
+                "Fort_Walton_Beach,_Florida"
+            ],
+            [
+                "Alachua_County,_Florida",
+                "containedInPlace",
+                "Fort_Walton_Beach,_Florida"
+            ]
+        ],
+        "score": "29.45317",
+        "rank": "1",
+        "new_score": "20.979431",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Gniezno",
+            "location",
+            "Gniezno_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Gniezno",
+                "containedInPlace",
+                "Greater_Poland_Voivodeship"
+            ],
+            [
+                "Gmina_Gniezno",
+                "containsPlace",
+                "Gmina_K\u0142ecko"
+            ],
+            [
+                "Gmina_Gniezno",
+                "containsPlace",
+                "Gmina_Trzemeszno"
+            ],
+            [
+                "Gmina_Gniezno",
+                "containsPlace",
+                "Gmina_Witkowo"
+            ]
+        ],
+        "score": "28.432062",
+        "rank": "1",
+        "new_score": "29.740053",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Neelam_Kothari",
+            "knowsLanguage",
+            "Hindi"
+        ],
+        "rule": [
+            [
+                "Neelam_Kothari",
+                "award",
+                "Abbas_(actor)"
+            ]
+        ],
+        "score": "22.250557",
+        "rank": "1",
+        "new_score": "13.110874",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Sanremo_Casino",
+            "location",
+            "Sanremo"
+        ],
+        "rule": [
+            [
+                "Sanremo_Casino",
+                "containedInPlace",
+                "Acapulco"
+            ],
+            [
+                "Sanremo_Casino",
+                "containedInPlace",
+                "Adelaide"
+            ],
+            [
+                "Sanremo_Casino",
+                "containedInPlace",
+                "Allahabad"
+            ]
+        ],
+        "score": "29.39331",
+        "rank": "1",
+        "new_score": "27.584127",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Sebastes",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Sebastes"
+            ],
+            [
+                "Coptops",
+                "parentTaxon",
+                "Sebastes"
+            ]
+        ],
+        "score": "17.185284",
+        "rank": "1",
+        "new_score": "17.909317",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Jedlnia-Letnisko",
+            "location",
+            "Radom_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Jedlnia-Letnisko",
+                "containedInPlace",
+                "Gmina_Jedlnia-Letnisko"
+            ],
+            [
+                "Gmina_Jedlnia-Letnisko",
+                "containedInPlace",
+                "Masovian_Voivodeship"
+            ],
+            [
+                "Gmina_Jedlnia-Letnisko",
+                "containsPlace",
+                "Gmina_I\u0142\u017ca"
+            ],
+            [
+                "Gmina_Jedlnia-Letnisko",
+                "containsPlace",
+                "Gmina_Jedli\u0144sk"
+            ]
+        ],
+        "score": "29.029724",
+        "rank": "1",
+        "new_score": "28.433903",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pseudorhaphitoma",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Bulimulus",
+                "parentTaxon",
+                "Pseudorhaphitoma"
+            ],
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Pseudorhaphitoma"
+            ]
+        ],
+        "score": "19.244373",
+        "rank": "1",
+        "new_score": "18.974924",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Gozdowo",
+            "location",
+            "Sierpc_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Gozdowo",
+                "containsPlace",
+                "Gmina_Mochowo"
+            ],
+            [
+                "Gmina_Gozdowo",
+                "containsPlace",
+                "Gmina_Ro\u015bciszewo"
+            ],
+            [
+                "Gmina_Gozdowo",
+                "containsPlace",
+                "Gmina_Sierpc"
+            ]
+        ],
+        "score": "29.935059",
+        "rank": "1",
+        "new_score": "29.002827",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Pasadena,_Texas",
+            "location",
+            "Harris_County,_Texas"
+        ],
+        "rule": [
+            [
+                "Harris_County,_Texas",
+                "containedInPlace",
+                "Pasadena,_Texas"
+            ],
+            [
+                "Pasadena,_Texas",
+                "containsPlace",
+                "Harris_County,_Texas"
+            ],
+            [
+                "Pasadena,_Texas",
+                "containedInPlace",
+                "Texas"
+            ]
+        ],
+        "score": "27.652487",
+        "rank": "1",
+        "new_score": "22.66647",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "T._K._Rajeev_Kumar",
+            "nationality",
+            "India"
+        ],
+        "rule": [
+            [
+                "T._K._Rajeev_Kumar",
+                "birthPlace",
+                "India"
+            ],
+            [
+                "2012_(film)",
+                "producer",
+                "T._K._Rajeev_Kumar"
+            ]
+        ],
+        "score": "19.030815",
+        "rank": "1",
+        "new_score": "15.426906",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Corumb\u00e1",
+            "location",
+            "Mato_Grosso_do_Sul"
+        ],
+        "rule": [
+            [
+                "Acre_(state)",
+                "containsPlace",
+                "Corumb\u00e1"
+            ],
+            [
+                "Corumb\u00e1",
+                "containedInPlace",
+                "Acre_(state)"
+            ],
+            [
+                "Corumb\u00e1",
+                "containedInPlace",
+                "Minas_Gerais"
+            ],
+            [
+                "Corumb\u00e1",
+                "containedInPlace",
+                "Rio_Grande_do_Sul"
+            ]
+        ],
+        "score": "27.819641",
+        "rank": "1",
+        "new_score": "27.922655",
+        "new_rank": "4"
+    },
+    {
+        "triple_to_explain": [
+            "Rinteln",
+            "location",
+            "Schaumburg"
+        ],
+        "rule": [
+            [
+                "Celle_(district)",
+                "containsPlace",
+                "Rinteln"
+            ],
+            [
+                "Cuxhaven_(district)",
+                "containsPlace",
+                "Rinteln"
+            ],
+            [
+                "Goslar_(district)",
+                "containsPlace",
+                "Rinteln"
+            ],
+            [
+                "Holzminden_(district)",
+                "containsPlace",
+                "Rinteln"
+            ]
+        ],
+        "score": "28.463842",
+        "rank": "1",
+        "new_score": "29.077774",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "2010_Australian_Open",
+            "location",
+            "Melbourne_Park"
+        ],
+        "rule": [
+            [
+                "2010_Australian_Open",
+                "location",
+                "Darwin,_Northern_Territory"
+            ]
+        ],
+        "score": "22.607393",
+        "rank": "1",
+        "new_score": "24.607607",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Macrostomus",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Caelostomus",
+                "parentTaxon",
+                "Macrostomus"
+            ],
+            [
+                "Chrysendeton",
+                "parentTaxon",
+                "Macrostomus"
+            ]
+        ],
+        "score": "19.469318",
+        "rank": "1",
+        "new_score": "18.545172",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Ercheia",
+            "taxonRank",
+            "Genus"
+        ],
+        "rule": [
+            [
+                "Calotes",
+                "parentTaxon",
+                "Ercheia"
+            ]
+        ],
+        "score": "18.392712",
+        "rank": "1",
+        "new_score": "19.277946",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Gmina_Ruda_Maleniecka",
+            "location",
+            "Ko\u0144skie_County"
+        ],
+        "rule": [
+            [
+                "Gmina_Ruda_Maleniecka",
+                "containedInPlace",
+                "\u015awi\u0119tokrzyskie_Voivodeship"
+            ],
+            [
+                "Gmina_Ruda_Maleniecka",
+                "containsPlace",
+                "Gmina_Gowarcz\u00f3w"
+            ],
+            [
+                "Gmina_Ruda_Maleniecka",
+                "containsPlace",
+                "Gmina_St\u0105pork\u00f3w"
+            ],
+            [
+                "Gmina_Ruda_Maleniecka",
+                "containsPlace",
+                "Gmina_S\u0142upia_Konecka"
+            ]
+        ],
+        "score": "29.669212",
+        "rank": "1",
+        "new_score": "29.152527",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Rowing_at_the_2012_Summer_Olympics",
+            "superEvent",
+            "2012_Summer_Olympics"
+        ],
+        "rule": [
+            [
+                "1964_Summer_Olympics",
+                "subEvent",
+                "Rowing_at_the_2012_Summer_Olympics"
+            ],
+            [
+                "1972_Summer_Olympics",
+                "subEvent",
+                "Rowing_at_the_2012_Summer_Olympics"
+            ],
+            [
+                "1976_Summer_Olympics",
+                "subEvent",
+                "Rowing_at_the_2012_Summer_Olympics"
+            ],
+            [
+                "1984_Summer_Olympics",
+                "subEvent",
+                "Rowing_at_the_2012_Summer_Olympics"
+            ]
+        ],
+        "score": "32.33708",
+        "rank": "1",
+        "new_score": "29.343388",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Smithfield,_Virginia",
+            "location",
+            "Isle_of_Wight_County,_Virginia"
+        ],
+        "rule": [
+            [
+                "Smithfield,_Virginia",
+                "containedInPlace",
+                "Virginia"
+            ],
+            [
+                "Bedford_County,_Virginia",
+                "containsPlace",
+                "Smithfield,_Virginia"
+            ],
+            [
+                "Bink_(record_producer)",
+                "birthPlace",
+                "Smithfield,_Virginia"
+            ]
+        ],
+        "score": "26.973034",
+        "rank": "1",
+        "new_score": "26.474493",
+        "new_rank": "2"
+    },
+    {
+        "triple_to_explain": [
+            "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+            "sport",
+            "Badminton"
+        ],
+        "rule": [
+            [
+                "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+                "subEvent",
+                "1999_IBF_World_Championships_\u2013_Men's_Doubles"
+            ],
+            [
+                "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+                "subEvent",
+                "2001_IBF_World_Championships_\u2013_Women's_Doubles"
+            ],
+            [
+                "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+                "subEvent",
+                "2003_IBF_World_Championships_\u2013_Mixed_Doubles"
+            ]
+        ],
+        "score": "13.987665",
+        "rank": "1",
+        "new_score": "20.928162",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Frisco,_Texas",
+            "location",
+            "Texas"
+        ],
+        "rule": [
+            [
+                "A_Big_Hand_for_the_Little_Lady",
+                "contentLocation",
+                "Frisco,_Texas"
+            ],
+            [
+                "Apollo_13_(film)",
+                "contentLocation",
+                "Frisco,_Texas"
+            ],
+            [
+                "Bexar_County,_Texas",
+                "containedInPlace",
+                "Frisco,_Texas"
+            ],
+            [
+                "Bexar_County,_Texas",
+                "containsPlace",
+                "Frisco,_Texas"
+            ]
+        ],
+        "score": "27.92443",
+        "rank": "1",
+        "new_score": "25.11418",
+        "new_rank": "1"
+    },
+    {
+        "triple_to_explain": [
+            "Haparanda_Municipality",
+            "location",
+            "Norrbotten_County"
+        ],
+        "rule": [
+            [
+                "Adolf_Erik_Nordenski\u00f6ld",
+                "deathPlace",
+                "Haparanda_Municipality"
+            ],
+            [
+                "Aino_Taube",
+                "birthPlace",
+                "Haparanda_Municipality"
+            ],
+            [
+                "Aino_Taube",
+                "deathPlace",
+                "Haparanda_Municipality"
+            ],
+            [
+                "Alfred_Nobel",
+                "deathPlace",
+                "Haparanda_Municipality"
+            ]
+        ],
+        "score": "28.157896",
+        "rank": "1",
+        "new_score": "27.964443",
+        "new_rank": "1"
+    }
+]

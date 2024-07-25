@@ -1,0 +1,3562 @@
+[
+    {
+        "triple": [
+            "Halifax_R.L.F.C.",
+            "sport",
+            "Rugby_league"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Halifax_R.L.F.C.",
+                        "location",
+                        "Halifax,_West_Yorkshire"
+                    ]
+                ],
+                -0.0037695444278212915
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 13.893557071685791
+    },
+    {
+        "triple": [
+            "Prince_Charles_of_Hesse-Kassel",
+            "givenName",
+            "Karel_(given_name)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Prince_Charles_of_Hesse-Kassel",
+                        "birthPlace",
+                        "Kassel"
+                    ],
+                    [
+                        "Prince_Charles_of_Hesse-Kassel",
+                        "memberOf",
+                        "Illuminati"
+                    ]
+                ],
+                0.15210582584210447
+            ],
+            [
+                [
+                    [
+                        "Prince_Charles_of_Hesse-Kassel",
+                        "memberOf",
+                        "Illuminati"
+                    ]
+                ],
+                -0.007220189426450438
+            ],
+            [
+                [
+                    [
+                        "Prince_Charles_of_Hesse-Kassel",
+                        "birthPlace",
+                        "Kassel"
+                    ]
+                ],
+                -0.008936772522624264
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.944021940231323
+    },
+    {
+        "triple": [
+            "Bandu_Samarasinghe",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bandu_Samarasinghe",
+                        "birthPlace",
+                        "Sri_Lanka"
+                    ]
+                ],
+                -0.0009572466304918607
+            ],
+            [
+                [
+                    [
+                        "Bandu_Samarasinghe",
+                        "nationality",
+                        "Sri_Lanka"
+                    ]
+                ],
+                -0.007028925258183091
+            ],
+            [
+                [
+                    [
+                        "Bandu_Samarasinghe",
+                        "birthPlace",
+                        "Sri_Lanka"
+                    ],
+                    [
+                        "Bandu_Samarasinghe",
+                        "nationality",
+                        "Sri_Lanka"
+                    ]
+                ],
+                -0.05449741816908805
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.873733758926392
+    },
+    {
+        "triple": [
+            "Glay",
+            "genre",
+            "Rock_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Glay",
+                        "foundingLocation",
+                        "Hakodate"
+                    ]
+                ],
+                0.02755429876267856
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.186668634414673
+    },
+    {
+        "triple": [
+            "Luca_Signorelli",
+            "deathPlace",
+            "Cortona"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Luca_Signorelli",
+                        "knowsLanguage",
+                        "Italian_language"
+                    ]
+                ],
+                0.0320718365100117
+            ],
+            [
+                [
+                    [
+                        "Luca_Signorelli",
+                        "birthPlace",
+                        "Cortona"
+                    ]
+                ],
+                -0.017897199477052227
+            ],
+            [
+                [
+                    [
+                        "Luca_Signorelli",
+                        "birthPlace",
+                        "Cortona"
+                    ],
+                    [
+                        "Luca_Signorelli",
+                        "knowsLanguage",
+                        "Italian_language"
+                    ]
+                ],
+                -0.08344457441684443
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.816271781921387
+    },
+    {
+        "triple": [
+            "Dielsdorf_District",
+            "containsPlace",
+            "Dielsdorf"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dielsdorf_District",
+                        "containedInPlace",
+                        "Canton_of_Z\u00fcrich"
+                    ]
+                ],
+                0.2981977989511781
+            ],
+            [
+                [
+                    [
+                        "Dielsdorf",
+                        "location",
+                        "Dielsdorf_District"
+                    ],
+                    [
+                        "Dielsdorf_District",
+                        "containedInPlace",
+                        "Canton_of_Z\u00fcrich"
+                    ]
+                ],
+                0.2810768889873698
+            ],
+            [
+                [
+                    [
+                        "Dielsdorf",
+                        "location",
+                        "Dielsdorf_District"
+                    ]
+                ],
+                -0.03557869857448851
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.73679804801941
+    },
+    {
+        "triple": [
+            "Casimir_I_of_Kuyavia",
+            "hasOccupation",
+            "Aristocracy_(class)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Casimir_I_of_Kuyavia",
+                        "givenName",
+                        "Casimir"
+                    ]
+                ],
+                0.0055301054060359275
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.193691492080688
+    },
+    {
+        "triple": [
+            "Conrad_Wiene",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Conrad_Wiene",
+                        "birthPlace",
+                        "Vienna"
+                    ]
+                ],
+                0.1604298919701526
+            ],
+            [
+                [
+                    [
+                        "Conrad_Wiene",
+                        "birthPlace",
+                        "Vienna"
+                    ],
+                    [
+                        "Conrad_Wiene",
+                        "hasOccupation",
+                        "Film_director"
+                    ]
+                ],
+                -1.3112261944537253
+            ],
+            [
+                [
+                    [
+                        "Conrad_Wiene",
+                        "hasOccupation",
+                        "Film_director"
+                    ]
+                ],
+                -3.4932063704198684
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.842045068740845
+    },
+    {
+        "triple": [
+            "Eckernf\u00f6rde",
+            "location",
+            "Rendsburg-Eckernf\u00f6rde"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Eckernf\u00f6rde",
+                        "memberOf",
+                        "Climate_Alliance"
+                    ]
+                ],
+                0.2004084279505791
+            ],
+            [
+                [
+                    [
+                        "Eckernf\u00f6rde",
+                        "containedInPlace",
+                        "Rendsburg-Eckernf\u00f6rde"
+                    ],
+                    [
+                        "Eckernf\u00f6rde",
+                        "memberOf",
+                        "Climate_Alliance"
+                    ]
+                ],
+                0.06885822203008032
+            ],
+            [
+                [
+                    [
+                        "Eckernf\u00f6rde",
+                        "containedInPlace",
+                        "Rendsburg-Eckernf\u00f6rde"
+                    ]
+                ],
+                -0.004010330155407404
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.796857357025146
+    },
+    {
+        "triple": [
+            "Harald_Hardrada",
+            "nationality",
+            "Byzantine_Empire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Harald_Hardrada",
+                        "birthPlace",
+                        "Ringerike_(municipality)"
+                    ]
+                ],
+                0.031113512197348998
+            ],
+            [
+                [
+                    [
+                        "Civilization_VI",
+                        "character",
+                        "Harald_Hardrada"
+                    ]
+                ],
+                -0.0378094991706107
+            ],
+            [
+                [
+                    [
+                        "Civilization_VI",
+                        "character",
+                        "Harald_Hardrada"
+                    ],
+                    [
+                        "Harald_Hardrada",
+                        "birthPlace",
+                        "Ringerike_(municipality)"
+                    ]
+                ],
+                -0.10618465705893991
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.673109531402588
+    },
+    {
+        "triple": [
+            "Caesalpinieae",
+            "taxonRank",
+            "Tribe_(biology)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Caesalpinieae",
+                        "parentTaxon",
+                        "Caesalpinioideae"
+                    ]
+                ],
+                0.03969101206891439
+            ],
+            [
+                [
+                    [
+                        "Caesalpinieae",
+                        "parentTaxon",
+                        "Caesalpinioideae"
+                    ],
+                    [
+                        "Caesalpinia",
+                        "parentTaxon",
+                        "Caesalpinieae"
+                    ]
+                ],
+                -0.30716424991845326
+            ],
+            [
+                [
+                    [
+                        "Caesalpinia",
+                        "parentTaxon",
+                        "Caesalpinieae"
+                    ]
+                ],
+                -0.7473386116300448
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.882100582122803
+    },
+    {
+        "triple": [
+            "Lubin_Manufacturing_Company",
+            "foundingLocation",
+            "Philadelphia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lubin_Manufacturing_Company",
+                        "founder",
+                        "Siegmund_Lubin"
+                    ]
+                ],
+                0.000284920947388052
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.588865041732788
+    },
+    {
+        "triple": [
+            "Swimming_at_the_1936_Summer_Olympics",
+            "superEvent",
+            "1936_Summer_Olympics"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Swimming_at_the_1936_Summer_Olympics",
+                        "location",
+                        "Berlin"
+                    ]
+                ],
+                -0.2412270620235222
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.282756567001343
+    },
+    {
+        "triple": [
+            "Maria_de_la_Cerda_y_de_Lara",
+            "givenName",
+            "Maria_(given_name)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Maria_de_la_Cerda_y_de_Lara",
+                        "deathPlace",
+                        "Paris"
+                    ]
+                ],
+                0.0018493345556855182
+            ],
+            [
+                [
+                    [
+                        "Maria_de_la_Cerda_y_de_Lara",
+                        "deathPlace",
+                        "Paris"
+                    ],
+                    [
+                        "Maria_de_la_Cerda_y_de_Lara",
+                        "nationality",
+                        "Crown_of_Castile"
+                    ]
+                ],
+                -0.008614421648278697
+            ],
+            [
+                [
+                    [
+                        "Maria_de_la_Cerda_y_de_Lara",
+                        "nationality",
+                        "Crown_of_Castile"
+                    ]
+                ],
+                -0.017223574537139484
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.878815174102783
+    },
+    {
+        "triple": [
+            "Camel_(band)",
+            "genre",
+            "Space_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Camel_(band)",
+                        "foundingLocation",
+                        "Guildford"
+                    ]
+                ],
+                -0.14015669548689183
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.149472951889038
+    },
+    {
+        "triple": [
+            "Wichita_State_Shockers",
+            "sport",
+            "Baseball"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Wichita_State_Shockers",
+                        "sport",
+                        "Basketball"
+                    ]
+                ],
+                0.0047136204528792835
+            ],
+            [
+                [
+                    [
+                        "Wichita_State_Shockers",
+                        "sport",
+                        "American_football"
+                    ],
+                    [
+                        "Wichita_State_Shockers",
+                        "sport",
+                        "Basketball"
+                    ]
+                ],
+                0.0008415335529236837
+            ],
+            [
+                [
+                    [
+                        "Wichita_State_Shockers",
+                        "sport",
+                        "American_football"
+                    ]
+                ],
+                -4.64650427994672e-05
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.821610450744629
+    },
+    {
+        "triple": [
+            "Big_Brother_Brasil",
+            "isBasedOn",
+            "Big_Brother_(franchise)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Big_Brother_Brasil",
+                        "countryOfOrigin",
+                        "Brazil"
+                    ]
+                ],
+                -0.32750169033130494
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.194938659667969
+    },
+    {
+        "triple": [
+            "Winchester,_Kentucky",
+            "location",
+            "Clark_County,_Kentucky"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Winchester,_Kentucky",
+                        "containedInPlace",
+                        "Clark_County,_Kentucky"
+                    ]
+                ],
+                -0.1194404191283023
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.332470655441284
+    },
+    {
+        "triple": [
+            "The_Ex_(band)",
+            "genre",
+            "Art_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Ex_(band)",
+                        "award",
+                        "Buma_Cultuur_Pop_Award"
+                    ]
+                ],
+                0.0016038534276489702
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.418784379959106
+    },
+    {
+        "triple": [
+            "Dalbergieae",
+            "taxonRank",
+            "Tribe_(biology)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dalbergieae",
+                        "parentTaxon",
+                        "Faboideae"
+                    ]
+                ],
+                0.0054760840411265084
+            ],
+            [
+                [
+                    [
+                        "Dalbergieae",
+                        "parentTaxon",
+                        "Faboideae"
+                    ],
+                    [
+                        "Dalbergia",
+                        "parentTaxon",
+                        "Dalbergieae"
+                    ]
+                ],
+                -0.0006103641552903958
+            ],
+            [
+                [
+                    [
+                        "Dalbergia",
+                        "parentTaxon",
+                        "Dalbergieae"
+                    ]
+                ],
+                -0.4938533750558784
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.704061269760132
+    },
+    {
+        "triple": [
+            "Luise_Fleck",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Luise_Fleck",
+                        "birthPlace",
+                        "Vienna"
+                    ]
+                ],
+                0.14943649761595146
+            ],
+            [
+                [
+                    [
+                        "Luise_Fleck",
+                        "hasOccupation",
+                        "Film_director"
+                    ]
+                ],
+                -0.29652506863170064
+            ],
+            [
+                [
+                    [
+                        "Luise_Fleck",
+                        "birthPlace",
+                        "Vienna"
+                    ],
+                    [
+                        "Luise_Fleck",
+                        "hasOccupation",
+                        "Film_director"
+                    ]
+                ],
+                -0.4656480277416558
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.75895881652832
+    },
+    {
+        "triple": [
+            "U.D.O.",
+            "genre",
+            "Heavy_metal_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "U.D.O.",
+                        "foundingLocation",
+                        "Solingen"
+                    ]
+                ],
+                -0.10125031680324406
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.57263731956482
+    },
+    {
+        "triple": [
+            "Antonio_da_Correggio",
+            "givenName",
+            "Antonio"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Antonio_da_Correggio",
+                        "knowsLanguage",
+                        "Italian_language"
+                    ]
+                ],
+                0.02835972533632287
+            ],
+            [
+                [
+                    [
+                        "Antonio_da_Correggio",
+                        "knowsLanguage",
+                        "Italian_language"
+                    ],
+                    [
+                        "Antonio_da_Correggio",
+                        "birthPlace",
+                        "Correggio,_Emilia-Romagna"
+                    ]
+                ],
+                -0.5495550728699552
+            ],
+            [
+                [
+                    [
+                        "Antonio_da_Correggio",
+                        "birthPlace",
+                        "Correggio,_Emilia-Romagna"
+                    ]
+                ],
+                -1.2813025504484306
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.342376232147217
+    },
+    {
+        "triple": [
+            "Louis_Fan_(actor)",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Louis_Fan_(actor)",
+                        "birthPlace",
+                        "Hong_Kong"
+                    ]
+                ],
+                -0.014857112219183958
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.247746229171753
+    },
+    {
+        "triple": [
+            "Neutral_Bay,_New_South_Wales",
+            "containedInPlace",
+            "Division_of_Warringah"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Neutral_Bay,_New_South_Wales",
+                        "containedInPlace",
+                        "Division_of_North_Sydney"
+                    ]
+                ],
+                -0.266643709825528
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.170109510421753
+    },
+    {
+        "triple": [
+            "Kaizoku_Sentai_Gokaiger_the_Movie:_The_Flying_Ghost_Ship",
+            "actor",
+            "Kenji_Utsumi"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kaizoku_Sentai_Gokaiger_the_Movie:_The_Flying_Ghost_Ship",
+                        "countryOfOrigin",
+                        "Japan"
+                    ],
+                    [
+                        "Kaizoku_Sentai_Gokaiger_the_Movie:_The_Flying_Ghost_Ship",
+                        "actor",
+                        "Ichir\u014d_Nagai"
+                    ]
+                ],
+                0.008129254613178063
+            ],
+            [
+                [
+                    [
+                        "Kaizoku_Sentai_Gokaiger_the_Movie:_The_Flying_Ghost_Ship",
+                        "countryOfOrigin",
+                        "Japan"
+                    ]
+                ],
+                0.0007438883418247206
+            ],
+            [
+                [
+                    [
+                        "Kaizoku_Sentai_Gokaiger_the_Movie:_The_Flying_Ghost_Ship",
+                        "actor",
+                        "Ichir\u014d_Nagai"
+                    ]
+                ],
+                -0.0005940403305218992
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.788572788238525
+    },
+    {
+        "triple": [
+            "Savatage",
+            "genre",
+            "Progressive_metal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Savatage",
+                        "foundingLocation",
+                        "Florida"
+                    ]
+                ],
+                -0.0024275764067563056
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.310516834259033
+    },
+    {
+        "triple": [
+            "Neuss",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Neuss",
+                        "containedInPlace",
+                        "Rhein-Kreis_Neuss"
+                    ]
+                ],
+                -0.5310663308144417
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.284452676773071
+    },
+    {
+        "triple": [
+            "Yellowstone_National_Park",
+            "containedInPlace",
+            "Montana"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yellowstone_National_Park",
+                        "containedInPlace",
+                        "Idaho"
+                    ]
+                ],
+                -4.802094522019334
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.287401676177979
+    },
+    {
+        "triple": [
+            "Bebu_Silvetti",
+            "hasOccupation",
+            "Pianist"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bebu_Silvetti",
+                        "birthPlace",
+                        "Quilmes"
+                    ],
+                    [
+                        "Bebu_Silvetti",
+                        "deathPlace",
+                        "Coral_Gables,_Florida"
+                    ]
+                ],
+                0.3195091693635383
+            ],
+            [
+                [
+                    [
+                        "Bebu_Silvetti",
+                        "birthPlace",
+                        "Quilmes"
+                    ]
+                ],
+                0.007696871628910464
+            ],
+            [
+                [
+                    [
+                        "Bebu_Silvetti",
+                        "deathPlace",
+                        "Coral_Gables,_Florida"
+                    ]
+                ],
+                -0.03508629989212513
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.716044425964355
+    },
+    {
+        "triple": [
+            "Dharamshala",
+            "containedInPlace",
+            "Kangra_district"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "14th_Dalai_Lama",
+                        "homeLocation",
+                        "Dharamshala"
+                    ]
+                ],
+                -0.021476185875760796
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.143134117126465
+    },
+    {
+        "triple": [
+            "Y\u0131lmaz_Erdo\u011fan",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Y\u0131lmaz_Erdo\u011fan",
+                        "alumniOf",
+                        "Istanbul_Technical_University"
+                    ]
+                ],
+                -0.279102959511779
+            ],
+            [
+                [
+                    [
+                        "The_Water_Diviner",
+                        "actor",
+                        "Y\u0131lmaz_Erdo\u011fan"
+                    ]
+                ],
+                -0.31821313734497014
+            ],
+            [
+                [
+                    [
+                        "The_Water_Diviner",
+                        "actor",
+                        "Y\u0131lmaz_Erdo\u011fan"
+                    ],
+                    [
+                        "Y\u0131lmaz_Erdo\u011fan",
+                        "alumniOf",
+                        "Istanbul_Technical_University"
+                    ]
+                ],
+                -0.3501706148697421
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.85176682472229
+    },
+    {
+        "triple": [
+            "Little_Feat",
+            "genre",
+            "Hard_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Little_Feat",
+                        "foundingLocation",
+                        "Los_Angeles"
+                    ]
+                ],
+                -0.07588856188805253
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.195329427719116
+    },
+    {
+        "triple": [
+            "Horsham,_Victoria",
+            "containedInPlace",
+            "Electoral_district_of_Lowan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Horsham,_Victoria",
+                        "containedInPlace",
+                        "Division_of_Mallee"
+                    ]
+                ],
+                -0.020631151727660516
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.606985569000244
+    },
+    {
+        "triple": [
+            "Mangifera_indica",
+            "taxonRank",
+            "Species"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Mangifera_indica",
+                        "parentTaxon",
+                        "Mangifera"
+                    ]
+                ],
+                -0.07125041569670768
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.902142763137817
+    },
+    {
+        "triple": [
+            "Saran_(director)",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Saran_(director)",
+                        "birthPlace",
+                        "Coimbatore"
+                    ]
+                ],
+                -0.28561347987854424
+            ],
+            [
+                [
+                    [
+                        "Saran_(director)",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                -2.6219689518025917
+            ],
+            [
+                [
+                    [
+                        "Saran_(director)",
+                        "birthPlace",
+                        "Coimbatore"
+                    ],
+                    [
+                        "Saran_(director)",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                -2.9899285805927382
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.908135414123535
+    },
+    {
+        "triple": [
+            "Ibagu\u00e9",
+            "location",
+            "Tolima_Department"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ibagu\u00e9",
+                        "containedInPlace",
+                        "Tolima_Department"
+                    ]
+                ],
+                -0.2138518952144007
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.10015058517456
+    },
+    {
+        "triple": [
+            "Small_Isles",
+            "containedInPlace",
+            "Inner_Hebrides"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Small_Isles",
+                        "containedInPlace",
+                        "Highland_(council_area)"
+                    ]
+                ],
+                -0.0017830785308725772
+            ],
+            [
+                [
+                    [
+                        "Small_Isles",
+                        "containedInPlace",
+                        "Highland_(council_area)"
+                    ],
+                    [
+                        "Small_Isles",
+                        "containedInPlace",
+                        "Inverness-shire"
+                    ]
+                ],
+                -0.011328743656873202
+            ],
+            [
+                [
+                    [
+                        "Small_Isles",
+                        "containedInPlace",
+                        "Inverness-shire"
+                    ]
+                ],
+                -0.030926446663865455
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.89708161354065
+    },
+    {
+        "triple": [
+            "Candlemass_(band)",
+            "genre",
+            "Doom_metal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Candlemass_(band)",
+                        "foundingLocation",
+                        "Stockholm"
+                    ]
+                ],
+                -0.04936682144364711
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.25420618057251
+    },
+    {
+        "triple": [
+            "Biha\u0107",
+            "containedInPlace",
+            "Una-Sana_Canton"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Biha\u0107",
+                        "containedInPlace",
+                        "Federation_of_Bosnia_and_Herzegovina"
+                    ]
+                ],
+                -0.1730411657874254
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.184153318405151
+    },
+    {
+        "triple": [
+            "Canton_of_Cavaillon",
+            "containsPlace",
+            "Cavaillon"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Canton_of_Cavaillon",
+                        "containedInPlace",
+                        "Arrondissement_of_Apt"
+                    ]
+                ],
+                0.03571884539049896
+            ],
+            [
+                [
+                    [
+                        "Cavaillon",
+                        "containedInPlace",
+                        "Canton_of_Cavaillon"
+                    ],
+                    [
+                        "Canton_of_Cavaillon",
+                        "containedInPlace",
+                        "Arrondissement_of_Apt"
+                    ]
+                ],
+                -0.016185192492949082
+            ],
+            [
+                [
+                    [
+                        "Cavaillon",
+                        "containedInPlace",
+                        "Canton_of_Cavaillon"
+                    ]
+                ],
+                -0.020804559012987615
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.535257577896118
+    },
+    {
+        "triple": [
+            "Hans_Holbein_the_Younger",
+            "deathPlace",
+            "London"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Hans_Holbein_the_Younger",
+                        "nationality",
+                        "Germany"
+                    ]
+                ],
+                0.003960259564000339
+            ],
+            [
+                [
+                    [
+                        "Hans_Holbein_the_Younger",
+                        "birthPlace",
+                        "Augsburg"
+                    ]
+                ],
+                -0.017489821019594537
+            ],
+            [
+                [
+                    [
+                        "Hans_Holbein_the_Younger",
+                        "nationality",
+                        "Germany"
+                    ],
+                    [
+                        "Hans_Holbein_the_Younger",
+                        "birthPlace",
+                        "Augsburg"
+                    ]
+                ],
+                -0.02281257952328442
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.018455028533936
+    },
+    {
+        "triple": [
+            "Qian_Yuanguan",
+            "familyName",
+            "Qian_(surname)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Qian_Yuanguan",
+                        "deathPlace",
+                        "Hangzhou"
+                    ]
+                ],
+                0.014400145639905333
+            ],
+            [
+                [
+                    [
+                        "Qian_Yuanguan",
+                        "birthPlace",
+                        "Hangzhou"
+                    ]
+                ],
+                -0.019776685478487772
+            ],
+            [
+                [
+                    [
+                        "Qian_Yuanguan",
+                        "birthPlace",
+                        "Hangzhou"
+                    ],
+                    [
+                        "Qian_Yuanguan",
+                        "deathPlace",
+                        "Hangzhou"
+                    ]
+                ],
+                -0.10402937071424237
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.955783605575562
+    },
+    {
+        "triple": [
+            "Pink_Friday:_Roman_Reloaded",
+            "producer",
+            "Alex_da_Kid"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pink_Friday:_Roman_Reloaded",
+                        "genre",
+                        "Hip_hop_music"
+                    ]
+                ],
+                0.06956027293404093
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.213953971862793
+    },
+    {
+        "triple": [
+            "Slayer",
+            "genre",
+            "Thrash_metal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Slayer",
+                        "foundingLocation",
+                        "Huntington_Park,_California"
+                    ]
+                ],
+                0.012086520706937484
+            ],
+            [
+                [
+                    [
+                        "Slayer",
+                        "genre",
+                        "Speed_metal"
+                    ]
+                ],
+                -0.0070746504879978895
+            ],
+            [
+                [
+                    [
+                        "Slayer",
+                        "genre",
+                        "Speed_metal"
+                    ],
+                    [
+                        "Slayer",
+                        "foundingLocation",
+                        "Huntington_Park,_California"
+                    ]
+                ],
+                -0.010176734370878395
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.919687747955322
+    },
+    {
+        "triple": [
+            "James_A._Contner",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "James_A._Contner",
+                        "givenName",
+                        "James_(name)"
+                    ],
+                    [
+                        "James_A._Contner",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                0.7230536134482233
+            ],
+            [
+                [
+                    [
+                        "James_A._Contner",
+                        "givenName",
+                        "James_(name)"
+                    ]
+                ],
+                0.039774170066530105
+            ],
+            [
+                [
+                    [
+                        "James_A._Contner",
+                        "nationality",
+                        "United_States"
+                    ]
+                ],
+                -0.4153730256809602
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.955600261688232
+    },
+    {
+        "triple": [
+            "SoftBank_Group",
+            "memberOf",
+            "World_Wide_Web_Consortium"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "SoftBank_Group",
+                        "memberOf",
+                        "FIDO_Alliance"
+                    ]
+                ],
+                -0.0054671666605987795
+            ],
+            [
+                [
+                    [
+                        "SoftBank_Group",
+                        "memberOf",
+                        "Wi-Fi_Alliance"
+                    ]
+                ],
+                -0.0655635247145059
+            ],
+            [
+                [
+                    [
+                        "SoftBank_Group",
+                        "memberOf",
+                        "FIDO_Alliance"
+                    ],
+                    [
+                        "SoftBank_Group",
+                        "memberOf",
+                        "Wi-Fi_Alliance"
+                    ]
+                ],
+                -0.12402155313649106
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.860517263412476
+    },
+    {
+        "triple": [
+            "Ciego_de_\u00c1vila",
+            "location",
+            "Ciego_de_\u00c1vila_Province"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Ciego_de_\u00c1vila",
+                        "containedInPlace",
+                        "Ciego_de_\u00c1vila_Province"
+                    ]
+                ],
+                -0.1391559829059829
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.466946125030518
+    },
+    {
+        "triple": [
+            "Canton_of_La_Conca-d'Oro",
+            "containedInPlace",
+            "Haute-Corse"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Arrondissement_of_Calvi",
+                        "containsPlace",
+                        "Canton_of_La_Conca-d'Oro"
+                    ]
+                ],
+                -0.011379670760386726
+            ],
+            [
+                [
+                    [
+                        "Arrondissement_of_Calvi",
+                        "containsPlace",
+                        "Canton_of_La_Conca-d'Oro"
+                    ],
+                    [
+                        "Canton_of_La_Conca-d'Oro",
+                        "containedInPlace",
+                        "Arrondissement_of_Calvi"
+                    ]
+                ],
+                -0.5158217925267834
+            ],
+            [
+                [
+                    [
+                        "Canton_of_La_Conca-d'Oro",
+                        "containedInPlace",
+                        "Arrondissement_of_Calvi"
+                    ]
+                ],
+                -1.0946302586882675
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.15441370010376
+    },
+    {
+        "triple": [
+            "Yasunori_Mitsuda",
+            "hasOccupation",
+            "Pianist"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Yasunori_Mitsuda",
+                        "givenName",
+                        "Yasunori"
+                    ]
+                ],
+                0.05600104139546993
+            ],
+            [
+                [
+                    [
+                        "Yasunori_Mitsuda",
+                        "birthPlace",
+                        "Sh\u016bnan"
+                    ]
+                ],
+                0.0017964071856287425
+            ],
+            [
+                [
+                    [
+                        "Yasunori_Mitsuda",
+                        "birthPlace",
+                        "Sh\u016bnan"
+                    ],
+                    [
+                        "Yasunori_Mitsuda",
+                        "givenName",
+                        "Yasunori"
+                    ]
+                ],
+                -0.0005883884405102838
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 13.025720119476318
+    },
+    {
+        "triple": [
+            "Lochalsh",
+            "containedInPlace",
+            "Ross_and_Cromarty"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Lochalsh",
+                        "containedInPlace",
+                        "Highland_(council_area)"
+                    ]
+                ],
+                -0.018483797734280584
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.180383920669556
+    },
+    {
+        "triple": [
+            "Poco",
+            "genre",
+            "Country_music"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Poco",
+                        "foundingLocation",
+                        "Los_Angeles"
+                    ]
+                ],
+                -0.2383383397839524
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.118297338485718
+    },
+    {
+        "triple": [
+            "The_Late_Late_Show_with_Craig_Ferguson",
+            "creator",
+            "David_Letterman"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "The_Late_Late_Show_with_Craig_Ferguson",
+                        "inLanguage",
+                        "English_language"
+                    ]
+                ],
+                0.4472879801650647
+            ],
+            [
+                [
+                    [
+                        "The_Late_Late_Show_with_Craig_Ferguson",
+                        "countryOfOrigin",
+                        "United_States"
+                    ],
+                    [
+                        "The_Late_Late_Show_with_Craig_Ferguson",
+                        "inLanguage",
+                        "English_language"
+                    ]
+                ],
+                0.3954929864483918
+            ],
+            [
+                [
+                    [
+                        "The_Late_Late_Show_with_Craig_Ferguson",
+                        "countryOfOrigin",
+                        "United_States"
+                    ]
+                ],
+                -0.07888122813571986
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.167968988418579
+    },
+    {
+        "triple": [
+            "Seiji_Kameda",
+            "birthPlace",
+            "New_York_City"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Seiji_Kameda",
+                        "alumniOf",
+                        "Waseda_University"
+                    ]
+                ],
+                0.21018046439304458
+            ],
+            [
+                [
+                    [
+                        "Seiji_Kameda",
+                        "nationality",
+                        "Japan"
+                    ]
+                ],
+                -0.10522105766786777
+            ],
+            [
+                [
+                    [
+                        "Seiji_Kameda",
+                        "nationality",
+                        "Japan"
+                    ],
+                    [
+                        "Seiji_Kameda",
+                        "alumniOf",
+                        "Waseda_University"
+                    ]
+                ],
+                -0.29997906792458473
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.643712997436523
+    },
+    {
+        "triple": [
+            "Procol_Harum",
+            "genre",
+            "Progressive_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Procol_Harum",
+                        "foundingLocation",
+                        "Southend-on-Sea"
+                    ]
+                ],
+                -0.09874240042425046
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.143401861190796
+    },
+    {
+        "triple": [
+            "Die_Fantastischen_Vier",
+            "foundingLocation",
+            "Stuttgart"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Die_Fantastischen_Vier",
+                        "award",
+                        "Bambi_Award"
+                    ]
+                ],
+                0.04246248929595294
+            ],
+            [
+                [
+                    [
+                        "Die_Fantastischen_Vier",
+                        "award",
+                        "Bambi_Award"
+                    ],
+                    [
+                        "Die_Fantastischen_Vier",
+                        "genre",
+                        "Hip_hop_music"
+                    ]
+                ],
+                -0.07218561127865272
+            ],
+            [
+                [
+                    [
+                        "Die_Fantastischen_Vier",
+                        "genre",
+                        "Hip_hop_music"
+                    ]
+                ],
+                -0.1274371098452412
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.834484100341797
+    },
+    {
+        "triple": [
+            "Grand_Valley_State_University",
+            "memberOf",
+            "Digital_Library_Federation"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Grand_Valley_State_University",
+                        "location",
+                        "Michigan"
+                    ]
+                ],
+                0.6026385370634025
+            ],
+            [
+                [
+                    [
+                        "Grand_Valley_State_University",
+                        "containedInPlace",
+                        "Michigan"
+                    ],
+                    [
+                        "Grand_Valley_State_University",
+                        "location",
+                        "Michigan"
+                    ]
+                ],
+                0.04059501137141061
+            ],
+            [
+                [
+                    [
+                        "Grand_Valley_State_University",
+                        "containedInPlace",
+                        "Michigan"
+                    ]
+                ],
+                -0.003300482591572213
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.725841760635376
+    },
+    {
+        "triple": [
+            "Pearl_White",
+            "nationality",
+            "United_States"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -0.4625002670288086
+            ],
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "deathPlace",
+                        "Neuilly-sur-Seine"
+                    ]
+                ],
+                -0.997500228881836
+            ],
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "deathPlace",
+                        "Neuilly-sur-Seine"
+                    ],
+                    [
+                        "Pearl_White",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -28.2975
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.797463655471802
+    },
+    {
+        "triple": [
+            "Prince_Fushimi_Kuniie",
+            "nationality",
+            "Japan"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Prince_Fushimi_Kuniie",
+                        "nationality",
+                        "Tokugawa_shogunate"
+                    ]
+                ],
+                0.0593107698256383
+            ],
+            [
+                [
+                    [
+                        "Prince_Fushimi_Kuniie",
+                        "nationality",
+                        "Empire_of_Japan"
+                    ]
+                ],
+                0.030359235853502337
+            ],
+            [
+                [
+                    [
+                        "Prince_Fushimi_Kuniie",
+                        "nationality",
+                        "Empire_of_Japan"
+                    ],
+                    [
+                        "Prince_Fushimi_Kuniie",
+                        "nationality",
+                        "Tokugawa_shogunate"
+                    ]
+                ],
+                -0.10191640788313054
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.22119951248169
+    },
+    {
+        "triple": [
+            "Madison,_Indiana",
+            "location",
+            "Jefferson_County,_Indiana"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Madison,_Indiana",
+                        "containedInPlace",
+                        "Jefferson_County,_Indiana"
+                    ]
+                ],
+                -0.057103107366588426
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.494359493255615
+    },
+    {
+        "triple": [
+            "Cusco",
+            "containedInPlace",
+            "Department_of_Cuzco"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cusco",
+                        "containedInPlace",
+                        "Peru"
+                    ]
+                ],
+                0.361995626772353
+            ],
+            [
+                [
+                    [
+                        "Cusco",
+                        "containedInPlace",
+                        "Cusco_Province"
+                    ]
+                ],
+                -0.11673613721001742
+            ],
+            [
+                [
+                    [
+                        "Cusco",
+                        "containedInPlace",
+                        "Cusco_Province"
+                    ],
+                    [
+                        "Cusco",
+                        "containedInPlace",
+                        "Peru"
+                    ]
+                ],
+                -0.4031654651679251
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.961758852005005
+    },
+    {
+        "triple": [
+            "Dina_Gralla",
+            "deathPlace",
+            "Berlin"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Dina_Gralla",
+                        "birthPlace",
+                        "Warsaw"
+                    ]
+                ],
+                0.010998287252263273
+            ],
+            [
+                [
+                    [
+                        "Dina_Gralla",
+                        "knowsLanguage",
+                        "German_language"
+                    ]
+                ],
+                -0.31912160508930754
+            ],
+            [
+                [
+                    [
+                        "Dina_Gralla",
+                        "birthPlace",
+                        "Warsaw"
+                    ],
+                    [
+                        "Dina_Gralla",
+                        "knowsLanguage",
+                        "German_language"
+                    ]
+                ],
+                -0.8965133349645217
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.829147100448608
+    },
+    {
+        "triple": [
+            "Pearl_White",
+            "hasOccupation",
+            "Stage_actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                0.02713455752671439
+            ],
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "deathPlace",
+                        "Neuilly-sur-Seine"
+                    ]
+                ],
+                -3.6310820624546116e-05
+            ],
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "deathPlace",
+                        "Neuilly-sur-Seine"
+                    ],
+                    [
+                        "Pearl_White",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                -6.743438115987136e-05
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.79383897781372
+    },
+    {
+        "triple": [
+            "Houston_Cougars",
+            "sport",
+            "Basketball"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Houston_Cougars",
+                        "sport",
+                        "American_football"
+                    ]
+                ],
+                -0.006872035411318522
+            ],
+            [
+                [
+                    [
+                        "Houston_Cougars",
+                        "sport",
+                        "Softball"
+                    ]
+                ],
+                -0.01223866721600693
+            ],
+            [
+                [
+                    [
+                        "Houston_Cougars",
+                        "sport",
+                        "American_football"
+                    ],
+                    [
+                        "Houston_Cougars",
+                        "sport",
+                        "Softball"
+                    ]
+                ],
+                -0.02023579374385954
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.780620098114014
+    },
+    {
+        "triple": [
+            "MasterChef_(American_TV_series)",
+            "genre",
+            "Cooking_show"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "MasterChef_(American_TV_series)",
+                        "inLanguage",
+                        "English_language"
+                    ]
+                ],
+                0.028679587718228976
+            ],
+            [
+                [
+                    [
+                        "MasterChef_(American_TV_series)",
+                        "countryOfOrigin",
+                        "United_States"
+                    ]
+                ],
+                0.01378110059187626
+            ],
+            [
+                [
+                    [
+                        "MasterChef_(American_TV_series)",
+                        "countryOfOrigin",
+                        "United_States"
+                    ],
+                    [
+                        "MasterChef_(American_TV_series)",
+                        "inLanguage",
+                        "English_language"
+                    ]
+                ],
+                -0.1127070551108583
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.138028144836426
+    },
+    {
+        "triple": [
+            "Jos\u00e9_Rizal_University",
+            "location",
+            "Mandaluyong"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jos\u00e9_Rizal_University",
+                        "containedInPlace",
+                        "Mandaluyong"
+                    ]
+                ],
+                -0.03042020527905616
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.488240957260132
+    },
+    {
+        "triple": [
+            "Bad_T\u00f6lz",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bad_T\u00f6lz",
+                        "containedInPlace",
+                        "Bad_T\u00f6lz-Wolfratshausen"
+                    ]
+                ],
+                -0.1608
+            ],
+            [
+                [
+                    [
+                        "Bad_T\u00f6lz-Wolfratshausen",
+                        "containsPlace",
+                        "Bad_T\u00f6lz"
+                    ]
+                ],
+                -0.3528000244140625
+            ],
+            [
+                [
+                    [
+                        "Bad_T\u00f6lz",
+                        "containedInPlace",
+                        "Bad_T\u00f6lz-Wolfratshausen"
+                    ],
+                    [
+                        "Bad_T\u00f6lz-Wolfratshausen",
+                        "containsPlace",
+                        "Bad_T\u00f6lz"
+                    ]
+                ],
+                -0.699999951171875
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.873083114624023
+    },
+    {
+        "triple": [
+            "Bandar_Lampung",
+            "containedInPlace",
+            "South_Sumatra"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bandar_Lampung",
+                        "containedInPlace",
+                        "Lampung"
+                    ]
+                ],
+                -0.02208253552353119
+            ],
+            [
+                [
+                    [
+                        "Lampung",
+                        "containsPlace",
+                        "Bandar_Lampung"
+                    ]
+                ],
+                -0.03609039604958178
+            ],
+            [
+                [
+                    [
+                        "Bandar_Lampung",
+                        "containedInPlace",
+                        "Lampung"
+                    ],
+                    [
+                        "Lampung",
+                        "containsPlace",
+                        "Bandar_Lampung"
+                    ]
+                ],
+                -0.26973949410460546
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.83713674545288
+    },
+    {
+        "triple": [
+            "Bruce_Coville",
+            "hasOccupation",
+            "Writer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bruce_Coville",
+                        "birthPlace",
+                        "Syracuse,_New_York"
+                    ]
+                ],
+                -0.0004743734100671421
+            ],
+            [
+                [
+                    [
+                        "Bruce_Coville",
+                        "givenName",
+                        "Bruce"
+                    ]
+                ],
+                -0.006583885900162643
+            ],
+            [
+                [
+                    [
+                        "Bruce_Coville",
+                        "birthPlace",
+                        "Syracuse,_New_York"
+                    ],
+                    [
+                        "Bruce_Coville",
+                        "givenName",
+                        "Bruce"
+                    ]
+                ],
+                -0.006875807998665499
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.538419723510742
+    },
+    {
+        "triple": [
+            "King_Saud_University",
+            "founder",
+            "Saud_of_Saudi_Arabia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "King_Saud_University",
+                        "containedInPlace",
+                        "Riyadh"
+                    ]
+                ],
+                -0.0017689962987154366
+            ],
+            [
+                [
+                    [
+                        "King_Saud_University",
+                        "containedInPlace",
+                        "Riyadh"
+                    ],
+                    [
+                        "King_Saud_University",
+                        "location",
+                        "Riyadh"
+                    ]
+                ],
+                -0.007037883736120183
+            ],
+            [
+                [
+                    [
+                        "King_Saud_University",
+                        "location",
+                        "Riyadh"
+                    ]
+                ],
+                -0.01884933594600479
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.839307069778442
+    },
+    {
+        "triple": [
+            "Nobuhiko_Obayashi",
+            "hasOccupation",
+            "Screenwriter"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nobuhiko_Obayashi",
+                        "alumniOf",
+                        "Seijo_University"
+                    ]
+                ],
+                0.9099956414354206
+            ],
+            [
+                [
+                    [
+                        "Nobuhiko_Obayashi",
+                        "hasOccupation",
+                        "Film_producer"
+                    ]
+                ],
+                -0.46481185529565594
+            ]
+        ],
+        "#relevances": 2,
+        "execution_time": 11.534147262573242
+    },
+    {
+        "triple": [
+            "S._M._Subbaiah_Naidu",
+            "nationality",
+            "India"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "S._M._Subbaiah_Naidu",
+                        "nationality",
+                        "British_Raj"
+                    ]
+                ],
+                0.005601288662489671
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.054549932479858
+    },
+    {
+        "triple": [
+            "Rodez",
+            "location",
+            "Arrondissement_of_Rodez"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Rodez",
+                        "location",
+                        "Aveyron"
+                    ]
+                ],
+                0.289517004341534
+            ],
+            [
+                [
+                    [
+                        "Rodez",
+                        "containedInPlace",
+                        "Arrondissement_of_Rodez"
+                    ]
+                ],
+                -0.032679088277858176
+            ],
+            [
+                [
+                    [
+                        "Rodez",
+                        "containedInPlace",
+                        "Arrondissement_of_Rodez"
+                    ],
+                    [
+                        "Rodez",
+                        "location",
+                        "Aveyron"
+                    ]
+                ],
+                -0.1514019536903039
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.825541257858276
+    },
+    {
+        "triple": [
+            "Kothanda_Ramaiah",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Kothanda_Ramaiah",
+                        "alumniOf",
+                        "M.G.R._Government_Film_and_Television_Training_Institute"
+                    ]
+                ],
+                -0.25977361958065326
+            ],
+            [
+                [
+                    [
+                        "Kothanda_Ramaiah",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                -1.481643137582491
+            ],
+            [
+                [
+                    [
+                        "Kothanda_Ramaiah",
+                        "alumniOf",
+                        "M.G.R._Government_Film_and_Television_Training_Institute"
+                    ],
+                    [
+                        "Kothanda_Ramaiah",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                -2.9579609055216776
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.846282958984375
+    },
+    {
+        "triple": [
+            "Texarkana,_Arkansas",
+            "location",
+            "Miller_County,_Arkansas"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Texarkana,_Arkansas",
+                        "containedInPlace",
+                        "Miller_County,_Arkansas"
+                    ]
+                ],
+                -0.17344980699288218
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.11050271987915
+    },
+    {
+        "triple": [
+            "Nobuhiko_Obayashi",
+            "birthPlace",
+            "Onomichi,_Hiroshima"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Nobuhiko_Obayashi",
+                        "alumniOf",
+                        "Seijo_University"
+                    ],
+                    [
+                        "Nobuhiko_Obayashi",
+                        "hasOccupation",
+                        "Film_producer"
+                    ]
+                ],
+                0.017969001888443647
+            ],
+            [
+                [
+                    [
+                        "Nobuhiko_Obayashi",
+                        "alumniOf",
+                        "Seijo_University"
+                    ]
+                ],
+                -0.004174151351849293
+            ],
+            [
+                [
+                    [
+                        "Nobuhiko_Obayashi",
+                        "hasOccupation",
+                        "Film_producer"
+                    ]
+                ],
+                -0.009643728985306988
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.861574411392212
+    },
+    {
+        "triple": [
+            "Alexander_City,_Alabama",
+            "location",
+            "Tallapoosa_County,_Alabama"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alexander_City,_Alabama",
+                        "containedInPlace",
+                        "Tallapoosa_County,_Alabama"
+                    ]
+                ],
+                -0.3692081747476419
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.145644903182983
+    },
+    {
+        "triple": [
+            "Jan_van_Eyck",
+            "deathPlace",
+            "Bruges"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Jan_van_Eyck",
+                        "worksFor",
+                        "Philip_the_Good"
+                    ]
+                ],
+                0.07004997103128621
+            ],
+            [
+                [
+                    [
+                        "Jan_van_Eyck",
+                        "birthPlace",
+                        "Prince-Bishopric_of_Li\u00e8ge"
+                    ]
+                ],
+                0.04133473348783314
+            ],
+            [
+                [
+                    [
+                        "Jan_van_Eyck",
+                        "worksFor",
+                        "Philip_the_Good"
+                    ],
+                    [
+                        "Jan_van_Eyck",
+                        "birthPlace",
+                        "Prince-Bishopric_of_Li\u00e8ge"
+                    ]
+                ],
+                -0.056832995365005794
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.699055433273315
+    },
+    {
+        "triple": [
+            "Girvan",
+            "containedInPlace",
+            "South_Ayrshire"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Girvan",
+                        "containedInPlace",
+                        "Ayrshire"
+                    ]
+                ],
+                0.00030638901729754134
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.242530822753906
+    },
+    {
+        "triple": [
+            "Cerambycinae",
+            "taxonRank",
+            "Subfamily"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Cerambycinae",
+                        "parentTaxon",
+                        "Longhorn_beetle"
+                    ]
+                ],
+                -0.10259747452370403
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.811639785766602
+    },
+    {
+        "triple": [
+            "By\u00e5sen_IL",
+            "sport",
+            "Handball"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "By\u00e5sen_IL",
+                        "sport",
+                        "Association_football"
+                    ]
+                ],
+                -0.24111735224088715
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.067801713943481
+    },
+    {
+        "triple": [
+            "Enrique_Cahen_Salaberry",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Enrique_Cahen_Salaberry",
+                        "birthPlace",
+                        "Argentina"
+                    ]
+                ],
+                0.1399164054336468
+            ],
+            [
+                [
+                    [
+                        "Enrique_Cahen_Salaberry",
+                        "givenName",
+                        "Enrique"
+                    ]
+                ],
+                -7.8090909090909095
+            ],
+            [
+                [
+                    [
+                        "Enrique_Cahen_Salaberry",
+                        "birthPlace",
+                        "Argentina"
+                    ],
+                    [
+                        "Enrique_Cahen_Salaberry",
+                        "givenName",
+                        "Enrique"
+                    ]
+                ],
+                -10.75350052246604
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.83667254447937
+    },
+    {
+        "triple": [
+            "Vaucluse,_New_South_Wales",
+            "containedInPlace",
+            "Municipality_of_Woollahra"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Vaucluse,_New_South_Wales",
+                        "containedInPlace",
+                        "Division_of_Wentworth"
+                    ]
+                ],
+                0.0221018593371059
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.207475185394287
+    },
+    {
+        "triple": [
+            "Prince_Charles_of_Hesse-Kassel",
+            "children",
+            "Princess_Louise_Caroline_of_Hesse-Kassel"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Prince_Charles_of_Hesse-Kassel",
+                        "memberOf",
+                        "Illuminati"
+                    ]
+                ],
+                0.08594412370301587
+            ],
+            [
+                [
+                    [
+                        "Prince_Charles_of_Hesse-Kassel",
+                        "birthPlace",
+                        "Kassel"
+                    ],
+                    [
+                        "Prince_Charles_of_Hesse-Kassel",
+                        "memberOf",
+                        "Illuminati"
+                    ]
+                ],
+                0.02249788041503492
+            ],
+            [
+                [
+                    [
+                        "Prince_Charles_of_Hesse-Kassel",
+                        "birthPlace",
+                        "Kassel"
+                    ]
+                ],
+                0.006187169445678065
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 9.80464506149292
+    },
+    {
+        "triple": [
+            "M._K._Thyagaraja_Bhagavathar",
+            "hasOccupation",
+            "Actor"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "M._K._Thyagaraja_Bhagavathar",
+                        "deathPlace",
+                        "Chennai"
+                    ]
+                ],
+                -0.011257976908772258
+            ],
+            [
+                [
+                    [
+                        "M._K._Thyagaraja_Bhagavathar",
+                        "knowsLanguage",
+                        "Tamil_language"
+                    ]
+                ],
+                -0.2418090358141464
+            ],
+            [
+                [
+                    [
+                        "M._K._Thyagaraja_Bhagavathar",
+                        "deathPlace",
+                        "Chennai"
+                    ],
+                    [
+                        "M._K._Thyagaraja_Bhagavathar",
+                        "knowsLanguage",
+                        "Tamil_language"
+                    ]
+                ],
+                -0.28158320735280346
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.920308589935303
+    },
+    {
+        "triple": [
+            "Alphons_Joseph",
+            "birthPlace",
+            "Thrissur"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Alphons_Joseph",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                0.15104075659619082
+            ],
+            [
+                [
+                    [
+                        "Alphons_Joseph",
+                        "alumniOf",
+                        "St._Thomas_College,_Thrissur"
+                    ],
+                    [
+                        "Alphons_Joseph",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                0.09355342477721475
+            ],
+            [
+                [
+                    [
+                        "Alphons_Joseph",
+                        "alumniOf",
+                        "St._Thomas_College,_Thrissur"
+                    ]
+                ],
+                0.002069500262100297
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.527936220169067
+    },
+    {
+        "triple": [
+            "Gong_(band)",
+            "genre",
+            "Progressive_rock"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Gong_(band)",
+                        "foundingLocation",
+                        "Paris"
+                    ]
+                ],
+                -0.023337371290127196
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 10.661732196807861
+    },
+    {
+        "triple": [
+            "K._C._Bokadia",
+            "hasOccupation",
+            "Film_producer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "K._C._Bokadia",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                0.18642299888549138
+            ],
+            [
+                [
+                    [
+                        "K._C._Bokadia",
+                        "hasOccupation",
+                        "Film_director"
+                    ],
+                    [
+                        "K._C._Bokadia",
+                        "nationality",
+                        "India"
+                    ]
+                ],
+                -0.1204383733889635
+            ],
+            [
+                [
+                    [
+                        "K._C._Bokadia",
+                        "hasOccupation",
+                        "Film_director"
+                    ]
+                ],
+                -0.15695996342125568
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.805298805236816
+    },
+    {
+        "triple": [
+            "Pearl_White",
+            "familyName",
+            "White_(surname)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "deathPlace",
+                        "Neuilly-sur-Seine"
+                    ]
+                ],
+                0.6643128357103167
+            ],
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "hasOccupation",
+                        "Actor"
+                    ],
+                    [
+                        "Pearl_White",
+                        "deathPlace",
+                        "Neuilly-sur-Seine"
+                    ]
+                ],
+                0.21997129097981108
+            ],
+            [
+                [
+                    [
+                        "Pearl_White",
+                        "hasOccupation",
+                        "Actor"
+                    ]
+                ],
+                0.07573161696610484
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.97936224937439
+    },
+    {
+        "triple": [
+            "Bad_Honnef",
+            "memberOf",
+            "Mayors_for_Peace"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bad_Honnef",
+                        "containedInPlace",
+                        "Rhein-Sieg-Kreis"
+                    ]
+                ],
+                -0.23812816966343936
+            ],
+            [
+                [
+                    [
+                        "Bad_Honnef",
+                        "containedInPlace",
+                        "Rhein-Sieg-Kreis"
+                    ],
+                    [
+                        "Bad_Honnef",
+                        "location",
+                        "Rhein-Sieg-Kreis"
+                    ]
+                ],
+                -0.43130474873213465
+            ],
+            [
+                [
+                    [
+                        "Bad_Honnef",
+                        "location",
+                        "Rhein-Sieg-Kreis"
+                    ]
+                ],
+                -1.475564776394652
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 12.780097246170044
+    },
+    {
+        "triple": [
+            "Canton,_Mississippi",
+            "location",
+            "Madison_County,_Mississippi"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Canton,_Mississippi",
+                        "containedInPlace",
+                        "Madison_County,_Mississippi"
+                    ]
+                ],
+                -0.2074773554953777
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.303610801696777
+    },
+    {
+        "triple": [
+            "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+            "location",
+            "Gold_Coast,_Queensland"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Badminton_at_the_2018_Commonwealth_Games_\u2013_Women's_singles",
+                        "competitor",
+                        "Michelle_Li"
+                    ]
+                ],
+                -0.00014988319447602902
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.281427383422852
+    },
+    {
+        "triple": [
+            "MasterChef_(American_TV_series)",
+            "creator",
+            "Franc_Roddam"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "MasterChef_(American_TV_series)",
+                        "inLanguage",
+                        "English_language"
+                    ],
+                    [
+                        "MasterChef_(American_TV_series)",
+                        "countryOfOrigin",
+                        "United_States"
+                    ]
+                ],
+                0.4287639303663777
+            ],
+            [
+                [
+                    [
+                        "MasterChef_(American_TV_series)",
+                        "countryOfOrigin",
+                        "United_States"
+                    ]
+                ],
+                0.003896860659916964
+            ],
+            [
+                [
+                    [
+                        "MasterChef_(American_TV_series)",
+                        "inLanguage",
+                        "English_language"
+                    ]
+                ],
+                -0.0556122077354505
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.933770179748535
+    },
+    {
+        "triple": [
+            "Bedford,_Virginia",
+            "location",
+            "Bedford_County,_Virginia"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Bedford,_Virginia",
+                        "containedInPlace",
+                        "Bedford_County,_Virginia"
+                    ]
+                ],
+                -0.764249169733417
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 9.420993328094482
+    },
+    {
+        "triple": [
+            "Natalia_Verbeke",
+            "givenName",
+            "Natalia_(given_name)"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Natalia_Verbeke",
+                        "knowsLanguage",
+                        "Spanish_language"
+                    ]
+                ],
+                0.24959730405663177
+            ],
+            [
+                [
+                    [
+                        "Natalia_Verbeke",
+                        "givenName",
+                        "Carolina_(name)"
+                    ]
+                ],
+                -0.04884277902589971
+            ],
+            [
+                [
+                    [
+                        "Natalia_Verbeke",
+                        "givenName",
+                        "Carolina_(name)"
+                    ],
+                    [
+                        "Natalia_Verbeke",
+                        "knowsLanguage",
+                        "Spanish_language"
+                    ]
+                ],
+                -0.4414289347632572
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.06151008605957
+    },
+    {
+        "triple": [
+            "Inter_Milan_Women",
+            "sponsor",
+            "Konami"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Inter_Milan_Women",
+                        "parentOrganization",
+                        "Inter_Milan"
+                    ]
+                ],
+                0.05526278452277195
+            ],
+            [
+                [
+                    [
+                        "Inter_Milan",
+                        "subOrganization",
+                        "Inter_Milan_Women"
+                    ]
+                ],
+                0.02708920282951943
+            ],
+            [
+                [
+                    [
+                        "Inter_Milan",
+                        "subOrganization",
+                        "Inter_Milan_Women"
+                    ],
+                    [
+                        "Inter_Milan_Women",
+                        "parentOrganization",
+                        "Inter_Milan"
+                    ]
+                ],
+                -0.22991872225712953
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.058743953704834
+    },
+    {
+        "triple": [
+            "Martin_Birch",
+            "hasOccupation",
+            "Audio_engineer"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Martin_Birch",
+                        "birthPlace",
+                        "United_Kingdom"
+                    ]
+                ],
+                -0.0014207246223724517
+            ],
+            [
+                [
+                    [
+                        "Martin_Birch",
+                        "birthPlace",
+                        "United_Kingdom"
+                    ],
+                    [
+                        "Martin_Birch",
+                        "familyName",
+                        "Birch_(surname)"
+                    ]
+                ],
+                -0.0028256047322277383
+            ],
+            [
+                [
+                    [
+                        "Martin_Birch",
+                        "familyName",
+                        "Birch_(surname)"
+                    ]
+                ],
+                -0.01612443223830147
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.13938570022583
+    },
+    {
+        "triple": [
+            "John_Llewellyn_Moxey",
+            "hasOccupation",
+            "Film_director"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "John_Llewellyn_Moxey",
+                        "hasOccupation",
+                        "Television_director"
+                    ]
+                ],
+                0.5523061812114851
+            ],
+            [
+                [
+                    [
+                        "John_Llewellyn_Moxey",
+                        "birthPlace",
+                        "Argentina"
+                    ]
+                ],
+                -0.03956432819353623
+            ],
+            [
+                [
+                    [
+                        "John_Llewellyn_Moxey",
+                        "birthPlace",
+                        "Argentina"
+                    ],
+                    [
+                        "John_Llewellyn_Moxey",
+                        "hasOccupation",
+                        "Television_director"
+                    ]
+                ],
+                -0.23744651650924356
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 10.650554895401001
+    },
+    {
+        "triple": [
+            "Raymond_Menmuir",
+            "nationality",
+            "United_Kingdom"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "Raymond_Menmuir",
+                        "hasOccupation",
+                        "Television_director"
+                    ]
+                ],
+                -0.2692378449408673
+            ]
+        ],
+        "#relevances": 1,
+        "execution_time": 11.17245101928711
+    },
+    {
+        "triple": [
+            "HammerFall",
+            "genre",
+            "Speed_metal"
+        ],
+        "rule_to_relevance": [
+            [
+                [
+                    [
+                        "HammerFall",
+                        "foundingLocation",
+                        "Gothenburg"
+                    ]
+                ],
+                0.21279335610401057
+            ],
+            [
+                [
+                    [
+                        "HammerFall",
+                        "genre",
+                        "Power_metal"
+                    ]
+                ],
+                -0.047150451740855005
+            ],
+            [
+                [
+                    [
+                        "HammerFall",
+                        "genre",
+                        "Power_metal"
+                    ],
+                    [
+                        "HammerFall",
+                        "foundingLocation",
+                        "Gothenburg"
+                    ]
+                ],
+                -0.2813119766416924
+            ]
+        ],
+        "#relevances": 3,
+        "execution_time": 11.614632368087769
+    }
+]
